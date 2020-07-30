@@ -996,7 +996,7 @@ WIZINFO
 -
 INFO
 0
-271
+275
 \?
 -
 INFO
@@ -1111,7 +1111,7 @@ CLANTALK
 -
 WIZINFO
 0
-386
+393
 \?
 -
 WIZINFO
@@ -3471,7 +3471,7 @@ WIZINFO
 -
 CLANTALK
 0
-153
+158
 \?
 -
 CLANTALK
@@ -4133,3 +4133,83 @@ WIZINFO
 386
 1596114419674
 0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+154
+1596118200213
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+387
+1596118200336
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+155
+1596118500850
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+388
+1596118500892
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+156
+1596118957363
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+389
+1596118957429
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+157
+1596121075312
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+390
+1596121075354
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+INFO
+272
+1596121214299
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just been created.'^</CHANNEL^>^?^.
+-
+WIZINFO
+391
+1596122428629
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.
+-
+INFO
+273
+1596122428701
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+392
+1596123032652
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.
+-
+INFO
+274
+1596123032663
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+275
+1596123340647
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+158
+1596124119505
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+393
+1596124119512
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.

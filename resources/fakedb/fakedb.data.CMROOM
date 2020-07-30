@@ -453,175 +453,175 @@ Silver Ford
 Outside an Adventure House 
 This old house has been remodeled to act as a training area for young adventurers. A sign marks this location as Zilor Fice Adventure House #2. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#14
 StoneRoom
 ZFAAhouse2
 Corner of a confining hallway 
 This constricted hallway runs east and west. To the south is Corner of a confining hallway.  You hear dreary screams of suffering in the distance. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#24
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 This damp corridor seems to head north, south, and west. Something indescribable makes you feel lonesome and sad here. You feel still. To the north is A captivating corridor. To the south is a guard station. To the west is a cold pit. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#15
 StoneRoom
 ZFAAhouse2
 Corner of a confining hallway 
 This musty hallway runs steeply north and south. To the east is Corner of a confining hallway.  The black ceiling is too far above you to see clearly. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#3
 CaveRoom
 ZFAAhouse2
 the laundry room 
 You have found the laundry room. It`s stinks of mold and soap in here. Maybe you should keep your visit here brief. The exit is to the west 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#4
 StoneRoom
 ZFAAhouse2
 a private beautiful cell 
 This is a wide illuminated solitary prisoner`s holding suite. Life here is illuminated and beautiful. The way out of here is south. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 ZFAAhouse2#17
 StoneRoom
 ZFAAhouse2
 A confining hallway 
 This dark hallway heads east and west. There is an exit to the north.  You hear lonely sounds coming from all around you. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#13
 CaveRoom
 ZFAAhouse2
 a cold pit 
 You`re inside a harsh pit. A pit holds prisoners in a large hole surrounded by bars. The walls here are narrow. The way out of here is east. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 ZFAAhouse2#16
 StoneRoom
 ZFAAhouse2
 Corner of a confining hallway 
 You are walking through a quiet hallway running around. To the north is Corner of a confining hallway. There is an exit to the east.  You can hear the gloomy sounds of human suffering. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#21
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 You are standing  in a large corridor that branches north, south, east, and west. This place is cracked. The roomy ceiling is too far above you to see clearly. To the north is A captivating corridor. To the south is a guard station. To the east is a damp solitary cell. To the west is a smelly solitary cell. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#19
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 You are in a ghastly corridor running north, south, east, and west. The floor has bits of bones and rotten flesh. Something indescribable makes you feel lonesome and sad here. To the north is a ghastly torture chamber. There is an exit to the south. To the east is the laundry room. To the west is A captivating corridor. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#5
 CaveRoom
 ZFAAhouse2
 a guard station 
 You are in a guard station. The exit is to the east 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#9
 CaveRoom
 ZFAAhouse2
 a smelly solitary cell 
 This is a cramped unpleasant solitary cell. This room is unilluminated and small. This place is craggy. The way out of here is east. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 ZFAAhouse2#22
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 This dour corridor branches steeply north, south, east, and west. You feel wet. You might have just stepped on a frog. To the north is a large quiet cage. There is an exit to the south. To the east is A captivating corridor. To the west is a large nasty cage. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#11
 CaveRoom
 ZFAAhouse2
 a guard station 
 This is a guard station. The exit is to the north 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#10
 CaveRoom
 ZFAAhouse2
 a ghastly torture chamber 
 This is a musty room obviously meant for pain. This wet room of suffering makes you feel sinister. You can hear the scary sounds of human suffering. The exit is to the south. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#20
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 You are standing  in an uneven corridor that branches north, south, east, and west. The moldy ceiling is too far above you to see clearly. The walls are rough. To the north is A captivating corridor. There is an exit to the south. To the east is an unpleasant solitary cell. To the west is a guard station. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#12
 CaveRoom
 ZFAAhouse2
 a guard station 
 You are standing in a guard station. The exit is to the north 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#0
 StoneRoom
 ZFAAhouse2
 Corner of a confining hallway 
 This huge hallway runs east and west. There is an exit to the north.  The floor is constricted and appears unscathed by mass footfall. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#18
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 This still corridor seems to head north, south, east, and west. You are certain you just heard a harsh scream coming from somewhere. You hear grim tortured screams in the distance. To the north is a private beautiful cell. To the south is A confining hallway. There is an exit to the east. There is an exit to the west. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#1
 CaveRoom
 ZFAAhouse2
 a guard station 
 This is a guard station. The exit is to the east 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#8
 CaveRoom
 ZFAAhouse2
 a large nasty cage 
 This is a broad crowded unpleasant cell for common prisoners. The nasty bars make this room like a cage. Something indescribable makes you feel lonesome and sad here. The exit to the east is the only way out. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 ZFAAhouse2#7
 CaveRoom
 ZFAAhouse2
 an unpleasant solitary cell 
 This is a constricted wet cell for solitary confinement. Everything here is totally dim. You wonder if an execution occurred here. The way out of here is west. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 ZFAAhouse2#2
 CaveRoom
 ZFAAhouse2
 a damp solitary cell 
 This is a small scary cell for solitary confinement. This grim is unilluminated room. You might have just stepped on a frog. Escape is to the west. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 ZFAAhouse2#23
 StoneRoom
 ZFAAhouse2
 A captivating corridor 
 This spacious corridor runs north, south, and west. A series of undecipherable scribbles sit on the walls. You think you heard a sound of faint trickling in the distance. To the north is A captivating corridor. There is an exit to the south. To the west is a guard station. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 ZFAAhouse2#6
 CaveRoom
 ZFAAhouse2
@@ -1573,3 +1573,213 @@ Silver Ford
 a quiet wooded footpath 
 You are traipsing through a quiet wooded footpath near the haunted forest. Lofty trees curve over the footpath like a canopy, blocking out most of the sky.  The footpath runs around. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#24
+CaveRoom
+Adventure House Den
+A dark cave tube 
+You are walking through a chilling tube running east and west. To the north is a common room.  Something indescribable makes you feel lonesome and sad here. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#1
+CaveRoom
+Adventure House Den
+a kitchen 
+You are standing in a nasty kobold kitchen. Splatter and mess are everywhere you look.  You do not feel sanitary here. You think you smell brimstone. chilling air hovers around you. The stinky hole you came through is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#9
+CaveRoom
+Adventure House Den
+A cavernous hallway 
+This uneven hallway heads east and west. To the south is the throne room.  A series of undecipherable scribbles sit on the walls. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#28
+CaveRoom
+Adventure House Den
+Corner of a dark cave tube 
+You are walking through a constricted tube running east and west. There is an exit to the north.  There are several menacing stalagtites and stalagmites to navigate around. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#22
+CaveRoom
+Adventure House Den
+A narrow dark cave tube 
+This grey tube seems to head north and south. The grey ceiling is very low. Dust has settled on the ground from scarce use. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Adventure House Den#6
+CaveRoom
+Adventure House Den
+Intersection in a cavernous passageway 
+You stand in a narrow passageway that runs steeply east and west. There is an exit to the north. To the south is A cavernous passageway.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#18
+CaveRoom
+Adventure House Den
+A dark cave tube 
+This tight tube heads east and west.  A series of undecipherable scribbles sit on the walls. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#15
+CaveRoom
+Adventure House Den
+A dark cave tube 
+You are in a constricted tube running east and west. To the south is A cavernous passageway.  This air is moldy and dark. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#29
+CaveRoom
+Adventure House Den
+A dark cave tube 
+This black tube runs steeply north and south.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#25
+CaveRoom
+Adventure House Den
+A dark cave tube 
+You are in an uneven tube running north and south. There is an exit to the east. To the west is A dark cave tube.  You feel chilling. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#3
+CaveRoom
+Adventure House Den
+the throne room 
+You`re inside the nasty kobold throne room.  Plain and boring for the most part.  This place seems like any other kobold room.  You feel still. The stinky hole you came through is to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#21
+CaveRoom
+Adventure House Den
+A dark cave tube 
+This spacious tube seems to head east and west. To the north is A dark cave tube. There is an exit to the south.  This place is still. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#13
+CaveRoom
+Adventure House Den
+A narrow dark cave tube 
+You are going through a dark tube running north and south. The uneven ceiling is very low. You feel still. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Adventure House Den#4
+CaveRoom
+Adventure House Den
+a common room 
+You`re inside an eerie kobold common room.  Clutter and junk are everywhere you look.  This place seems downright crazy.  You feel wet. The way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#14
+CaveRoom
+Adventure House Den
+Corner of a dark cave tube 
+This dark tube runs steeply east and west. To the south is A narrow dark cave tube.  The walls are expansive. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#5
+CaveRoom
+Adventure House Den
+A cavernous passageway 
+You stand in a quiet passageway that runs steeply north and south.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#23
+CaveRoom
+Adventure House Den
+Corner of a dark cave tube 
+This chilling tube runs steeply north and south. There is an exit to the east.  Something indescribable makes you feel lonesome and sad here. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#17
+CaveRoom
+Adventure House Den
+A dark cave tube 
+You are walking through a moldy tube running east and west. To the south is A small cavernous passageway.  A series of undecipherable scribbles sit on the walls. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#0
+CaveRoom
+Adventure House Den
+A dark cave tube 
+This constricted tube runs east and west. There is an exit to the north. There is an exit to the south.  The spacious walls are tall and sheer. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#19
+CaveRoom
+Adventure House Den
+Corner of a dark cave tube 
+You stand in a cracked tube that runs steeply east and west. There is an exit to the south.  It looks like something might have died here. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#8
+CaveRoom
+Adventure House Den
+Intersection in a cavernous hallway 
+This constricted hallway runs steeply east and west. There is an exit to the north. There is an exit to the south.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#27
+CaveRoom
+Adventure House Den
+A narrow dark cave tube 
+This cold tube seems to head north and south. The uneven ceiling is very low. The small floor is bare and dirtless. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Adventure House Den#16
+CaveRoom
+Adventure House Den
+A dark cave tube 
+This cold tube runs steeply east and west. To the south is a kobold nursery.  There are several menacing stalagtites and stalagmites to navigate around. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#11
+CaveRoom
+Adventure House Den
+A corridor 
+This roomy corridor seems to head north and south.  You thought you felt a breeze. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#2
+CaveRoom
+Adventure House Den
+a kobold nursery 
+You`ve found a spacious kobold nursery. Conditions here are smooth and quiet. It is just astonishing that kobolds live past this age.  A musty, dank smell wafts through the air. You might have just stepped on a frog. The exit to the north is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#7
+CaveRoom
+Adventure House Den
+A small cavernous passageway 
+You are going through a jagged passageway running north and south. The cracked ceiling is lower than usual. You thought you felt a breeze. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Adventure House Den#26
+CaveRoom
+Adventure House Den
+A dark cave tube 
+This rough tube runs steeply east and west.  The roomy ceiling is too far above you to see clearly. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#12
+CaveRoom
+Adventure House Den
+A cavernous passageway 
+You are walking through a black passageway running north and south.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#20
+CaveRoom
+Adventure House Den
+A dark cave tube 
+You stand in a dark tube that runs steeply north and south.  There are several menacing stalagtites and stalagmites to navigate around. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#10
+CaveRoom
+Adventure House Den
+A rocky east-west tube 
+This chilling tube heads east and west. To the north is a kitchen.  The huge walls are tall and sheer. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 

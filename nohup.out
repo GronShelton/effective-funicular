@@ -21910,3 +21910,90 @@ java.net.BindException: Address already in use (Bind failed)
 20200730.0606.59 info  Worker0#3      74.110.125.186 BlowTorch CMP ANSI, character login: Erranoth
 20200730.0608.22 info  Worker0#8      Connection from 185.176.221.168
 20200730.0608.27 info  Worker0#3      Disconnect: 185.176.221.168 (5s)
+20200730.0710.00 info  Worker0#6      Logout: Erranoth (1h 3m)
+20200730.0710.00 info  Worker0#6      Disconnect: Erranoth: 74.110.125.186 (1h 3m)
+20200730.0714.54 info  Worker0#3      Connection from 74.110.125.186
+20200730.0715.00 info  Worker0#8      74.110.125.186 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
+20200730.0721.50 info  Worker0#6      Connection from 74.110.125.186
+20200730.0722.37 info  Worker0#7      74.110.125.186 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Gron
+20200730.0732.45 info  Worker0#5      Connection from 219.77.140.253
+20200730.0737.23 info  Items          Ermiel created item GenFurniture.
+20200730.0737.59 info  CreateEdit     Ermiel modified item a torch (GenFurniture) in AdventureHousePrison#0.
+20200730.0739.15 info  CreateEdit     Ermiel modified item a torch (GenFurniture) in AdventureHousePrison#0.
+20200730.0739.20 info  SysopUtils     Ermiel 1 copied GenFurniture item.
+20200730.0739.34 info  SysopUtils     Ermiel 1 copied GenFurniture item.
+20200730.0739.37 error Worker0#1      Race Elf has unknown cultural ability RegionalAwareness
+20200730.0739.37 error Worker0#1      Race Elf has unknown cultural ability RegionalAwareness
+20200730.0739.43 info  SysopUtils     Ermiel 1 copied GenFurniture item.
+20200730.0740.22 info  Worker0#3      Disconnect: 219.77.140.253 (7m)
+20200730.0740.41 info  Rooms          Ermiel modified area AdventureHousePrison.
+20200730.0740.48 error Worker0#2      Race Elf has unknown cultural ability RegionalAwareness
+20200730.0740.48 error Worker0#2      Race Elf has unknown cultural ability RegionalAwareness
+20200730.0747.46 info  CMGenEditor    Ermiel edited user Gron
+20200730.0747.48 error Worker0#2      Race Elf has unknown cultural ability RegionalAwareness
+20200730.0752.52 error Worker0#6      Race Halfling has unknown cultural ability RegionalAwareness
+20200730.0753.36 error Worker0#1      Race Gnome has unknown cultural ability RegionalAwareness
+20200730.0753.44 error Worker0#3      Race Human has unknown cultural ability RegionalAwareness
+20200730.0757.55 info  Worker0#1      Logout: Gron (35m)
+20200730.0757.55 info  Worker0#1      Disconnect: Gron: 74.110.125.186 (36m)
+20200730.0758.00 info  Worker0#8      Connection from 74.110.125.186
+20200730.0759.32 info  Worker0#6      Creating user: Brik
+20200730.0800.13 info  Worker0#7      Created user: Brik
+20200730.0800.14 info  Worker0#7      74.110.125.186 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Brik
+20200730.0801.32 error Hunting        Room Mud School#3759 had resource code -1
+20200730.0811.42 info  Rooms          Ermiel destroyed area zfaahouse2.
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.11 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.12 error Worker0#1      Race Kobold has unknown cultural ability RegionalAwareness
+20200730.0815.18 info  Generate       Ermiel generated area Adventure House Den
+20200730.0815.18 info  Generate       Ermiel called generate command with parms: area grid_dungeon from randareas/lair.xml theme=kobolds areaname=Adventure House Den level_range=4?6 alignment=0 areasize=30 aggrochance=30 west
+20200730.0815.35 info  SysopUtils     Ermiel 1 copied GenWallpaper item.
+20200730.0815.51 info  SysopUtils     Ermiel 1 copied GenWallpaper item.
+20200730.0817.44 info  CreateEdit     Ermiel modified item a brightly flashing sign (GenWallpaper) in Silver Ford#9.
+20200730.0846.44 info  Worker0#3      Connection from 221.127.99.85
+20200730.0848.39 info  Worker0#3      Logout: Brik (48m)
+20200730.0848.39 info  Worker0#3      Disconnect: Brik: 74.110.125.186 (50m)
+20200730.0850.21 info  Worker0#2      Disconnect: 221.127.99.85 (3m)

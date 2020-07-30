@@ -1096,325 +1096,325 @@ Silver Ford#6
 StdOpenDoorway
 
 Mud School#3700
--
+*
 ZFAAhouse2#14
 3
 Open
 
 ZFAAhouse2#15
--
+*
 ZFAAhouse2#14
 1
 Open
 
 ZFAAhouse2#0
--
+*
 ZFAAhouse2#24
 3
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#13
--
+*
 ZFAAhouse2#24
 1
 Door
 
 ZFAAhouse2#12
--
+*
 ZFAAhouse2#24
 0
 Open
 
 ZFAAhouse2#23
--
+*
 ZFAAhouse2#15
 2
 Open
 
 ZFAAhouse2#14
--
+*
 ZFAAhouse2#15
 1
 Open
 
 ZFAAhouse2#16
--
+*
 ZFAAhouse2#3
 3
 Door
 
 ZFAAhouse2#19
--
+*
 ZFAAhouse2#4
 1
 LockedDoor
 ZFAAhouse2 luxurykey
 ZFAAhouse2#18
--
+*
 ZFAAhouse2#17
 3
 Open
 
 ZFAAhouse2#16
--
+*
 ZFAAhouse2#17
 2
 Open
 
 ZFAAhouse2#0
--
+*
 ZFAAhouse2#17
 0
 Open
 
 ZFAAhouse2#18
--
+*
 ZFAAhouse2#13
 2
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#24
--
+*
 ZFAAhouse2#16
 2
 Open
 
 ZFAAhouse2#17
--
+*
 ZFAAhouse2#16
 0
 Open
 
 ZFAAhouse2#15
--
+*
 ZFAAhouse2#21
 3
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#9
--
+*
 ZFAAhouse2#21
 2
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#2
--
+*
 ZFAAhouse2#21
 1
 Door
 
 ZFAAhouse2#11
--
+*
 ZFAAhouse2#21
 0
 Open
 
 ZFAAhouse2#20
--
+*
 ZFAAhouse2#19
 3
 Open
 
 ZFAAhouse2#18
--
+*
 ZFAAhouse2#19
 2
 Door
 
 ZFAAhouse2#3
--
+*
 ZFAAhouse2#19
 1
 Open
 
 ZFAAhouse2#20
--
+*
 ZFAAhouse2#19
 0
 GenDoor
 <NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
 ZFAAhouse2#10
--
+*
 ZFAAhouse2#5
 2
 Door
 
 ZFAAhouse2#20
--
+*
 ZFAAhouse2#9
 2
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#21
--
+*
 ZFAAhouse2#22
 3
 LockedGate
 ZFAAhouse2 cellkey
 ZFAAhouse2#8
--
+*
 ZFAAhouse2#22
 2
 Open
 
 ZFAAhouse2#18
--
+*
 ZFAAhouse2#22
 1
 Open
 
 ZFAAhouse2#23
--
+*
 ZFAAhouse2#22
 0
 LockedGate
 ZFAAhouse2 cellkey
 ZFAAhouse2#6
--
+*
 ZFAAhouse2#11
 0
 Door
 
 ZFAAhouse2#21
--
+*
 ZFAAhouse2#10
 1
 GenDoor
 <NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
 ZFAAhouse2#19
--
+*
 ZFAAhouse2#20
 3
 Door
 
 ZFAAhouse2#5
--
+*
 ZFAAhouse2#20
 2
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#7
--
+*
 ZFAAhouse2#20
 1
 Open
 
 ZFAAhouse2#21
--
+*
 ZFAAhouse2#20
 0
 Open
 
 ZFAAhouse2#19
--
+*
 ZFAAhouse2#12
 0
 Door
 
 ZFAAhouse2#24
--
+*
 ZFAAhouse2#18
 3
 Open
 
 ZFAAhouse2#22
--
+*
 ZFAAhouse2#18
 2
 Open
 
 ZFAAhouse2#19
--
+*
 ZFAAhouse2#18
 1
 Open
 
 ZFAAhouse2#17
--
+*
 ZFAAhouse2#18
 0
 LockedDoor
 ZFAAhouse2 luxurykey
 ZFAAhouse2#4
--
+*
 ZFAAhouse2#1
 2
 Door
 
 ZFAAhouse2#23
--
+*
 ZFAAhouse2#8
 2
 LockedGate
 ZFAAhouse2 cellkey
 ZFAAhouse2#22
--
+*
 ZFAAhouse2#7
 3
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#20
--
+*
 ZFAAhouse2#2
 3
 LockedDoor
 ZFAAhouse2 cellkey
 ZFAAhouse2#21
--
+*
 ZFAAhouse2#23
 3
 Door
 
 ZFAAhouse2#1
--
+*
 ZFAAhouse2#23
 1
 Open
 
 ZFAAhouse2#24
--
+*
 ZFAAhouse2#23
 0
 Open
 
 ZFAAhouse2#22
--
+*
 ZFAAhouse2#6
 1
 LockedGate
 ZFAAhouse2 cellkey
 ZFAAhouse2#22
--
+*
 Silver Ford#9
 4
 StdOpenDoorway
 
  
--
+*
 Silver Ford#9
 3
 Door
 
 ZFAAhouse2#0
--
+*
 Silver Ford#9
 2
 StdOpenDoorway
 
 Silver Ford#6
--
+*
 ZFAAhouse2#0
 3
 Open
 
 ZFAAhouse2#17
--
+*
 ZFAAhouse2#0
 2
 Door
 
 Silver Ford#9
--
+*
 ZFAAhouse2#0
 0
 Open
@@ -2164,13 +2164,13 @@ AdventureHousePrison#14
 StdOpenDoorway
 
 AdventureHousePrison#6
--
+*
 AdventureHousePrison#0
 3
 Door
 
 Silver Ford#7
--
+*
 AdventureHousePrison#0
 2
 GenDoor
@@ -3304,3 +3304,873 @@ Silver Ford#5
 StdOpenDoorway
 
 Silver Ford#18
+-
+AdventureHousePrison#0
+3
+Door
+
+Silver Ford#7
+-
+AdventureHousePrison#0
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+AdventureHousePrison#9
+*
+Silver Ford#9
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#9
+3
+Door
+
+ 
+*
+Silver Ford#9
+2
+StdOpenDoorway
+
+Silver Ford#6
+-
+ZFAAhouse2#14
+3
+Open
+
+ZFAAhouse2#15
+-
+ZFAAhouse2#14
+1
+Open
+
+ 
+*
+ZFAAhouse2#17
+3
+Open
+
+ZFAAhouse2#16
+*
+ZFAAhouse2#17
+2
+Open
+
+ 
+*
+ZFAAhouse2#17
+0
+Open
+
+ZFAAhouse2#18
+*
+ZFAAhouse2#23
+3
+Door
+
+ 
+*
+ZFAAhouse2#23
+1
+Open
+
+ZFAAhouse2#24
+*
+ZFAAhouse2#23
+0
+Open
+
+ZFAAhouse2#22
+*
+ZFAAhouse2#19
+3
+Open
+
+ZFAAhouse2#18
+*
+ZFAAhouse2#19
+2
+Door
+
+ZFAAhouse2#3
+*
+ZFAAhouse2#19
+1
+Open
+
+ZFAAhouse2#20
+*
+ZFAAhouse2#19
+0
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>{#ZFAAhouse2#10#}</KEYNM><OPENTK>45</OPENTK>
+ 
+*
+ZFAAhouse2#21
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#9
+*
+ZFAAhouse2#21
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#2
+*
+ZFAAhouse2#21
+1
+Door
+
+ 
+*
+ZFAAhouse2#21
+0
+Open
+
+ZFAAhouse2#20
+*
+ZFAAhouse2#24
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#13
+*
+ZFAAhouse2#24
+1
+Door
+
+ 
+*
+ZFAAhouse2#24
+0
+Open
+
+ZFAAhouse2#23
+*
+ZFAAhouse2#24
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#24
+1
+Door
+
+ 
+*
+ZFAAhouse2#24
+0
+Open
+
+ZFAAhouse2#23
+*
+ZFAAhouse2#15
+2
+Open
+
+ 
+*
+ZFAAhouse2#15
+1
+Open
+
+ZFAAhouse2#16
+*
+ZFAAhouse2#16
+2
+Open
+
+ZFAAhouse2#17
+*
+ZFAAhouse2#16
+0
+Open
+
+ 
+*
+ZFAAhouse2#17
+3
+Open
+
+ 
+*
+ZFAAhouse2#17
+2
+Open
+
+ 
+*
+ZFAAhouse2#17
+0
+Open
+
+ZFAAhouse2#18
+*
+ZFAAhouse2#18
+3
+Open
+
+ZFAAhouse2#22
+*
+ZFAAhouse2#18
+2
+Open
+
+ZFAAhouse2#19
+*
+ZFAAhouse2#18
+1
+Open
+
+ 
+*
+ZFAAhouse2#18
+0
+LockedDoor
+ZFAAhouse2 luxurykey
+ZFAAhouse2#4
+*
+ZFAAhouse2#19
+3
+Open
+
+ 
+*
+ZFAAhouse2#19
+2
+Door
+
+ZFAAhouse2#3
+*
+ZFAAhouse2#19
+1
+Open
+
+ZFAAhouse2#20
+*
+ZFAAhouse2#19
+0
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>{#ZFAAhouse2#10#}</KEYNM><OPENTK>45</OPENTK>
+ 
+*
+ZFAAhouse2#22
+3
+LockedGate
+ZFAAhouse2 cellkey
+ZFAAhouse2#8
+*
+ZFAAhouse2#22
+2
+Open
+
+ 
+*
+ZFAAhouse2#22
+1
+Open
+
+ZFAAhouse2#23
+*
+ZFAAhouse2#22
+0
+LockedGate
+ZFAAhouse2 cellkey
+ZFAAhouse2#6
+*
+ZFAAhouse2#4
+1
+LockedDoor
+ZFAAhouse2 luxurykey
+ 
+*
+ZFAAhouse2#20
+3
+Door
+
+ZFAAhouse2#5
+*
+ZFAAhouse2#20
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#7
+*
+ZFAAhouse2#20
+1
+Open
+
+ZFAAhouse2#21
+*
+ZFAAhouse2#20
+0
+Open
+
+ 
+*
+ZFAAhouse2#3
+3
+Door
+
+ 
+*
+ZFAAhouse2#21
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#9
+*
+ZFAAhouse2#21
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#21
+1
+Door
+
+ 
+*
+ZFAAhouse2#21
+0
+Open
+
+ZFAAhouse2#20
+*
+ZFAAhouse2#21
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#9
+*
+ZFAAhouse2#21
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#21
+1
+Door
+
+ 
+*
+ZFAAhouse2#21
+0
+Open
+
+ 
+*
+ZFAAhouse2#5
+2
+Door
+
+ 
+*
+ZFAAhouse2#7
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#9
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#23
+3
+Door
+
+ 
+*
+ZFAAhouse2#23
+1
+Open
+
+ZFAAhouse2#24
+*
+ZFAAhouse2#23
+0
+Open
+
+ 
+*
+ZFAAhouse2#6
+1
+LockedGate
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#8
+2
+LockedGate
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#24
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ 
+*
+ZFAAhouse2#24
+1
+Door
+
+ 
+*
+ZFAAhouse2#24
+0
+Open
+
+ 
+-
+Silver Ford#9
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#9
+3
+Open
+
+Adventure House Den#0
+-
+Silver Ford#9
+2
+StdOpenDoorway
+
+Silver Ford#6
+-
+Adventure House Den#24
+3
+Open
+
+Adventure House Den#23
+-
+Adventure House Den#24
+2
+Open
+
+Adventure House Den#25
+-
+Adventure House Den#24
+0
+Open
+
+Adventure House Den#4
+-
+Adventure House Den#1
+1
+Door
+
+Adventure House Den#10
+-
+Adventure House Den#9
+3
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#9
+2
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#9
+1
+LockedDoor
+Adventure House Den thronekey
+Adventure House Den#3
+-
+Adventure House Den#28
+3
+Open
+
+Adventure House Den#27
+-
+Adventure House Den#28
+0
+Open
+
+Adventure House Den#29
+-
+Adventure House Den#22
+1
+Open
+
+Adventure House Den#23
+-
+Adventure House Den#22
+0
+Open
+
+Adventure House Den#21
+-
+Adventure House Den#6
+3
+Open
+
+Adventure House Den#10
+-
+Adventure House Den#6
+2
+Open
+
+Adventure House Den#9
+-
+Adventure House Den#6
+1
+Open
+
+Adventure House Den#5
+-
+Adventure House Den#6
+0
+Open
+
+Adventure House Den#7
+-
+Adventure House Den#18
+3
+Open
+
+Adventure House Den#19
+-
+Adventure House Den#18
+2
+Open
+
+Adventure House Den#17
+-
+Adventure House Den#15
+3
+Open
+
+Adventure House Den#16
+-
+Adventure House Den#15
+2
+Open
+
+Adventure House Den#14
+-
+Adventure House Den#15
+1
+Open
+
+Adventure House Den#12
+-
+Adventure House Den#29
+1
+Open
+
+Adventure House Den#28
+-
+Adventure House Den#29
+0
+Open
+
+Adventure House Den#0
+-
+Adventure House Den#25
+3
+Open
+
+Adventure House Den#24
+-
+Adventure House Den#25
+2
+Open
+
+Adventure House Den#26
+-
+Adventure House Den#25
+0
+Open
+
+Adventure House Den#5
+-
+Adventure House Den#3
+0
+LockedDoor
+Adventure House Den thronekey
+Adventure House Den#9
+-
+Adventure House Den#21
+2
+Open
+
+Adventure House Den#10
+-
+Adventure House Den#21
+1
+Open
+
+Adventure House Den#22
+-
+Adventure House Den#21
+0
+Open
+
+Adventure House Den#20
+-
+Adventure House Den#13
+1
+Open
+
+Adventure House Den#0
+-
+Adventure House Den#13
+0
+Open
+
+Adventure House Den#14
+-
+Adventure House Den#4
+1
+Open
+
+Adventure House Den#24
+-
+Adventure House Den#14
+3
+Open
+
+Adventure House Den#15
+-
+Adventure House Den#14
+1
+Open
+
+Adventure House Den#13
+-
+Adventure House Den#5
+1
+Open
+
+Adventure House Den#25
+-
+Adventure House Den#5
+0
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#23
+2
+Open
+
+Adventure House Den#24
+-
+Adventure House Den#23
+0
+Open
+
+Adventure House Den#22
+-
+Adventure House Den#17
+3
+Open
+
+Adventure House Den#18
+-
+Adventure House Den#17
+2
+Open
+
+Adventure House Den#16
+-
+Adventure House Den#17
+1
+Open
+
+Adventure House Den#7
+-
+Adventure House Den#0
+3
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#0
+2
+Open
+
+Silver Ford#9
+-
+Adventure House Den#0
+1
+Open
+
+Adventure House Den#29
+-
+Adventure House Den#0
+0
+Open
+
+Adventure House Den#13
+-
+Adventure House Den#19
+2
+Open
+
+Adventure House Den#18
+-
+Adventure House Den#19
+1
+Open
+
+Adventure House Den#20
+-
+Adventure House Den#8
+3
+Open
+
+Adventure House Den#9
+-
+Adventure House Den#8
+2
+Open
+
+Adventure House Den#0
+-
+Adventure House Den#8
+1
+Open
+
+Adventure House Den#11
+-
+Adventure House Den#8
+0
+Open
+
+Adventure House Den#12
+-
+Adventure House Den#27
+3
+Open
+
+Adventure House Den#26
+-
+Adventure House Den#27
+2
+Open
+
+Adventure House Den#28
+-
+Adventure House Den#27
+0
+Open
+
+Adventure House Den#11
+-
+Adventure House Den#16
+3
+Open
+
+Adventure House Den#17
+-
+Adventure House Den#16
+2
+Open
+
+Adventure House Den#15
+-
+Adventure House Den#16
+1
+Door
+
+Adventure House Den#2
+-
+Adventure House Den#11
+1
+Open
+
+Adventure House Den#27
+-
+Adventure House Den#11
+0
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#2
+0
+Door
+
+Adventure House Den#16
+-
+Adventure House Den#7
+1
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#7
+0
+Open
+
+Adventure House Den#17
+-
+Adventure House Den#26
+3
+Open
+
+Adventure House Den#25
+-
+Adventure House Den#26
+2
+Open
+
+Adventure House Den#27
+-
+Adventure House Den#12
+1
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#12
+0
+Open
+
+Adventure House Den#15
+-
+Adventure House Den#20
+1
+Open
+
+Adventure House Den#21
+-
+Adventure House Den#20
+0
+Open
+
+Adventure House Den#19
+-
+Adventure House Den#10
+3
+Open
+
+Adventure House Den#21
+-
+Adventure House Den#10
+2
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#10
+0
+Door
+
+Adventure House Den#1
