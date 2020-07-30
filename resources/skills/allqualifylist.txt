@@ -22,7 +22,7 @@
 1 SmokeRings MASK=+CHA 5 
 1 UnderCommon 
 1 PlayInstrument MASK=+WIS 5
-1 RegionalAwareness AUTOGAIN
+1 Skill_RegionalAwareness AUTOGAIN
 
 3 FireBuilding AUTOGAIN 
 
