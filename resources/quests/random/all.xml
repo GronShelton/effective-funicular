@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!-- ----------------------------------------------------------------------------
+Copyright 2019-2020 Bo Zimmerman
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+--------------------------------------------------------------------------------
+
+See guides/RandomAreas.html for information about documents of this type.
+-->
+
+<string id="quest_template" define="quest_template" select="any-1">
+	<string condition="$template=''"                                                     ></string>
+	<string condition="$template!='' and $template!='random'"                            >$template</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_capture1</string>
+	<string condition="$template='random'"                                               >normal_capture2</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_capture3</string>
+	<string condition="$template='random'"                                               >normal_capture4</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_collect1</string>
+	<string condition="$template='random'"                                               >normal_collect2</string>
+	<string condition="$template='random'"                                               >normal_collect3</string>
+	<string condition="$template='random'"                                               >normal_collect4</string>
+	<string condition="$template='random'"                                               >normal_collect5</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_escort1</string>
+	<string condition="$template='random'"                                               >normal_escort2</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_delivery1</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_delivery2</string>
+	<string condition="$template='random'"                                               >normal_delivery3</string>
+	<string condition="$template='random'"                                               >normal_delivery4</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_dispel1</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_killer1</string>
+	<string condition="$template='random'"                                               >normal_killer2</string>
+	<string condition="$template='random'"                                               >normal_mystery1</string>
+	<string condition="$template='random'"                                               >normal_mystery2</string>
+	<string condition="$template='random'"                                               >normal_protect1</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_protect2</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_travel1</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_travel2</string>
+	<string condition="$template='random' and $avoidscans!='YES'"                        >normal_travel4</string>
+</string>
+
+<STRING ID="avoidscans" define="avoidscans">NO</STRING>
+
+<QUEST ID="all_quests" SELECT="Any-1" requires="template=$">
+	<QUEST load="/resources/quests/random/normal_capture1.xml" CONDITION="$quest_template='normal_capture1'"/>
+	<QUEST load="/resources/quests/random/normal_capture2.xml" CONDITION="$quest_template='normal_capture2'"/>
+	<QUEST load="/resources/quests/random/normal_capture3.xml" CONDITION="$quest_template='normal_capture3'"/>
+	<QUEST load="/resources/quests/random/normal_capture4.xml" CONDITION="$quest_template='normal_capture4'"/>
+	<QUEST load="/resources/quests/random/normal_collect1.xml" CONDITION="$quest_template='normal_collect1'"/>
+	<QUEST load="/resources/quests/random/normal_collect2.xml" CONDITION="$quest_template='normal_collect2'"/>
+	<QUEST load="/resources/quests/random/normal_collect3.xml" CONDITION="$quest_template='normal_collect3'"/>
+	<QUEST load="/resources/quests/random/normal_collect4.xml" CONDITION="$quest_template='normal_collect4'"/>
+	<QUEST load="/resources/quests/random/normal_collect5.xml" CONDITION="$quest_template='normal_collect5'"/>
+	<QUEST load="/resources/quests/random/normal_delivery1.xml" CONDITION="$quest_template='normal_delivery1'"/>
+	<QUEST load="/resources/quests/random/normal_delivery2.xml" CONDITION="$quest_template='normal_delivery2'"/>
+	<QUEST load="/resources/quests/random/normal_delivery3.xml" CONDITION="$quest_template='normal_delivery3'"/>
+	<QUEST load="/resources/quests/random/normal_delivery4.xml" CONDITION="$quest_template='normal_delivery4'"/>
+	<QUEST load="/resources/quests/random/normal_dispel1.xml" CONDITION="$quest_template='normal_dispel1'"/>
+	<QUEST load="/resources/quests/random/normal_escort1.xml" CONDITION="$quest_template='normal_escort1'"/>
+	<QUEST load="/resources/quests/random/normal_escort2.xml" CONDITION="$quest_template='normal_escort2'"/>
+	<QUEST load="/resources/quests/random/normal_killer1.xml" CONDITION="$quest_template='normal_killer1'"/>
+	<QUEST load="/resources/quests/random/normal_killer2.xml" CONDITION="$quest_template='normal_killer2'"/>
+	<QUEST load="/resources/quests/random/normal_mystery1.xml" CONDITION="$quest_template='normal_mystery1'"/>
+	<QUEST load="/resources/quests/random/normal_mystery2.xml" CONDITION="$quest_template='normal_mystery2'"/>
+	<QUEST load="/resources/quests/random/normal_protect1.xml" CONDITION="$quest_template='normal_protect1'"/>
+	<QUEST load="/resources/quests/random/normal_protect2.xml" CONDITION="$quest_template='normal_protect2'"/>
+	<QUEST load="/resources/quests/random/normal_travel1.xml" CONDITION="$quest_template='normal_travel1'"/>
+	<QUEST load="/resources/quests/random/normal_travel2.xml" CONDITION="$quest_template='normal_travel2'"/>
+	<QUEST load="/resources/quests/random/normal_travel3.xml" CONDITION="$quest_template='normal_travel3'"/>
+	<QUEST load="/resources/quests/random/normal_travel4.xml" CONDITION="$quest_template='normal_travel4'"/>
+</QUEST>

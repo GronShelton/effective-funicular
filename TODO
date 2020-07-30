@@ -1,0 +1,44 @@
+BUGS
+
+TECH
+   *. test phaser and missile targeting systems 
+   *. add window/viewscreen type sensor: formula for things you see: ATAN(shipsize in km/range to ship)>0.0015
+   *. test ship phaser, laser systems against shield types - murder motel
+   *. make ship torpedo launchers and torpedo containers-- see tech doc
+   *. make ship impulse and warp engines -- see tech doc
+   *. make more ship sensors, giant window for seeing in front, targeted scaling windows for st view screens
+   *. make tractor beam system -- esp important for pirates!
+   *. make communication system
+   *. When it's time to make the Real Software, good categories in tech docs
+   *. powered rideables.  ability to mount heavy gear, like engines to things.
+   *. entry systems for ships (default entry key card, voice code, identifying scanner)
+   *. work on automatic component values ??
+   *. Talk to Tim: Space Tech power consumption depends on tech level of generator, panel, or interaction damage?
+   *. Implement acceleration damage to the people on-board.
+   *. make food generators, and refrigerators, water recycler, 
+   *. turbo lift -- moveable rooms
+   *. make message bouey launcher
+   *. personal scanner/tricorder software: mineral scanner, computer interface (with ship perhaps?)!
+   *. make transporter systems
+   *. make shuttle system, ship items areas have landing zones... might require opening if exit has door?
+   *. damaged systems should sometimes require random parts, from particular manufacturers, that repair respects
+   *. add electronics to guides, how to make a ship, how to build space, etc, details about tech
+   *. add electronics to MG
+   *. add spaceobject stuff to MG
+   *. add spaceobject mapper system to MG
+   *. keep reviewing and updating the GameOverview.html doc
+   *. Giant Space Mobs! Including Space Mobs that have rooms inside.
+   *. Droids! Powered slave mobs.
+   *. Radiation Props: Alpha (damage), Beta (?!), Gamma (Mutation if in too long)
+
+NON-TECH (Long Term)
+   *. Builder Achievements, Archon Achievements, Timed achievements (within a time period)
+   *. Simple Desires quest behavior - see Tim's Wants and Needs doc
+   *. Wants and Needs engine - similar to slavery system
+   *. Port Siplet to C++ and shove it inside a Chromium window.
+   *. Start on Spell Research?
+   *. RandomQuests based off the Percolator engine -- a way to randomly generate different quests.
+   *. OLC for players?  Play with PennMush more. Port 4201
+   *. Finish Player Simulator -- the Perpetual Project
+   *. MudFTP/DawnFTP support - lets you edit room descriptions etc. in your favourite text editor, or just for fun
+   *. Clan Calendar system, that can use mud and rl dates, for scheduling things. Might send reminders -- based on journaling system of course.
