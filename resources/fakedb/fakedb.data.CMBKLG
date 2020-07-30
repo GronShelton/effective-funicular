@@ -108,7 +108,7 @@ INFO
 10
 1594679506099
 0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
--
+*
 WIZINFO
 0
 99
@@ -996,7 +996,7 @@ WIZINFO
 -
 INFO
 0
-109
+271
 \?
 -
 INFO
@@ -1041,7 +1041,7 @@ GOSSIP
 -
 GRATZ
 0
-0
+1
 \?
 -
 CHAT
@@ -1063,10 +1063,10 @@ WIZ
 0
 0
 \?
--
+*
 CLANTALK
 0
-0
+9
 \?
 -
 ICOFF
@@ -1103,3 +1103,3033 @@ INFO
 109
 1594682914680
 0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Have 25 base Constitution' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Have 25 base Constitution' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+1
+1594736720550
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+0
+386
+\?
+-
+WIZINFO
+100
+1594736720638
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+INFO
+110
+1594736770667
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+2
+1594736782324
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+101
+1594736782422
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+3
+1594736793219
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+102
+1594736793997
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+4
+1594738290744
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+103
+1594738290846
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+5
+1594770043286
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+104
+1594770044030
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+6
+1594771165342
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+105
+1594771165637
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+INFO
+111
+1594771271881
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just been created.'^</CHANNEL^>^?^.
+-
+INFO
+112
+1594771282990
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Mom has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Mom has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+7
+1594771293996
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+106
+1594771295044
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+8
+1594771311126
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+107
+1594771311261
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+9
+1594773086247
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Mom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Mom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+108
+1594773086586
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Mom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Mom has logged out'^</CHANNEL^>^?^.
+-
+INFO
+113
+1594773615072
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+INFO
+114
+1594777055483
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Aqueaug has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Aqueaug has just been created.'^</CHANNEL^>^?^.
+*
+CLANTALK
+0
+99
+\?
+-
+CLANTALK
+10
+1594777065106
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Aqueaug has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Aqueaug has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+109
+1594777065221
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Aqueaug has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Aqueaug has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+11
+1594777082009
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+110
+1594777082099
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+12
+1594777130968
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+111
+1594777131132
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+13
+1594778137821
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+112
+1594778137925
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+14
+1594778150985
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+113
+1594778151095
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+114
+1594780205661
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3715.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3715.'^</CHANNEL^>^?^.
+-
+INFO
+115
+1594780205943
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+116
+1594780421166
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+115
+1594781412038
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3716.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3716.'^</CHANNEL^>^?^.
+-
+INFO
+117
+1594781412230
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+116
+1594782043347
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.
+-
+INFO
+118
+1594782043467
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+117
+1594783485614
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.
+-
+INFO
+119
+1594783485794
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+15
+1594784169889
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+118
+1594784170141
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+16
+1594823348848
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+119
+1594823349290
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+120
+1594824198527
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.
+-
+INFO
+120
+1594824198689
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+17
+1594825778920
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+121
+1594825779034
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+18
+1594848230807
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+122
+1594848231148
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+19
+1594850747149
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+123
+1594850747367
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+20
+1594850821080
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+124
+1594850821307
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+121
+1594852421141
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+21
+1594856826355
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+125
+1594856826613
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+22
+1594861844533
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+126
+1594861844826
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+23
+1594869279848
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+127
+1594869279877
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+24
+1594951393116
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+128
+1594951393511
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+25
+1594957938572
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+129
+1594957938671
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+26
+1595262361660
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+130
+1595262361828
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+131
+1595270224639
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at ZFAAhouse1#8.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at ZFAAhouse1#8.'^</CHANNEL^>^?^.
+-
+INFO
+122
+1595270224908
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+27
+1595279199801
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+132
+1595279199882
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+28
+1595578836649
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+133
+1595578836948
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+INFO
+123
+1595693006933
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just been created.'^</CHANNEL^>^?^.
+-
+WIZINFO
+134
+1595693305632
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.
+-
+INFO
+124
+1595693305800
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+125
+1595694821577
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+INFO
+126
+1595694821792
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+29
+1595697269724
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+135
+1595697269859
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+136
+1595698608545
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Mud School#3728.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Mud School#3728.'^</CHANNEL^>^?^.
+-
+INFO
+127
+1595698608701
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+137
+1595699608899
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Mud School#3751.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Mud School#3751.'^</CHANNEL^>^?^.
+-
+INFO
+128
+1595699609114
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+138
+1595700530273
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at ZFAAhouse1#16.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at ZFAAhouse1#16.'^</CHANNEL^>^?^.
+-
+INFO
+129
+1595700530398
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+130
+1595702022894
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore half the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore half the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+30
+1595713514431
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+139
+1595713514474
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+31
+1595714336866
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+140
+1595714336876
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+32
+1595722442168
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+141
+1595722442300
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+33
+1595725684232
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+142
+1595725684431
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+143
+1595727222944
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Mom has just been deleted.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Mom has just been deleted.'^</CHANNEL^>^?^.
+-
+INFO
+131
+1595730822262
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore 75% of the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has completed the 'Explore 75% of the world' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+144
+1595730822632
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Aqueaug has just been deleted.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Aqueaug has just been deleted.'^</CHANNEL^>^?^.
+-
+WIZINFO
+145
+1595734447411
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just been deleted.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just been deleted.'^</CHANNEL^>^?^.
+-
+CLANTALK
+34
+1595736855006
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+146
+1595736855151
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+35
+1595774200015
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+147
+1595774200141
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+36
+1595774690723
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+148
+1595774690838
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+37
+1595779108891
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+149
+1595779108947
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+38
+1595782787565
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+150
+1595782787673
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+132
+1595790078450
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+151
+1595790505109
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at ZFAAhouse2#17.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at ZFAAhouse2#17.'^</CHANNEL^>^?^.
+-
+INFO
+133
+1595790505386
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+134
+1595798552543
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+39
+1595799331802
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+152
+1595799331923
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+40
+1595799338967
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+153
+1595799339106
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+41
+1595800382816
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+154
+1595800382918
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+42
+1595800399124
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+155
+1595800399211
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+43
+1595802244588
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+156
+1595802244680
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+44
+1595802312125
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+157
+1595802312170
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+45
+1595802327943
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+158
+1595802327985
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+46
+1595802336937
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+159
+1595802337201
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+47
+1595803695864
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+160
+1595803696020
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+48
+1595803702583
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+161
+1595803702648
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+49
+1595803733531
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+162
+1595803733578
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+50
+1595803868083
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+163
+1595803868144
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+51
+1595804215846
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+164
+1595804215924
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+52
+1595805119554
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+165
+1595805119600
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+53
+1595805977896
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+166
+1595805978016
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+54
+1595806263298
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+167
+1595806263422
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+55
+1595806295980
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+168
+1595806296064
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+56
+1595806627503
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+169
+1595806627660
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+57
+1595806856978
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+170
+1595806857082
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+58
+1595807167798
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+171
+1595807167868
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+59
+1595809566358
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+172
+1595809566380
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+173
+1595810471947
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at Mud School#3715.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at Mud School#3715.'^</CHANNEL^>^?^.
+-
+INFO
+135
+1595810471969
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+136
+1595813992635
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+60
+1595816171504
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+174
+1595816171843
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+175
+1595819357103
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#9.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#9.'^</CHANNEL^>^?^.
+-
+INFO
+137
+1595819357213
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+176
+1595821254645
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#5.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#5.'^</CHANNEL^>^?^.
+-
+INFO
+138
+1595821254715
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+177
+1595822644539
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#10.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#10.'^</CHANNEL^>^?^.
+-
+INFO
+139
+1595822644682
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+61
+1595823338056
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+178
+1595823338151
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+62
+1595823923160
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+179
+1595823923304
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+180
+1595823997407
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.
+-
+INFO
+140
+1595823997515
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+63
+1595824840022
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+181
+1595824840209
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+64
+1595856937544
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+182
+1595856937731
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+65
+1595868057706
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+183
+1595868057816
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+141
+1595871592698
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+184
+1595873130306
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#11.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Maw#11.'^</CHANNEL^>^?^.
+-
+INFO
+142
+1595873130413
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+66
+1595874602872
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+185
+1595874602938
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+67
+1595880138146
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+186
+1595880138241
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+68
+1595880189363
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+187
+1595880189458
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+69
+1595893752316
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+188
+1595893752577
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+70
+1595893765693
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+189
+1595893765819
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+71
+1595895907616
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+190
+1595895907711
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+INFO
+143
+1595896793417
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gulgor has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gulgor has just been created.'^</CHANNEL^>^?^.
+-
+WIZINFO
+191
+1595897286239
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has just gained a level at Mud School#3713.'^</CHANNEL^>^?^.
+-
+INFO
+144
+1595897286449
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gulgor has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gulgor has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+145
+1595900392567
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gulgor has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gulgor has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+72
+1595904059564
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+192
+1595904059725
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+73
+1595912194928
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+193
+1595912195035
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+74
+1595913951390
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+194
+1595913951577
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+INFO
+146
+1595914260771
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just been created.'^</CHANNEL^>^?^.
+-
+WIZINFO
+195
+1595914633665
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.
+-
+INFO
+147
+1595914633934
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+148
+1595914792620
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+196
+1595915488954
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at ZFAAhouse1#10.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at ZFAAhouse1#10.'^</CHANNEL^>^?^.
+-
+INFO
+149
+1595915489105
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+75
+1595916354090
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+197
+1595916354208
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+76
+1595940339995
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+198
+1595940340138
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+77
+1595942100688
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+199
+1595942100747
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+78
+1595942108750
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+200
+1595942108863
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+79
+1595942120831
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+201
+1595942120930
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+80
+1595945889571
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+202
+1595945889713
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+81
+1595947633396
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+203
+1595947633459
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+82
+1595949262895
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+204
+1595949262949
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+205
+1595949446611
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at Mud School#3733.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at Mud School#3733.'^</CHANNEL^>^?^.
+-
+INFO
+150
+1595949446785
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+151
+1595950792710
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+206
+1595951553453
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at AdventureHousePrison#6.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has just gained a level at AdventureHousePrison#6.'^</CHANNEL^>^?^.
+-
+INFO
+152
+1595951553566
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Avol has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+83
+1595959449726
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+207
+1595959449855
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+84
+1595959897299
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+208
+1595959897449
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+85
+1595959920913
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+209
+1595959921040
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+86
+1595959948451
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+210
+1595959948820
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+211
+1595968514938
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Belly#18.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Belly#18.'^</CHANNEL^>^?^.
+-
+INFO
+153
+1595968515200
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+87
+1595975836574
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+212
+1595975836721
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+88
+1595976278506
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+213
+1595976278721
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+214
+1595976585057
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at ZFAAhouse2#16.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at ZFAAhouse2#16.'^</CHANNEL^>^?^.
+-
+INFO
+154
+1595976585307
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+89
+1595986881697
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+215
+1595986881757
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+90
+1595987355886
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+216
+1595987356018
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+91
+1595994504489
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+217
+1595994504578
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+92
+1595994509525
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+218
+1595994509591
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+93
+1595994520938
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+219
+1595994520992
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+220
+1595994526096
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+155
+1595994526196
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+221
+1595994529711
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+156
+1595994529818
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+222
+1595994530095
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+157
+1595994530149
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+223
+1595994530215
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+158
+1595994530316
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+224
+1595994530395
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+159
+1595994530485
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+225
+1595994530551
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+160
+1595994530593
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+226
+1595994530701
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+161
+1595994530767
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+227
+1595994530845
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+162
+1595994530923
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+228
+1595994531001
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+163
+1595994531067
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+229
+1595994531246
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+164
+1595994531546
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+230
+1595994531630
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+165
+1595994531684
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+231
+1595994531738
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+166
+1595994531816
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+232
+1595994531888
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+167
+1595994531928
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+233
+1595994531976
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+168
+1595994532017
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+234
+1595994532082
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+169
+1595994532144
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+235
+1595994532239
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+170
+1595994532288
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+236
+1595994532351
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+171
+1595994532423
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+237
+1595994532483
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+172
+1595994532533
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+238
+1595994532588
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+173
+1595994532645
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+239
+1595994532720
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+174
+1595994532797
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+240
+1595994532880
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+175
+1595994532975
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+241
+1595994533121
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+176
+1595994533247
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+242
+1595994533331
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+177
+1595994533392
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+243
+1595994533456
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+178
+1595994533498
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+244
+1595994533588
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+179
+1595994533633
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+245
+1595994533699
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+180
+1595994533741
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+246
+1595994533795
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+181
+1595994533849
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+247
+1595994533942
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+182
+1595994534005
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+248
+1595994534077
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+183
+1595994534155
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+184
+1595994534280
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Gain 30 levels in Cleric' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the 'Gain 30 levels in Cleric' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+249
+1595994534424
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+185
+1595994534538
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+250
+1595994534664
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+186
+1595994534734
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+251
+1595994534801
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+187
+1595994534916
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+252
+1595994535036
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+188
+1595994535096
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+253
+1595994535180
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+189
+1595994535236
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+254
+1595994535296
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+190
+1595994535338
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+255
+1595994535422
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+191
+1595994535510
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+256
+1595994535602
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+192
+1595994535667
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+257
+1595994535853
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+193
+1595994535972
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+258
+1595994536099
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+194
+1595994536176
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+259
+1595994536310
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+195
+1595994536464
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+260
+1595994536555
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+196
+1595994536621
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+261
+1595994536693
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+197
+1595994536741
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+262
+1595994536796
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+198
+1595994536843
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+263
+1595994536899
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+199
+1595994536941
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+264
+1595994537001
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+200
+1595994537108
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+265
+1595994537199
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+201
+1595994537247
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+266
+1595994537343
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+202
+1595994537439
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+267
+1595994537504
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+203
+1595994537565
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+268
+1595994537654
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+204
+1595994537726
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+269
+1595994537810
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+205
+1595994537870
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+270
+1595994537936
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+206
+1595994537992
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+271
+1595994538057
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+207
+1595994538122
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+272
+1595994538188
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+208
+1595994538242
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+273
+1595994538309
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+209
+1595994538408
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+274
+1595994538542
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+210
+1595994538815
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+275
+1595994538998
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+211
+1595994539150
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+276
+1595994539321
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+212
+1595994539411
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+277
+1595994539525
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+213
+1595994539609
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+278
+1595994539741
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+214
+1595994539837
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+215
+1595994539945
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the '60 levels as a Cleric' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the '60 levels as a Cleric' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+279
+1595994540041
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+216
+1595994540137
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+280
+1595994540239
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+217
+1595994540328
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+281
+1595994540500
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+218
+1595994540622
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+282
+1595994540728
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+219
+1595994540882
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+283
+1595994540993
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+220
+1595994541047
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+284
+1595994541145
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+221
+1595994541237
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+285
+1595994541345
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+222
+1595994541437
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+286
+1595994541550
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+223
+1595994541653
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+287
+1595994541794
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+224
+1595994541880
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+288
+1595994541976
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+225
+1595994542040
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+289
+1595994542114
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+226
+1595994542160
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+290
+1595994542228
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+227
+1595994542282
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+291
+1595994542418
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+228
+1595994542517
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+292
+1595994542706
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+229
+1595994542917
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+293
+1595994543023
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+230
+1595994543102
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+294
+1595994543206
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+231
+1595994543265
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+295
+1595994543356
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+232
+1595994543469
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+296
+1595994543547
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+233
+1595994543600
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+297
+1595994543674
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+234
+1595994543716
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+298
+1595994543860
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+235
+1595994543931
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+299
+1595994544049
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+236
+1595994544205
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+300
+1595994544307
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+237
+1595994544433
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+301
+1595994544561
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+238
+1595994544924
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+302
+1595994545016
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+239
+1595994545104
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+303
+1595994545208
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+240
+1595994545271
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+304
+1595994545349
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+241
+1595994545439
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+305
+1595994545541
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+242
+1595994545631
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+306
+1595994545768
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+243
+1595994545846
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+307
+1595994546116
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+244
+1595994546601
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+308
+1595994546691
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+245
+1595994546751
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+246
+1595994546835
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the '90 levels as a Cleric' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has completed the '90 levels as a Cleric' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+309
+1595994546907
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+247
+1595994546955
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+310
+1595994547027
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+248
+1595994547069
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+311
+1595994547153
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+249
+1595994547285
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+312
+1595994547525
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+250
+1595994547590
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+313
+1595994547704
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+251
+1595994547778
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+314
+1595994547952
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+252
+1595994548072
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+315
+1595994548179
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+253
+1595994548306
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+316
+1595994548418
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+254
+1595994548526
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+317
+1595994548911
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+255
+1595994548988
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+318
+1595994549136
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has just gained a level at Mud School#3700.'^</CHANNEL^>^?^.
+-
+INFO
+256
+1595994549228
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Ermiel has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+94
+1595994693960
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+319
+1595994694429
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+95
+1595995150921
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+320
+1595995151087
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+96
+1595997396403
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+321
+1595997396470
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+97
+1596030368923
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+322
+1596030368974
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+98
+1596034181001
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+323
+1596034181481
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+99
+1596034581198
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+324
+1596034581264
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+0
+153
+\?
+-
+CLANTALK
+100
+1596035810038
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+325
+1596035810097
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+101
+1596037187290
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+326
+1596037187306
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+102
+1596037187522
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+327
+1596037187550
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+103
+1596037323731
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+328
+1596037323745
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+104
+1596037323776
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+329
+1596037323792
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+105
+1596037497226
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+330
+1596037497479
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+106
+1596037754817
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+331
+1596037754951
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+107
+1596038641375
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+332
+1596038641613
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Avol has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+108
+1596038719602
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+333
+1596038719672
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+334
+1596039975056
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Belly#15.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at Dragon`s Belly#15.'^</CHANNEL^>^?^.
+-
+INFO
+257
+1596039975720
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+109
+1596042122640
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+335
+1596042122858
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+110
+1596046509782
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+336
+1596046509895
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+111
+1596046573178
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+337
+1596046573255
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+112
+1596046608298
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+338
+1596046608559
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+113
+1596046802307
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+339
+1596046802412
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+114
+1596046847877
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+340
+1596046847921
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+115
+1596046868951
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+341
+1596046869052
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+116
+1596046890349
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+342
+1596046890474
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+117
+1596047168193
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+343
+1596047168278
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+118
+1596047168488
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+344
+1596047168590
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+119
+1596047501963
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+345
+1596047502066
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+120
+1596047583085
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+346
+1596047583133
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+258
+1596051275290
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+121
+1596058831759
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+347
+1596058832034
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+348
+1596061481199
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at Mud School#3715.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at Mud School#3715.'^</CHANNEL^>^?^.
+-
+INFO
+259
+1596061481732
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.
+-
+GRATZ
+1
+1596061602452
+0,1163264,1049600,0,27,2001,StdMOB:Ermiel,,,^Q^<CHANNEL "GRATZ"^>You GRATZ 'Grats&comma; Kurjaksmom!'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "GRATZ"^><S-NAME> GRATZES 'Grats&comma; Kurjaksmom!'^</CHANNEL^>^N^.
+-
+CLANTALK
+122
+1596063238637
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+349
+1596063238766
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+123
+1596063331209
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+350
+1596063331255
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+124
+1596063904676
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+351
+1596063904757
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+INFO
+260
+1596064115144
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Thagnus has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Thagnus has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+125
+1596064115545
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+352
+1596064115737
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+126
+1596064115845
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+353
+1596064115938
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+127
+1596064274499
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+354
+1596064274623
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+128
+1596064498748
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+355
+1596064498784
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+261
+1596065266519
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Alysan has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Alysan has just been created.'^</CHANNEL^>^?^.
+-
+WIZINFO
+356
+1596065492062
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at Mud School#3720.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at Mud School#3720.'^</CHANNEL^>^?^.
+-
+INFO
+262
+1596065492281
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+129
+1596073042950
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+357
+1596073043065
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+130
+1596073092029
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+358
+1596073092082
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+131
+1596073917787
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+359
+1596073917833
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+INFO
+263
+1596074133227
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+132
+1596074163975
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+360
+1596074164035
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+361
+1596074673543
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has just gained a level at Mud School#3714.'^</CHANNEL^>^?^.
+-
+INFO
+264
+1596074673591
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+362
+1596075037802
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has just gained a level at Mud School#3723.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has just gained a level at Mud School#3723.'^</CHANNEL^>^?^.
+-
+INFO
+265
+1596075037944
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+133
+1596075875747
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+363
+1596075875800
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+134
+1596075906831
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+364
+1596075906885
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+135
+1596076398120
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+365
+1596076398298
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+136
+1596076534250
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+366
+1596076534364
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+137
+1596076646023
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+367
+1596076646135
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+138
+1596076717562
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+368
+1596076717616
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+139
+1596076732996
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+369
+1596076733238
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+370
+1596079525880
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at AdventureHousePrison#0.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at AdventureHousePrison#0.'^</CHANNEL^>^?^.
+-
+INFO
+266
+1596079525922
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+371
+1596079525989
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has just gained a level at AdventureHousePrison#0.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has just gained a level at AdventureHousePrison#0.'^</CHANNEL^>^?^.
+-
+INFO
+267
+1596079526066
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+140
+1596080052959
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+372
+1596080053015
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+141
+1596080083036
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+373
+1596080083086
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+268
+1596080140751
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+INFO
+269
+1596080140865
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kalrog has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+INFO
+270
+1596080140957
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has completed the 'Explore 10% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+142
+1596080411302
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+374
+1596080411397
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+375
+1596081790041
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at AdventureHousePrison#7.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has just gained a level at AdventureHousePrison#7.'^</CHANNEL^>^?^.
+-
+INFO
+271
+1596081790118
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Erranoth has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+143
+1596081947724
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+376
+1596081947859
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+144
+1596081966991
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+377
+1596081967036
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+145
+1596082034548
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+378
+1596082034626
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+146
+1596084964593
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+379
+1596084964661
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+147
+1596085026472
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+380
+1596085026557
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+148
+1596085046289
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kalrog has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+381
+1596085046397
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kalrog has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+149
+1596085076579
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+382
+1596085076685
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+150
+1596087141228
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+383
+1596087141273
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+151
+1596087319125
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+384
+1596087319235
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+152
+1596090057887
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+385
+1596090057931
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+153
+1596114419584
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+386
+1596114419674
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.

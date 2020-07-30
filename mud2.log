@@ -1,0 +1,16 @@
+20200729.1550.00 info  MUD            CoffeeMud v5.9.10
+20200729.1550.00 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200729.1550.00 info  MUD            http://www.coffeemud.org
+20200729.1550.00 error CMSecurity     Unknown or duplicate enable flag: CLASS_ARTISAN
+20200729.1550.00 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200729.1550.00 error MUD@5555       Address already in use (Bind failed)
+java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:395)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:257)
+	at com.planet_ink.coffee_mud.application.MUD.run(MUD.java:416)
+20200729.1550.00 info  MUD@5555       Server cleaning up.
+20200729.1550.00 info  MUD@5555       MUD on port 5555 stopped!
+20200729.1550.00 error HOST0          HOST#0 could not start any listeners.
+20200729.1550.00 error MUD            CoffeeMud failed to start.

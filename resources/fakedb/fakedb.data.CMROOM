@@ -1,7 +1,1575 @@
 -
 START
 StdRoom
-New Area
+The Void
 New Room 
 Brand new database room! You need to change this text with the MODIFY ROOM command.  If your character is not an Archon, pick up the book you see here and read it immediately! 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3700
+WoodRoom
+Mud School
+Entrance to Mud School 
+This is the entrance to the Merc Mud School.  Go north to go through mud school. If you have been here before and want to go directly to the arena, go down.%0D A sign warns `You may not pass these doors once you have passed level 5.` 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3701
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The exits are west and south.  A small plaque is on the wall. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3702
+WoodRoom
+Mud School
+The Center Room 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  Exits lead in ALL directions. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3703
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  Exits lead north and south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3704
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The only exit is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3705
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The way back is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3707
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The only exit is up. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3708
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The only exit is down. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3709
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  Exits reach west and down. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3710
+WoodRoom
+Mud School
+The Blob Cage 
+You are in a smelly cage.  Strangely, the walls are still clean! You see a sign here.  The only exit is up. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3711
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3712
+WoodRoom
+Mud School
+The Cage Room 
+You are in the cage room.  All around are 4 cages.  Light fluoresces off the ceiling in soft white tones.  Of course, there is a big sign on the wall. Exits lead into the cardinal directions plus down. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3713
+WoodRoom
+Mud School
+A Cage 
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax in the upkeep here!  There is a sign on the wall.  The only exit is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3714
+WoodRoom
+Mud School
+A Cage 
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax in the upkeep here!  There is a sign on the wall.  The only exit is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3715
+WoodRoom
+Mud School
+A Cage 
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax in the upkeep here!  There is a sign on the wall.  The only exit is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3716
+WoodRoom
+Mud School
+A Cage 
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax in the upkeep here!  There is a sign on the wall.  The only exit is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3717
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  Find your own exit here. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3718
+WoodRoom
+Mud School
+The Store in Mud School 
+You are in a cramped room.  Stacked neatly on shelves everywhere are items and packages.  Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The only exit is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3719
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The exits are north and west, with a door to the east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3720
+WoodRoom
+Mud School
+The Darkened Room 
+This room was purposefully darkened so that you would need to hold on to a light source to go through.  The walls are, of course, blank, and white. The only exit is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3721
+WoodRoom
+Mud School
+The End of Mud School! 
+This is a very bright room, with a marble pedestal in the center.  Behind the pedestal stands a person cloaked in Silver.  Tapestries flow from every wall, and you feel very happy to be here right now.  There is a big sign here. The only exit is on the other side of the gate north of you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3722
+Desert
+Mud School
+South Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3723
+Desert
+Mud School
+South Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3724
+Desert
+Mud School
+South West Corner of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3725
+Desert
+Mud School
+South Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3726
+Desert
+Mud School
+South East Corner of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3727
+Desert
+Mud School
+West Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3728
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3729
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3730
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3731
+Desert
+Mud School
+East Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3732
+Desert
+Mud School
+West Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3733
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3734
+Desert
+Mud School
+Center of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being.  There is a BIG SIGN here. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3735
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3736
+Desert
+Mud School
+East Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3737
+Desert
+Mud School
+West Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3738
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3739
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3740
+Desert
+Mud School
+Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3741
+Desert
+Mud School
+East Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3742
+Desert
+Mud School
+North West Corner of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3743
+Desert
+Mud School
+North Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  You can barely see the ceiling.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3744
+Desert
+Mud School
+North Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3745
+Desert
+Mud School
+North Wall of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3746
+Desert
+Mud School
+North East Corner of Arena 
+You are in the Arena.  Remember, if you wish to get out of this Arena, just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are being watched by some divine being. 
+<RCLIM>24</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3748
+StoneRoom
+Mud School
+The Center of the Dungeon 
+You are in the center of a large room.  A faint light from above shows that the floors are all covered with slime.  A feeling of dread comes over you as you notice that this is NOT a great place to go.  Exits go in all directions. Of special note is the one that brings you back up!!! 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3749
+StoneRoom
+Mud School
+The North West Corner of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3750
+StoneRoom
+Mud School
+The North Wall of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3751
+StoneRoom
+Mud School
+The North East Corner of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3752
+StoneRoom
+Mud School
+The West Wall of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3753
+StoneRoom
+Mud School
+The East Wall of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3754
+StoneRoom
+Mud School
+The South West Corner of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3755
+StoneRoom
+Mud School
+The South Wall of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3756
+StoneRoom
+Mud School
+The South East Corner of the Dungeon 
+You are against a wall in the dungeon.  It is quite dark here.  The lack of any windows in the area explains the smell around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3760
+WoodRoom
+Mud School
+A Safe Room 
+You are in a safe room, away from all the mean rabbits and snails of the Arena. You can rest here, or go up to go back to the school. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3761
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  There is a crawlspace to the north, and a hole in the ceiling that you can try to climb upto. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Mud School#3762
+WoodRoom
+Mud School
+A Room in Mud School. 
+You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The only exit is Down. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#1
+CityStreet
+Silver Ford
+Northern end of the Marketplace 
+Silver Ford`s square is abuzz with activity. Merchants come from all over Storm Reef to earn coins from the young adventurers` pockets. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#4
+CityStreet
+Silver Ford
+Western end of the marketplace 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#5
+CityStreet
+Silver Ford
+Outside the Dusty Rose 
+The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#6
+CityStreet
+Silver Ford
+Outside the Adventure Academy 
+You stand before the Zilor Fice Adventure Academy. The sprawling complex reaches around to the sides, and the large glass front doors are directly ahead. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#8
+CityStreet
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#9
+CityStreet
+Silver Ford
+Outside an Adventure House 
+This old house has been remodeled to act as a training area for young adventurers. A sign marks this location as Zilor Fice Adventure House #2. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#14
+StoneRoom
+ZFAAhouse2
+Corner of a confining hallway 
+This constricted hallway runs east and west. To the south is Corner of a confining hallway.  You hear dreary screams of suffering in the distance. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#24
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+This damp corridor seems to head north, south, and west. Something indescribable makes you feel lonesome and sad here. You feel still. To the north is A captivating corridor. To the south is a guard station. To the west is a cold pit. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#15
+StoneRoom
+ZFAAhouse2
+Corner of a confining hallway 
+This musty hallway runs steeply north and south. To the east is Corner of a confining hallway.  The black ceiling is too far above you to see clearly. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#3
+CaveRoom
+ZFAAhouse2
+the laundry room 
+You have found the laundry room. It`s stinks of mold and soap in here. Maybe you should keep your visit here brief. The exit is to the west 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#4
+StoneRoom
+ZFAAhouse2
+a private beautiful cell 
+This is a wide illuminated solitary prisoner`s holding suite. Life here is illuminated and beautiful. The way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+ZFAAhouse2#17
+StoneRoom
+ZFAAhouse2
+A confining hallway 
+This dark hallway heads east and west. There is an exit to the north.  You hear lonely sounds coming from all around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#13
+CaveRoom
+ZFAAhouse2
+a cold pit 
+You`re inside a harsh pit. A pit holds prisoners in a large hole surrounded by bars. The walls here are narrow. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+ZFAAhouse2#16
+StoneRoom
+ZFAAhouse2
+Corner of a confining hallway 
+You are walking through a quiet hallway running around. To the north is Corner of a confining hallway. There is an exit to the east.  You can hear the gloomy sounds of human suffering. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#21
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+You are standing  in a large corridor that branches north, south, east, and west. This place is cracked. The roomy ceiling is too far above you to see clearly. To the north is A captivating corridor. To the south is a guard station. To the east is a damp solitary cell. To the west is a smelly solitary cell. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#19
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+You are in a ghastly corridor running north, south, east, and west. The floor has bits of bones and rotten flesh. Something indescribable makes you feel lonesome and sad here. To the north is a ghastly torture chamber. There is an exit to the south. To the east is the laundry room. To the west is A captivating corridor. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#5
+CaveRoom
+ZFAAhouse2
+a guard station 
+You are in a guard station. The exit is to the east 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#9
+CaveRoom
+ZFAAhouse2
+a smelly solitary cell 
+This is a cramped unpleasant solitary cell. This room is unilluminated and small. This place is craggy. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+ZFAAhouse2#22
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+This dour corridor branches steeply north, south, east, and west. You feel wet. You might have just stepped on a frog. To the north is a large quiet cage. There is an exit to the south. To the east is A captivating corridor. To the west is a large nasty cage. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#11
+CaveRoom
+ZFAAhouse2
+a guard station 
+This is a guard station. The exit is to the north 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#10
+CaveRoom
+ZFAAhouse2
+a ghastly torture chamber 
+This is a musty room obviously meant for pain. This wet room of suffering makes you feel sinister. You can hear the scary sounds of human suffering. The exit is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#20
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+You are standing  in an uneven corridor that branches north, south, east, and west. The moldy ceiling is too far above you to see clearly. The walls are rough. To the north is A captivating corridor. There is an exit to the south. To the east is an unpleasant solitary cell. To the west is a guard station. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#12
+CaveRoom
+ZFAAhouse2
+a guard station 
+You are standing in a guard station. The exit is to the north 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#0
+StoneRoom
+ZFAAhouse2
+Corner of a confining hallway 
+This huge hallway runs east and west. There is an exit to the north.  The floor is constricted and appears unscathed by mass footfall. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#18
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+This still corridor seems to head north, south, east, and west. You are certain you just heard a harsh scream coming from somewhere. You hear grim tortured screams in the distance. To the north is a private beautiful cell. To the south is A confining hallway. There is an exit to the east. There is an exit to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#1
+CaveRoom
+ZFAAhouse2
+a guard station 
+This is a guard station. The exit is to the east 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#8
+CaveRoom
+ZFAAhouse2
+a large nasty cage 
+This is a broad crowded unpleasant cell for common prisoners. The nasty bars make this room like a cage. Something indescribable makes you feel lonesome and sad here. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+ZFAAhouse2#7
+CaveRoom
+ZFAAhouse2
+an unpleasant solitary cell 
+This is a constricted wet cell for solitary confinement. Everything here is totally dim. You wonder if an execution occurred here. The way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+ZFAAhouse2#2
+CaveRoom
+ZFAAhouse2
+a damp solitary cell 
+This is a small scary cell for solitary confinement. This grim is unilluminated room. You might have just stepped on a frog. Escape is to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+ZFAAhouse2#23
+StoneRoom
+ZFAAhouse2
+A captivating corridor 
+This spacious corridor runs north, south, and west. A series of undecipherable scribbles sit on the walls. You think you heard a sound of faint trickling in the distance. To the north is A captivating corridor. There is an exit to the south. To the west is a guard station. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+ZFAAhouse2#6
+CaveRoom
+ZFAAhouse2
+a large quiet cage 
+This is a large dirty prisoner`s holding cell. The harsh bars make this room like a cage. dark air hovers around you. The way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#0
+CityStreet
+Silver Ford
+Center of Silver Ford 
+This is the heart of the town. People move in and out of the area, looking for work, selling and buying goods, or just socializing. The job board is crowded with young adventurers eager to prove themselves. From here, you can see the Adventure Academy to the north, Town Hall to the east, and the famous Dusty Rose Tavern to the west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3757
+WoodRoom
+Mud School
+A Room in Mud School 
+You are in a room in Mud School. Paintings of heroic graduates of mud school adorn the walls. North of you is the next station of Mud School. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#2
+CityStreet
+Silver Ford
+East end of the marketplace 
+This side of the marketplace is better kept, with smooth cobblestone and fine covered stalls. Further to the east, you can see the town hall. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Mud School#3759
+WoodRoom
+Mud School
+Zump`s Guild Room 
+You are in a room filled with weapons, books, and many combat dummies, some cut and stabbed many times, others burnt to a crisp.  The room is filled with sweat and an aura of magic.  There is a sign on the wall. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Mud School#3758
+WoodRoom
+Mud School
+Furey`s Training Room 
+You are in Furey`s Training Room.  Around you are all sorts of physical and mental training tools.  The whole room is filled with magic, holiness,  and sweat.  There is a sign on the wall. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#10
+Mountains
+Silver Ford
+The long road leading to the crater 
+The road connects to the western side of Silver Ford, and leads further north to Millgate. Not far from the bend, a massive crater is swirling with dust that never seems to settle. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#12
+CityStreet
+Silver Ford
+Dragon Road 
+The dirt here is packed hard by heavy travel. Low iron gates line the sides of the roadway, topped with sharp spikes. Smoke rises from the east, and the smell of burnt metal drifts out into the road. From the west, the sounds of shouting come through over the rhythmic stomping of marching boots. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#3
+CityStreet
+Silver Ford
+Southern End of the Marketplace 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#14
+CityStreet
+Silver Ford
+Outside the Iron Dragons Fortress 
+Thick iron-reinforced walls reach up, shielding the base of a dark fortress from view. Only the tower is visible beyond the barrier, reaching up into the sky. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#15
+CityStreet
+Silver Ford
+Courtyard of the Iron Dragons Fortress 
+A massive dark tower dominates the sky here, reaching up into the heavens. The wide open courtyard circles around the fortress, seeming to be swept up into its base. The air is thick, humid, and filled with the sounds of stomping boots, as soldiers march between the various tents and huts. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#11
+Mountains
+Silver Ford
+The Edge of the Crater 
+This is it. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#16
+CaveRoom
+Silver Ford
+In the Crater 
+The rocky surface here is rough enough to climb on. Dust permeates the air in the crater, though it is lighter near the top. The rim of the crater looms above, while there seems to be only darkness further down. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Crater#0
+CaveRoom
+Crater
+Bottom of the Crater 
+A massive rock lies here, pulsating with a dull ^rred^w light. The cloud of dust swirls above, blocking any view. The air is dry, hot, and filled with the ceaseless sounds of cracking earth. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Crater#1
+OverTheLedge
+Crater
+In the Middle of the Crater 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Crater#2
+ClimbableLedge
+Crater
+ClimbableLedge- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Crater#4
+ClimbableLedge
+Crater
+ClimbableLedge- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Crater#5
+ClimbableLedge
+Crater
+ClimbableLedge- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Crater#3
+CaveSurface
+Crater
+East Wall of the Crater 
+l 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#17
+CityStreet
+Silver Ford
+Courtyard of the Iron Dragons 
+The Iron Dragons Fortress Tower looms above, shortening every other building in this wide courtyard. A well-used wagon trail leads south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#13
+StoneRoom
+Silver Ford
+^bThe Black Hammer^N 
+This soot-covered building smells of sweat and metal. The forge radiates intense heat, and the air is filled with the constant rushing of air from the bellows. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#18
+CityStreet
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#19
+CityStreet
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#20
+CityStreet
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#21
+Road
+Silver Ford
+On a Dirth Path 
+Stuff is east and other stuff is west. North is a house or something probably. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#22
+Road
+Silver Ford
+On a Dirth Path 
+Stuff is east and other stuff is west. North is a house or something probably. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#23
+Road
+Silver Ford
+On a Dirth Path 
+Near the house. It`s big or maybe not so big. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#25
+Plains
+Silver Ford
+The Eastern Field 
+It`s a big green grassy field. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#28
+Plains
+Silver Ford
+The Eastern Field 
+It`s a big green grassy field. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#27
+Plains
+Silver Ford
+The Eastern Field 
+It`s a big green grassy field. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#29
+Plains
+Silver Ford
+The Eastern Field 
+It`s a big green grassy field. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#26
+Plains
+Silver Ford
+The Eastern Field 
+It`s a big green grassy field. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#30
+StdRoom
+Silver Ford
+StdRoom- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#32
+WoodRoom
+Silver Ford
+ An empty room 
+ This lot is for sale (look id). 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#31
+Plains
+Silver Ford
+ An empty plot 
+ This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#24
+Plains
+Silver Ford
+ An empty plot 
+ This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
+-
+AdventureHousePrison#11
+StoneRoom
+AdventureHousePrison
+A narrow passageway 
+You are in a chilling passageway running north and south.  This place is grey. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#0
+CaveRoom
+AdventureHousePrison
+an unpleasant torture chamber 
+You are in a wet cell room obviously meant for pain. Just the sight of this unpleasant room makes you talk. You hear creepy screams of suffering in the distance. Escape is to the east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#10
+StoneRoom
+AdventureHousePrison
+A narrow passageway 
+This damp passageway runs north and south. To the east is a filthy pit. To the west is a harsh prison cell.  The grey floor is bare and dirtless. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#1
+CaveRoom
+AdventureHousePrison
+a guard station 
+This is a guard station. The exit is to the west 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#3
+CaveRoom
+AdventureHousePrison
+a harsh prison cell 
+This is a cold prisoner`s holding cell. The wide floor is bare and dirtless. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#13
+StoneRoom
+AdventureHousePrison
+A interning corridor 
+You are walking through a musty corridor running east and west.  You hear sinister sounds coming from all around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#9
+StoneRoom
+AdventureHousePrison
+A narrow passageway 
+This huge passageway seems to head east and west. There is an exit to the north. To the south is A narrow passageway.  A series of undecipherable scribbles sit on the walls. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#6
+CaveRoom
+AdventureHousePrison
+a quiet prison cell 
+You`re inside a cold prisoner`s holding cell. It looks like something might have died here. A interning corridor is to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#7
+CaveRoom
+AdventureHousePrison
+the laundry room 
+You have found the laundry room. Steam floats like a fog in here. The less time spent here, the better. The exit is to the south 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#4
+CaveRoom
+AdventureHousePrison
+a filthy pit 
+This is a filthy pit. Its little more than a great hole surrounded by a metal cage. This place is quiet. Escape is to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#2
+CaveRoom
+AdventureHousePrison
+a large smelly cage 
+This is a large crowded dirty cell for common prisoners. Open grotesque bars are anchored into the floor and ceiling. The walls here are cold. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#5
+StoneRoom
+AdventureHousePrison
+a private easy cell 
+This is a broad well-lighted solitary prisoner`s holding suite. Everything here is totally well-lighted. A narrow passageway is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#8
+StoneRoom
+AdventureHousePrison
+A narrow passageway 
+This rocky passageway runs north and south. To the east is a guard station. To the west is a large smelly cage.  The wet ceiling is unsettling. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#12
+StoneRoom
+AdventureHousePrison
+A interning corridor 
+This craggy corridor heads east and west. To the north is the laundry room. To the south is a quiet prison cell.  The constricted walls are nearly pitch black. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#7
+CityStreet
+Silver Ford
+Outside a Zilor Fice Adventure House 
+This old wooden house has been remodeled to provide young adventurers with a testing course. A brightly lit sign identifies the building as a Zilor Fice Adventure House. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#14
+CaveRoom
+AdventureHousePrison
+Under the Prison 
+The air is thick and hot in this small alcove. The rough stone walls look to have been carved with some tiny implement. There are scorch marks scattered all around. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Iron Dragons Fortress#0
+LargeStoneRoom
+Iron Dragons Fortress
+Iron Dragons Foyer 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Iron Dragons Fortress#1
+LargeStoneRoom
+Iron Dragons Fortress
+An empty room 
+This lot is for sale (look id). 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>Kurjak/2000</ATEXT></AFF></AFFECS> 
+-
+Iron Dragons Fortress#2
+LargeStoneRoom
+Iron Dragons Fortress
+ An empty room 
+ This lot is for sale (look id). 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>/2000</ATEXT></AFF></AFFECS> 
+-
+Iron Dragons Fortress#3
+LargeStoneRoom
+Iron Dragons Fortress
+ An empty room 
+ This lot is for sale (look id). 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>/2000</ATEXT></AFF></AFFECS> 
+-
+Iron Dragons Fortress#4
+LargeStoneRoom
+Iron Dragons Fortress
+ An empty room 
+ This lot is for sale (look id). 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>/2000</ATEXT></AFF></AFFECS> 
+-
+Dragon`s Belly#2
+CaveRoom
+Dragon`s Belly
+a feed room 
+You are in a feed room. What the orcs call food seems to be stored here. By the smell, you are pretty sure this is another bathroom spot. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#44
+CaveRoom
+Dragon`s Belly
+A rocky passageway 
+You stand in a cramped passageway that runs steeply east and west. To the north is a checkpoint. To the south is a orc nursery.  You think you heard a sound of faint trickling in the distance. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#47
+CaveRoom
+Dragon`s Belly
+A rocky passageway 
+This craggy passageway runs steeply east and west.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#26
+CaveRoom
+Dragon`s Belly
+a store room 
+This is a store room. The orcs must store their creepy crap and junk here. You hear faint but gloomy shouting voices echoing around you. The way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#34
+CaveRoom
+Dragon`s Belly
+Intersection in a rocky north-south tube 
+You are walking through a tight tube running east and west. There is an exit to the north. To the south is A rocky north-south tube.  musty air hovers around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#4
+CaveRoom
+Dragon`s Belly
+a common room 
+You are standing in a wet orc common room. Junk and clutter is scattered all over the place.  You feel quite chaotic here. The craggy walls are nearly pitch black. The only way out of here is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#0
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+You are in a jagged tube running north and south. There is an exit to the east. There is an exit to the west.  You hear faint but lonely shouting voices echoing around you. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#22
+CaveRoom
+Dragon`s Belly
+a store room 
+You are in a store room. The orcs seem to keep their quiet crap stored here. There are several menacing stalagtites and stalagmites to navigate around. The stinky hole you came through is to the east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#23
+CaveRoom
+Dragon`s Belly
+a kitchen 
+You`ve found a creepy orc kitchen.  Pieces of orc meals are scattered about.  You can`t imagine a more disgusting spot to be standing in.  You detect offensive odors all around.. A layer of dirt upon the ground is marked with various tracks. The way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#7
+CaveRoom
+Dragon`s Belly
+a common room 
+You`ve found a smelly orc common room.  Clutter and junk are everywhere you look.  You feel quite chaotic here. It looks like something might have died here. The exit to the south is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#17
+CaveRoom
+Dragon`s Belly
+a store room 
+You`re inside a store room. This appears to be where they store their cold junk. There are several menacing stalagtites and stalagmites to navigate around. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#12
+CaveRoom
+Dragon`s Belly
+the throne room 
+You`ve found the grotesque orc throne room.  Plain and boring for the most part.  You don`t really feel in any awe. The walls here are dank. The way out of here is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#42
+CaveRoom
+Dragon`s Belly
+A rocky east-west passageway 
+You are in a constricted passageway running east and west.  A series of undecipherable scribbles sit on the walls. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#31
+CaveRoom
+Dragon`s Belly
+A short rocky north-south tube 
+You are going through a musty tube running north and south. The smooth ceiling is lower than usual. You feel black. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Dragon`s Belly#30
+CaveRoom
+Dragon`s Belly
+a kitchen 
+This is a smelly orc kitchen.  Pieces of orc meals are scattered about.  You can`t imagine a more disgusting spot to be standing in.  The stink in here is horrible. This place is smooth. The only way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#32
+CaveRoom
+Dragon`s Belly
+A short rocky north-south tube 
+You are going through a rocky tube running north and south. The craggy ceiling is lower than usual. Dust has settled on the ground from scarce use. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Dragon`s Belly#29
+CaveRoom
+Dragon`s Belly
+a checkpoint 
+You are standing in a checkpoint. You might have just stepped on a frog. The exit to the south is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#38
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+You are in a dank tube running north and south. To the east is a kitchen. To the west is a store room.  You hear grating voices nearby. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#37
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+This cold tube runs north and south. To the east is a larder. To the west is a store room.  You think you heard a sound of faint trickling in the distance. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#10
+CaveRoom
+Dragon`s Belly
+a common room 
+You`ve found a cold orc common room.  Junk and clutter is scattered all over the place.  You feel quite chaotic here. A series of undecipherable scribbles sit on the walls. The exit to the south is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#8
+CaveRoom
+Dragon`s Belly
+a common room 
+You`ve found a creepy orc common room.  Clutter and junk are everywhere you look.  You feel quite chaotic here. It looks like something might have died here. The only way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#36
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+You stand in a still tube that runs steeply north and south. To the east is a store room. To the west is a feed room.  You might have just stepped on a frog. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#21
+CaveRoom
+Dragon`s Belly
+a larder 
+This is a larder. The orcs must store their food here, if you can call it "food". Bits of a dead Elf are splayed about. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#33
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+You are in a rocky tube running north and south. To the east is a store room. To the west is a store room.  A series of undecipherable scribbles sit on the walls. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#3
+CaveRoom
+Dragon`s Belly
+a store room 
+You are standing in a store room. The orcs must store their filthy crap and junk here. There are several menacing stalagtites and stalagmites to navigate around. The only way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#46
+CaveRoom
+Dragon`s Belly
+A rocky passageway 
+You are walking through a still passageway running east and west. To the north is a kitchen. To the south is a common room.  Bits of a dead HalfElf are splayed about. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#19
+CaveRoom
+Dragon`s Belly
+a common room 
+You are standing in an eerie orc common room. Junk and clutter is scattered all over the place.  You feel quite chaotic here. Dust has settled on the ground from scarce use. The way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#15
+CaveRoom
+Dragon`s Belly
+a kitchen 
+This is a harsh orc kitchen.  Splatter and mess are everywhere you look.  You do not feel sanitary here. The first thing you notice is the stench. You feel dank. The stinky hole you came through is to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#43
+CaveRoom
+Dragon`s Belly
+A rocky east-west passageway 
+This constricted passageway runs steeply east and west. To the north is a kitchen. To the south is the throne room.  You hear the grating sounds of marching feet nearby. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#9
+CaveRoom
+Dragon`s Belly
+a larder 
+You are standing in a larder. The orcs must store their food here, if you can call it "food". You hear eerie voices nearby. The way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#41
+CaveRoom
+Dragon`s Belly
+A rocky east-west passageway 
+This narrow passageway runs steeply east and west. To the north is a common room. To the south is a kitchen.  Several faint grim argueing voices echo in the distance. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#27
+CaveRoom
+Dragon`s Belly
+a feed room 
+You are in a feed room. This appears to be where they store their foodstuff. A musty, dank smell wafts through the air. The only way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#5
+CaveRoom
+Dragon`s Belly
+a kitchen 
+You`re inside a creepy orc kitchen.  Food and clutter is scattered all over the place.  You do not feel sanitary here. A musty, dank smell wafts through the air. The musty walls are tall and sheer. The way out of here is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#14
+CaveRoom
+Dragon`s Belly
+a store room 
+You are standing in a store room. The orcs must store their smelly crap and junk here. Bits of a dead HalfElf are splayed about. The exit to the north is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#18
+CaveRoom
+Dragon`s Belly
+a orc nursery 
+You`re inside a constricted orc nursery. This place is coarse and filthy. You are astonished that orcs actually seem worse as children.  The stench is quite unbearable. You feel wet. The exit to the north is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#35
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+You are walking through a small tube running north and south. To the east is a store room. To the west is a store room.  It looks like something might have died here. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#20
+CaveRoom
+Dragon`s Belly
+a store room 
+This is a store room. This appears to be where they store their damp junk. Bits of a dead Human are splayed about. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#11
+CaveRoom
+Dragon`s Belly
+a store room 
+You`re inside a store room. This appears to be where they store their wet junk. This place is still. The exit to the north is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#13
+CaveRoom
+Dragon`s Belly
+a larder 
+You`re inside a larder. This appears to be where they store their foodstuff. A layer of dirt upon the ground is marked with various tracks. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#28
+CaveRoom
+Dragon`s Belly
+a store room 
+You are standing in a store room. What the orcs think is important seems to be stored here. You hear faint but grating shouting voices echoing around you. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#16
+CaveRoom
+Dragon`s Belly
+a checkpoint 
+This is a checkpoint. You hear faint but creepy shouting voices echoing around you. The stinky hole you came through is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#6
+CaveRoom
+Dragon`s Belly
+a kitchen 
+This is a cold orc kitchen.  Splatter and mess are everywhere you look.  This place seems downright nasty.  A musty, dank smell wafts through the air. There are several menacing stalagtites and stalagmites to navigate around. The stinky hole you came through is to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#40
+CaveRoom
+Dragon`s Belly
+A rocky east-west passageway 
+You are in a small passageway running east and west. To the north is a common room. To the south is a store room.  A layer of dirt upon the ground is marked with various tracks. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#45
+CaveRoom
+Dragon`s Belly
+A narrow rocky passageway 
+You are going through a cold passageway running east and west. The cracked ceiling is lower than usual. There are several menacing stalagtites and stalagmites to navigate around. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Dragon`s Belly#24
+CaveRoom
+Dragon`s Belly
+a feed room 
+You`re inside a feed room. The orcs seem to keep their edibles stored here. Something indescribable makes you feel lonesome and sad here. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#39
+CaveRoom
+Dragon`s Belly
+A rocky north-south tube 
+This expansive tube runs steeply north and south.  Faint gloomy sounds can be heard in the distance. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#25
+CaveRoom
+Dragon`s Belly
+a kitchen 
+You are standing in a cold orc kitchen. This place is an astounding mess. You can`t imagine a more disgusting spot to be standing in.  The foul smells here are overwhelming. You hear the gloomy sounds of marching feet nearby. The stinky hole you came through is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragon`s Belly#1
+CaveRoom
+Dragon`s Belly
+a store room 
+You`re inside a store room. This appears to be where they store their eerie junk. A series of undecipherable scribbles sit on the walls. The exit to the west is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#0
+CaveRoom
+Dragonmaw Mine
+A dark cave corridor 
+This roomy corridor runs steeply north and south.  The floor has bits of bones and rotten flesh. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#1
+CaveRoom
+Dragonmaw Mine
+a store room 
+This is a store room. The orcs seem to keep their filthy crap stored here. Dust has settled on the ground from scarce use. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#10
+CaveRoom
+Dragonmaw Mine
+a orc nursery 
+You are standing in a broad orc nursery. Everything here is grey and scary. It just didn`t seem orcs could be any worse, but they can.  The foul smells here are overwhelming. There are several menacing stalagtites and stalagmites to navigate around. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#11
+CaveRoom
+Dragonmaw Mine
+a common room 
+You`ve found a nasty orc common room.  Junk and clutter is scattered all over the place.  This place seems downright crazy.  You feel damp. The only way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#12
+CaveRoom
+Dragonmaw Mine
+a guardroom 
+You are standing in a guardroom. It looks like something might have died here. The stinky hole you came through is to the east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#13
+CaveRoom
+Dragonmaw Mine
+a orc nursery 
+You are confused by a spacious orc nursery. Everything here is rocky and creepy. You are astonished that orcs actually seem worse as children.  The first thing you notice is the stench. You hear faint but unpleasant shouting voices echoing around you. The only way out of here is south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#14
+CaveRoom
+Dragonmaw Mine
+a checkpoint 
+You are standing in a checkpoint. You thought you felt a breeze. The stinky hole you came through is to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#15
+CaveRoom
+Dragonmaw Mine
+A dark cave corridor 
+This dank corridor seems to head north and south. To the east is a larder. To the west is a common room.  The cracked walls are tall and sheer. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#16
+CaveRoom
+Dragonmaw Mine
+A dark cave corridor 
+This dour corridor runs steeply north and south. To the east is a larder. To the west is a orc nursery.  The black walls are tall and sheer. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#17
+CaveRoom
+Dragonmaw Mine
+Intersection in a dark cave corridor 
+You stand in a small corridor that runs steeply east and west. To the north is A dark cave corridor. There is an exit to the south.  Bits of a dead Gnome are splayed about. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#18
+CaveRoom
+Dragonmaw Mine
+A dark cave corridor 
+You are walking through a dank corridor running north and south. To the east is a kitchen. To the west is a store room.  A layer of dirt upon the ground is marked with various tracks. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#19
+CaveRoom
+Dragonmaw Mine
+A dark cave corridor 
+This cramped corridor runs steeply north and south. To the east is a checkpoint. To the west is a guardroom.  You hear the eerie sounds of marching feet nearby. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#2
+CaveRoom
+Dragonmaw Mine
+the throne room 
+You are standing in the scary orc throne room. Utterly unremarkable, and a bit dirty.  You can`t imagine a more boring spot in this lair to be standing in.  You might have just stepped on a frog. The only way out of here is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#20
+CaveRoom
+Dragonmaw Mine
+A dark east-west cave tunnel 
+You stand in a chilling tunnel that runs steeply east and west.  The quiet ceiling is unsettling. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#21
+CaveRoom
+Dragonmaw Mine
+A narrow dark east-west cave tunnel 
+This chilling tunnel heads east and west. The grey ceiling is very low. Several faint dour argueing voices echo in the distance. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Dragonmaw Mine#22
+CaveRoom
+Dragonmaw Mine
+Corner of a hallway 
+This expansive hallway runs steeply east and west. To the north is a common room.  Something indescribable makes you feel lonesome and sad here. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#23
+CaveRoom
+Dragonmaw Mine
+A hallway 
+This quiet hallway heads east and west. To the north is a feed room. To the south is the throne room.  You thought you felt a breeze. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#24
+CaveRoom
+Dragonmaw Mine
+A hallway 
+This narrow hallway runs east and west.  Dust has settled on the ground from scarce use. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#3
+CaveRoom
+Dragonmaw Mine
+a larder 
+You`re inside a larder. The orcs must store their food here, if you can call it "food". It looks like something might have died here. The way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#4
+CaveRoom
+Dragonmaw Mine
+a common room 
+This is an unpleasant orc common room.  Clutter and junk are everywhere you look.  This place seems downright crazy.  The narrow ceiling is unsettling. The exit to the south is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#5
+CaveRoom
+Dragonmaw Mine
+a orc nursery 
+You are confused by a wide orc nursery. Everything here is smooth and scary. You are astonished that orcs actually seem worse as children.  The foul smells here are overwhelming. Bits of a dead Gnome are splayed about. The only way out of here is north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#6
+CaveRoom
+Dragonmaw Mine
+a kitchen 
+You are standing in an unpleasant orc kitchen. Pieces of orc meals are scattered about.  This place seems downright nasty.  A musty, dank smell wafts through the air. You hear faint but grim shouting voices echoing around you. The exit to the west is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#7
+CaveRoom
+Dragonmaw Mine
+a feed room 
+This is a feed room. What the orcs call food seems to be stored here. This place is coarse. The stinky hole you came through is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#8
+CaveRoom
+Dragonmaw Mine
+a larder 
+You`re inside a larder. The orcs seem to keep their edibles stored here. The rough ceiling is too far above you to see clearly. The only way out of here is west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Dragonmaw Mine#9
+CaveRoom
+Dragonmaw Mine
+a common room 
+You`re inside an eerie orc common room.  Clutter and junk are everywhere you look.  This place seems downright crazy.  You hear lonely voices nearby. The way out of here is east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#33
+CityStreet
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#34
+LongRoad
+Silver Ford
+LongRoad- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#34
+LongRoad
+Silver Ford
+a long path leading into the forest 
+This worn pathway connects Silver Ford to the northern forest. To the north, the mountains reach into the sky. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#35
+Woods
+Silver Ford
+a quiet wooded footpath 
+You are at the entrance to Silver Ford. Silver ford is to the south.   You are traipsing through a quiet wooded footpath.  Lofty trees curve over the footpath like a canopy, blocking out most of the sky.  The footpath runs around. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#36
+Woods
+Silver Ford
+a dank clear way 
+You are at the entrance to the haunted forest. Silver ford is to the south.   a dank clear way runs through the wildwood.  Lofty trees curve over the footpath like a canopy, blocking out most of the sky.  Beneath the long shadows you can see the footpath running around. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#35
+Woods
+Silver Ford
+a quiet wooded footpath 
+You are traipsing through a quiet wooded footpath near the haunted forest. Lofty trees curve over the footpath like a canopy, blocking out most of the sky.  The footpath runs around. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 

@@ -1,6 +1,2569 @@
--
+*
 START
 ManualArchon1377751417@313b26eb
+ManualArchon
+
+ 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3701
+GenWallpaper-55917693@20da699
+GenWallpaper
+
+<NAME>plaque</NAME><DESC>This zone (Mud School) is created by Hatchet for any Merc Mud. Copyright 1992, 1993.</DESC><FLAG>13</FLAG><READ>This zone (Mud School) is created by Hatchet for any Merc Mud. Copyright 1992, 1993.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3701
+GenWallpaper-55917693@75487ae7
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Equipment check time!  Type `EQUIPMENT` to see your current equipment.  Right now, you have just a vest, a shield, and a weapon.  As you go through Mud School you will acquire a complete set of equipment. To pick up items on the ground as you see them, type `GET item`. To wear a piece of armor, type `WEAR item`. To hold a light source, type `HOLD item`. To wield a weapon, type `WIELD weapon`. To wear, hold, and wield everything you have, type `WEAR ALL`. To stop using a piece of equipment, type `REMOVE item`. Finally, to see the items in your inventory, type `INVENTORY`. When you are ready to continue, go west.</DESC><FLAG>13</FLAG><READ>Equipment check time!  Type `EQUIPMENT` to see your current equipment.  Right now, you have just a vest, a shield, and a weapon.  As you go through Mud School you will acquire a complete set of equipment. To pick up items on the ground as you see them, type `GET item`. To wear a piece of armor, type `WEAR item`. To hold a light source, type `HOLD item`. To wield a weapon, type `WIELD weapon`. To wear, hold, and wield everything you have, type `WEAR ALL`. To stop using a piece of equipment, type `REMOVE item`. Finally, to see the items in your inventory, type `INVENTORY`. When you are ready to continue, go west.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3702
+GenWallpaper-55917693@51a831ef
+GenWallpaper
+
+<NAME>sign</NAME><DESC>This is the direction practicing room.  The directions you can go in any room are: north, south, east, west, up, or down.  Of course, not all rooms have all exits available. To see the obvious exits in a room, type `EXITS`. Sometimes doors are closed, or locked, or secret.  Then you have to notice clues in the room description, or try going into that direction and seeing if you bump into a door. Try going into each direction from here.  When you are done, go NORTH.</DESC><FLAG>13</FLAG><READ>This is the direction practicing room.  The directions you can go in any room are: north, south, east, west, up, or down.  Of course, not all rooms have all exits available. To see the obvious exits in a room, type `EXITS`. Sometimes doors are closed, or locked, or secret.  Then you have to notice clues in the room description, or try going into that direction and seeing if you bump into a door. Try going into each direction from here.  When you are done, go NORTH.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3703
+GenWallpaper-55917693@390acaed
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Since you are here, let us have another lesson.  You can see the statistics on yourself by typing `SCORE`.  Do that right now.  At higher levels, `SCORE` gives you more information.</DESC><FLAG>13</FLAG><READ>Since you are here, let us have another lesson.  You can see the statistics on yourself by typing `SCORE`.  Do that right now.  At higher levels, `SCORE` gives you more information.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3704
+GenWallpaper-55917693@6e6ef53e
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Just go east to the central room.</DESC><FLAG>13</FLAG><READ>Just go east to the central room.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3705
+GenWallpaper-55917693@1ee03e32
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Sometimes, you have to squeeze through a small space to get through. To the South is a little crawl space.  To get there, you must CRAWL SOUTH.  When you are finished just go north to the central room.</DESC><FLAG>13</FLAG><READ>Sometimes, you have to squeeze through a small space to get through. To the South is a little crawl space.  To get there, you must CRAWL SOUTH.  When you are finished just go north to the central room.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3707
+GenWallpaper-55917693@1b716143
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Just go up to the central room.</DESC><FLAG>13</FLAG><READ>Just go up to the central room.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3708
+GenWallpaper-55917693@f4cb91e
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Just go down to the central room.</DESC><FLAG>13</FLAG><READ>Just go down to the central room.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3709
+GenWallpaper-55917693@1fa7aacd
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Welcome to combat training. The first lesson is knowing whom to fight.  Use the command `CONSIDER` to consider killing a monster.  Avoid fighting monsters that will kill you easily. The second lesson is running away.  There is a monster in the room down. He is too strong for you to kill, but he won`t kill you.  So go `DOWN` from here, then `CONSIDER` him, then `KILL` him.  After a while, type `FLEE` to escape from him. You can also set your character to flee automatically with the `WIMPY` command. Type `HELP WIMPY` to find out more about `WIMPY`. After you flee, you will be back in this room.  When you are ready to go on to the next station, go `WEST`.</DESC><FLAG>13</FLAG><READ>Welcome to combat training. The first lesson is knowing whom to fight.  Use the command `CONSIDER` to consider killing a monster.  Avoid fighting monsters that will kill you easily. The second lesson is running away.  There is a monster in the room down. He is too strong for you to kill, but he won`t kill you.  So go `DOWN` from here, then `CONSIDER` him, then `KILL` him.  After a while, type `FLEE` to escape from him. You can also set your character to flee automatically with the `WIMPY` command. Type `HELP WIMPY` to find out more about `WIMPY`. After you flee, you will be back in this room.  When you are ready to go on to the next station, go `WEST`.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3710
+GenWallpaper-55917693@2bc6fa34
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Remember, don`t fight the blob to the finish!  Just type `KILL BLOB`, then when you are fighting, type `FLEE`, until you flee and are out of here.</DESC><FLAG>13</FLAG><READ>Remember, don`t fight the blob to the finish!  Just type `KILL BLOB`, then when you are fighting, type `FLEE`, until you flee and are out of here.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3711
+GenWallpaper-55917693@41a8221b
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Welcome to the next station.  Here, you will actually fight real monsters, without fleeing!  Kill every mob, since they hold some equipment you need. To start, go down.</DESC><FLAG>13</FLAG><READ>Welcome to the next station.  Here, you will actually fight real monsters, without fleeing!  Kill every mob, since they hold some equipment you need. To start, go down.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3712
+GenWallpaper-55917693@32452e99
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Welcome to the cage room.  The adepts of mud school have captured some monsters for you to kill.  In the four cages are four monsters of various types.  Kill them all! After you kill each monster, get all of the equipment from their corpses with the command `GET ALL BODY`.  You can then use the command `WEAR ALL` to wear your newly won equipment. Between combat, you may need to rest or sleep to regenerate hit points. You can `REST` to regenerate hit points, or you can `SLEEP`.  `SLEEP` will refresh you faster than `REST`, but you will be less aware of your surroundings. To end your rest, type STAND or to wake up, type WAKE, or move in a direction.</DESC><FLAG>13</FLAG><READ>Welcome to the cage room.  The adepts of mud school have captured some monsters for you to kill.  In the four cages are four monsters of various types.  Kill them all! After you kill each monster, get all of the equipment from their corpses with the command `GET ALL BODY`.  You can then use the command `WEAR ALL` to wear your newly won equipment. Between combat, you may need to rest or sleep to regenerate hit points. You can `REST` to regenerate hit points, or you can `SLEEP`.  `SLEEP` will refresh you faster than `REST`, but you will be less aware of your surroundings. To end your rest, type STAND or to wake up, type WAKE, or move in a direction.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3713
+GenWallpaper-55917693@48fabd4f
+GenWallpaper
+
+<NAME>sign</NAME><DESC>There is an aggressive monster in this room.  Kill him and get out of here fast!  Remember to loot the body.</DESC><FLAG>13</FLAG><READ>There is an aggressive monster in this room.  Kill him and get out of here fast!  Remember to loot the body.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3714
+GenWallpaper-55917693@2ad8fc86
+GenWallpaper
+
+<NAME>sign</NAME><DESC>There is a wimpy, aggressive monster in this room.  Kill him and get out of here fast!  Remember to loot the body.</DESC><FLAG>13</FLAG><READ>There is a wimpy, aggressive monster in this room.  Kill him and get out of here fast!  Remember to loot the body.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3715
+GenWallpaper-55917693@15d73e7a
+GenWallpaper
+
+<NAME>sign</NAME><DESC>There is a wimpy monster in this room.  Kill him and get out of here fast! Remember to loot the body.</DESC><FLAG>13</FLAG><READ>There is a wimpy monster in this room.  Kill him and get out of here fast! Remember to loot the body.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3716
+GenWallpaper-55917693@3135c393
+GenWallpaper
+
+<NAME>sign</NAME><DESC>There is a monster in this room.  Kill him and get out of here fast! Remember to loot the body.</DESC><FLAG>13</FLAG><READ>There is a monster in this room.  Kill him and get out of here fast! Remember to loot the body.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3717
+GenWallpaper-55917693@3eaf48ee
+GenWallpaper
+
+<NAME>sign</NAME><DESC>By now, you must be hungry and thirsty.  Time to buy groceries! To the south is a store.  Inside the store, you can use these commands:    BUY    Buy an item    LIST   List what is for sale After buying some food and drink, you can `EAT` and `DRINK` it. After that, find the next exit yourself.  You may need to OPEN any closed doors.</DESC><FLAG>13</FLAG><READ>By now, you must be hungry and thirsty.  Time to buy groceries! To the south is a store.  Inside the store, you can use these commands:    BUY    Buy an item    LIST   List what is for sale After buying some food and drink, you can `EAT` and `DRINK` it. After that, find the next exit yourself.  You may need to OPEN any closed doors.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3718
+GenWallpaper-55917693@1b39ce5a
+GenWallpaper
+
+<NAME>sign</NAME><DESC>The sign reads:   BUY   - Buy something from the storekeeper.   LIST  - The storekeeper will tell you what`s for sale.   VALUE - The storekeeper will tell you how much he will give to you for           that item.   SELL  - Sell that item to the storekeeper.</DESC><FLAG>13</FLAG><READ>The sign reads:   BUY   - Buy something from the storekeeper.   LIST  - The storekeeper will tell you what`s for sale.   VALUE - The storekeeper will tell you how much he will give to you for           that item.   SELL  - Sell that item to the storekeeper.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3719
+GenWallpaper-55917693@48a8d6f8
+GenWallpaper
+
+<NAME>sign</NAME><DESC>North of you is a dark room.  I hope you still have the lantern!  If not, you have to back to the store and buy one.  Remember, you must be holding the lantern for it to shine light.  If you are holding something else, you may remove it with the REMOVE command, and then HOLD lantern. In the room is a monster with a key that you need.  After killing the monster and getting the key, come back here, UNLOCK EAST, OPEN EAST, and continue east.</DESC><FLAG>13</FLAG><READ>North of you is a dark room.  I hope you still have the lantern!  If not, you have to back to the store and buy one.  Remember, you must be holding the lantern for it to shine light.  If you are holding something else, you may remove it with the REMOVE command, and then HOLD lantern. In the room is a monster with a key that you need.  After killing the monster and getting the key, come back here, UNLOCK EAST, OPEN EAST, and continue east.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3721
+GenWallpaper-55917693@171b61e5
+GenWallpaper
+
+<NAME>sign</NAME><DESC>You have graduated from Mud School!  Take your diploma...if you can. Go `NORTH` from here to visit our arena.  There are plenty of low-level monsters, but DON`T attack other players. If you want to go directly back to the temple at any time, type `RECALL`. If you need more help during the game, type `HELP`.  If you see something wrong or have comments, use `BUG`, `IDEA`, or `TYPO` to report them. May your visit here be ... mercenary.</DESC><FLAG>13</FLAG><READ>You have graduated from Mud School!  Take your diploma...if you can. Go `NORTH` from here to visit our arena.  There are plenty of low-level monsters, but DON`T attack other players. If you want to go directly back to the temple at any time, type `RECALL`. If you need more help during the game, type `HELP`.  If you see something wrong or have comments, use `BUG`, `IDEA`, or `TYPO` to report them. May your visit here be ... mercenary.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3734
+GenWallpaper-55917693@18e303f2
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Those with high bravery or low senses of cautiousness might wish to go below to the Dungeon.  However, know that there are aggressive monsters down there, and there is no quick escape back out of here when you are in the dungeon.</DESC><FLAG>13</FLAG><READ>Those with high bravery or low senses of cautiousness might wish to go below to the Dungeon.  However, know that there are aggressive monsters down there, and there is no quick escape back out of here when you are in the dungeon.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3748
+GenLightSource-262981102@61d68cbb
+GenLightSource
+
+<NAME>a faint light shines from above</NAME><DESC /><DISP /><PROP>0|0|0|0|1|1|5|1.0|2|0|112|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>0</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ>100</READ><WORNL>false</WORNL><WORNB>512</WORNB><BURNOUT>true</BURNOUT> 
+5
+2147483647
+1
+0
+0
+-
+Mud School#3757
+GenWallpaper-55917693@7a1aba1e
+GenWallpaper
+
+<NAME>sign</NAME><DESC>To find out your attributes, type `score`.  You can improve your attributes in Furey`s Training Room to the west.  You can practice your skills and spells in Zump`s Guild Room to the east.  You can continue through mud school by going north. If you are a new character, you should go `WEST` from here, train your abilities, and then come back here and go `NORTH`.</DESC><FLAG>13</FLAG><READ>To find out your attributes, type `score`.  You can improve your attributes in Furey`s Training Room to the west.  You can practice your skills and spells in Zump`s Guild Room to the east.  You can continue through mud school by going north. If you are a new character, you should go `WEST` from here, train your abilities, and then come back here and go `NORTH`.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3758
+GenWallpaper-55917693@19e12480
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Welcome to Furey`s Training Room.  Here you can TRAIN your attributes.  To  TRAIN an attribute, you need enough training sessions.  To find out how many training sessions you have, type `TRAIN` while you are in this room.  To train for a  specific attribute, type `TRAIN <attr>` where attr is the first 3 letters of the attribute you want increased. You can also train to be a new subclass.  Type `HELP TRAIN` for more information on that command.  Use `QUALIFY` to find out about any subclasses you may qualify to train for.</DESC><FLAG>13</FLAG><READ>Welcome to Furey`s Training Room.  Here you can TRAIN your attributes.  To  TRAIN an attribute, you need enough training sessions.  To find out how many training sessions you have, type `TRAIN` while you are in this room.  To train for a  specific attribute, type `TRAIN <attr>` where attr is the first 3 letters of the attribute you want increased. You can also train to be a new subclass.  Type `HELP TRAIN` for more information on that command.  Use `QUALIFY` to find out about any subclasses you may qualify to train for.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3759
+GenWallpaper-55917693@5f54ec8d
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Welcome to Zump`s Guild Room.  Here you will learn your skills and spells. To find out what skills and spells you can practice, type SKILLS, SPELLS, PRAYERS, CHANTS or SONGS.  To find out how many practice sessions you have, type `SCORE`.  To practice the specific skill, type `PRACTICE <skill>`, where `skill` is the skill or spell you wish to practice.  To find out what new skills or spells you can learn, enter `QUALIFY`.  To gain a new spell or skill, type `GAIN <skill>`.  Practicing increases the amount you know of that skill or spell, up to a certain maximum.  When you have practiced all you wish to practice, go west.</DESC><FLAG>13</FLAG><READ>Welcome to Zump`s Guild Room.  Here you will learn your skills and spells. To find out what skills and spells you can practice, type SKILLS, SPELLS, PRAYERS, CHANTS or SONGS.  To find out how many practice sessions you have, type `SCORE`.  To practice the specific skill, type `PRACTICE <skill>`, where `skill` is the skill or spell you wish to practice.  To find out what new skills or spells you can learn, enter `QUALIFY`.  To gain a new spell or skill, type `GAIN <skill>`.  Practicing increases the amount you know of that skill or spell, up to a certain maximum.  When you have practiced all you wish to practice, go west.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3759
+GenItem1296013554@60c94d0d
+GenItem
+
+<NAME>a practice dummy</NAME><DESC /><DISP>a beaten up practice dummy sits here waiting to be hit again.</DISP><PROP>0|0|0|0|0|1|200|1.0|180|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+200
+2147483647
+1
+0
+0
+-
+Mud School#3759
+GenJournal-1456811784@7e8bba6d
+GenJournal
+
+<NAME>a beginner journal</NAME><DESC>Use the READ command to read the journal, and WRITE to add your own entries.</DESC><DISP>a beginner`s journal sits here.</DISP><PROP>0|0|0|0|0|0|100|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>2368</MTRAL><READ>1039049213093</READ><WORNL>false</WORNL><WORNB>512</WORNB><MAXPG>0</MAXPG><MAXCHPG>0</MAXCHPG> 
+100
+2147483647
+0
+0
+0
+-
+Mud School#3761
+GenWallpaper-55917693@27b819ca
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Good job.  You may have noticed that crawling takes longer than walking.  This is why you wouldn`t want to go crawling all the time.  Now, some classes have the ability to climb.  If you have that skill, you may climb up from here to the next room.  If not,, return north by crawling again.</DESC><FLAG>13</FLAG><READ>Good job.  You may have noticed that crawling takes longer than walking.  This is why you wouldn`t want to go crawling all the time.  Now, some classes have the ability to climb.  If you have that skill, you may climb up from here to the next room.  If not,, return north by crawling again.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3762
+GenWallpaper-55917693@58f65b48
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Good job.  In order to leave, you will need to climb down.</DESC><FLAG>13</FLAG><READ>Good job.  In order to leave, you will need to climb down.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3762
+GenReadable-2024912305@325bbd18
+GenReadable
+
+<NAME>A simple scroll.</NAME><DESC>It seems to be the story of Zoe the Monk.</DESC><DISP>an unadorned scroll is rolled up here.</DISP><PROP>0|0|0|0|0|1|2147483647|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2368</MTRAL><READ>FILE=/quests/books/monk.txt</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+2147483647
+2147483647
+1
+0
+0
+-
+ZFAAhouse2#3
+GenTub1842932802@4f88828a
+GenTub
+
+<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@76afd7ff
+GenArmor
+GenTub1842932802@4f88828a
+<NAME>a polyester headband</NAME><DESC>a polyester headband.  </DESC><DISP>a polyester headband lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>455</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>1</LAYA> 
+0
+100
+2
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@369cb265
+GenArmor
+GenTub1842932802@4f88828a
+<NAME>some feathers children`s pants</NAME><DESC>some feathers children`s pants.  </DESC><DISP>some feathers children`s pants lies here</DISP><PROP>0|0|0|0|0|-3|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+-3
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@5d169150
+GenArmor
+GenTub1842932802@4f88828a
+<NAME>a cotton onesie</NAME><DESC>a cotton onesie.  </DESC><DISP>a cotton onesie lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>23</VALUE><MTRAL>314</MTRAL><READ /><WORNL>true</WORNL><WORNB>16388</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@5e85bffb
+GenArmor
+GenTub1842932802@4f88828a
+<NAME>some wool children`s pants</NAME><DESC>some wool children`s pants.  </DESC><DISP>some wool children`s pants lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>312</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@569d8bfb
+GenArmor
+GenTub1842932802@4f88828a
+<NAME>a wool skirt</NAME><DESC>a wool skirt.  </DESC><DISP>a wool skirt lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>312</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>1</LAYA> 
+0
+100
+2
+0
+0
+-
+ZFAAhouse2#3
+GenTub1842932802@35fd760
+GenTub
+
+<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenRideable1611913393@5c114d7
+GenRideable
+GenTub1842932802@35fd760
+<NAME>a feathers sleeping bag</NAME><DESC>a feathers sleeping bag.  </DESC><DISP>a feathers sleeping bag lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>4</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>6</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+2
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@6c34992e
+GenArmor
+GenTub1842932802@35fd760
+<NAME>a wool children`s long sleeve shirt</NAME><DESC>a wool children`s long sleeve shirt.  </DESC><DISP>a wool children`s long sleeve shirt lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>55</VALUE><MTRAL>312</MTRAL><READ /><WORNL>true</WORNL><WORNB>60</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@1f3d8934
+GenArmor
+GenTub1842932802@35fd760
+<NAME>a pointy cotton cap</NAME><DESC>a pointy cotton cap.  </DESC><DISP>a pointy cotton cap lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
+0
+100
+2
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@25451b7b
+GenArmor
+GenTub1842932802@35fd760
+<NAME>a cotton shawl</NAME><DESC>a cotton shawl.  </DESC><DISP>a cotton shawl lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>3</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>2</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
+0
+100
+1
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@282fc4a8
+GenArmor
+GenTub1842932802@35fd760
+<NAME>a denim kid`s shirt</NAME><DESC>a denim kid`s shirt.  </DESC><DISP>a denim kid`s shirt lies here</DISP><PROP>0|3|0|0|0|3|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>48</VALUE><MTRAL>456</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+3
+0
+0
+-
+ZFAAhouse2#3
+GenTub1842932802@1cc371cb
+GenTub
+
+<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@601ac56a
+GenArmor
+GenTub1842932802@1cc371cb
+<NAME>a cotton shirt</NAME><DESC>a cotton shirt.  </DESC><DISP>a cotton shirt lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+2
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@139d9474
+GenArmor
+GenTub1842932802@1cc371cb
+<NAME>a feathers skirt</NAME><DESC>a feathers skirt.  </DESC><DISP>a feathers skirt lies here</DISP><PROP>0|0|0|0|0|-1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>1</LAYA> 
+0
+100
+-1
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@1e8edbbf
+GenArmor
+GenTub1842932802@1cc371cb
+<NAME>a wool children`s long sleeve shirt</NAME><DESC>a wool children`s long sleeve shirt.  </DESC><DISP>a wool children`s long sleeve shirt lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>55</VALUE><MTRAL>312</MTRAL><READ /><WORNL>true</WORNL><WORNB>60</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@48525642
+GenArmor
+GenTub1842932802@1cc371cb
+<NAME>a pointy cotton cap</NAME><DESC>a pointy cotton cap.  </DESC><DISP>a pointy cotton cap lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
+0
+100
+2
+0
+0
+-
+ZFAAhouse2#3
+GenArmor-292055729@7ed5ebb7
+GenArmor
+GenTub1842932802@1cc371cb
+<NAME>some feathers pants</NAME><DESC>some feathers pants.  </DESC><DISP>some feathers pants lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>8</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#4
+GenBed1842915010@438afa7e
+GenBed
+
+<NAME>a frilly bed</NAME><DESC /><DISP>a frilly bed is made here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>2</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+ZFAAhouse2#4
+GenChair1515812038@704fc5ca
+GenChair
+
+<NAME>a puffed chair</NAME><DESC /><DISP>a puffed chair is waiting to be rested upon</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+ZFAAhouse2#4
+GenTub1842932802@eaf902c
+GenTub
+
+<NAME>a beautiful tub</NAME><DESC /><DISP>a beautiful tub is here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+ZFAAhouse2#4
+GenCigar1515847347@167e7ef5
+GenCigar
+
+<NAME>a puffed cigar</NAME><DESC /><DISP>a puffed cigar is here waiting to be enjoyed.</DISP><PROP>0|0|0|0|0|0|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1902</MTRAL><READ /><WORNL>false</WORNL><WORNB>262144</WORNB><CAPA>0</CAPA><CONT>8192</CONT><OPENTK>30</OPENTK><BURNOUT>true</BURNOUT> 
+0
+2147483647
+0
+0
+0
+-
+ZFAAhouse2#4
+GenItem1296013554@2b32f4e
+GenItem
+
+<NAME>a bronze chisel</NAME><DESC /><DISP>a bronze chisel lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+3
+0
+0
+-
+ZFAAhouse2#16
+GenItem1296013554@19bc40dc
+GenItem
+
+<NAME>a crushed lead sewing needle</NAME><DESC /><DISP>a crushed lead sewing needle is sitting here</DISP><PROP>0|0|0|0|0|3|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+3
+0
+0
+-
+ZFAAhouse2#22
+GenEmptyDrink-1288477206@e47e7d7
+GenEmptyDrink
+
+<NAME>a small bottle</NAME><DESC /><DISP>a small bottle lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>1</VALUE><MTRAL>1599</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>100</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>100</DRINK> 
+0
+2147483647
+3
+0
+0
+-
+ZFAAhouse2#10
+GenChair1515812038@574f77b0
+GenChair
+
+<NAME>a copper stockade</NAME><DESC>a copper stockade.  </DESC><DISP>a copper stockade lies here</DISP><PROP>0|0|0|0|0|16|0|1.0|50|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Torture(/HITONLY)</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>550</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>51</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+16
+0
+0
+-
+ZFAAhouse2#10
+GenChair1515812038@2f54bd60
+GenChair
+
+<NAME>a silk whipping post</NAME><DESC>a silk whipping post.  </DESC><DISP>a silk whipping post lies here</DISP><PROP>0|0|0|0|0|15|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Torture(/HITONLY)</ATEXT></AFF></AFFECS><FLAG>27</FLAG><IDENT /><VALUE>2010</VALUE><MTRAL>341</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>11</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+15
+0
+0
+-
+ZFAAhouse2#2
+GenFood1295919677@794f1176
+GenFood
+
+<NAME>a dead cockroach</NAME><DESC /><DISP>a dead cockroach lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>1</CAPA2><BITE>0</BITE> 
+0
+2147483647
+3
+0
+0
+-
+Mud School#3700
+GenWallpaper-55917693@55245b78
+GenWallpaper
+
+<NAME>a sign</NAME><DESC>it looks like a warning sign.  (Type `READ sign` to read it`s message.)</DESC><FLAG>13</FLAG><READ>You may not pass these doors once you have passed level 5.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Silver Ford#24
+GenWallpaper-55917693@5dd98e36
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#24.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#24.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Silver Ford#31
+GenWallpaper-55917693@53bce12d
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#31.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#31.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Silver Ford#32
+GenWallpaper-55917693@7ab54d16
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#32.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#32.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+AdventureHousePrison#0
+GenBed1842915010@11e3afe5
+GenBed
+
+<NAME>the machine</NAME><DESC>the machine made from chromium. </DESC><DISP>the machine lies here</DISP><PROP>0|0|0|0|0|25|0|1.0|5000|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Spell_Torture(/&lt;S-NAME&gt; let(s) out a scream of ultimate suffering!)</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>402000</VALUE><MTRAL>942</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5001</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+25
+0
+0
+-
+AdventureHousePrison#0
+GenRideable1611913393@48fab4e2
+GenRideable
+
+<NAME>a titanium gallows</NAME><DESC>a titanium gallows.  </DESC><DISP>a titanium gallows lies here</DISP><PROP>0|0|0|0|0|17|0|1.0|200|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Choke</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>15500</VALUE><MTRAL>956</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>203</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>3</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+17
+0
+0
+-
+AdventureHousePrison#13
+GenKey1842923680@673dc6c7
+GenKey
+
+<NAME>a pulverized bronze key</NAME><DESC /><DISP>a pulverized bronze key lies here</DISP><PROP>0|0|0|0|0|4|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>803</MTRAL><READ>opensnothing</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+4
+0
+0
+-
+AdventureHousePrison#7
+GenTub1842932802@1662bc43
+GenTub
+
+<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@4326a4a4
+GenArmor
+GenTub1842932802@1662bc43
+<NAME>a hemp long-sleeve onesie</NAME><DESC>a hemp long-sleeve onesie.  </DESC><DISP>a hemp long-sleeve onesie lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|14|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>28</VALUE><MTRAL>315</MTRAL><READ /><WORNL>true</WORNL><WORNB>16444</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@7b4706a
+GenArmor
+GenTub1842932802@1662bc43
+<NAME>some feathers children`s dress</NAME><DESC>some feathers children`s dress.  </DESC><DISP>some feathers children`s dress lies here</DISP><PROP>0|0|0|0|0|-3|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>45</VALUE><MTRAL>313</MTRAL><READ /><WORNL>true</WORNL><WORNB>16388</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+-3
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@7ebbbabf
+GenArmor
+GenTub1842932802@1662bc43
+<NAME>a hemp bikini</NAME><DESC>a hemp bikini.  </DESC><DISP>a hemp bikini lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>18</VALUE><MTRAL>315</MTRAL><READ /><WORNL>true</WORNL><WORNB>16388</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-3</LAYR><LAYA>1</LAYA> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@15393236
+GenArmor
+GenTub1842932802@1662bc43
+<NAME>some feathers tights</NAME><DESC>some feathers tights.  </DESC><DISP>some feathers tights lies here</DISP><PROP>0|0|0|0|0|-2|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-4</LAYR><LAYA>0</LAYA> 
+0
+100
+-2
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@634cb7b1
+GenArmor
+GenTub1842932802@1662bc43
+<NAME>a feathers hood</NAME><DESC>a feathers hood.  </DESC><DISP>a feathers hood lies here</DISP><PROP>0|1|0|0|0|4|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>11</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+4
+0
+0
+-
+AdventureHousePrison#7
+GenTub1842932802@2fa99cb3
+GenTub
+
+<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@47dfac92
+GenArmor
+GenTub1842932802@2fa99cb3
+<NAME>a wool nightgown</NAME><DESC>a wool nightgown.  </DESC><DISP>a wool nightgown lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>45</VALUE><MTRAL>312</MTRAL><READ /><WORNL>true</WORNL><WORNB>16388</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>0</LAYA> 
+0
+100
+2
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@64129894
+GenArmor
+GenTub1842932802@2fa99cb3
+<NAME>a fur children`s tunic</NAME><DESC>a fur children`s tunic.  </DESC><DISP>a fur children`s tunic lies here</DISP><PROP>0|3|0|0|0|3|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>63</VALUE><MTRAL>309</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+3
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@3866bea2
+GenArmor
+GenTub1842932802@2fa99cb3
+<NAME>a wool halter</NAME><DESC>a wool halter.  </DESC><DISP>a wool halter lies here</DISP><PROP>0|3|0|0|0|3|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>33</VALUE><MTRAL>312</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>1</LAYA> 
+0
+100
+3
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@3e916720
+GenArmor
+GenTub1842932802@2fa99cb3
+<NAME>a hemp children`s scarf</NAME><DESC>a hemp children`s scarf.  </DESC><DISP>a hemp children`s scarf lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>2</VALUE><MTRAL>315</MTRAL><READ /><WORNL>false</WORNL><WORNB>2</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
+0
+100
+0
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@410f75c
+GenArmor
+GenTub1842932802@2fa99cb3
+<NAME>a feathers bodice</NAME><DESC>a feathers bodice.  </DESC><DISP>a feathers bodice lies here</DISP><PROP>0|3|0|0|0|3|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>33</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>0</LAYA> 
+0
+100
+3
+0
+0
+-
+AdventureHousePrison#7
+GenTub1842932802@520758d2
+GenTub
+
+<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+100
+0
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@74360972
+GenArmor
+GenTub1842932802@520758d2
+<NAME>a feathers onesie</NAME><DESC>a feathers onesie.  </DESC><DISP>a feathers onesie lies here</DISP><PROP>0|0|0|0|0|-3|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>45</VALUE><MTRAL>313</MTRAL><READ /><WORNL>true</WORNL><WORNB>16388</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>0</LAYA> 
+0
+100
+-3
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@79283af8
+GenArmor
+GenTub1842932802@520758d2
+<NAME>some wool slippers</NAME><DESC>some wool slippers.  </DESC><DISP>some wool slippers lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>312</MTRAL><READ /><WORNL>false</WORNL><WORNB>256</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@4cb5ea9a
+GenArmor
+GenTub1842932802@520758d2
+<NAME>a feathers children`s tunic</NAME><DESC>a feathers children`s tunic.  </DESC><DISP>a feathers children`s tunic lies here</DISP><PROP>0|0|0|0|0|-3|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>30</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+-3
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@4f1c4e47
+GenArmor
+GenTub1842932802@520758d2
+<NAME>some feathers armbands</NAME><DESC>some feathers armbands.  </DESC><DISP>some feathers armbands lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>8</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>1</LAYA> 
+0
+100
+0
+0
+0
+-
+AdventureHousePrison#7
+GenArmor-292055729@ba5b34f
+GenArmor
+GenTub1842932802@520758d2
+<NAME>some polyester slippers</NAME><DESC>some polyester slippers.  </DESC><DISP>some polyester slippers lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>455</MTRAL><READ /><WORNL>false</WORNL><WORNB>256</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#5
+GenBed1842915010@3f26cb76
+GenBed
+
+<NAME>a luxuriant bed</NAME><DESC /><DISP>a luxuriant bed is made here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>2</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#5
+GenChair1515812038@7b72fbd3
+GenChair
+
+<NAME>a cozy chair</NAME><DESC /><DISP>a cozy chair is waiting to be rested upon</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#5
+GenMirror33263070@25ae5947
+GenMirror
+
+<NAME>a mirror</NAME><DESC>You see yourself in it!</DESC><DISP>a mirror is for gazing in</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1599</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+1
+0
+0
+-
+AdventureHousePrison#5
+GenCigar1515847347@44ab5173
+GenCigar
+
+<NAME>a cozy cigar</NAME><DESC /><DISP>a cozy cigar is here waiting to be enjoyed.</DISP><PROP>0|0|0|0|0|0|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1902</MTRAL><READ /><WORNL>false</WORNL><WORNB>262144</WORNB><CAPA>0</CAPA><CONT>8192</CONT><OPENTK>30</OPENTK><BURNOUT>true</BURNOUT> 
+0
+2147483647
+0
+0
+0
+*
+Silver Ford#7
+GenWallpaper-55917693@26cf59f2
+GenWallpaper
+
+<NAME>a bright sign flashes with magical light</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON^w \\nTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><FLAG>13</FLAG><READ /> 
+0
+2147483647
+0
+0
+0
+-
+AdventureHousePrison#14
+GenWallpaper-55917693@6173420e
+GenWallpaper
+
+<NAME>a dread sigil is painted on the floor here. ^w(^rglowing^w)</NAME><DESC>The circular sigil appears to have been drawn in blood.</DESC><FLAG>9</FLAG><READ /> 
+0
+2147483647
+0
+0
+0
+*
+Iron Dragons Fortress#1
+GenWallpaper-55917693@282c2157
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#2
+GenWallpaper-55917693@436da6f8
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#2.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#2.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#3
+GenWallpaper-55917693@2d428c74
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#3.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#3.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#4
+GenWallpaper-55917693@2050b14
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#4.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#4.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#2
+GenFoodResource-1387739797@69ed783b
+GenFoodResource
+
+<NAME>some quiet bread</NAME><DESC /><DISP>some quiet bread is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1898</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#2
+GenFoodResource-1387739797@1c9a1d0a
+GenFoodResource
+
+<NAME>some filthy fish</NAME><DESC /><DISP>some filthy fish is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2054</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#26
+GenItem1296013554@3e31b8b2
+GenItem
+
+<NAME>a stone weight</NAME><DESC>a stone weight.  </DESC><DISP>a stone weight lies here</DISP><PROP>0|0|0|0|0|8|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+8
+0
+0
+-
+Dragon`s Belly#26
+GenFood1295919677@4016acc9
+GenFood
+
+<NAME>lemon preserves</NAME><DESC>It looks good!</DESC><DISP>some lemon preserves is here</DISP><PROP>0|0|0|0|0|6|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1810</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+6
+0
+0
+-
+Dragon`s Belly#26
+GenAmmunition-829073982@4a83cf8
+GenAmmunition
+
+<NAME>a pack of 50 bullets</NAME><DESC>a pack of 50 bullets made from stone. </DESC><DISP>a pack of 50 bullets lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>6</VALUE><MTRAL>2585</MTRAL><READ>bullets</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+50
+6
+0
+0
+-
+Dragon`s Belly#26
+GenEmptyDrink-1288477206@44e29c7c
+GenEmptyDrink
+
+<NAME>a marble flower pot</NAME><DESC>a marble flower pot.  </DESC><DISP>a marble flower pot lies here</DISP><PROP>0|0|0|0|0|5|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>201</VALUE><MTRAL>2590</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>20</CAPA><CONT>65537</CONT><OPENTK>30</OPENTK><CAPA2>500</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+5
+0
+0
+-
+Dragon`s Belly#26
+GenFood1295919677@77a5587a
+GenFood
+
+<NAME>moldy cheese</NAME><DESC>It looks good!</DESC><DISP>some moldy cheese is here</DISP><PROP>0|0|0|0|0|4|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2050</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>0</CAPA2><BITE>0</BITE> 
+0
+2147483647
+4
+0
+0
+-
+Dragon`s Belly#4
+GenChair1515812038@9524448
+GenChair
+
+<NAME>a brass chair</NAME><DESC>a brass chair.  </DESC><DISP>a brass chair lies here</DISP><PROP>0|0|0|0|0|33|0|1.0|11|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>430</VALUE><MTRAL>812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+33
+0
+0
+-
+Dragon`s Belly#4
+GenChair1515812038@393af6f
+GenChair
+
+<NAME>an aluminum bench</NAME><DESC>an aluminum bench.  </DESC><DISP>an aluminum bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>300560</VALUE><MTRAL>955</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragon`s Belly#4
+GenRideable1611913393@2b3ad4e7
+GenRideable
+
+<NAME>a flowers hammock</NAME><DESC>a flowers hammock.  </DESC><DISP>a flowers hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1891</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragon`s Belly#22
+GenFood1295919677@2a0c2a3
+GenFood
+
+<NAME>flour</NAME><DESC>It looks good!</DESC><DISP>some flour is here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1799</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#22
+GenFood1295919677@472a71f3
+GenFood
+
+<NAME>cooked olives</NAME><DESC>It looks good!</DESC><DISP>some cooked olives is here</DISP><PROP>0|0|0|0|0|4|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+4
+0
+0
+-
+Dragon`s Belly#22
+GenFood1295919677@17fb1416
+GenFood
+
+<NAME>cooked olives</NAME><DESC>It looks good!</DESC><DISP>some cooked olives is here</DISP><PROP>0|0|0|0|0|4|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+4
+0
+0
+-
+Dragon`s Belly#22
+GenArmor-292055729@4ac0f81b
+GenArmor
+
+<NAME>a spiked aluminum banded vest</NAME><DESC>a spiked aluminum banded vest.  </DESC><DISP>a spiked aluminum banded vest lies here</DISP><PROP>0|9|0|0|0|1|0|1.0|30|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_WearAdjuster</ACLASS><ATEXT>Dam+1</ATEXT></AFF></AFFECS><FLAG>27</FLAG><IDENT /><VALUE>225135</VALUE><MTRAL>955</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>2</LAYR><LAYA>1</LAYA> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#22
+GenWeapon-1482921244@4e719e3a
+GenWeapon
+
+<NAME>a small ivory club</NAME><DESC>a small ivory club.  </DESC><DISP>a small ivory club lies here</DISP><PROP>0|0|-9|6|0|2|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>87</VALUE><MTRAL>2663</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>1</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+2
+0
+0
+-
+Dragon`s Belly#23
+GenTable1531304399@7ed6c690
+GenTable
+
+<NAME>a nasty chopping table</NAME><DESC /><DISP>a nasty chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#23
+GenEmptyDrink-1288477206@7ead565
+GenEmptyDrink
+
+<NAME>a copper dutch oven</NAME><DESC>a copper dutch oven.  </DESC><DISP>a copper dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>218</VALUE><MTRAL>807</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragon`s Belly#23
+GenContainer-1941569022@5cec6ba8
+GenContainer
+
+<NAME>an iron pan</NAME><DESC>an iron pan.  </DESC><DISP>an iron pan lies here</DISP><PROP>0|0|0|0|0|14|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>60</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>196608</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+14
+0
+0
+-
+Dragon`s Belly#23
+GenEmptyDrink-1288477206@4d335c11
+GenEmptyDrink
+
+<NAME>an iron bowl</NAME><DESC>an iron bowl.  </DESC><DISP>an iron bowl lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>21</VALUE><MTRAL>801</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>7</CAPA><CONT>131073</CONT><OPENTK>30</OPENTK><CAPA2>300</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#7
+GenChair1515812038@14c96f52
+GenChair
+
+<NAME>an iron chair</NAME><DESC>an iron chair.  </DESC><DISP>an iron chair lies here</DISP><PROP>0|0|0|0|0|33|0|1.0|11|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>450</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+33
+0
+0
+-
+Dragon`s Belly#7
+GenChair1515812038@6727bb4e
+GenChair
+
+<NAME>a white gold bench</NAME><DESC>a white gold bench.  </DESC><DISP>a white gold bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>3560</VALUE><MTRAL>943</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragon`s Belly#7
+GenArmor-292055729@30cb6e4
+GenArmor
+
+<NAME>some scales pants</NAME><DESC>some scales pants.  </DESC><DISP>some scales pants lies here</DISP><PROP>0|6|0|0|0|7|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>86</VALUE><MTRAL>564</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>17</CAPA><CONT>2</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+7
+0
+0
+-
+Dragon`s Belly#17
+GenFood1295919677@5a40dbee
+GenFood
+
+<NAME>cactus preserves</NAME><DESC>It looks good!</DESC><DISP>some cactus preserves is here</DISP><PROP>0|0|0|0|0|7|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1814</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+7
+0
+0
+-
+Dragon`s Belly#17
+GenSailingShip268705134@15d43f14
+GenSailingShip
+
+<NAME>the unireme [NEWNAME]</NAME><DESC>This unireme is a very slow one-masted light transport ship.</DESC><DISP>the unireme [NEWNAME] is here.</DISP><PROP>1|0|0|0|0|2|0|1.0|4000|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><CLOSTX /><DOORNM>gangplank</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>UNNAMED_011483102#0</KEYNM><OPENTK>0</OPENTK><IDENT /><VALUE>90000</VALUE><MTRAL>1452</MTRAL><READ>UNNAMED_011483102#0</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>0</OPENTK><SSAREA>&lt;AREA&gt;&lt;ACLAS&gt;StdBoardableShip&lt;/ACLAS&gt;&lt;ANAME&gt;UNNAMED_011483102&lt;/ANAME&gt;&lt;ADESC /&gt;&lt;ACLIM&gt;0&lt;/ACLIM&gt;&lt;ASUBS /&gt;&lt;ATECH&gt;0&lt;/ATECH&gt;&lt;ADATA&gt;&lt;ARCHP /&gt;&lt;PARENTS /&gt;&lt;CHILDREN /&gt;&lt;PREJFC /&gt;&lt;IGNMSK /&gt;&lt;BUDGET /&gt;&lt;DEVALR /&gt;&lt;INVRER&gt;0&lt;/INVRER&gt;&lt;IPRICS /&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;AUTHOR /&gt;&lt;CURRENCY /&gt;&lt;DISP /&gt;&lt;BLURBS /&gt;&lt;AATMO&gt;-1&lt;/AATMO&gt;&lt;/ADATA&gt;&lt;AROOMS&gt;&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_011483102#0&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_011483102&lt;/RAREA&gt;&lt;RCLAS&gt;ShipDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR /&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_011483102#2&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_011483102#1&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_011483102#1&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_011483102&lt;/RAREA&gt;&lt;RCLAS&gt;ShipLightGunDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Light Weapon Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_011483102#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_011483102#2&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_011483102&lt;/RAREA&gt;&lt;RCLAS&gt;ShipDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_011483102#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;/AROOMS&gt;&lt;/AREA&gt;</SSAREA><PORTID>Coffee Grounds#73</PORTID><RIDET>6</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><OWNERID /><PRICE>1000</PRICE> 
+0
+100
+2
+1
+0
+-
+Dragon`s Belly#17
+GenSailingShip268705134@58991d95
+GenSailingShip
+
+<NAME>the tiny yacht [NEWNAME]</NAME><DESC>This yacht is a slow one-masted light pleasure ship.\n</DESC><DISP>the one-masted yacht [NEWNAME] is here.</DISP><PROP>2|0|0|0|0|5|0|1.0|4500|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><CLOSTX /><DOORNM>gangplank</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>UNNAMED_018651805#0</KEYNM><OPENTK>0</OPENTK><IDENT /><VALUE>380000</VALUE><MTRAL>1416</MTRAL><READ>UNNAMED_018651805#0</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>0</OPENTK><SSAREA>&lt;AREA&gt;&lt;ACLAS&gt;StdBoardableShip&lt;/ACLAS&gt;&lt;ANAME&gt;UNNAMED_018651805&lt;/ANAME&gt;&lt;ADESC /&gt;&lt;ACLIM&gt;0&lt;/ACLIM&gt;&lt;ASUBS /&gt;&lt;ATECH&gt;0&lt;/ATECH&gt;&lt;ADATA&gt;&lt;ARCHP /&gt;&lt;PARENTS /&gt;&lt;CHILDREN /&gt;&lt;PREJFC /&gt;&lt;IGNMSK /&gt;&lt;BUDGET /&gt;&lt;DEVALR /&gt;&lt;INVRER&gt;0&lt;/INVRER&gt;&lt;IPRICS /&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;AUTHOR /&gt;&lt;CURRENCY /&gt;&lt;DISP /&gt;&lt;BLURBS /&gt;&lt;AATMO&gt;-1&lt;/AATMO&gt;&lt;/ADATA&gt;&lt;AROOMS&gt;&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_018651805#0&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_018651805&lt;/RAREA&gt;&lt;RCLAS&gt;ShipDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR /&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_018651805#3&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_018651805#1&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_018651805#1&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_018651805&lt;/RAREA&gt;&lt;RCLAS&gt;ShipLightGunDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Light Weapon Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_018651805#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_018651805#2&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_018651805&lt;/RAREA&gt;&lt;RCLAS&gt;ShipQuarter&lt;/RCLAS&gt;&lt;RDISP&gt;Captain`s Quarters&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;0&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;4&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_018651805#3&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_018651805#3&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_018651805&lt;/RAREA&gt;&lt;RCLAS&gt;ShipDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;5&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_018651805#2&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_018651805#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;/AROOMS&gt;&lt;/AREA&gt;</SSAREA><PORTID>Coffee Grounds#73</PORTID><RIDET>6</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><OWNERID /><PRICE>1000</PRICE> 
+0
+100
+5
+2
+0
+-
+Dragon`s Belly#17
+GenRideable1611913393@1adbd8f2
+GenRideable
+
+<NAME>a hemp rope</NAME><DESC>a hemp rope.  </DESC><DISP>a hemp rope lies here</DISP><PROP>0|0|0|0|0|4|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>315</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>11</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>7</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+4
+0
+0
+-
+Dragon`s Belly#17
+GenInstrument1191140998@4698ffec
+GenInstrument
+
+<NAME>a pair of cymbals</NAME><DESC>a pair of cymbals made from spruce. </DESC><DISP>a pair of cymbals lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>60</VALUE><MTRAL>1423</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><INSTRTYPE>CYMBALS</INSTRTYPE> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#12
+GenChair1515812038@7a0db206
+GenChair
+
+<NAME>a small orc throne</NAME><DESC /><DISP>a small orc throne is here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#12
+GenContainer-1941569022@7cc8c5
+GenContainer
+
+<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Dragon`s Maw 2 thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#12
+GenResource-1498817939@e62da91
+GenResource
+GenContainer-1941569022@7cc8c5
+<NAME>a silver bar</NAME><DESC /><DISP>a silver bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>30</VALUE><MTRAL>804</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#12
+GenResource-1498817939@41105d5c
+GenResource
+GenContainer-1941569022@7cc8c5
+<NAME>a jade gemstone</NAME><DESC /><DISP>a jade gemstone sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>50</VALUE><MTRAL>3104</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#30
+GenTable1531304399@3d12525d
+GenTable
+
+<NAME>a wet chopping table</NAME><DESC /><DISP>a wet chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#30
+GenEmptyDrink-1288477206@32442907
+GenEmptyDrink
+
+<NAME>a tin dutch oven</NAME><DESC>a tin dutch oven.  </DESC><DISP>a tin dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>218</VALUE><MTRAL>808</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragon`s Belly#30
+GenEmptyDrink-1288477206@5e7a11c5
+GenEmptyDrink
+
+<NAME>a duranium pitcher</NAME><DESC>a duranium pitcher.  </DESC><DISP>a duranium pitcher lies here</DISP><PROP>0|0|0|0|0|11|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>338</VALUE><MTRAL>959</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+11
+0
+0
+-
+Dragon`s Belly#30
+GenEmptyDrink-1288477206@2d2a18a0
+GenEmptyDrink
+
+<NAME>a gold cup</NAME><DESC>a gold cup.  </DESC><DISP>a gold cup lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>151</VALUE><MTRAL>805</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>6</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>250</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#10
+GenChair1515812038@2e886a53
+GenChair
+
+<NAME>an iron bench</NAME><DESC>an iron bench.  </DESC><DISP>an iron bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>960</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragon`s Belly#10
+GenChair1515812038@44d9ff54
+GenChair
+
+<NAME>a dragonscales chair</NAME><DESC>a dragonscales chair.  </DESC><DISP>a dragonscales chair lies here</DISP><PROP>0|0|0|0|0|33|0|1.0|11|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>750</VALUE><MTRAL>944</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+33
+0
+0
+-
+Dragon`s Belly#10
+GenRideable1611913393@25a5e0f2
+GenRideable
+
+<NAME>a vine hammock</NAME><DESC>a vine hammock.  </DESC><DISP>a vine hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1890</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragon`s Belly#8
+GenChair1515812038@747fdf84
+GenChair
+
+<NAME>a platinum bench</NAME><DESC>a platinum bench.  </DESC><DISP>a platinum bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>15560</VALUE><MTRAL>839</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragon`s Belly#8
+GenRideable1611913393@7e41d32d
+GenRideable
+
+<NAME>a flowers hammock</NAME><DESC>a flowers hammock.  </DESC><DISP>a flowers hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1891</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragon`s Belly#8
+GenArmor-292055729@419fb636
+GenArmor
+
+<NAME>some scales pants</NAME><DESC>some scales pants.  </DESC><DISP>some scales pants lies here</DISP><PROP>0|6|0|0|0|7|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>86</VALUE><MTRAL>564</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>17</CAPA><CONT>2</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+7
+0
+0
+-
+Dragon`s Belly#8
+GenWeapon-1482921244@370cfa72
+GenWeapon
+
+<NAME>a sharpened yew stick</NAME><DESC /><DISP>a sharpened yew stick is sitting here</DISP><PROP>0|0|0|1|0|8|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>113</VALUE><MTRAL>1388</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>5</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+8
+0
+0
+-
+Dragon`s Belly#21
+GenFoodResource-1387739797@1b9fc5b3
+GenFoodResource
+
+<NAME>some quiet meat</NAME><DESC /><DISP>some quiet meat is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#21
+GenFoodResource-1387739797@97af86e
+GenFoodResource
+
+<NAME>some creepy mushrooms</NAME><DESC /><DISP>some creepy mushrooms is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1888</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#3
+GenStaff-1436557032@720044b4
+GenStaff
+
+<NAME>a beechwood quarterstaff</NAME><DESC>a beechwood quarterstaff.  </DESC><DISP>a beechwood quarterstaff lies here</DISP><PROP>0|0|2|9|0|5|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ItemSlot</ACLASS><ATEXT>NUM=1 REMOVABLE=FALSE TYPE="crown" LEVEL="HIGH" ; &lt;ITEMS&gt;&lt;/ITEMS&gt;</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>196</VALUE><MTRAL>1420</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><MAXUSE>6</MAXUSE><ENCHTYPE>ANY</ENCHTYPE><SPELL /><TYPE>3</TYPE><CLASS>10</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+6
+5
+0
+0
+-
+Dragon`s Belly#3
+GenAmmunition-829073982@62e59ad4
+GenAmmunition
+
+<NAME>a hickory flaming bolt</NAME><DESC>a hickory flaming bolt.  </DESC><DISP>a hickory flaming bolt lies here</DISP><PROP>0|0|0|0|0|7|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Burning</ACLASS><ATEXT /></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1331</MTRAL><READ>ballista-bolts</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+1
+7
+0
+0
+-
+Dragon`s Belly#3
+GenItem1296013554@26bdc232
+GenItem
+
+<NAME>an obsidian toy</NAME><DESC>an obsidian toy.  </DESC><DISP>an obsidian toy lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>51</VALUE><MTRAL>2589</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#3
+GenResource-1498817939@275b3e96
+GenResource
+
+<NAME>a crushed silicon</NAME><DESC>a crushed silicon.  </DESC><DISP>a crushed silicon lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a crushed silicon</IDENT><VALUE>11</VALUE><MTRAL>2758</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#3
+GenLiquidResource178579593@578eeb2d
+GenLiquidResource
+
+<NAME>stale water</NAME><DESC>It looks good!</DESC><DISP>some stale water is here.</DISP><PROP>0|0|0|0|0|3|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT>stale water</IDENT><VALUE>1</VALUE><MTRAL>2876</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2876</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+3
+0
+0
+-
+Dragon`s Belly#19
+GenChair1515812038@2e332fdf
+GenChair
+
+<NAME>a copper chair</NAME><DESC>a copper chair.  </DESC><DISP>a copper chair lies here</DISP><PROP>0|0|0|0|0|33|0|1.0|11|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>350</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+33
+0
+0
+-
+Dragon`s Belly#19
+GenChair1515812038@4cc31021
+GenChair
+
+<NAME>a bronze bench</NAME><DESC>a bronze bench.  </DESC><DISP>a bronze bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>760</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragon`s Belly#19
+GenArmor-292055729@2c4263c1
+GenArmor
+
+<NAME>some scales pants</NAME><DESC>some scales pants.  </DESC><DISP>some scales pants lies here</DISP><PROP>0|6|0|0|0|7|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>86</VALUE><MTRAL>564</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>17</CAPA><CONT>2</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+7
+0
+0
+-
+Dragon`s Belly#19
+GenRideable1611913393@54afbd51
+GenRideable
+
+<NAME>a seaweed hammock</NAME><DESC>a seaweed hammock.  </DESC><DISP>a seaweed hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1816</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragon`s Belly#15
+GenTable1531304399@5ac64cbe
+GenTable
+
+<NAME>a creepy chopping table</NAME><DESC /><DISP>a creepy chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#15
+GenEmptyDrink-1288477206@53b4c347
+GenEmptyDrink
+
+<NAME>a duranium dutch oven</NAME><DESC>a duranium dutch oven.  </DESC><DISP>a duranium dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>963</VALUE><MTRAL>959</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragon`s Belly#15
+GenEmptyDrink-1288477206@40493236
+GenEmptyDrink
+
+<NAME>an atlantite pitcher</NAME><DESC>an atlantite pitcher.  </DESC><DISP>an atlantite pitcher lies here</DISP><PROP>0|0|0|0|0|11|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>420</VALUE><MTRAL>1185</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+11
+0
+0
+-
+Dragon`s Belly#15
+GenEmptyDrink-1288477206@75997fb9
+GenEmptyDrink
+
+<NAME>a white gold cup</NAME><DESC>a white gold cup.  </DESC><DISP>a white gold cup lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>151</VALUE><MTRAL>943</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>6</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>250</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#9
+GenFoodResource-1387739797@3d0590e8
+GenFoodResource
+
+<NAME>some muddy fish</NAME><DESC /><DISP>some muddy fish is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2054</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#9
+GenFoodResource-1387739797@4d2df4de
+GenFoodResource
+
+<NAME>some smelly mushrooms</NAME><DESC /><DISP>some smelly mushrooms is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1888</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#27
+GenFoodResource-1387739797@31f71cb4
+GenFoodResource
+
+<NAME>some musty meat</NAME><DESC /><DISP>some musty meat is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#27
+GenFoodResource-1387739797@43187be4
+GenFoodResource
+
+<NAME>some musty bread</NAME><DESC /><DISP>some musty bread is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1898</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#5
+GenTable1531304399@577589bf
+GenTable
+
+<NAME>an eerie chopping table</NAME><DESC /><DISP>an eerie chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#5
+GenEmptyDrink-1288477206@a8fd2c2
+GenEmptyDrink
+
+<NAME>an ultranium dutch oven</NAME><DESC>an ultranium dutch oven.  </DESC><DISP>an ultranium dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>1043</VALUE><MTRAL>958</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragon`s Belly#5
+GenEmptyDrink-1288477206@6ff5573d
+GenEmptyDrink
+
+<NAME>a duranium pitcher</NAME><DESC>a duranium pitcher.  </DESC><DISP>a duranium pitcher lies here</DISP><PROP>0|0|0|0|0|11|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>338</VALUE><MTRAL>959</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+11
+0
+0
+-
+Dragon`s Belly#5
+GenContainer-1941569022@79b1c733
+GenContainer
+
+<NAME>a titanium pan</NAME><DESC>a titanium pan.  </DESC><DISP>a titanium pan lies here</DISP><PROP>0|0|0|0|0|14|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>170</VALUE><MTRAL>956</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>196608</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+14
+0
+0
+-
+Dragon`s Belly#5
+GenEmptyDrink-1288477206@2f291cb
+GenEmptyDrink
+
+<NAME>a steel cup</NAME><DESC>a steel cup.  </DESC><DISP>a steel cup lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>76</VALUE><MTRAL>811</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>6</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>250</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#14
+GenFood1295919677@19f3e832
+GenFood
+
+<NAME>malt</NAME><DESC>It looks good!</DESC><DISP>some malt is here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1887</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#14
+GenPaper1527623565@5197156c
+GenPaper
+
+<NAME>a piece of paper</NAME><DESC>a piece of paper.  </DESC><DISP>a piece of paper lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>151</VALUE><MTRAL>414</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><MAXPG>1</MAXPG><MAXCHPG>2000</MAXCHPG> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#14
+GenItem1296013554@2f462e46
+GenItem
+
+<NAME>a stone stepping stone</NAME><DESC>a stone stepping stone.  </DESC><DISP>a stone stepping stone lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|16|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>16</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#14
+GenItem1296013554@fb16f00
+GenItem
+
+<NAME>a carved moonstone charm of somebody</NAME><DESC>a carved moonstone charm of somebody. </DESC><DISP>a carved moonstone charm of somebody is here</DISP><PROP>0|0|0|0|0|5|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ItemSlotFiller</ACLASS><ATEXT>num=1 type=jewelcharm removable=true</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>100</VALUE><MTRAL>3206</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+5
+0
+0
+-
+Dragon`s Belly#14
+GenItem1296013554@985b4bc
+GenItem
+
+<NAME>a gold ornament</NAME><DESC>a gold ornament.  </DESC><DISP>a gold ornament lies here</DISP><PROP>0|0|0|0|0|9|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>152</VALUE><MTRAL>805</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+9
+0
+0
+-
+Dragon`s Belly#20
+GenStaff-1436557032@60d0fc95
+GenStaff
+
+<NAME>a copper-shod staff</NAME><DESC>a copper-shod staff made from cedar. </DESC><DISP>a copper-shod staff lies here</DISP><PROP>0|0|1|6|0|2|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ItemSlot</ACLASS><ATEXT>NUM=1 REMOVABLE=FALSE TYPE="crown" LEVEL="HIGH" ; &lt;ITEMS&gt;&lt;/ITEMS&gt;</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>158</VALUE><MTRAL>1417</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><MAXUSE>6</MAXUSE><ENCHTYPE>ANY</ENCHTYPE><SPELL /><TYPE>3</TYPE><CLASS>10</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+6
+2
+0
+0
+-
+Dragon`s Belly#20
+GenWeapon-1482921244@7e7adad7
+GenWeapon
+
+<NAME>a long gold staff</NAME><DESC>a long gold staff.  </DESC><DISP>a long gold staff lies here</DISP><PROP>0|0|2|15|0|8|0|1.0|17|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>2012</VALUE><MTRAL>805</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>10</CLASS><MINR>0</MINR><MAXR>1</MAXR> 
+0
+100
+8
+0
+0
+-
+Dragon`s Belly#20
+GenArmor-292055729@7ab76377
+GenArmor
+
+<NAME>an onyx wedding band</NAME><DESC>an onyx wedding band.  </DESC><DISP>an onyx wedding band lies here</DISP><PROP>0|2|0|0|0|1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_WearSpellCast</ACLASS><ATEXT>Prayer_Fidelity</ATEXT></AFF></AFFECS><FLAG>27</FLAG><IDENT /><VALUE>119</VALUE><MTRAL>3200</MTRAL><READ /><WORNL>false</WORNL><WORNB>192</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>1</LAYA> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#20
+GenSailingShip268705134@5eb308c9
+GenSailingShip
+
+<NAME>the barge [NEWNAME]</NAME><DESC>This barge is a very slow mast-less medium weaponless open-decked ship.</DESC><DISP>the barge [NEWNAME] is here.</DISP><PROP>1|0|0|0|0|3|0|1.0|16000|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><CLOSTX /><DOORNM>gangplank</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>UNNAMED_79850303#0</KEYNM><OPENTK>0</OPENTK><IDENT /><VALUE>160000</VALUE><MTRAL>1329</MTRAL><READ>UNNAMED_79850303#0</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>0</OPENTK><SSAREA>&lt;AREA&gt;&lt;ACLAS&gt;StdBoardableShip&lt;/ACLAS&gt;&lt;ANAME&gt;UNNAMED_79850303&lt;/ANAME&gt;&lt;ADESC /&gt;&lt;ACLIM&gt;0&lt;/ACLIM&gt;&lt;ASUBS /&gt;&lt;ATECH&gt;0&lt;/ATECH&gt;&lt;ADATA&gt;&lt;ARCHP /&gt;&lt;PARENTS /&gt;&lt;CHILDREN /&gt;&lt;PREJFC /&gt;&lt;IGNMSK /&gt;&lt;BUDGET /&gt;&lt;DEVALR /&gt;&lt;INVRER&gt;0&lt;/INVRER&gt;&lt;IPRICS /&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;AUTHOR /&gt;&lt;CURRENCY /&gt;&lt;DISP /&gt;&lt;BLURBS /&gt;&lt;AATMO&gt;-1&lt;/AATMO&gt;&lt;/ADATA&gt;&lt;AROOMS&gt;&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#0&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR /&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;2&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#2&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#4&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#1&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#1&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;2&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#3&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#6&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#2&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#5&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#3&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#3&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#1&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#2&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#7&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#4&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;2&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#5&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#0&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#5&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#4&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;0&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#2&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#6&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;2&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#7&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#1&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;AROOM&gt;&lt;ROOMID&gt;UNNAMED_79850303#7&lt;/ROOMID&gt;&lt;RAREA&gt;UNNAMED_79850303&lt;/RAREA&gt;&lt;RCLAS&gt;WoodenDeck&lt;/RCLAS&gt;&lt;RDISP&gt;The Cargo Deck&lt;/RDISP&gt;&lt;RDESC /&gt;&lt;RTEXT&gt;&lt;RCLIM&gt;-1&lt;/RCLIM&gt;&lt;RATMO&gt;-1&lt;/RATMO&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS&gt;&lt;AFF&gt;&lt;ACLASS&gt;Prop_ReqCapacity&lt;/ACLASS&gt;&lt;ATEXT&gt;items=1000 weight=10000 siegeweapons=0&lt;/ATEXT&gt;&lt;/AFF&gt;&lt;/AFFECS&gt;&lt;/RTEXT&gt;&lt;ROOMEXITS&gt;&lt;REXIT&gt;&lt;XDIRE&gt;3&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#6&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;REXIT&gt;&lt;XDIRE&gt;1&lt;/XDIRE&gt;&lt;XDOOR&gt;UNNAMED_79850303#3&lt;/XDOOR&gt;&lt;XEXIT&gt;&lt;EXID&gt;StdOpenDoorway&lt;/EXID&gt;&lt;EXDAT /&gt;&lt;/XEXIT&gt;&lt;/REXIT&gt;&lt;/ROOMEXITS&gt;&lt;ROOMCONTENT&gt;&lt;ROOMMOBS /&gt;&lt;ROOMITEMS /&gt;&lt;/ROOMCONTENT&gt;&lt;/AROOM&gt;\n&lt;/AROOMS&gt;&lt;/AREA&gt;</SSAREA><PORTID>Coffee Grounds#73</PORTID><RIDET>6</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><OWNERID /><PRICE>1000</PRICE> 
+0
+100
+3
+1
+0
+-
+Dragon`s Belly#20
+GenBoat1295800095@396073de
+GenBoat
+
+<NAME>an oak umiak</NAME><DESC>an oak umiak.  </DESC><DISP>an oak umiak lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_MoveRestrictor</ACLASS><ATEXT>nolocales="oceangrid,oceanthingrid,saltwatersurface,saltwatersurfacecolumn,saltwaterthinsurface" message="&lt;S-NAME&gt; is not an ocean-worthy vessel!" public=false</ATEXT></AFF></AFFECS><FLAG>27</FLAG><IDENT /><VALUE>560</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>751</CAPA><CONT>200</CONT><OPENTK>30</OPENTK><RIDET>1</RIDET><RIDEC>2</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR>paddled by</STATESUBJSTR><RIDERSTR>paddle(s)</RIDERSTR> 
+0
+100
+6
+0
+0
+-
+Dragon`s Belly#11
+GenItem1296013554@11e4ba47
+GenItem
+
+<NAME>a sand stepping stone</NAME><DESC>a sand stepping stone.  </DESC><DISP>a sand stepping stone lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|16|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>16</VALUE><MTRAL>2591</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#11
+GenFood1295919677@5009cfd7
+GenFood
+
+<NAME>cheese</NAME><DESC>It looks good!</DESC><DISP>some cheese is here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>162</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>0</CAPA2><BITE>0</BITE> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#11
+GenLiquidResource178579593@16ba705f
+GenLiquidResource
+
+<NAME>flysting</NAME><DESC>It looks good!</DESC><DISP>some flysting is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Sting</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>flysting</IDENT><VALUE>1</VALUE><MTRAL>2876</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2876</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#11
+GenCage1295816603@2c7e0fd5
+GenCage
+
+<NAME>a redwood cage</NAME><DESC>a redwood cage.  </DESC><DISP>a redwood cage lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|36|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>507</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>1330</MTRAL><READ>0.9398435802965032</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>285</CAPA><CONT>576</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+6
+0
+0
+-
+Dragon`s Belly#11
+GenMultiPotion1011305626@187cbe9f
+GenMultiPotion
+
+<NAME>a potion of locate plants</NAME><DESC /><DISP>a potion of locate plants sits here.</DISP><PROP>0|0|0|0|64|2|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>200</VALUE><MTRAL>1599</MTRAL><READ>Chant_LocatePlants</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>100</CAPA2><REMAN>100</REMAN><LTYPE>2878</LTYPE><DRINK>10</DRINK> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#13
+GenFoodResource-1387739797@569a5afa
+GenFoodResource
+
+<NAME>some eerie bread</NAME><DESC /><DISP>some eerie bread is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1898</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#13
+GenFoodResource-1387739797@30c69a0c
+GenFoodResource
+
+<NAME>some quiet meat</NAME><DESC /><DISP>some quiet meat is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#28
+GenGrapples-1056805021@615bd30
+GenGrapples
+
+<NAME>an iron grapples</NAME><DESC>an iron grapples.  </DESC><DISP>an iron grapples lies here</DISP><PROP>0|0|0|0|0|8|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><CLOSTX /><DOORNM /><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>0</OPENTK><IDENT /><VALUE>25</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>10000</CAPA><CONT>0</CONT><OPENTK>0</OPENTK><RIDET>6</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+2147483647
+8
+0
+0
+-
+Dragon`s Belly#28
+GenResource-1498817939@43e80d25
+GenResource
+
+<NAME>a bolt of cotton</NAME><DESC>It's just cotton.</DESC><DISP>a bolt of cotton sits here.</DISP><PROP>0|0|0|0|0|2|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a bolt of cotton</IDENT><VALUE>10</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT>COTTON</RSUBT> 
+0
+2147483647
+2
+0
+0
+-
+Dragon`s Belly#28
+GenAmmunition-829073982@1f34b22a
+GenAmmunition
+
+<NAME>a maple bolt</NAME><DESC>a maple bolt.  </DESC><DISP>a maple bolt lies here</DISP><PROP>0|0|0|0|0|5|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1329</MTRAL><READ>ballista-bolts</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+1
+5
+0
+0
+-
+Dragon`s Belly#28
+GenPaper1527623565@62417f15
+GenPaper
+
+<NAME>a flyer</NAME><DESC>a flyer made from paper. </DESC><DISP>a flyer lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>315</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><MAXPG>1</MAXPG><MAXCHPG>500</MAXCHPG> 
+0
+2147483647
+3
+0
+0
+-
+Dragon`s Belly#28
+GenLiquidResource178579593@4916a250
+GenLiquidResource
+
+<NAME>flysting</NAME><DESC>It looks good!</DESC><DISP>some flysting is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Sting</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>flysting</IDENT><VALUE>1</VALUE><MTRAL>2876</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2876</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#6
+GenTable1531304399@41dcc007
+GenTable
+
+<NAME>a grotesque chopping table</NAME><DESC /><DISP>a grotesque chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#6
+GenEmptyDrink-1288477206@174b013b
+GenEmptyDrink
+
+<NAME>an adamantite dutch oven</NAME><DESC>an adamantite dutch oven.  </DESC><DISP>an adamantite dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>1043</VALUE><MTRAL>1066</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragon`s Belly#6
+GenEmptyDrink-1288477206@7e366e58
+GenEmptyDrink
+
+<NAME>a silver pitcher</NAME><DESC>a silver pitcher.  </DESC><DISP>a silver pitcher lies here</DISP><PROP>0|0|0|0|0|11|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>80</VALUE><MTRAL>804</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+11
+0
+0
+-
+Dragon`s Belly#24
+GenFoodResource-1387739797@54895d5a
+GenFoodResource
+
+<NAME>some musty mushrooms</NAME><DESC /><DISP>some musty mushrooms is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1888</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#24
+GenFoodResource-1387739797@6b87cd48
+GenFoodResource
+
+<NAME>some filthy fish</NAME><DESC /><DISP>some filthy fish is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2054</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragon`s Belly#25
+GenTable1531304399@6a191c82
+GenTable
+
+<NAME>a harsh chopping table</NAME><DESC /><DISP>a harsh chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragon`s Belly#25
+GenEmptyDrink-1288477206@5c897beb
+GenEmptyDrink
+
+<NAME>an adamantite dutch oven</NAME><DESC>an adamantite dutch oven.  </DESC><DISP>an adamantite dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>1043</VALUE><MTRAL>1066</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragon`s Belly#25
+GenContainer-1941569022@28b77fc0
+GenContainer
+
+<NAME>an adamantite pan</NAME><DESC>an adamantite pan.  </DESC><DISP>an adamantite pan lies here</DISP><PROP>0|0|0|0|0|14|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>370</VALUE><MTRAL>1066</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>17</CAPA><CONT>196608</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+14
+0
+0
+-
+Dragon`s Belly#1
+GenCage1295816603@4a140f72
+GenCage
+
+<NAME>a small yew cage</NAME><DESC>a small yew cage.  </DESC><DISP>a small yew cage lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>507</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1388</MTRAL><READ>0.46371595168389523</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>110</CAPA><CONT>576</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#1
+GenLiquidResource178579593@700b51f8
+GenLiquidResource
+
+<NAME>flysting</NAME><DESC>It looks good!</DESC><DISP>some flysting is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Sting</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>flysting</IDENT><VALUE>1</VALUE><MTRAL>2876</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2876</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragon`s Belly#1
+GenFood1295919677@195b313b
+GenFood
+
+<NAME>cream</NAME><DESC>It looks good!</DESC><DISP>some cream is here</DISP><PROP>0|0|0|0|0|10|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2050</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>0</CAPA2><BITE>0</BITE> 
+0
+2147483647
+10
+0
+0
+-
+Dragon`s Belly#1
+GenItem1296013554@65a30462
+GenItem
+
+<NAME>an iron whisk</NAME><DESC>an iron whisk.  </DESC><DISP>an iron whisk lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>50</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+6
+0
+0
+-
+Dragon`s Belly#1
+GenFood1295919677@fa6f83b
+GenFood
+
+<NAME>roofie</NAME><DESC>It looks good!</DESC><DISP>some roofie is here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Slumberall</ACLASS><ATEXT /></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2050</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>200</CAPA2><BITE>50</BITE> 
+0
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#1
+GenFood1295919677@fdc00b7
+GenFood
+
+<NAME>tart</NAME><DESC>It looks good!</DESC><DISP>some tart is here</DISP><PROP>0|0|0|0|0|5|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1808</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>300</CAPA2><BITE>75</BITE> 
+0
+2147483647
+5
+0
+0
+-
+Dragonmaw Mine#1
+GenPlayerBook1890970633@6e556c79
+GenPlayerBook
+
+<NAME>the log book</NAME><DESC>the log book made from paper. </DESC><DISP>the log book lies here</DISP><PROP>0|0|0|0|0|4|0|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>30</VALUE><MTRAL>315</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><MAXPG>2</MAXPG><MAXCHPG>5000</MAXCHPG> 
+0
+2147483647
+4
+0
+0
+-
+Dragonmaw Mine#1
+GenResource-1498817939@56018eff
+GenResource
+
+<NAME>a bolt of cotton</NAME><DESC>It's just cotton.</DESC><DISP>a bolt of cotton sits here.</DISP><PROP>0|0|0|0|0|2|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a bolt of cotton</IDENT><VALUE>10</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT>COTTON</RSUBT> 
+0
+2147483647
+2
+0
+0
+-
+Dragonmaw Mine#1
+GenFood1295919677@2dfd818a
+GenFood
+
+<NAME>fried tomatoes</NAME><DESC>It looks good!</DESC><DISP>some fried tomatoes is here</DISP><PROP>0|0|0|0|0|3|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>100</CAPA2><BITE>25</BITE> 
+0
+2147483647
+3
+0
+0
+-
+Dragonmaw Mine#11
+GenChair1515812038@1524e4b0
+GenChair
+
+<NAME>an ultranium bench</NAME><DESC>an ultranium bench.  </DESC><DISP>an ultranium bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>4060</VALUE><MTRAL>958</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragonmaw Mine#11
+GenRideable1611913393@5b326681
+GenRideable
+
+<NAME>a wheat hammock</NAME><DESC>a wheat hammock.  </DESC><DISP>a wheat hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1799</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragonmaw Mine#2
+GenChair1515812038@72feacd3
+GenChair
+
+<NAME>a little scraggy orc throne</NAME><DESC /><DISP>a little scraggy orc throne is here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragonmaw Mine#2
+GenContainer-1941569022@37dde03d
+GenContainer
+
+<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Dragon`s Maw thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#2
+GenResource-1498817939@1ddf3b57
+GenResource
+GenContainer-1941569022@37dde03d
+<NAME>a lead novelty</NAME><DESC /><DISP>a lead novelty sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#2
+GenResource-1498817939@73ccaba4
+GenResource
+GenContainer-1941569022@37dde03d
+<NAME>a bronze novelty</NAME><DESC /><DISP>a bronze novelty sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#2
+GenResource-1498817939@7453193a
+GenResource
+GenContainer-1941569022@37dde03d
+<NAME>a lead bar</NAME><DESC /><DISP>a lead bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#20
+GenItem1296013554@476fb504
+GenItem
+
+<NAME>a string of tiny prayer bones</NAME><DESC /><DISP>a string of tiny prayer bones lie here</DISP><PROP>0|0|0|0|0|5|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+5
+0
+0
+-
+Dragonmaw Mine#3
+GenFoodResource-1387739797@2cd7d385
+GenFoodResource
+
+<NAME>some dirty meat</NAME><DESC /><DISP>some dirty meat is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#3
+GenFoodResource-1387739797@483640cb
+GenFoodResource
+
+<NAME>some unpleasant mushrooms</NAME><DESC /><DISP>some unpleasant mushrooms is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1888</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#4
+GenChair1515812038@6f90ac7e
+GenChair
+
+<NAME>a titanium bench</NAME><DESC>a titanium bench.  </DESC><DISP>a titanium bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>2060</VALUE><MTRAL>956</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragonmaw Mine#4
+GenChair1515812038@38e8b18a
+GenChair
+
+<NAME>a bronze chair</NAME><DESC>a bronze chair.  </DESC><DISP>a bronze chair lies here</DISP><PROP>0|0|0|0|0|33|0|1.0|11|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>350</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+33
+0
+0
+-
+Dragonmaw Mine#4
+GenWeapon-1482921244@1a77f36a
+GenWeapon
+
+<NAME>a leather whip</NAME><DESC>a leather whip.  </DESC><DISP>a leather whip lies here</DISP><PROP>0|0|-7|7|0|6|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>227</VALUE><MTRAL>566</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>1</TYPE><CLASS>3</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+6
+0
+0
+-
+Dragonmaw Mine#4
+GenRideable1611913393@706e4f06
+GenRideable
+
+<NAME>a seaweed hammock</NAME><DESC>a seaweed hammock.  </DESC><DISP>a seaweed hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1816</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragonmaw Mine#6
+GenTable1531304399@5886f767
+GenTable
+
+<NAME>a smelly chopping table</NAME><DESC /><DISP>a smelly chopping table is here</DISP><PROP>0|0|0|0|0|1|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Dragonmaw Mine#6
+GenEmptyDrink-1288477206@7f20c5f7
+GenEmptyDrink
+
+<NAME>a mithril dutch oven</NAME><DESC>a mithril dutch oven.  </DESC><DISP>a mithril dutch oven lies here</DISP><PROP>0|0|0|0|0|51|0|1.0|6|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>668</VALUE><MTRAL>1065</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>40</CAPA><CONT>196609</CONT><OPENTK>30</OPENTK><CAPA2>1750</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+51
+0
+0
+-
+Dragonmaw Mine#6
+GenEmptyDrink-1288477206@130f13e7
+GenEmptyDrink
+
+<NAME>a copper cup</NAME><DESC>a copper cup.  </DESC><DISP>a copper cup lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>11</VALUE><MTRAL>807</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>6</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>250</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#7
+GenFoodResource-1387739797@193d98cf
+GenFoodResource
+
+<NAME>some muddy meat</NAME><DESC /><DISP>some muddy meat is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#7
+GenFoodResource-1387739797@72c63024
+GenFoodResource
+
+<NAME>some nasty fish</NAME><DESC /><DISP>some nasty fish is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2054</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#8
+GenFoodResource-1387739797@a764b3a
+GenFoodResource
+
+<NAME>some wet fish</NAME><DESC /><DISP>some wet fish is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2054</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#8
+GenFoodResource-1387739797@7ff8415b
+GenFoodResource
+
+<NAME>some creepy bread</NAME><DESC /><DISP>some creepy bread is stored here</DISP><PROP>0|0|0|0|0|0|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1898</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /><CAPA2>200</CAPA2><BITE>0</BITE> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#9
+GenChair1515812038@5205dc03
+GenChair
+
+<NAME>a titanium bench</NAME><DESC>a titanium bench.  </DESC><DISP>a titanium bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>2060</VALUE><MTRAL>956</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragonmaw Mine#9
+GenChair1515812038@5c7d5ec3
+GenChair
+
+<NAME>a platinum chair</NAME><DESC>a platinum chair.  </DESC><DISP>a platinum chair lies here</DISP><PROP>0|0|0|0|0|33|0|1.0|11|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>7750</VALUE><MTRAL>839</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+33
+0
+0
+-
+Dragonmaw Mine#9
+GenRideable1611913393@572fa6bf
+GenRideable
+
+<NAME>a feathers hammock</NAME><DESC>a feathers hammock.  </DESC><DISP>a feathers hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+6
+0
+0
+-
+Dragonmaw Mine#9
+GenArmor-292055729@66edab1d
+GenArmor
+
+<NAME>some leather pants</NAME><DESC>some leather pants.  </DESC><DISP>some leather pants lies here</DISP><PROP>0|6|0|0|0|6|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>86</VALUE><MTRAL>566</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>17</CAPA><CONT>2</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+6
+0
+0
+-
+Silver Ford#13
+GenRideable1611913393@6ba63b0b
+GenRideable
+
+<NAME>a stone stove</NAME><DESC>a stone stove.  </DESC><DISP>a stone stove lies here</DISP><PROP>0|0|0|0|0|26|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Burning</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>This is the work of Ermiel.</IDENT><VALUE>1100</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>200</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+26
+0
+0
+-
+Iron Dragons Fortress#1
+GenWallpaper-55917693@d3b8c2c
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenContainer-1941569022@6c3a5284
+GenContainer
+
+<NAME>The wardens chest</NAME><DESC /><DISP>The wardens chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@4f5be966
+Ration
+GenContainer-1941569022@6c3a5284
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@165f8e09
+Ration
+GenContainer-1941569022@6c3a5284
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@44d96f0b
+Ration
+GenContainer-1941569022@6c3a5284
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@31aca353
+Ration
+GenContainer-1941569022@6c3a5284
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenLiquidResource178579593@48246b64
+GenLiquidResource
+GenContainer-1941569022@6c3a5284
+<NAME>glowgell</NAME><DESC>It looks good!</DESC><DISP>some glowgell is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Glowgell</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>glowgell</IDENT><VALUE>1</VALUE><MTRAL>2910</MTRAL><READ>2910</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2910</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Silver Ford#7
+GenWallpaper-55917693@2623ad8a
+GenWallpaper
+
+<NAME>a brightly flashing sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON^w \\nTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><FLAG>13</FLAG><READ /> 
+0
+2147483647
+0
+0
+0
+-
+START
+ManualArchon1377751417@56698caa
 ManualArchon
 
  

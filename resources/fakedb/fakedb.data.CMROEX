@@ -1,0 +1,3306 @@
+-
+Mud School#3704
+2
+OpenDescriptable
+You see the central room.
+Mud School#3702
+-
+Mud School#3707
+4
+OpenDescriptable
+You see the central room.
+Mud School#3702
+-
+Mud School#3702
+5
+OpenDescriptable
+You see a room.
+Mud School#3707
+-
+Mud School#3702
+4
+OpenDescriptable
+You see a room.
+Mud School#3708
+-
+Mud School#3702
+3
+OpenDescriptable
+You see a room.
+Mud School#3704
+-
+Mud School#3702
+2
+OpenDescriptable
+You see a room.
+Mud School#3701
+-
+Mud School#3702
+1
+OpenDescriptable
+You see a room.
+Mud School#3705
+-
+Mud School#3702
+0
+OpenDescriptable
+You see the room north that will lead you to the next section.
+Mud School#3703
+-
+Mud School#3708
+5
+OpenDescriptable
+You see the central room.
+Mud School#3702
+-
+Mud School#3703
+1
+OpenDescriptable
+You see the central room.
+Mud School#3702
+-
+Mud School#3703
+0
+OpenDescriptable
+You see the next station ahead.
+Mud School#3709
+-
+Mud School#3710
+4
+OpenDescriptable
+You see a safe room up.
+Mud School#3709
+-
+Mud School#3710
+1
+HiddenClosedDoorway
+{#The School Tower#2650#}
+ 
+-
+Mud School#3709
+5
+OpenDescriptable
+You see a cage.
+Mud School#3710
+-
+Mud School#3709
+3
+OpenDescriptable
+You see the next station of Mud School.
+Mud School#3711
+-
+Mud School#3711
+5
+OpenDescriptable
+You see the combat hall.
+Mud School#3712
+-
+Mud School#3711
+2
+OpenDescriptable
+You see the next station of Mud School.
+Mud School#3709
+-
+Mud School#3713
+1
+OpenDescriptable
+You see the Cage Room.
+Mud School#3712
+-
+Mud School#3714
+2
+OpenDescriptable
+You see the Cage Room.
+Mud School#3712
+-
+Mud School#3715
+0
+OpenDescriptable
+You see the Cage Room.
+Mud School#3712
+-
+Mud School#3716
+3
+OpenDescriptable
+You see the Cage Room.
+Mud School#3712
+-
+Mud School#3712
+5
+OpenDescriptable
+You see the next station below.
+Mud School#3717
+-
+Mud School#3712
+3
+OpenDescriptable
+You see the aggressive wimpy monster inside!
+Mud School#3714
+-
+Mud School#3712
+2
+OpenDescriptable
+You see the unmodified monster inside!
+Mud School#3716
+-
+Mud School#3712
+1
+OpenDescriptable
+You see the wimpy monster inside!
+Mud School#3715
+-
+Mud School#3712
+0
+OpenDescriptable
+You see the aggressive monster inside!
+Mud School#3713
+-
+Mud School#3718
+0
+OpenDescriptable
+You see the only exit out of here.
+Mud School#3717
+-
+Mud School#3717
+4
+OpenDescriptable
+You see the Cage room.
+Mud School#3712
+-
+Mud School#3717
+2
+GenExit
+<NAME>a door</NAME><DESC>You see the next station of Mud School.</DESC><DISP>You see the next station of Mud School.</DISP><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a door, closed</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3719
+-
+Mud School#3717
+1
+OpenDescriptable
+You see the Shop.
+Mud School#3718
+-
+Mud School#3720
+1
+OpenDescriptable
+You see the room that you have come from.
+Mud School#3719
+-
+Mud School#3719
+3
+GenExit
+<NAME>a door</NAME><DESC>You see the room you just came from.</DESC><DISP>You see the room you just came from.</DISP><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a door, closed</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3717
+-
+Mud School#3719
+2
+GenExit
+<NAME>a door</NAME><DESC>You see the next station of Mud School.</DESC><DISP>You see the next station of Mud School.</DISP><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a door, closed</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>mud school#3714</KEYNM><OPENTK>45</OPENTK>
+Mud School#3721
+-
+Mud School#3719
+0
+OpenDescriptable
+You see a darkened room inside.
+Mud School#3720
+-
+Mud School#3721
+0
+GenExit
+<NAME>a gate</NAME><DESC>You see the Arena ahead.</DESC><DISP>You see the Arena ahead.</DISP><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a gate, closed</CLOSTX><DOORNM>gate</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3722
+-
+Mud School#3750
+3
+OpenDescriptable
+You see the north west corner.
+Mud School#3749
+-
+Mud School#3750
+2
+OpenDescriptable
+You see the north east corner.
+Mud School#3751
+-
+Mud School#3750
+1
+OpenDescriptable
+You see the center of the dungeon.
+Mud School#3748
+-
+Mud School#3749
+2
+OpenDescriptable
+You see the north wall.
+Mud School#3750
+-
+Mud School#3749
+1
+OpenDescriptable
+You see the south wall.
+Mud School#3752
+-
+Mud School#3751
+3
+OpenDescriptable
+You see the north wall.
+Mud School#3750
+-
+Mud School#3751
+1
+OpenDescriptable
+You see the east wall.
+Mud School#3753
+-
+Mud School#3752
+2
+OpenDescriptable
+You see the center of the dungeon.
+Mud School#3748
+-
+Mud School#3752
+1
+OpenDescriptable
+You see the south west corner.
+Mud School#3754
+-
+Mud School#3752
+0
+OpenDescriptable
+You see the north west corner.
+Mud School#3749
+-
+Mud School#3748
+4
+GenExit
+<NAME>a grate</NAME><DESC>You see safety!</DESC><DISP>You see safety!</DISP><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a grate, closed</CLOSTX><DOORNM>grate</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3734
+-
+Mud School#3748
+3
+OpenDescriptable
+You see the west wall.
+Mud School#3752
+-
+Mud School#3748
+2
+OpenDescriptable
+You see the east wall.
+Mud School#3753
+-
+Mud School#3748
+1
+OpenDescriptable
+You see the south wall.
+Mud School#3755
+-
+Mud School#3748
+0
+OpenDescriptable
+You see the north wall.
+Mud School#3750
+-
+Mud School#3754
+2
+OpenDescriptable
+You see the south wall.
+Mud School#3755
+-
+Mud School#3754
+0
+OpenDescriptable
+You see the north wall.
+Mud School#3752
+-
+Mud School#3753
+3
+OpenDescriptable
+You see the center of the dungeon.
+Mud School#3748
+-
+Mud School#3753
+1
+OpenDescriptable
+You see the south east corner.
+Mud School#3756
+-
+Mud School#3753
+0
+OpenDescriptable
+You see the north east corner.
+Mud School#3751
+-
+Mud School#3755
+3
+OpenDescriptable
+You see the south west corner.
+Mud School#3754
+-
+Mud School#3755
+2
+OpenDescriptable
+You see the south east corner.
+Mud School#3756
+-
+Mud School#3755
+0
+OpenDescriptable
+You see the center of the dungeon.
+Mud School#3748
+-
+Mud School#3756
+3
+OpenDescriptable
+You see the south wall.
+Mud School#3755
+-
+Mud School#3756
+0
+OpenDescriptable
+You see the east wall.
+Mud School#3753
+-
+Mud School#3701
+3
+OpenDescriptable
+You see a path into another room.
+Mud School#3702
+-
+Mud School#3701
+1
+OpenDescriptable
+You see a path into another room.
+Mud School#3757
+-
+Mud School#3722
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3722
+3
+OpenDescriptable
+
+Mud School#3723
+-
+Mud School#3722
+2
+OpenDescriptable
+
+Mud School#3725
+-
+Mud School#3722
+0
+OpenDescriptable
+
+Mud School#3729
+-
+Mud School#3723
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3723
+3
+OpenDescriptable
+
+Mud School#3724
+-
+Mud School#3723
+2
+OpenDescriptable
+
+Mud School#3722
+-
+Mud School#3723
+0
+OpenDescriptable
+
+Mud School#3728
+-
+Mud School#3724
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3724
+2
+OpenDescriptable
+
+Mud School#3723
+-
+Mud School#3724
+0
+OpenDescriptable
+
+Mud School#3727
+-
+Mud School#3725
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3725
+3
+OpenDescriptable
+
+Mud School#3722
+-
+Mud School#3725
+2
+OpenDescriptable
+
+Mud School#3726
+-
+Mud School#3725
+0
+OpenDescriptable
+
+Mud School#3730
+-
+Mud School#3726
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3726
+3
+OpenDescriptable
+
+Mud School#3725
+-
+Mud School#3726
+0
+OpenDescriptable
+
+Mud School#3731
+-
+Mud School#3727
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3727
+2
+OpenDescriptable
+
+Mud School#3728
+-
+Mud School#3727
+1
+OpenDescriptable
+
+Mud School#3724
+-
+Mud School#3727
+0
+OpenDescriptable
+
+Mud School#3732
+-
+Mud School#3728
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3728
+3
+OpenDescriptable
+
+Mud School#3727
+-
+Mud School#3728
+2
+OpenDescriptable
+
+Mud School#3729
+-
+Mud School#3728
+1
+OpenDescriptable
+
+Mud School#3723
+-
+Mud School#3728
+0
+OpenDescriptable
+
+Mud School#3733
+-
+Mud School#3729
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3729
+3
+OpenDescriptable
+
+Mud School#3728
+-
+Mud School#3729
+2
+OpenDescriptable
+
+Mud School#3730
+-
+Mud School#3729
+1
+OpenDescriptable
+
+Mud School#3722
+-
+Mud School#3729
+0
+OpenDescriptable
+
+Mud School#3734
+-
+Mud School#3730
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3730
+3
+OpenDescriptable
+
+Mud School#3729
+-
+Mud School#3730
+2
+OpenDescriptable
+
+Mud School#3731
+-
+Mud School#3730
+1
+OpenDescriptable
+
+Mud School#3725
+-
+Mud School#3730
+0
+OpenDescriptable
+
+Mud School#3735
+-
+Mud School#3731
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3731
+3
+OpenDescriptable
+
+Mud School#3730
+-
+Mud School#3731
+1
+OpenDescriptable
+
+Mud School#3726
+-
+Mud School#3731
+0
+OpenDescriptable
+
+Mud School#3736
+-
+Mud School#3732
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3732
+2
+OpenDescriptable
+
+Mud School#3733
+-
+Mud School#3732
+1
+OpenDescriptable
+
+Mud School#3727
+-
+Mud School#3732
+0
+OpenDescriptable
+
+Mud School#3737
+-
+Mud School#3733
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3733
+3
+OpenDescriptable
+
+Mud School#3732
+-
+Mud School#3733
+2
+OpenDescriptable
+
+Mud School#3734
+-
+Mud School#3733
+1
+OpenDescriptable
+
+Mud School#3728
+-
+Mud School#3733
+0
+OpenDescriptable
+
+Mud School#3738
+-
+Mud School#3734
+5
+GenExit
+<NAME>a grate</NAME><DESC>You see a dark murky dungeon below.</DESC><DISP>You see a dark murky dungeon below.</DISP><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a grate, closed</CLOSTX><DOORNM>grate</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3748
+-
+Mud School#3734
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3734
+3
+OpenDescriptable
+
+Mud School#3733
+-
+Mud School#3734
+2
+OpenDescriptable
+
+Mud School#3735
+-
+Mud School#3734
+1
+OpenDescriptable
+
+Mud School#3729
+-
+Mud School#3734
+0
+OpenDescriptable
+
+Mud School#3739
+-
+Mud School#3735
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3735
+3
+OpenDescriptable
+
+Mud School#3734
+-
+Mud School#3735
+2
+OpenDescriptable
+
+Mud School#3736
+-
+Mud School#3735
+1
+OpenDescriptable
+
+Mud School#3730
+-
+Mud School#3735
+0
+OpenDescriptable
+
+Mud School#3740
+-
+Mud School#3736
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3736
+3
+OpenDescriptable
+
+Mud School#3735
+-
+Mud School#3736
+1
+OpenDescriptable
+
+Mud School#3731
+-
+Mud School#3736
+0
+OpenDescriptable
+
+Mud School#3741
+-
+Mud School#3737
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3737
+2
+OpenDescriptable
+
+Mud School#3738
+-
+Mud School#3737
+1
+OpenDescriptable
+
+Mud School#3732
+-
+Mud School#3737
+0
+OpenDescriptable
+
+Mud School#3742
+-
+Mud School#3738
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3738
+3
+OpenDescriptable
+
+Mud School#3737
+-
+Mud School#3738
+2
+OpenDescriptable
+
+Mud School#3739
+-
+Mud School#3738
+1
+OpenDescriptable
+
+Mud School#3733
+-
+Mud School#3738
+0
+OpenDescriptable
+
+Mud School#3743
+-
+Mud School#3739
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3739
+3
+OpenDescriptable
+
+Mud School#3738
+-
+Mud School#3739
+2
+OpenDescriptable
+
+Mud School#3740
+-
+Mud School#3739
+1
+OpenDescriptable
+
+Mud School#3734
+-
+Mud School#3739
+0
+OpenDescriptable
+
+Mud School#3744
+-
+Mud School#3740
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3740
+3
+OpenDescriptable
+
+Mud School#3739
+-
+Mud School#3740
+2
+OpenDescriptable
+
+Mud School#3741
+-
+Mud School#3740
+1
+OpenDescriptable
+
+Mud School#3735
+-
+Mud School#3740
+0
+OpenDescriptable
+
+Mud School#3745
+-
+Mud School#3741
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3741
+3
+OpenDescriptable
+
+Mud School#3740
+-
+Mud School#3741
+1
+OpenDescriptable
+
+Mud School#3736
+-
+Mud School#3741
+0
+OpenDescriptable
+
+Mud School#3746
+-
+Mud School#3742
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3742
+2
+OpenDescriptable
+
+Mud School#3743
+-
+Mud School#3742
+1
+OpenDescriptable
+
+Mud School#3737
+-
+Mud School#3743
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3743
+3
+OpenDescriptable
+
+Mud School#3742
+-
+Mud School#3743
+2
+OpenDescriptable
+
+Mud School#3744
+-
+Mud School#3743
+1
+OpenDescriptable
+
+Mud School#3738
+-
+Mud School#3744
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3744
+3
+OpenDescriptable
+
+Mud School#3743
+-
+Mud School#3744
+2
+OpenDescriptable
+
+Mud School#3745
+-
+Mud School#3744
+1
+OpenDescriptable
+
+Mud School#3739
+-
+Mud School#3745
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3745
+3
+OpenDescriptable
+
+Mud School#3744
+-
+Mud School#3745
+2
+OpenDescriptable
+
+Mud School#3746
+-
+Mud School#3745
+1
+OpenDescriptable
+
+Mud School#3740
+-
+Mud School#3746
+4
+OpenDescriptable
+You see the EXIT.
+Mud School#3760
+-
+Mud School#3746
+3
+OpenDescriptable
+
+Mud School#3745
+-
+Mud School#3746
+1
+OpenDescriptable
+
+Mud School#3741
+-
+Mud School#3760
+4
+StdOpenDoorway
+
+Mud School#3700
+-
+Mud School#3705
+1
+GenExit
+<NAME>a crawlspace</NAME><DESC>It looks like you could squeeze through there.</DESC><DISP /><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS><FLAG>16</FLAG><CLOSTX /><DOORNM>exit</DOORNM><OPENNM /><CLOSNM /><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3761
+-
+Mud School#3705
+0
+OpenDescriptable
+You see the central room.
+Mud School#3702
+-
+Mud School#3761
+4
+ClimbableExit
+
+Mud School#3762
+-
+Mud School#3761
+0
+GenExit
+<NAME>a walkway</NAME><DESC>An ordinary looking way from here to there.</DESC><DISP /><PROP>0|100|0|0|0|0|2147483647|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Crawlspace</ACLASS><ATEXT /></AFF></AFFECS><FLAG>16</FLAG><CLOSTX /><DOORNM>exit</DOORNM><OPENNM /><CLOSNM /><KEYNM /><OPENTK>45</OPENTK>
+Mud School#3705
+-
+Mud School#3762
+5
+ClimbableExit
+
+Mud School#3761
+-
+Silver Ford#1
+1
+StdOpenDoorway
+
+Silver Ford#0
+-
+Silver Ford#1
+0
+StdOpenDoorway
+
+Silver Ford#6
+-
+Silver Ford#8
+6
+StdOpenDoorway
+
+Silver Ford#0
+-
+Silver Ford#8
+2
+StdOpenDoorway
+
+Silver Ford#1
+-
+Silver Ford#8
+1
+StdOpenDoorway
+
+Silver Ford#4
+-
+Silver Ford#6
+3
+StdOpenDoorway
+
+Silver Ford#9
+-
+Silver Ford#6
+2
+StdOpenDoorway
+
+Silver Ford#7
+-
+Silver Ford#6
+1
+StdOpenDoorway
+
+Silver Ford#1
+-
+Silver Ford#6
+0
+StdOpenDoorway
+
+Mud School#3700
+-
+ZFAAhouse2#14
+3
+Open
+
+ZFAAhouse2#15
+-
+ZFAAhouse2#14
+1
+Open
+
+ZFAAhouse2#0
+-
+ZFAAhouse2#24
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#13
+-
+ZFAAhouse2#24
+1
+Door
+
+ZFAAhouse2#12
+-
+ZFAAhouse2#24
+0
+Open
+
+ZFAAhouse2#23
+-
+ZFAAhouse2#15
+2
+Open
+
+ZFAAhouse2#14
+-
+ZFAAhouse2#15
+1
+Open
+
+ZFAAhouse2#16
+-
+ZFAAhouse2#3
+3
+Door
+
+ZFAAhouse2#19
+-
+ZFAAhouse2#4
+1
+LockedDoor
+ZFAAhouse2 luxurykey
+ZFAAhouse2#18
+-
+ZFAAhouse2#17
+3
+Open
+
+ZFAAhouse2#16
+-
+ZFAAhouse2#17
+2
+Open
+
+ZFAAhouse2#0
+-
+ZFAAhouse2#17
+0
+Open
+
+ZFAAhouse2#18
+-
+ZFAAhouse2#13
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#24
+-
+ZFAAhouse2#16
+2
+Open
+
+ZFAAhouse2#17
+-
+ZFAAhouse2#16
+0
+Open
+
+ZFAAhouse2#15
+-
+ZFAAhouse2#21
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#9
+-
+ZFAAhouse2#21
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#2
+-
+ZFAAhouse2#21
+1
+Door
+
+ZFAAhouse2#11
+-
+ZFAAhouse2#21
+0
+Open
+
+ZFAAhouse2#20
+-
+ZFAAhouse2#19
+3
+Open
+
+ZFAAhouse2#18
+-
+ZFAAhouse2#19
+2
+Door
+
+ZFAAhouse2#3
+-
+ZFAAhouse2#19
+1
+Open
+
+ZFAAhouse2#20
+-
+ZFAAhouse2#19
+0
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+ZFAAhouse2#10
+-
+ZFAAhouse2#5
+2
+Door
+
+ZFAAhouse2#20
+-
+ZFAAhouse2#9
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#21
+-
+ZFAAhouse2#22
+3
+LockedGate
+ZFAAhouse2 cellkey
+ZFAAhouse2#8
+-
+ZFAAhouse2#22
+2
+Open
+
+ZFAAhouse2#18
+-
+ZFAAhouse2#22
+1
+Open
+
+ZFAAhouse2#23
+-
+ZFAAhouse2#22
+0
+LockedGate
+ZFAAhouse2 cellkey
+ZFAAhouse2#6
+-
+ZFAAhouse2#11
+0
+Door
+
+ZFAAhouse2#21
+-
+ZFAAhouse2#10
+1
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+ZFAAhouse2#19
+-
+ZFAAhouse2#20
+3
+Door
+
+ZFAAhouse2#5
+-
+ZFAAhouse2#20
+2
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#7
+-
+ZFAAhouse2#20
+1
+Open
+
+ZFAAhouse2#21
+-
+ZFAAhouse2#20
+0
+Open
+
+ZFAAhouse2#19
+-
+ZFAAhouse2#12
+0
+Door
+
+ZFAAhouse2#24
+-
+ZFAAhouse2#18
+3
+Open
+
+ZFAAhouse2#22
+-
+ZFAAhouse2#18
+2
+Open
+
+ZFAAhouse2#19
+-
+ZFAAhouse2#18
+1
+Open
+
+ZFAAhouse2#17
+-
+ZFAAhouse2#18
+0
+LockedDoor
+ZFAAhouse2 luxurykey
+ZFAAhouse2#4
+-
+ZFAAhouse2#1
+2
+Door
+
+ZFAAhouse2#23
+-
+ZFAAhouse2#8
+2
+LockedGate
+ZFAAhouse2 cellkey
+ZFAAhouse2#22
+-
+ZFAAhouse2#7
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#20
+-
+ZFAAhouse2#2
+3
+LockedDoor
+ZFAAhouse2 cellkey
+ZFAAhouse2#21
+-
+ZFAAhouse2#23
+3
+Door
+
+ZFAAhouse2#1
+-
+ZFAAhouse2#23
+1
+Open
+
+ZFAAhouse2#24
+-
+ZFAAhouse2#23
+0
+Open
+
+ZFAAhouse2#22
+-
+ZFAAhouse2#6
+1
+LockedGate
+ZFAAhouse2 cellkey
+ZFAAhouse2#22
+-
+Silver Ford#9
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#9
+3
+Door
+
+ZFAAhouse2#0
+-
+Silver Ford#9
+2
+StdOpenDoorway
+
+Silver Ford#6
+-
+ZFAAhouse2#0
+3
+Open
+
+ZFAAhouse2#17
+-
+ZFAAhouse2#0
+2
+Door
+
+Silver Ford#9
+-
+ZFAAhouse2#0
+0
+Open
+
+ZFAAhouse2#14
+*
+START
+6
+StdOpenDoorway
+
+Silver Ford#0
+*
+START
+4
+StdOpenDoorway
+
+ 
+-
+Mud School#3759
+3
+OpenDescriptable
+You see the room you came from and the room you should go to.
+Mud School#3700
+-
+Mud School#3758
+2
+StdOpenDoorway
+
+Mud School#3700
+-
+Mud School#3757
+1
+OpenDescriptable
+You see the entrance to Mud School.
+Mud School#3700
+-
+Mud School#3757
+0
+OpenDescriptable
+You see the next station of Mud School.
+Mud School#3701
+-
+Mud School#3700
+5
+StdOpenDoorway
+
+Mud School#3744
+-
+Mud School#3700
+3
+StdOpenDoorway
+
+Mud School#3758
+-
+Mud School#3700
+2
+StdOpenDoorway
+
+Mud School#3759
+-
+Mud School#3700
+1
+StdOpenDoorway
+
+Silver Ford#6
+-
+Mud School#3700
+0
+OpenDescriptable
+You see the doorway into the Mud School Building.
+Mud School#3757
+*
+Silver Ford#2
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#2
+3
+StdOpenDoorway
+
+Silver Ford#0
+-
+Silver Ford#0
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#0
+3
+StdOpenDoorway
+
+Silver Ford#4
+-
+Silver Ford#0
+2
+StdOpenDoorway
+
+Silver Ford#2
+-
+Silver Ford#0
+1
+StdOpenDoorway
+
+Silver Ford#3
+-
+Silver Ford#0
+0
+StdOpenDoorway
+
+Silver Ford#1
+-
+Silver Ford#3
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#3
+1
+StdOpenDoorway
+
+Silver Ford#12
+-
+Silver Ford#3
+0
+StdOpenDoorway
+
+Silver Ford#0
+-
+Silver Ford#16
+4
+StdOpenDoorway
+
+Silver Ford#11
+-
+Crater#2
+4
+StdOpenDoorway
+
+ 
+-
+Crater#2
+1
+StdOpenDoorway
+
+Crater#1
+-
+Crater#3
+4
+StdOpenDoorway
+
+ 
+-
+Crater#3
+3
+StdOpenDoorway
+
+Crater#1
+-
+Crater#4
+4
+StdOpenDoorway
+
+ 
+-
+Crater#4
+0
+HiddenWalkway
+
+Crater#1
+-
+Crater#5
+4
+StdOpenDoorway
+
+ 
+-
+Crater#5
+2
+HiddenWalkway
+
+Crater#1
+-
+Crater#1
+5
+HiddenWalkway
+
+Crater#0
+-
+Crater#1
+3
+StdOpenDoorway
+
+Crater#5
+-
+Crater#1
+2
+StdOpenDoorway
+
+Crater#3
+-
+Crater#1
+1
+StdOpenDoorway
+
+Crater#4
+-
+Crater#1
+0
+StdOpenDoorway
+
+Crater#2
+-
+Crater#0
+4
+HiddenWalkway
+
+Crater#1
+-
+Crater#0
+3
+HiddenWalkway
+
+Crater#5
+-
+Crater#0
+2
+HiddenWalkway
+
+Crater#3
+-
+Crater#0
+1
+HiddenWalkway
+
+Crater#4
+-
+Crater#0
+0
+HiddenWalkway
+
+Crater#2
+-
+Silver Ford#11
+5
+StdOpenDoorway
+
+Silver Ford#16
+-
+Silver Ford#11
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#11
+0
+StdOpenDoorway
+
+Silver Ford#10
+-
+Silver Ford#10
+6
+StdOpenDoorway
+
+Silver Ford#5
+-
+Silver Ford#10
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#10
+1
+StdOpenDoorway
+
+Silver Ford#11
+-
+Silver Ford#12
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#12
+3
+StdOpenDoorway
+
+Silver Ford#14
+-
+Silver Ford#12
+2
+StdOpenDoorway
+
+Silver Ford#13
+-
+Silver Ford#12
+0
+StdOpenDoorway
+
+Silver Ford#3
+-
+Silver Ford#4
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#4
+3
+StdOpenDoorway
+
+Silver Ford#5
+-
+Silver Ford#4
+2
+StdOpenDoorway
+
+Silver Ford#0
+-
+Silver Ford#17
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#17
+0
+StdOpenDoorway
+
+Silver Ford#15
+*
+Silver Ford#5
+6
+StdOpenDoorway
+
+Silver Ford#10
+*
+Silver Ford#5
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#5
+2
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#5
+0
+StdOpenDoorway
+
+Silver Ford#18
+-
+Silver Ford#18
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#18
+1
+StdOpenDoorway
+
+Silver Ford#5
+-
+Silver Ford#18
+0
+StdOpenDoorway
+
+Silver Ford#19
+-
+Silver Ford#19
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#19
+1
+StdOpenDoorway
+
+Silver Ford#18
+-
+Silver Ford#19
+0
+StdOpenDoorway
+
+Silver Ford#20
+-
+Silver Ford#20
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#20
+1
+StdOpenDoorway
+
+Silver Ford#19
+-
+Silver Ford#20
+0
+Gate
+
+Silver Ford#21
+-
+Silver Ford#21
+1
+Gate
+
+Silver Ford#20
+-
+Silver Ford#21
+0
+Open
+
+Silver Ford#22
+-
+Silver Ford#25
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#25
+2
+StdOpenDoorway
+
+Silver Ford#28
+-
+Silver Ford#25
+1
+Open
+
+Silver Ford#24
+-
+Silver Ford#28
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#28
+3
+StdOpenDoorway
+
+Silver Ford#25
+-
+Silver Ford#28
+1
+Open
+
+Silver Ford#27
+-
+Silver Ford#29
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#29
+3
+StdOpenDoorway
+
+Silver Ford#26
+-
+Silver Ford#29
+0
+Open
+
+Silver Ford#27
+-
+Silver Ford#26
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#26
+2
+StdOpenDoorway
+
+Silver Ford#29
+-
+Silver Ford#26
+0
+Open
+
+Silver Ford#24
+-
+Silver Ford#27
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#27
+3
+Open
+
+Silver Ford#24
+-
+Silver Ford#24
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#24
+3
+Gate
+
+Silver Ford#22
+-
+Silver Ford#30
+2
+StdOpenDoorway
+
+Silver Ford#22
+-
+Silver Ford#31
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#31
+2
+Gate
+
+Silver Ford#22
+-
+Silver Ford#23
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#23
+1
+Open
+
+Silver Ford#22
+-
+Silver Ford#23
+0
+StdOpenDoorway
+
+Silver Ford#32
+-
+Silver Ford#32
+1
+StdOpenDoorway
+
+Silver Ford#23
+-
+Silver Ford#22
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#22
+3
+Gate
+
+Silver Ford#31
+-
+Silver Ford#22
+2
+Gate
+
+Silver Ford#24
+-
+Silver Ford#22
+1
+Open
+
+Silver Ford#21
+-
+Silver Ford#22
+0
+Open
+
+Silver Ford#23
+-
+AdventureHousePrison#11
+1
+Open
+
+AdventureHousePrison#10
+-
+AdventureHousePrison#11
+0
+LockedDoor
+AdventureHousePrison luxurykey
+AdventureHousePrison#5
+-
+AdventureHousePrison#10
+3
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#3
+-
+AdventureHousePrison#10
+2
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#4
+-
+AdventureHousePrison#10
+1
+Open
+
+AdventureHousePrison#9
+-
+AdventureHousePrison#10
+0
+Open
+
+AdventureHousePrison#11
+-
+AdventureHousePrison#1
+3
+Door
+
+AdventureHousePrison#8
+-
+AdventureHousePrison#3
+2
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#10
+-
+AdventureHousePrison#13
+3
+Open
+
+AdventureHousePrison#9
+-
+AdventureHousePrison#13
+2
+Open
+
+AdventureHousePrison#12
+-
+AdventureHousePrison#7
+1
+Door
+
+AdventureHousePrison#12
+-
+AdventureHousePrison#4
+3
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#10
+-
+AdventureHousePrison#2
+2
+LockedGate
+AdventureHousePrison cellkey
+AdventureHousePrison#8
+-
+AdventureHousePrison#5
+1
+LockedDoor
+AdventureHousePrison luxurykey
+AdventureHousePrison#11
+-
+AdventureHousePrison#8
+3
+LockedGate
+AdventureHousePrison cellkey
+AdventureHousePrison#2
+-
+AdventureHousePrison#8
+2
+Door
+
+AdventureHousePrison#1
+-
+AdventureHousePrison#8
+0
+Open
+
+AdventureHousePrison#9
+-
+AdventureHousePrison#12
+3
+Open
+
+AdventureHousePrison#13
+-
+AdventureHousePrison#12
+1
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#6
+-
+AdventureHousePrison#12
+0
+Door
+
+AdventureHousePrison#7
+-
+Silver Ford#7
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#7
+3
+StdOpenDoorway
+
+Silver Ford#6
+-
+Silver Ford#7
+2
+Door
+
+AdventureHousePrison#0
+-
+AdventureHousePrison#6
+5
+HiddenWalkway
+
+AdventureHousePrison#14
+-
+AdventureHousePrison#6
+0
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#12
+-
+AdventureHousePrison#14
+4
+StdOpenDoorway
+
+AdventureHousePrison#6
+-
+AdventureHousePrison#0
+3
+Door
+
+Silver Ford#7
+-
+AdventureHousePrison#0
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+AdventureHousePrison#9
+-
+AdventureHousePrison#9
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+AdventureHousePrison#0
+-
+AdventureHousePrison#9
+2
+Open
+
+AdventureHousePrison#13
+-
+AdventureHousePrison#9
+1
+Open
+
+AdventureHousePrison#8
+-
+AdventureHousePrison#9
+0
+Open
+
+AdventureHousePrison#10
+-
+Iron Dragons Fortress#0
+3
+StdOpenDoorway
+
+Iron Dragons Fortress#1
+-
+Iron Dragons Fortress#0
+2
+StdOpenDoorway
+
+Silver Ford#15
+-
+Silver Ford#15
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#15
+3
+StdOpenDoorway
+
+Iron Dragons Fortress#0
+-
+Silver Ford#15
+2
+Gate
+
+Silver Ford#14
+-
+Silver Ford#15
+1
+StdOpenDoorway
+
+Silver Ford#17
+-
+Silver Ford#14
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#14
+3
+Gate
+
+Silver Ford#15
+-
+Silver Ford#14
+2
+StdOpenDoorway
+
+Silver Ford#12
+-
+Iron Dragons Fortress#1
+3
+Open
+
+Iron Dragons Fortress#4
+-
+Iron Dragons Fortress#1
+2
+StdOpenDoorway
+
+Iron Dragons Fortress#0
+-
+Iron Dragons Fortress#1
+1
+Open
+
+Iron Dragons Fortress#3
+-
+Iron Dragons Fortress#1
+0
+Open
+
+Iron Dragons Fortress#2
+-
+Iron Dragons Fortress#4
+2
+Open
+
+Iron Dragons Fortress#1
+-
+Iron Dragons Fortress#2
+1
+Open
+
+Iron Dragons Fortress#1
+-
+Iron Dragons Fortress#3
+0
+Open
+
+Iron Dragons Fortress#1
+-
+Dragon`s Belly#2
+2
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#36
+-
+Dragon`s Belly#44
+3
+Open
+
+Dragon`s Belly#46
+-
+Dragon`s Belly#44
+2
+Open
+
+Dragon`s Belly#45
+-
+Dragon`s Belly#44
+1
+Door
+
+Dragon`s Belly#18
+-
+Dragon`s Belly#44
+0
+Door
+
+Dragon`s Belly#16
+-
+Dragon`s Belly#47
+3
+Open
+
+Dragon`s Belly#34
+-
+Dragon`s Belly#47
+2
+Open
+
+Dragon`s Belly#46
+-
+Dragon`s Belly#26
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#35
+-
+Dragon`s Belly#34
+3
+Open
+
+Dragon`s Belly#42
+-
+Dragon`s Belly#34
+2
+Open
+
+Dragon`s Belly#47
+-
+Dragon`s Belly#34
+1
+Open
+
+Dragon`s Belly#33
+-
+Dragon`s Belly#34
+0
+Open
+
+Dragon`s Belly#35
+-
+Dragon`s Belly#4
+0
+Open
+
+Dragon`s Belly#46
+-
+Dragon`s Belly#0
+3
+Open
+
+Dragon`s Belly#13
+-
+Dragon`s Belly#0
+2
+Open
+
+Dragon`s Belly#19
+-
+Dragon`s Belly#0
+0
+Open
+
+Dragon`s Belly#31
+-
+Dragon`s Belly#22
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#38
+-
+Dragon`s Belly#23
+1
+Door
+
+Dragon`s Belly#46
+-
+Dragon`s Belly#7
+1
+Open
+
+Dragon`s Belly#41
+-
+Dragon`s Belly#17
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#35
+-
+Dragon`s Belly#12
+0
+LockedDoor
+Dragon`s Maw 2 thronekey
+Dragon`s Belly#43
+-
+Dragon`s Belly#42
+3
+Open
+
+Dragon`s Belly#41
+-
+Dragon`s Belly#42
+2
+Open
+
+Dragon`s Belly#34
+-
+Dragon`s Belly#31
+3
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#24
+-
+Dragon`s Belly#31
+2
+Door
+
+Dragon`s Belly#15
+-
+Dragon`s Belly#31
+1
+Open
+
+Dragon`s Belly#0
+-
+Dragon`s Belly#31
+0
+Open
+
+Dragon`s Belly#32
+-
+Dragon`s Belly#30
+3
+Door
+
+Dragon`s Belly#45
+-
+Dragon`s Belly#32
+3
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#21
+-
+Dragon`s Belly#32
+2
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#27
+-
+Dragon`s Belly#32
+1
+Open
+
+Dragon`s Belly#31
+-
+Dragon`s Belly#32
+0
+Open
+
+Dragon`s Belly#33
+-
+Dragon`s Belly#29
+1
+Door
+
+Dragon`s Belly#45
+-
+Dragon`s Belly#38
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#22
+-
+Dragon`s Belly#38
+2
+Door
+
+Dragon`s Belly#6
+-
+Dragon`s Belly#38
+1
+Open
+
+Dragon`s Belly#37
+-
+Dragon`s Belly#38
+0
+Open
+
+Dragon`s Belly#39
+-
+Dragon`s Belly#37
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|2|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#20
+-
+Dragon`s Belly#37
+2
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#9
+-
+Dragon`s Belly#37
+1
+Open
+
+Dragon`s Belly#36
+-
+Dragon`s Belly#37
+0
+Open
+
+Dragon`s Belly#38
+-
+Dragon`s Belly#10
+1
+Open
+
+Dragon`s Belly#39
+-
+Dragon`s Belly#8
+1
+Open
+
+Dragon`s Belly#40
+-
+Dragon`s Belly#36
+3
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#2
+-
+Dragon`s Belly#36
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#3
+-
+Dragon`s Belly#36
+1
+Open
+
+Dragon`s Belly#35
+-
+Dragon`s Belly#36
+0
+Open
+
+Dragon`s Belly#37
+-
+Dragon`s Belly#21
+2
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#32
+-
+Dragon`s Belly#33
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#28
+-
+Dragon`s Belly#33
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#1
+-
+Dragon`s Belly#33
+1
+Open
+
+Dragon`s Belly#32
+-
+Dragon`s Belly#33
+0
+Open
+
+Dragon`s Belly#34
+-
+Dragon`s Belly#3
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#36
+-
+Dragon`s Belly#46
+3
+Open
+
+Dragon`s Belly#47
+-
+Dragon`s Belly#46
+2
+Open
+
+Dragon`s Belly#44
+-
+Dragon`s Belly#46
+1
+Open
+
+Dragon`s Belly#4
+-
+Dragon`s Belly#46
+0
+Door
+
+Dragon`s Belly#23
+-
+Dragon`s Belly#19
+3
+Open
+
+Dragon`s Belly#0
+-
+Dragon`s Belly#15
+3
+Door
+
+Dragon`s Belly#31
+-
+Dragon`s Belly#43
+2
+Open
+
+Dragon`s Belly#40
+-
+Dragon`s Belly#43
+1
+LockedDoor
+Dragon`s Maw 2 thronekey
+Dragon`s Belly#12
+-
+Dragon`s Belly#43
+0
+Door
+
+Dragon`s Belly#25
+-
+Dragon`s Belly#9
+3
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#37
+-
+Dragon`s Belly#41
+3
+Open
+
+Dragon`s Belly#40
+-
+Dragon`s Belly#41
+2
+Open
+
+Dragon`s Belly#42
+-
+Dragon`s Belly#41
+1
+Door
+
+Dragon`s Belly#5
+-
+Dragon`s Belly#41
+0
+Open
+
+Dragon`s Belly#7
+-
+Dragon`s Belly#27
+3
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#32
+-
+Dragon`s Belly#5
+0
+Door
+
+Dragon`s Belly#41
+-
+Dragon`s Belly#14
+0
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#40
+-
+Dragon`s Belly#18
+0
+Door
+
+Dragon`s Belly#44
+-
+Dragon`s Belly#35
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#17
+-
+Dragon`s Belly#35
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#26
+-
+Dragon`s Belly#35
+1
+Open
+
+Dragon`s Belly#34
+-
+Dragon`s Belly#35
+0
+Open
+
+Dragon`s Belly#36
+-
+Dragon`s Belly#20
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|2|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#37
+-
+Dragon`s Belly#11
+0
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#45
+-
+Dragon`s Belly#13
+2
+Open
+
+Dragon`s Belly#0
+-
+Dragon`s Belly#28
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#33
+-
+Dragon`s Belly#16
+1
+Door
+
+Dragon`s Belly#44
+-
+Dragon`s Belly#6
+3
+Door
+
+Dragon`s Belly#38
+-
+Dragon`s Belly#40
+3
+Open
+
+Dragon`s Belly#43
+-
+Dragon`s Belly#40
+2
+Open
+
+Dragon`s Belly#41
+-
+Dragon`s Belly#40
+1
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#14
+-
+Dragon`s Belly#40
+0
+Open
+
+Dragon`s Belly#8
+-
+Dragon`s Belly#45
+3
+Open
+
+Dragon`s Belly#44
+-
+Dragon`s Belly#45
+2
+Door
+
+Dragon`s Belly#30
+-
+Dragon`s Belly#45
+1
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#11
+-
+Dragon`s Belly#45
+0
+Door
+
+Dragon`s Belly#29
+-
+Dragon`s Belly#24
+2
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#31
+-
+Dragon`s Belly#39
+1
+Open
+
+Dragon`s Belly#38
+-
+Dragon`s Belly#39
+0
+Open
+
+Dragon`s Belly#10
+-
+Dragon`s Belly#25
+1
+Door
+
+Dragon`s Belly#43
+-
+Dragon`s Belly#1
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#33
+-
+Dragonmaw Mine#0
+6
+StdOpenDoorway
+
+Silver Ford#17
+-
+Silver Ford#17
+6
+StdOpenDoorway
+
+Dragonmaw Mine#0
+-
+Dragonmaw Mine#15
+0
+Open
+
+Dragonmaw Mine#0
+-
+Dragonmaw Mine#0
+1
+Open
+
+Dragonmaw Mine#15
+-
+Dragonmaw Mine#16
+3
+Door
+
+Dragonmaw Mine#10
+-
+Dragonmaw Mine#16
+0
+Open
+
+Dragonmaw Mine#15
+-
+Dragonmaw Mine#10
+2
+Door
+
+Dragonmaw Mine#16
+-
+Dragonmaw Mine#15
+1
+Open
+
+Dragonmaw Mine#16
+-
+Dragonmaw Mine#17
+0
+Open
+
+Dragonmaw Mine#16
+-
+Dragonmaw Mine#16
+1
+Open
+
+Dragonmaw Mine#17
+-
+Dragonmaw Mine#18
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw storekey</KEYNM><OPENTK>45</OPENTK>
+Dragonmaw Mine#1
+-
+Dragonmaw Mine#18
+0
+Open
+
+Dragonmaw Mine#17
+-
+Dragonmaw Mine#1
+2
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw storekey</KEYNM><OPENTK>45</OPENTK>
+Dragonmaw Mine#18
+-
+Dragonmaw Mine#17
+1
+Open
+
+Dragonmaw Mine#18
+-
+Dragonmaw Mine#19
+5
+Open
+
+Dragon`s Belly#0
+-
+Dragonmaw Mine#19
+3
+Door
+
+Dragonmaw Mine#12
+-
+Dragonmaw Mine#19
+2
+Door
+
+Dragonmaw Mine#14
+-
+Dragonmaw Mine#19
+0
+Open
+
+Dragonmaw Mine#18
+-
+Dragon`s Belly#0
+4
+Open
+
+Dragonmaw Mine#19
+-
+Dragonmaw Mine#12
+2
+Door
+
+Dragonmaw Mine#19
+-
+Dragonmaw Mine#14
+3
+Door
+
+Dragonmaw Mine#19
+-
+Dragonmaw Mine#18
+1
+Open
+
+Dragonmaw Mine#19
+-
+Dragonmaw Mine#20
+2
+Open
+
+Dragonmaw Mine#17
+-
+Dragonmaw Mine#17
+3
+Open
+
+Dragonmaw Mine#20
+-
+Dragonmaw Mine#21
+0
+Door
+
+Dragonmaw Mine#13
+-
+Dragonmaw Mine#21
+2
+Open
+
+Dragonmaw Mine#20
+-
+Dragonmaw Mine#13
+1
+Door
+
+Dragonmaw Mine#21
+-
+Dragonmaw Mine#20
+3
+Open
+
+Dragonmaw Mine#21
+-
+Dragonmaw Mine#22
+0
+Open
+
+Dragonmaw Mine#11
+-
+Dragonmaw Mine#11
+1
+Open
+
+Dragonmaw Mine#22
+-
+Dragonmaw Mine#23
+1
+LockedDoor
+Dragon`s Maw thronekey
+Dragonmaw Mine#2
+-
+Dragonmaw Mine#23
+2
+Open
+
+Dragonmaw Mine#22
+-
+Dragonmaw Mine#2
+0
+LockedDoor
+Dragon`s Maw thronekey
+Dragonmaw Mine#23
+-
+Dragonmaw Mine#22
+3
+Open
+
+Dragonmaw Mine#23
+-
+Dragonmaw Mine#24
+3
+Open
+
+Dragonmaw Mine#17
+-
+Dragonmaw Mine#24
+2
+Open
+
+Dragonmaw Mine#23
+-
+Dragonmaw Mine#17
+2
+Open
+
+Dragonmaw Mine#24
+-
+Dragonmaw Mine#23
+3
+Open
+
+Dragonmaw Mine#24
+-
+Dragonmaw Mine#3
+3
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#15
+-
+Dragonmaw Mine#15
+2
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#3
+-
+Dragonmaw Mine#4
+1
+Open
+
+Dragonmaw Mine#0
+-
+Dragonmaw Mine#5
+0
+Door
+
+Dragonmaw Mine#21
+-
+Dragonmaw Mine#21
+1
+Door
+
+Dragonmaw Mine#5
+-
+Dragonmaw Mine#6
+3
+Door
+
+Dragonmaw Mine#18
+-
+Dragonmaw Mine#18
+2
+Door
+
+Dragonmaw Mine#6
+-
+Dragonmaw Mine#7
+1
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#23
+-
+Dragonmaw Mine#23
+0
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#7
+-
+Dragonmaw Mine#8
+3
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#16
+-
+Dragonmaw Mine#16
+2
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#8
+-
+Dragonmaw Mine#9
+2
+Open
+
+Dragonmaw Mine#15
+-
+Dragonmaw Mine#15
+3
+Open
+
+Dragonmaw Mine#9
+-
+Silver Ford#13
+3
+StdOpenDoorway
+
+Silver Ford#12
+-
+Silver Ford#2
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#2
+3
+StdOpenDoorway
+
+Silver Ford#0
+-
+Silver Ford#2
+2
+StdOpenDoorway
+
+Silver Ford#33
+*
+Silver Ford#33
+3
+StdOpenDoorway
+
+Silver Ford#2
+-
+Silver Ford#33
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#33
+3
+StdOpenDoorway
+
+Silver Ford#2
+-
+Silver Ford#33
+0
+StdOpenDoorway
+
+Silver Ford#34
+*
+Silver Ford#34
+1
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#34
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#34
+1
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#34
+0
+Open
+
+Silver Ford#35
+*
+Silver Ford#35
+1
+Open
+
+Silver Ford#34
+-
+Silver Ford#35
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#35
+1
+Open
+
+Silver Ford#34
+-
+Silver Ford#35
+0
+Open
+
+Silver Ford#36
+-
+Silver Ford#36
+1
+Open
+
+Silver Ford#35
+-
+START
+6
+StdOpenDoorway
+
+Silver Ford#0
+-
+START
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#5
+6
+StdOpenDoorway
+
+Silver Ford#10
+-
+Silver Ford#5
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#5
+2
+StdOpenDoorway
+
+Silver Ford#4
+-
+Silver Ford#5
+0
+StdOpenDoorway
+
+Silver Ford#18
