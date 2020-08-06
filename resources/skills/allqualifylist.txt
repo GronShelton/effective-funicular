@@ -22,33 +22,35 @@
 1 SmokeRings MASK=+CHA 5 
 1 UnderCommon 
 1 PlayInstrument MASK=+WIS 5
+1 Searching 
 1 Skill_RegionalAwareness AUTOGAIN
 
 3 FireBuilding AUTOGAIN 
 
-4 Searching 
+
 
 [ALL]
 1 Digging 
-1 Draconic 
 1 Drilling 
-1 Drowish 
-1 Dwarven 
-1 Elvish 
-1 Fey 
 1 Fishing MASK=+WIS 8 
 1 Foraging 
-1 Gigantic 
-1 Gnomish 
-1 Goblinese 
 1 Herbology 
 1 Floristry 
 1 Hunting MASK=+WIS 8 
-1 Ignan 
-1 Orcish 
 1 Shearing 
-1 SignLanguage 
-1 Undercommon 
+
+2 Draconic 
+2 Drowish 
+2 Dwarven 
+2 Elvish 
+2 Fey 
+2 Gigantic 
+2 Gnomish 
+2 Goblinese 
+2 Ignan 
+2 Orcish 
+2 SignLanguage 
+2 Undercommon 
 
 2 Butchering 
 2 Chopping 
@@ -57,6 +59,7 @@
 2 Embroidering MASK=+CHA 10 REQUIRES=Skill_Write 
 2 Engraving MASK=+CHA 10 REQUIRES=Skill_Write 
 2 Lacquerring MASK=+CHA 8 
+2 Mining 
 8 Skill_Autocrawl +WIS 5
 
 3 Blacksmithing MASK=+STR 10 
@@ -66,7 +69,7 @@
 
 4 Costuming MASK=+INT 12 REQUIRES=Tailoring 
 4 Distilling REQUIRES=Cooking 
-4 Mining 
+
 4 Pottery 
 4 Tanning
 4 Sculpting MASK=+CON 10 
