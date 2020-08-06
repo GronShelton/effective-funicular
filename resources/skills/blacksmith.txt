@@ -147,4 +147,3 @@ legendary % sheep shears	89	35	6	190	GenItem			*Prop_ImproveGather;amt=5 skills=
 holy % ark	90	250	50	11500	GenContainer	LID	500	
 legendary % lumberjack saw	91	50	7	325	GenItem			*Prop_ImproveGather;amt=5 skills=Chopping,MasterChopping
 % cauldron	91	60	10	550	GenEmptyDrink	LIQUID|EATABLES|RAWMATERIALS	100	
-% pickaxe	3	20	5	25	GenItem			*Prop_ImproveGather;amt=2 skills=mining,mastermining
