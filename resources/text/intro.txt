@@ -1,13 +1,16 @@
                                
-   __ _  _ __   ___   _ __  
-  / _` || '__| / _ \ | '_ \ 
- | (_| || |   | (_) || | | |
+   __ _  _ __   ___   _ __   
+  / _` || '__| / _ \ | '_ \  
+ | (_| || |   | (_) || | | | 
   \__, ||_| __ \___/_|_|_|_| 
-  |___/|  \/  || | | ||  _ \                                                 
+  |___/|  \/  || | | ||  _ \ 
        | |\/| || | | || | | |
        | |  | || |_| || |_| |
-       |_|  |_| \___/ |____/
- 8/6/20 update
+       |_|  |_| \___/ |____/ 
+ 8/8/20
+   -social XP!
+   -first quest up in the Demon's Prison
+ 8/6/20
   -new new title screen
   -adj level for gathering/language skills
   -prison restructured
