@@ -20,11 +20,11 @@ give script LOAD=dragmine_killer_1_announcer.script
 set duration 0
 
 <?xml version="1.0"?>
-<FILE><NAME>dragmine_killer_1_rewarditems.xml</NAME><DATA><ITEMS><ITEM><ICLAS>GenArmor</ICLAS><IUSES>100</IUSES><ILEVL>3</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a miner`s headband&lt;/NAME&gt;&lt;DESC&gt;a wool headband with a glowing rune in front.&lt;/DESC&gt;&lt;DISP&gt;a miner`s headband sits here.&lt;/DISP&gt;&lt;PROP&gt;0|1|0|0|65536|3|0|1.0|1|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;27&lt;/FLAG&gt;&lt;IDENT /&gt;&lt;VALUE&gt;66&lt;/VALUE&gt;&lt;MTRAL&gt;312&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;0&lt;/WORNB&gt;&lt;CAPA&gt;0&lt;/CAPA&gt;&lt;CONT&gt;0&lt;/CONT&gt;&lt;OPENTK&gt;30&lt;/OPENTK&gt;&lt;LAYR&gt;0&lt;/LAYR&gt;&lt;LAYA&gt;0&lt;/LAYA&gt;</ITEXT></ITEM></ITEMS></DATA></FILE>
+<FILE><NAME>dragmine_killer_1_rewarditems.xml</NAME><DATA><ITEMS><ITEM><ICLAS>GenArmor</ICLAS><IUSES>100</IUSES><ILEVL>3</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a miner`s headband&lt;/NAME&gt;&lt;DESC&gt;a wool headband with a glowing rune in front.&lt;/DESC&gt;&lt;DISP&gt;a miner`s headband sits here.&lt;/DISP&gt;&lt;PROP&gt;0|1|0|0|65536|3|0|1.0|1|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;27&lt;/FLAG&gt;&lt;IDENT /&gt;&lt;VALUE&gt;66&lt;/VALUE&gt;&lt;MTRAL&gt;312&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;1&lt;/WORNB&gt;&lt;CAPA&gt;0&lt;/CAPA&gt;&lt;CONT&gt;0&lt;/CONT&gt;&lt;OPENTK&gt;30&lt;/OPENTK&gt;&lt;LAYR&gt;0&lt;/LAYR&gt;&lt;LAYA&gt;0&lt;/LAYA&gt;</ITEXT></ITEM></ITEMS></DATA></FILE>
 <FILE><NAME>dragmine_killer_1_announcer.script</NAME>
 <DATA>
 ONCE_PROG 100
-MPQSET * INSTRUCTIONS $i in $a wants you to 'Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.'
+MPQSET * INSTRUCTIONS $i in $a wants you to 'Go there and kill a dozen orcs for your share. You can keep going if you want, but don`t expect extra pay.'
 if EVAL('' != '')
  We`ve been hired to clear out some orc clan, to make way for a mining company. You ready to get your hands dirty and pockets full? -- Come see me for more information.
 endif
@@ -86,13 +86,13 @@ mpscript $n INDIVIDUAL SAVABLE STATIC=LOAD=dragmine_killer_1_playertrack.script
 
 SPEECH_PROG p i accept Clearing the Mine
 if CALLFUNC(CAN_ACCEPT)
-sayto "$n" Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.
+sayto "$n" Go there and kill a dozen orcs for your share. You can keep going if you want, but don`t expect extra pay.
 MPCALLFUNC DO_ACCEPT
 endif
 ~
 SPEECH_PROG p i accept
 if CALLFUNC(CAN_ACCEPT)
-sayto "$n" Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.
+sayto "$n" Go there and kill a dozen orcs for your share. You can keep going if you want, but don`t expect extra pay.
 MPCALLFUNC DO_ACCEPT
 endif
 ~
@@ -100,7 +100,7 @@ endif
 <FILE><NAME>dragmine_killer_1_playertrack.script</NAME>
 <DATA>
 ONCE_PROG 100
-mpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.
+mpsetvar $i INSTRUCTIONS Go there and kill a dozen orcs for your share. You can keep going if you want, but don`t expect extra pay.
 IF !isquestmobalive(1 'dragmine_killer_1')
 MPENDQUEST 'dragmine_killer_1'
 ENDIF
