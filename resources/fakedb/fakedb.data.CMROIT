@@ -1,14 +1,3 @@
-*
-START
-ManualArchon1377751417@313b26eb
-ManualArchon
-
- 
-0
-2147483647
-0
-0
-0
 -
 Mud School#3701
 GenWallpaper-55917693@20da699
@@ -125,17 +114,6 @@ GenWallpaper-55917693@41a8221b
 GenWallpaper
 
 <NAME>sign</NAME><DESC>Welcome to the next station.  Here, you will actually fight real monsters, without fleeing!  Kill every mob, since they hold some equipment you need. To start, go down.</DESC><FLAG>13</FLAG><READ>Welcome to the next station.  Here, you will actually fight real monsters, without fleeing!  Kill every mob, since they hold some equipment you need. To start, go down.</READ> 
-0
-2147483647
-0
-0
-0
--
-Mud School#3712
-GenWallpaper-55917693@32452e99
-GenWallpaper
-
-<NAME>sign</NAME><DESC>Welcome to the cage room.  The adepts of mud school have captured some monsters for you to kill.  In the four cages are four monsters of various types.  Kill them all! After you kill each monster, get all of the equipment from their corpses with the command `GET ALL BODY`.  You can then use the command `WEAR ALL` to wear your newly won equipment. Between combat, you may need to rest or sleep to regenerate hit points. You can `REST` to regenerate hit points, or you can `SLEEP`.  `SLEEP` will refresh you faster than `REST`, but you will be less aware of your surroundings. To end your rest, type STAND or to wake up, type WAKE, or move in a direction.</DESC><FLAG>13</FLAG><READ>Welcome to the cage room.  The adepts of mud school have captured some monsters for you to kill.  In the four cages are four monsters of various types.  Kill them all! After you kill each monster, get all of the equipment from their corpses with the command `GET ALL BODY`.  You can then use the command `WEAR ALL` to wear your newly won equipment. Between combat, you may need to rest or sleep to regenerate hit points. You can `REST` to regenerate hit points, or you can `SLEEP`.  `SLEEP` will refresh you faster than `REST`, but you will be less aware of your surroundings. To end your rest, type STAND or to wake up, type WAKE, or move in a direction.</READ> 
 0
 2147483647
 0
@@ -339,342 +317,12 @@ GenReadable
 1
 0
 0
-*
-ZFAAhouse2#3
-GenTub1842932802@4f88828a
-GenTub
-
-<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@76afd7ff
-GenArmor
-GenTub1842932802@4f88828a
-<NAME>a polyester headband</NAME><DESC>a polyester headband.  </DESC><DISP>a polyester headband lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>455</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>1</LAYA> 
-0
-100
-2
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@369cb265
-GenArmor
-GenTub1842932802@4f88828a
-<NAME>some feathers children`s pants</NAME><DESC>some feathers children`s pants.  </DESC><DISP>some feathers children`s pants lies here</DISP><PROP>0|0|0|0|0|-3|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
--3
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@5d169150
-GenArmor
-GenTub1842932802@4f88828a
-<NAME>a cotton onesie</NAME><DESC>a cotton onesie.  </DESC><DISP>a cotton onesie lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>23</VALUE><MTRAL>314</MTRAL><READ /><WORNL>true</WORNL><WORNB>16388</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-2</LAYR><LAYA>0</LAYA> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@5e85bffb
-GenArmor
-GenTub1842932802@4f88828a
-<NAME>some wool children`s pants</NAME><DESC>some wool children`s pants.  </DESC><DISP>some wool children`s pants lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>312</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@569d8bfb
-GenArmor
-GenTub1842932802@4f88828a
-<NAME>a wool skirt</NAME><DESC>a wool skirt.  </DESC><DISP>a wool skirt lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>312</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>1</LAYA> 
-0
-100
-2
-0
-0
-*
-ZFAAhouse2#3
-GenTub1842932802@35fd760
-GenTub
-
-<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenRideable1611913393@5c114d7
-GenRideable
-GenTub1842932802@35fd760
-<NAME>a feathers sleeping bag</NAME><DESC>a feathers sleeping bag.  </DESC><DISP>a feathers sleeping bag lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>4</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>6</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-2
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@6c34992e
-GenArmor
-GenTub1842932802@35fd760
-<NAME>a wool children`s long sleeve shirt</NAME><DESC>a wool children`s long sleeve shirt.  </DESC><DISP>a wool children`s long sleeve shirt lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>55</VALUE><MTRAL>312</MTRAL><READ /><WORNL>true</WORNL><WORNB>60</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@1f3d8934
-GenArmor
-GenTub1842932802@35fd760
-<NAME>a pointy cotton cap</NAME><DESC>a pointy cotton cap.  </DESC><DISP>a pointy cotton cap lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
-0
-100
-2
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@25451b7b
-GenArmor
-GenTub1842932802@35fd760
-<NAME>a cotton shawl</NAME><DESC>a cotton shawl.  </DESC><DISP>a cotton shawl lies here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>3</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>2</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
-0
-100
-1
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@282fc4a8
-GenArmor
-GenTub1842932802@35fd760
-<NAME>a denim kid`s shirt</NAME><DESC>a denim kid`s shirt.  </DESC><DISP>a denim kid`s shirt lies here</DISP><PROP>0|3|0|0|0|3|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>48</VALUE><MTRAL>456</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
-3
-0
-0
-*
-ZFAAhouse2#3
-GenTub1842932802@1cc371cb
-GenTub
-
-<NAME>a laundry tub</NAME><DESC /><DISP>a laundry tub sits here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@601ac56a
-GenArmor
-GenTub1842932802@1cc371cb
-<NAME>a cotton shirt</NAME><DESC>a cotton shirt.  </DESC><DISP>a cotton shirt lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|6|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>4</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
-2
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@139d9474
-GenArmor
-GenTub1842932802@1cc371cb
-<NAME>a feathers skirt</NAME><DESC>a feathers skirt.  </DESC><DISP>a feathers skirt lies here</DISP><PROP>0|0|0|0|0|-1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>1</LAYA> 
-0
-100
--1
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@1e8edbbf
-GenArmor
-GenTub1842932802@1cc371cb
-<NAME>a wool children`s long sleeve shirt</NAME><DESC>a wool children`s long sleeve shirt.  </DESC><DISP>a wool children`s long sleeve shirt lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|11|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>55</VALUE><MTRAL>312</MTRAL><READ /><WORNL>true</WORNL><WORNB>60</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@48525642
-GenArmor
-GenTub1842932802@1cc371cb
-<NAME>a pointy cotton cap</NAME><DESC>a pointy cotton cap.  </DESC><DISP>a pointy cotton cap lies here</DISP><PROP>0|0|0|0|0|2|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>1</LAYR><LAYA>0</LAYA> 
-0
-100
-2
-0
-0
-*
-ZFAAhouse2#3
-GenArmor-292055729@7ed5ebb7
-GenArmor
-GenTub1842932802@1cc371cb
-<NAME>some feathers pants</NAME><DESC>some feathers pants.  </DESC><DISP>some feathers pants lies here</DISP><PROP>0|0|0|0|0|0|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>15</VALUE><MTRAL>313</MTRAL><READ /><WORNL>false</WORNL><WORNB>16384</WORNB><CAPA>8</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>-1</LAYR><LAYA>0</LAYA> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#4
-GenBed1842915010@438afa7e
-GenBed
-
-<NAME>a frilly bed</NAME><DESC /><DISP>a frilly bed is made here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>2</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-1
-0
-0
-*
-ZFAAhouse2#4
-GenChair1515812038@704fc5ca
-GenChair
-
-<NAME>a puffed chair</NAME><DESC /><DISP>a puffed chair is waiting to be rested upon</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-1
-0
-0
-*
-ZFAAhouse2#4
-GenTub1842932802@eaf902c
-GenTub
-
-<NAME>a beautiful tub</NAME><DESC /><DISP>a beautiful tub is here</DISP><PROP>0|0|0|0|0|0|0|1.0|100|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>500</VALUE><MTRAL>1601</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>1000</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /><CAPA2>2000</CAPA2><REMAN>2000</REMAN><LTYPE>2876</LTYPE><DRINK>250</DRINK> 
-0
-100
-0
-0
-0
-*
-ZFAAhouse2#4
-GenCigar1515847347@167e7ef5
-GenCigar
-
-<NAME>a puffed cigar</NAME><DESC /><DISP>a puffed cigar is here waiting to be enjoyed.</DISP><PROP>0|0|0|0|0|0|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1902</MTRAL><READ /><WORNL>false</WORNL><WORNB>262144</WORNB><CAPA>0</CAPA><CONT>8192</CONT><OPENTK>30</OPENTK><BURNOUT>true</BURNOUT> 
-0
-2147483647
-0
-0
-0
-*
-ZFAAhouse2#4
-GenItem1296013554@2b32f4e
-GenItem
-
-<NAME>a bronze chisel</NAME><DESC /><DISP>a bronze chisel lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
-0
-2147483647
-3
-0
-0
-*
-ZFAAhouse2#16
-GenItem1296013554@19bc40dc
-GenItem
-
-<NAME>a crushed lead sewing needle</NAME><DESC /><DISP>a crushed lead sewing needle is sitting here</DISP><PROP>0|0|0|0|0|3|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
-0
-2147483647
-3
-0
-0
-*
-ZFAAhouse2#22
-GenEmptyDrink-1288477206@e47e7d7
-GenEmptyDrink
-
-<NAME>a small bottle</NAME><DESC /><DISP>a small bottle lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>1</VALUE><MTRAL>1599</MTRAL><READ>2876</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>100</CAPA2><REMAN>0</REMAN><LTYPE>2876</LTYPE><DRINK>100</DRINK> 
-0
-2147483647
-3
-0
-0
-*
-ZFAAhouse2#10
-GenChair1515812038@574f77b0
-GenChair
-
-<NAME>a copper stockade</NAME><DESC>a copper stockade.  </DESC><DISP>a copper stockade lies here</DISP><PROP>0|0|0|0|0|16|0|1.0|50|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Torture(/HITONLY)</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>550</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>51</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-16
-0
-0
-*
-ZFAAhouse2#10
-GenChair1515812038@2f54bd60
-GenChair
-
-<NAME>a silk whipping post</NAME><DESC>a silk whipping post.  </DESC><DISP>a silk whipping post lies here</DISP><PROP>0|0|0|0|0|15|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Torture(/HITONLY)</ATEXT></AFF></AFFECS><FLAG>27</FLAG><IDENT /><VALUE>2010</VALUE><MTRAL>341</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>11</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-15
-0
-0
-*
-ZFAAhouse2#2
-GenFood1295919677@794f1176
-GenFood
-
-<NAME>a dead cockroach</NAME><DESC /><DISP>a dead cockroach lies here</DISP><PROP>0|0|0|0|0|3|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA2>1</CAPA2><BITE>0</BITE> 
-0
-2147483647
-3
-0
-0
 -
 Mud School#3700
 GenWallpaper-55917693@55245b78
 GenWallpaper
 
 <NAME>a sign</NAME><DESC>it looks like a warning sign.  (Type `READ sign` to read it`s message.)</DESC><FLAG>13</FLAG><READ>You may not pass these doors once you have passed level 5.</READ> 
-0
-2147483647
-0
-0
-0
--
-Silver Ford#24
-GenWallpaper-55917693@5dd98e36
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Silver Ford#24.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#24.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Silver Ford#31
-GenWallpaper-55917693@53bce12d
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Silver Ford#31.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#31.  The size of this lot is expandable.</READ> 
 0
 2147483647
 0
@@ -689,28 +337,6 @@ GenWallpaper
 0
 2147483647
 0
-0
-0
-*
-AdventureHousePrison#0
-GenBed1842915010@11e3afe5
-GenBed
-
-<NAME>the machine</NAME><DESC>the machine made from chromium. </DESC><DISP>the machine lies here</DISP><PROP>0|0|0|0|0|25|0|1.0|5000|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Spell_Torture(/&lt;S-NAME&gt; let(s) out a scream of ultimate suffering!)</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>402000</VALUE><MTRAL>942</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5001</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-25
-0
-0
-*
-AdventureHousePrison#0
-GenRideable1611913393@48fab4e2
-GenRideable
-
-<NAME>a titanium gallows</NAME><DESC>a titanium gallows.  </DESC><DISP>a titanium gallows lies here</DISP><PROP>0|0|0|0|0|17|0|1.0|200|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Choke</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>15500</VALUE><MTRAL>956</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>203</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>3</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-17
 0
 0
 -
@@ -920,83 +546,6 @@ GenTub1842932802@520758d2
 0
 100
 1
-0
-0
--
-AdventureHousePrison#5
-GenBed1842915010@3f26cb76
-GenBed
-
-<NAME>a luxuriant bed</NAME><DESC /><DISP>a luxuriant bed is made here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>2</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-1
-0
-0
--
-AdventureHousePrison#5
-GenChair1515812038@7b72fbd3
-GenChair
-
-<NAME>a cozy chair</NAME><DESC /><DISP>a cozy chair is waiting to be rested upon</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-1
-0
-0
--
-AdventureHousePrison#5
-GenMirror33263070@25ae5947
-GenMirror
-
-<NAME>a mirror</NAME><DESC>You see yourself in it!</DESC><DISP>a mirror is for gazing in</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1599</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
-0
-2147483647
-1
-0
-0
--
-AdventureHousePrison#5
-GenCigar1515847347@44ab5173
-GenCigar
-
-<NAME>a cozy cigar</NAME><DESC /><DISP>a cozy cigar is here waiting to be enjoyed.</DISP><PROP>0|0|0|0|0|0|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1902</MTRAL><READ /><WORNL>false</WORNL><WORNB>262144</WORNB><CAPA>0</CAPA><CONT>8192</CONT><OPENTK>30</OPENTK><BURNOUT>true</BURNOUT> 
-0
-2147483647
-0
-0
-0
-*
-Silver Ford#7
-GenWallpaper-55917693@26cf59f2
-GenWallpaper
-
-<NAME>a bright sign flashes with magical light</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON^w \\nTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><FLAG>13</FLAG><READ /> 
-0
-2147483647
-0
-0
-0
--
-AdventureHousePrison#14
-GenWallpaper-55917693@6173420e
-GenWallpaper
-
-<NAME>a dread sigil is painted on the floor here. ^w(^rglowing^w)</NAME><DESC>The circular sigil appears to have been drawn in blood.</DESC><FLAG>9</FLAG><READ /> 
-0
-2147483647
-0
-0
-0
-*
-Iron Dragons Fortress#1
-GenWallpaper-55917693@282c2157
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
 0
 0
 -
@@ -2463,149 +2012,6 @@ GenArmor
 0
 0
 -
-Silver Ford#13
-GenRideable1611913393@6ba63b0b
-GenRideable
-
-<NAME>a stone stove</NAME><DESC>a stone stove.  </DESC><DISP>a stone stove lies here</DISP><PROP>0|0|0|0|0|26|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Burning</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>This is the work of Ermiel.</IDENT><VALUE>1100</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>200</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-26
-0
-0
--
-Iron Dragons Fortress#1
-GenWallpaper-55917693@d3b8c2c
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenContainer-1941569022@6c3a5284
-GenContainer
-
-<NAME>The wardens chest</NAME><DESC /><DISP>The wardens chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@4f5be966
-Ration
-GenContainer-1941569022@6c3a5284
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@165f8e09
-Ration
-GenContainer-1941569022@6c3a5284
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@44d96f0b
-Ration
-GenContainer-1941569022@6c3a5284
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@31aca353
-Ration
-GenContainer-1941569022@6c3a5284
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenLiquidResource178579593@48246b64
-GenLiquidResource
-GenContainer-1941569022@6c3a5284
-<NAME>glowgell</NAME><DESC>It looks good!</DESC><DISP>some glowgell is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Glowgell</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>glowgell</IDENT><VALUE>1</VALUE><MTRAL>2910</MTRAL><READ>2910</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2910</LTYPE><DRINK>700</DRINK> 
-0
-2147483647
-1
-0
-0
--
-Silver Ford#7
-GenWallpaper-55917693@2623ad8a
-GenWallpaper
-
-<NAME>a brightly flashing sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON^w \\nTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><FLAG>13</FLAG><READ /> 
-0
-2147483647
-0
-0
-0
--
-START
-ManualArchon1377751417@56698caa
-ManualArchon
-
- 
-0
-2147483647
-0
-0
-0
-*
-AdventureHousePrison#0
-GenBed1842915010@639f7ae1
-GenBed
-
-<NAME>the machine</NAME><DESC>the machine made from chromium. </DESC><DISP>the machine lies here</DISP><PROP>0|0|0|0|0|25|0|1.0|5000|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Spell_Torture(/&lt;S-NAME&gt; let(s) out a scream of ultimate suffering!)</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>402000</VALUE><MTRAL>942</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5001</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-25
-0
-0
-*
-AdventureHousePrison#0
-GenRideable1611913393@4db8d8c8
-GenRideable
-
-<NAME>a titanium gallows</NAME><DESC>a titanium gallows.  </DESC><DISP>a titanium gallows lies here</DISP><PROP>0|0|0|0|0|17|0|1.0|200|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RideSpellCast</ACLASS><ATEXT>Thief_Bind;Spell_Choke</ATEXT></AFF></AFFECS><FLAG>25</FLAG><IDENT /><VALUE>15500</VALUE><MTRAL>956</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>203</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>3</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-17
-0
-0
-*
-AdventureHousePrison#0
-GenFurniture-2111042189@61bebff
-GenFurniture
-
-<NAME>a torch</NAME><DESC>A solid torch is firmly set into an iron sconce on the wall here.</DESC><DISP>a torch sconce is affixed to the wall here.</DISP><PROP>0|0|0|0|0|0|0|1.0|40|0|80|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Spell_ContinualLight</ACLASS><ATEXT /></AFF></AFFECS><FLAG>17</FLAG><IDENT /><VALUE>100</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>0</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-0
-0
-0
--
 AdventureHousePrison#0
 GenRideable1611913393@7b5abeb2
 GenRideable
@@ -2661,50 +2067,6 @@ GenContainer
 0
 0
 -
-Adventure House Den#3
-GenChair1515812038@6c762f83
-GenChair
-
-<NAME>a short ragged throne</NAME><DESC /><DISP>a short ragged throne is here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-1
-0
-0
--
-Adventure House Den#3
-GenContainer-1941569022@10a69e83
-GenContainer
-
-<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Adventure House Den thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
-0
-2147483647
-0
-0
-0
--
-Adventure House Den#3
-GenResource-1498817939@31921260
-GenResource
-GenContainer-1941569022@10a69e83
-<NAME>a lead locket</NAME><DESC /><DISP>a lead locket sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Adventure House Den#3
-GenResource-1498817939@1ad15cef
-GenResource
-GenContainer-1941569022@10a69e83
-<NAME>a limestone locket</NAME><DESC /><DISP>a limestone locket sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>2586</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
 Adventure House Den#4
 GenChair1515812038@32da102d
 GenChair
@@ -2735,5 +2097,918 @@ GenItem
 0
 2147483647
 6
+0
+0
+-
+The Haunted Forest#28
+GenContainer-1941569022@1b318666
+GenContainer
+
+<NAME>A splintered chest</NAME><DESC /><DISP>A splintered chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Hidden</ACLASS><ATEXT /></AFF></AFFECS><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+The Haunted Forest#28
+GenResource-1498817939@389bfa8a
+GenResource
+GenContainer-1941569022@1b318666
+<NAME>a soapstone locket</NAME><DESC /><DISP>a soapstone locket sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>65</VALUE><MTRAL>2709</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+The Haunted Forest#28
+GenMultiPotion1011305626@d3afadf
+GenMultiPotion
+GenContainer-1941569022@1b318666
+<NAME>a potion of predict weather</NAME><DESC /><DISP>a potion of predict weather sits here.</DISP><PROP>0|0|0|0|64|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>200</VALUE><MTRAL>1599</MTRAL><READ>Chant_PredictWeather</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>5</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><CAPA2>100</CAPA2><REMAN>100</REMAN><LTYPE>2878</LTYPE><DRINK>10</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+The Haunted Forest#30
+GenContainer-1941569022@d2ebdbf
+GenContainer
+
+<NAME>A notched chest</NAME><DESC /><DISP>A notched chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Hidden</ACLASS><ATEXT /></AFF></AFFECS><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+The Haunted Forest#30
+GenResource-1498817939@68a16ed
+GenResource
+GenContainer-1941569022@d2ebdbf
+<NAME>a lapis setting</NAME><DESC /><DISP>a lapis setting sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>70</VALUE><MTRAL>3204</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+The Haunted Forest#30
+GenResource-1498817939@24464e81
+GenResource
+GenContainer-1941569022@d2ebdbf
+<NAME>a platinum bar</NAME><DESC /><DISP>a platinum bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>80</VALUE><MTRAL>839</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+The Haunted Forest#3
+GenContainer-1941569022@1d95dd06
+GenContainer
+
+<NAME>A notched chest</NAME><DESC /><DISP>A notched chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Hidden</ACLASS><ATEXT /></AFF></AFFECS><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+The Haunted Forest#3
+GenResource-1498817939@1b8bd4ee
+GenResource
+GenContainer-1941569022@1d95dd06
+<NAME>a chrysoberyl setting</NAME><DESC /><DISP>a chrysoberyl setting sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>60</VALUE><MTRAL>3155</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+The Haunted Forest#3
+GenResource-1498817939@663e8b9a
+GenResource
+GenContainer-1941569022@1d95dd06
+<NAME>a turquoise gemstone</NAME><DESC /><DISP>a turquoise gemstone sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>70</VALUE><MTRAL>3201</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+The Haunted Forest#31
+GenContainer-1941569022@63160569
+GenContainer
+
+<NAME>A notched chest</NAME><DESC /><DISP>A notched chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Hidden</ACLASS><ATEXT /></AFF></AFFECS><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+The Haunted Forest#31
+GenArmor-292055729@71f32491
+GenArmor
+GenContainer-1941569022@63160569
+<NAME>some platinum banded sleeves</NAME><DESC>some platinum banded sleeves.  </DESC><DISP>some platinum banded sleeves lies here</DISP><PROP>0|7|0|0|0|9|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>5993</VALUE><MTRAL>839</MTRAL><READ /><WORNL>false</WORNL><WORNB>8</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>2</LAYR><LAYA>0</LAYA> 
+0
+100
+9
+0
+0
+-
+The Haunted Forest#31
+GenResource-1498817939@6207d549
+GenResource
+GenContainer-1941569022@63160569
+<NAME>a gold bar</NAME><DESC /><DISP>a gold bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>150</VALUE><MTRAL>805</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+*
+Silver Ford#31
+GenWallpaper-55917693@2eefc865
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#31.  The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#31.  The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+*
+Silver Ford#24
+GenWallpaper-55917693@60d067a5
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#24.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#24.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3712
+GenAmmunition-829073982@4f2ddd29
+GenAmmunition
+GenContainer-1941569022@782e0ac3
+<NAME>a stack of 100 arrows</NAME><DESC /><DISP>a stack of 100 arrows sit here.</DISP><PROP>0|0|0|0|0|1|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ>arrows</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+100
+1
+0
+0
+-
+Mud School#3712
+GenWallpaper-55917693@6c6e241f
+GenWallpaper
+
+<NAME>sign</NAME><DESC>Welcome to the cage room.  The adepts of mud school have captured some monsters for you to kill.  In the four cages are four monsters of various types.  Kill them all! After you kill each monster, get all of the equipment from their corpses with the command `GET ALL BODY`.  You can then use the command `WEAR ALL` to wear your newly won equipment. Between combat, you may need to rest or sleep to regenerate hit points. You can `REST` to regenerate hit points, or you can `SLEEP`.  `SLEEP` will refresh you faster than `REST`, but you will be less aware of your surroundings. To end your rest, type STAND or to wake up, type WAKE, or move in a direction.</DESC><FLAG>13</FLAG><READ>Welcome to the cage room.  The adepts of mud school have captured some monsters for you to kill.  In the four cages are four monsters of various types.  Kill them all! After you kill each monster, get all of the equipment from their corpses with the command `GET ALL BODY`.  You can then use the command `WEAR ALL` to wear your newly won equipment. Between combat, you may need to rest or sleep to regenerate hit points. You can `REST` to regenerate hit points, or you can `SLEEP`.  `SLEEP` will refresh you faster than `REST`, but you will be less aware of your surroundings. To end your rest, type STAND or to wake up, type WAKE, or move in a direction.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Mud School#3712
+GenWeapon-1482921244@697e407e
+GenWeapon
+GenContainer-1941569022@782e0ac3
+<NAME>a bronze mace</NAME><DESC /><DISP>a bronze mace sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>1</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+-
+Mud School#3712
+GenShield42167641@475daf13
+GenShield
+GenContainer-1941569022@782e0ac3
+<NAME>a shield</NAME><DESC /><DISP>a sturdy round shield sits here.</DISP><PROP>0|10|0|0|0|1|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+1
+0
+0
+-
+Mud School#3712
+GenStaff-1436557032@2ea4230a
+GenStaff
+GenContainer-1941569022@782e0ac3
+<NAME>a wooden staff</NAME><DESC>the arcane symbols etched on the staff seem to be instructions, indicating you should simply say MAGIC MISSILE at your target.</DESC><DISP>a wooden staff lies in the corner of the room.</DISP><PROP>0|0|0|2|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>SPEAK_PROG p magic missile;mpcast `magic missile` $t;~;</BPARMS></BHAVE></BEHAVES><AFFECS /><FLAG>11</FLAG><IDENT>elissim</IDENT><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><MAXUSE>40</MAXUSE><ENCHTYPE>ANY</ENCHTYPE><SPELL>Spell_MagicMissile</SPELL><TYPE>3</TYPE><CLASS>10</CLASS><MINR>1</MINR><MAXR>4</MAXR> 
+0
+40
+1
+0
+0
+-
+Mud School#3712
+GenWeapon-1482921244@6348c808
+GenWeapon
+GenContainer-1941569022@782e0ac3
+<NAME>a simple dagger</NAME><DESC /><DISP>a simple dagger sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>2</TYPE><CLASS>9</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+-
+Mud School#3712
+GenContainer-1941569022@782e0ac3
+GenContainer
+
+<NAME>a weapon rack</NAME><DESC>You see various weapons, try GET AXE RACK and give it a swing.</DESC><DISP>a weapon rack holds a variety of weapons for you to try.</DISP><PROP>0|0|0|0|0|0|1|1.0|2|0|80|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>17</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+1
+2147483647
+0
+0
+0
+-
+Mud School#3712
+GenWeapon-1482921244@4cd02e2d
+GenWeapon
+GenContainer-1941569022@782e0ac3
+<NAME>a battle axe</NAME><DESC>a simple bronze-headed battleaxe</DESC><DISP>a battle axe sits here.</DISP><PROP>0|0|0|5|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>1</TYPE><CLASS>0</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+-
+Mud School#3712
+GenBow-461846014@38da3954
+GenBow
+GenContainer-1941569022@782e0ac3
+<NAME>a short bow</NAME><DESC>a simple oak shortbow</DESC><DISP>a short bow sits here.</DISP><PROP>0|0|0|2|0|1|0|1.0|8|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1325</MTRAL><READ>arrows</READ><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>20</ACAPA><TYPE>2</TYPE><CLASS>7</CLASS><MINR>1</MINR><MAXR>3</MAXR> 
+0
+20
+1
+0
+0
+-
+START
+ManualArchon1377751417@49b0c3aa
+ManualArchon
+
+ 
+0
+2147483647
+0
+0
+0
+-
+AdventureHousePrison#5
+GenMirror33263070@78d8aeda
+GenMirror
+
+<NAME>a mirror</NAME><DESC>You see yourself in it!</DESC><DISP>a mirror is for gazing in</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1599</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+1
+0
+0
+-
+AdventureHousePrison#5
+GenChair1515812038@1172b0b
+GenChair
+
+<NAME>a cozy chair</NAME><DESC /><DISP>a cozy chair is waiting to be rested upon</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#5
+GenBed1842915010@7b775f2c
+GenBed
+
+<NAME>a luxuriant bed</NAME><DESC /><DISP>a luxuriant bed is made here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>2</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+AdventureHousePrison#14
+GenWallpaper-55917693@4d837e78
+GenWallpaper
+
+<NAME>a dread sigil is painted on the floor here. ^w(^rglowing^w)</NAME><DESC>The circular sigil appears to have been drawn in blood.</DESC><FLAG>9</FLAG><READ /> 
+0
+2147483647
+0
+0
+0
+-
+Adventure House Den#30
+GenArmor-292055729@3f5a3ae6
+GenArmor
+Corpse1737797421@1b7490ed
+<NAME>a Human prison guard`s legguards</NAME><DESC /><DISP>a Human prison guard`s legguards has been left here</DISP><PROP>0|24|0|0|0|5|0|1.0|30|79|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>840</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>16896</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+5
+0
+79
+-
+Adventure House Den#30
+GenArmor-292055729@3c5f4b0a
+GenArmor
+Corpse1737797421@1b7490ed
+<NAME>a Human prison guard`s helmet</NAME><DESC /><DISP>a Human prison guard`s helmet has been left here</DISP><PROP>0|21|0|0|0|8|0|1.0|25|79|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>863</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>513</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+8
+0
+79
+-
+Adventure House Den#30
+GenArmor-292055729@df7fa7c
+GenArmor
+Corpse1737797421@1b7490ed
+<NAME>a Human prison guard`s gloves</NAME><DESC /><DISP>a Human prison guard`s gloves has been left here</DISP><PROP>0|8|0|0|0|6|0|1.0|12|79|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>114</VALUE><MTRAL>566</MTRAL><READ /><WORNL>false</WORNL><WORNB>2560</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+6
+0
+79
+-
+Adventure House Den#30
+GenArmor-292055729@62814b36
+GenArmor
+Corpse1737797421@1b7490ed
+<NAME>a Human prison guard`s armguards</NAME><DESC /><DISP>a Human prison guard`s armguards has been left here</DISP><PROP>0|18|0|0|0|6|0|1.0|30|79|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>840</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>520</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+6
+0
+79
+-
+Adventure House Den#30
+StdCoins1096277776@52bccb6d
+StdCoins
+Corpse1737797421@1b7490ed
+/1.0 
+0
+2147483647
+0
+13
+0
+-
+Adventure House Den#30
+GenWeapon-1482921244@9621e1
+GenWeapon
+Corpse1737797421@1b7490ed
+<NAME>a dented sword</NAME><DESC /><DISP>a dented sword has been left here</DISP><PROP>0|0|0|5|0|7|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>90</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>1</TYPE><CLASS>8</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+7
+0
+0
+-
+Adventure House Den#30
+GenShield42167641@3a0ce2f7
+GenShield
+
+<NAME>a wooden shield</NAME><DESC /><DISP>a wooden shield sits here</DISP><PROP>0|6|0|0|0|6|0|1.0|9|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>63</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+6
+0
+0
+-
+Adventure House Den#30
+Corpse1737797421@1b7490ed
+Corpse
+
+<NAME>a dead human guard</NAME><DESC>Bloody and bruised, obviously mistreated.</DESC><DISP>a dead human guard lies here.</DISP><PROP>0|0|0|0|0|8|75|1.0|194|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>1</VALUE><MTRAL>2049</MTRAL><READ /><WORNL>false</WORNL><WORNB>0</WORNB><CAPA>5</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><GENDER>M</GENDER><MRACE>Human</MRACE><MDNAME>a Human prison guard</MDNAME><MDDESC /><MKNAME>Ermiel</MKNAME><MTOD>1596900098399</MTOD><MKPLAY>true</MKPLAY><MHASH>1717621054</MHASH><MDLMSG /><MBREAL>false</MBREAL><MPLAYR>false</MPLAYR><MPKILL>false</MPKILL><MOBS><MOB><MCLAS>GenMob</MCLAS><MLEVL>0</MLEVL><MABLE>0</MABLE><MREJV>0</MREJV><MTEXT>&lt;NAME&gt;a Human prison guard&lt;/NAME&gt;&lt;DESC /&gt;&lt;DISP&gt;a Human prison guard is watching you.&lt;/DISP&gt;&lt;PROP&gt;0|100|0|0|0|0|0|1.0|0|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;0&lt;/FLAG&gt;&lt;MONEY&gt;0&lt;/MONEY&gt;&lt;VARMONEY&gt;0.0&lt;/VARMONEY&gt;&lt;GENDER&gt;M&lt;/GENDER&gt;&lt;MRACE&gt;StdRace&lt;/MRACE&gt;&lt;FACTIONS /&gt;&lt;INVEN /&gt;&lt;ABLTYS /&gt;</MTEXT></MOB>\n</MOBS><KLTOOL><KLCLASS>GenSpear</KLCLASS><KLDATA><NAME>Ermiel`s Light</NAME><DESC>This steel-tipped spear is a long rough-hewn haft, with a long white feather dangling from a strip of tied leather. As it moves, it seems to reflect an unknown source of soft yellow light.</DESC><DISP>Ermiel`s Light hovers here.</DISP><PROP>69|0|0|60|0|100|0|1.0|8|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Spell_ContinualLight</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prayer_BlessItem</ACLASS><ATEXT /></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>9600</VALUE><MTRAL>811</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>2</TYPE><CLASS>6</CLASS><MINR>0</MINR><MAXR>3</MAXR><IWORN>0</IWORN><ILOC /><IUSES>100</IUSES><ILEVL>100</ILEVL><IABLE>69</IABLE></KLDATA></KLTOOL> 
+75
+2147483647
+8
+0
+0
+-
+Adventure House Den#3
+GenContainer-1941569022@3afa61e2
+GenContainer
+
+<NAME>the king`s chest</NAME><DESC>a half-rotten chest with a broken lock.</DESC><DISP>the king`s chest sits here.</DISP><PROP>0|0|0|0|0|6|300|1.0|10|0|16|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>ItemGenerator</BCLASS><BPARMS>min=10 max=30 chance=50 minitems=1 maxitems=3 maxdups=0 enchanted=5;-material +iron +bronze -levels +4 +5 +6 +7</BPARMS></BHAVE></BEHAVES><AFFECS /><FLAG>185</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1423</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+300
+2147483647
+6
+0
+0
+-
+Adventure House Den#3
+GenChair1515812038@69babbe1
+GenChair
+
+<NAME>a short ragged throne</NAME><DESC /><DISP>a short ragged throne is here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+1
+0
+0
+-
+Silver Ford#6
+GenReadable-2024912305@2f34754c
+GenReadable
+
+<NAME>a signpost</NAME><DESC>NORTH to the Adventure Academy\\nSOUTH to the marketplace\\nEAST to Adventure House: Prison\\nWEST to Adventure House: Den</DESC><DISP>a signpost points in various directions.</DISP><PROP>0|0|0|0|65536|1|0|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>NORTH to the Adventure Academy\\nSOUTH to the marketplace\\nEAST to Adventure House: Prison\\nWEST to Adventure House: Den</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+1
+0
+0
+*
+Silver Ford#7
+GenReadable-2024912305@74da99c5
+GenReadable
+
+<NAME>a bright sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON\\n^WTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Intended for adventurers level 2-4. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><DISP>a bright sign is posted in front of the building.</DISP><PROP>0|0|0|0|8192|1|150|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>\\n^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON\\n^WTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Intended for adventurers level 2-4. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+150
+2147483647
+1
+0
+0
+*
+Silver Ford#9
+GenReadable-2024912305@3a0878a5
+GenReadable
+
+<NAME>a bright sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE RAT DEN\\n^WTraverse the Den, find and slay the King, and keep whatever you find inside!\\n\\n*Intended for adventurers level 4-7. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><DISP>a bright sign is posted in front of the building.</DISP><PROP>0|0|0|0|8192|1|150|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>\\n^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE RAT DEN\\n^WTraverse the Den, find and slay the King, and keep whatever you find inside!\\n\\n*Intended for adventurers level 4-7. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+150
+2147483647
+1
+0
+0
+-
+Silver Ford#0
+GenQuestBoard344923587@f6ba263
+GenQuestBoard
+
+<NAME>Silver Ford`s job board</NAME><DESC /><DISP>Silver Ford`s job board sits here.</DISP><PROP>0|0|0|0|0|0|15|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+15
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@714866cb
+Ration
+GenContainer-1941569022@429dd92b
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenWallpaper-55917693@3c536a02
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@284bcee6
+GenResource
+
+<NAME>a 2# pair of deer horns bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pair of deer horns bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT>a pair of deer horns</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@46deb70e
+Ration
+GenContainer-1941569022@429dd92b
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenLiquidResource178579593@6152a900
+GenLiquidResource
+GenContainer-1941569022@429dd92b
+<NAME>glowgell</NAME><DESC>It looks good!</DESC><DISP>some glowgell is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Glowgell</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>glowgell</IDENT><VALUE>1</VALUE><MTRAL>2910</MTRAL><READ>2910</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2910</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@7275eef5
+GenResource
+
+<NAME>a brass bar</NAME><DESC /><DISP>a brass bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596830488406 LEVEL=0 INTERVAL=960</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>120</VALUE><MTRAL>812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@4c47de8
+Ration
+GenContainer-1941569022@429dd92b
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@5ea0ef53
+Ration
+GenContainer-1941569022@429dd92b
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenContainer-1941569022@429dd92b
+GenContainer
+
+<NAME>The wardens chest</NAME><DESC /><DISP>The wardens chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@154b9367
+GenResource
+
+<NAME>a pile of fox bones</NAME><DESC /><DISP>a pile of fox bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of fox bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Fox</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@7898b9a4
+GenResource
+
+<NAME>a pile of wolf bones</NAME><DESC /><DISP>a pile of wolf bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of wolf bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Wolf</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@6684eac4
+GenResource
+
+<NAME>a 3# pile of troll bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 3# pile of troll bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of troll bones</IDENT><VALUE>3</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Troll</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@40b9a617
+GenResource
+
+<NAME>a pile of monkey bones</NAME><DESC /><DISP>a pile of monkey bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of monkey bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Monkey</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@36f362d1
+GenResource
+
+<NAME>a 2# pile of deer bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pile of deer bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of deer bones</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Silver Ford#12
+GenFixture-880796726@1ec65834
+GenFixture
+
+<NAME>a lead lamp post</NAME><DESC>a lead lamp post.  </DESC><DISP>a lead lamp post lies here</DISP><PROP>0|0|0|0|0|13|0|1.0|250|0|16|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Spell_ContinualLight</ACLASS><ATEXT /></AFF></AFFECS><FLAG>9</FLAG><IDENT>This is the work of Kurjak.</IDENT><VALUE>4500</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+13
+0
+0
+-
+Silver Ford#13
+GenWallpaper-55917693@397fcde9
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#13.  The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#13.  The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Silver Ford#13
+GenRideable1611913393@3f1a3b90
+GenRideable
+
+<NAME>a stone stove</NAME><DESC>a stone stove.  </DESC><DISP>a stone stove lies here</DISP><PROP>0|0|0|0|0|26|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Burning</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>This is the work of Ermiel.</IDENT><VALUE>1100</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>200</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+26
+0
+0
+-
+Silver Ford#40
+GenWallpaper-55917693@5f13b607
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+*
+Adventure Academy#1
+Torch-2144999893@34a67935
+Torch
+
+ 
+0
+2147483647
+0
+0
+0
+*
+Adventure Academy#1
+Torch-2144999893@34a67935
+Torch
+
+ 
+0
+2147483647
+0
+0
+0
+-
+Adventure Academy#2
+GenItem1296013554@18a569de
+GenItem
+
+<NAME>an inkwell</NAME><DESC>a simple glass bottle containing a black liquid.</DESC><DISP>an inkwell sits here.</DISP><PROP>0|0|0|0|0|1|4|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1599</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+4
+2147483647
+1
+0
+0
+*
+Adventure Academy#1
+Torch-2144999893@34a67935
+Torch
+
+ 
+0
+2147483647
+0
+0
+0
+-
+Adventure Academy#1
+Torch-2144999893@34a67935
+Torch
+
+ 
+0
+2147483647
+0
+0
+0
+*
+Adventure Academy#3
+GenContainer-1941569022@47f47a62
+GenContainer
+
+<NAME>a weapon rack</NAME><DESC>You see various weapons, try GET AXE RACK and give it a swing.</DESC><DISP>a weapon rack holds a variety of weapons for you to try.</DISP><PROP>0|0|0|0|0|0|1|1.0|2|0|80|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>17</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+1
+2147483647
+0
+0
+0
+*
+Adventure Academy#3
+GenStaff-1436557032@16445d67
+GenStaff
+GenContainer-1941569022@47f47a62
+<NAME>a wooden staff</NAME><DESC>the arcane symbols etched on the staff seem to be instructions, indicating you should simply say MAGIC MISSILE at your target.</DESC><DISP>a wooden staff lies in the corner of the room.</DISP><PROP>0|0|0|2|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>SPEAK_PROG p magic missile;mpcast `magic missile` $t;~;</BPARMS></BHAVE></BEHAVES><AFFECS /><FLAG>11</FLAG><IDENT>elissim</IDENT><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><MAXUSE>40</MAXUSE><ENCHTYPE>ANY</ENCHTYPE><SPELL>Spell_MagicMissile</SPELL><TYPE>3</TYPE><CLASS>10</CLASS><MINR>1</MINR><MAXR>4</MAXR> 
+0
+40
+1
+0
+0
+*
+Adventure Academy#3
+GenBow-461846014@2281d1b0
+GenBow
+GenContainer-1941569022@47f47a62
+<NAME>a short bow</NAME><DESC>a simple oak shortbow</DESC><DISP>a short bow sits here.</DISP><PROP>0|0|0|2|0|1|0|1.0|8|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1325</MTRAL><READ>arrows</READ><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>20</ACAPA><TYPE>2</TYPE><CLASS>7</CLASS><MINR>1</MINR><MAXR>3</MAXR> 
+0
+20
+1
+0
+0
+*
+Adventure Academy#3
+GenWeapon-1482921244@8eecc5a
+GenWeapon
+GenContainer-1941569022@47f47a62
+<NAME>a bronze mace</NAME><DESC /><DISP>a bronze mace sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>1</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+*
+Adventure Academy#3
+GenAmmunition-829073982@1c166f74
+GenAmmunition
+GenContainer-1941569022@47f47a62
+<NAME>a stack of 100 arrows</NAME><DESC /><DISP>a stack of 100 arrows sit here.</DISP><PROP>0|0|0|0|0|1|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ>arrows</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+100
+1
+0
+0
+*
+Adventure Academy#3
+GenWeapon-1482921244@161a1971
+GenWeapon
+GenContainer-1941569022@47f47a62
+<NAME>a battle axe</NAME><DESC>a simple bronze-headed battleaxe</DESC><DISP>a battle axe sits here.</DISP><PROP>0|0|0|5|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>1</TYPE><CLASS>0</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+*
+Adventure Academy#3
+GenWeapon-1482921244@3986fd14
+GenWeapon
+GenContainer-1941569022@47f47a62
+<NAME>a simple dagger</NAME><DESC /><DISP>a simple dagger sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>2</TYPE><CLASS>9</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+*
+Adventure Academy#3
+GenShield42167641@215e1c39
+GenShield
+GenContainer-1941569022@47f47a62
+<NAME>a shield</NAME><DESC /><DISP>a sturdy round shield sits here.</DISP><PROP>0|10|0|0|0|1|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+1
+0
+0
+-
+Adventure Academy#3
+GenContainer-1941569022@47f47a62
+GenContainer
+
+<NAME>a weapon rack</NAME><DESC>You see various weapons, try GET AXE RACK and give it a swing.</DESC><DISP>a weapon rack holds a variety of weapons for you to try.</DISP><PROP>0|0|0|0|0|0|1|1.0|2|0|80|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>17</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+1
+2147483647
+0
+0
+0
+-
+Adventure Academy#3
+GenStaff-1436557032@16445d67
+GenStaff
+GenContainer-1941569022@47f47a62
+<NAME>a wooden staff</NAME><DESC>the arcane symbols etched on the staff seem to be instructions, indicating you should simply say MAGIC MISSILE at your target.</DESC><DISP>a wooden staff lies in the corner of the room.</DISP><PROP>0|0|0|2|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>SPEAK_PROG p magic missile;mpcast `magic missile` $t;~;</BPARMS></BHAVE></BEHAVES><AFFECS /><FLAG>11</FLAG><IDENT>elissim</IDENT><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><MAXUSE>40</MAXUSE><ENCHTYPE>ANY</ENCHTYPE><SPELL>Spell_MagicMissile</SPELL><TYPE>3</TYPE><CLASS>10</CLASS><MINR>1</MINR><MAXR>4</MAXR> 
+0
+40
+1
+0
+0
+-
+Adventure Academy#3
+GenBow-461846014@2281d1b0
+GenBow
+GenContainer-1941569022@47f47a62
+<NAME>a short bow</NAME><DESC>a simple oak shortbow</DESC><DISP>a short bow sits here.</DISP><PROP>0|0|0|2|0|1|0|1.0|8|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1325</MTRAL><READ>arrows</READ><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>20</ACAPA><TYPE>2</TYPE><CLASS>7</CLASS><MINR>1</MINR><MAXR>3</MAXR> 
+0
+20
+1
+0
+0
+-
+Adventure Academy#3
+GenWeapon-1482921244@8eecc5a
+GenWeapon
+GenContainer-1941569022@47f47a62
+<NAME>a bronze mace</NAME><DESC /><DISP>a bronze mace sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>1</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+-
+Adventure Academy#3
+GenAmmunition-829073982@1c166f74
+GenAmmunition
+GenContainer-1941569022@47f47a62
+<NAME>a stack of 100 arrows</NAME><DESC /><DISP>a stack of 100 arrows sit here.</DISP><PROP>0|0|0|0|0|1|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ>arrows</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+100
+1
+0
+0
+-
+Adventure Academy#3
+GenWeapon-1482921244@161a1971
+GenWeapon
+GenContainer-1941569022@47f47a62
+<NAME>a battle axe</NAME><DESC>a simple bronze-headed battleaxe</DESC><DISP>a battle axe sits here.</DISP><PROP>0|0|0|5|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>1</TYPE><CLASS>0</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+-
+Adventure Academy#3
+GenWeapon-1482921244@3986fd14
+GenWeapon
+GenContainer-1941569022@47f47a62
+<NAME>a simple dagger</NAME><DESC /><DISP>a simple dagger sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>2</TYPE><CLASS>9</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
+0
+100
+1
+0
+0
+-
+Adventure Academy#3
+GenShield42167641@215e1c39
+GenShield
+GenContainer-1941569022@47f47a62
+<NAME>a shield</NAME><DESC /><DISP>a sturdy round shield sits here.</DISP><PROP>0|10|0|0|0|1|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+1
+0
+0
+-
+Silver Ford#9
+GenReadable-2024912305@17511d30
+GenReadable
+
+<NAME>a bright sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE RAT DEN\\n^WTraverse the Den, find and slay the King, and keep whatever you find inside!\\n\\n*Intended for adventurers level 4-7. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><DISP>a bright sign is posted in front of the building.</DISP><PROP>0|0|0|0|65536|1|150|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>\\n^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE RAT DEN\\n^WTraverse the Den, find and slay the King, and keep whatever you find inside!\\n\\n*Intended for adventurers level 4-7. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+150
+2147483647
+1
+0
+0
+-
+Silver Ford#7
+GenReadable-2024912305@35088cc0
+GenReadable
+
+<NAME>a bright sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON\\n^WTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Intended for adventurers level 2-4. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><DISP>a bright sign is posted in front of the building.</DISP><PROP>0|0|0|0|65536|1|150|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>\\n^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON\\n^WTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Intended for adventurers level 2-4. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+150
+2147483647
+1
 0
 0
