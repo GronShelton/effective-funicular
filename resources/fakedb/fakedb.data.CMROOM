@@ -83,13 +83,6 @@ A Room in Mud School
 You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
 -
-Mud School#3712
-WoodRoom
-Mud School
-The Cage Room 
-You are in the cage room.  All around are 4 cages.  Light fluoresces off the ceiling in soft white tones.  Of course, there is a big sign on the wall. Exits lead into the cardinal directions plus down. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
--
 Mud School#3713
 WoodRoom
 Mud School
@@ -412,34 +405,6 @@ A Room in Mud School.
 You are in a square white room.  The walls are all blank, with no windows. Light fluoresces off the ceiling in soft white tones.  Of course, there is a sign on the wall.  The only exit is Down. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
 -
-Silver Ford#1
-CityStreet
-Silver Ford
-Northern end of the Marketplace 
-Silver Ford`s square is abuzz with activity. Merchants come from all over Storm Reef to earn coins from the young adventurers` pockets. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#4
-CityStreet
-Silver Ford
-Western end of the marketplace 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#5
-CityStreet
-Silver Ford
-Outside the Dusty Rose 
-The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#6
-CityStreet
-Silver Ford
-Outside the Adventure Academy 
-You stand before the Zilor Fice Adventure Academy. The sprawling complex reaches around to the sides, and the large glass front doors are directly ahead. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
 Silver Ford#8
 CityStreet
 Silver Ford
@@ -447,208 +412,12 @@ CityStreet-
  
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
-Silver Ford#9
-CityStreet
-Silver Ford
-Outside an Adventure House 
-This old house has been remodeled to act as a training area for young adventurers. A sign marks this location as Zilor Fice Adventure House #2. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#14
-StoneRoom
-ZFAAhouse2
-Corner of a confining hallway 
-This constricted hallway runs east and west. To the south is Corner of a confining hallway.  You hear dreary screams of suffering in the distance. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#24
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-This damp corridor seems to head north, south, and west. Something indescribable makes you feel lonesome and sad here. You feel still. To the north is A captivating corridor. To the south is a guard station. To the west is a cold pit. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#15
-StoneRoom
-ZFAAhouse2
-Corner of a confining hallway 
-This musty hallway runs steeply north and south. To the east is Corner of a confining hallway.  The black ceiling is too far above you to see clearly. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#3
-CaveRoom
-ZFAAhouse2
-the laundry room 
-You have found the laundry room. It`s stinks of mold and soap in here. Maybe you should keep your visit here brief. The exit is to the west 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#4
-StoneRoom
-ZFAAhouse2
-a private beautiful cell 
-This is a wide illuminated solitary prisoner`s holding suite. Life here is illuminated and beautiful. The way out of here is south. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-ZFAAhouse2#17
-StoneRoom
-ZFAAhouse2
-A confining hallway 
-This dark hallway heads east and west. There is an exit to the north.  You hear lonely sounds coming from all around you. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#13
-CaveRoom
-ZFAAhouse2
-a cold pit 
-You`re inside a harsh pit. A pit holds prisoners in a large hole surrounded by bars. The walls here are narrow. The way out of here is east. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-ZFAAhouse2#16
-StoneRoom
-ZFAAhouse2
-Corner of a confining hallway 
-You are walking through a quiet hallway running around. To the north is Corner of a confining hallway. There is an exit to the east.  You can hear the gloomy sounds of human suffering. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#21
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-You are standing  in a large corridor that branches north, south, east, and west. This place is cracked. The roomy ceiling is too far above you to see clearly. To the north is A captivating corridor. To the south is a guard station. To the east is a damp solitary cell. To the west is a smelly solitary cell. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#19
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-You are in a ghastly corridor running north, south, east, and west. The floor has bits of bones and rotten flesh. Something indescribable makes you feel lonesome and sad here. To the north is a ghastly torture chamber. There is an exit to the south. To the east is the laundry room. To the west is A captivating corridor. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#5
-CaveRoom
-ZFAAhouse2
-a guard station 
-You are in a guard station. The exit is to the east 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#9
-CaveRoom
-ZFAAhouse2
-a smelly solitary cell 
-This is a cramped unpleasant solitary cell. This room is unilluminated and small. This place is craggy. The way out of here is east. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-ZFAAhouse2#22
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-This dour corridor branches steeply north, south, east, and west. You feel wet. You might have just stepped on a frog. To the north is a large quiet cage. There is an exit to the south. To the east is A captivating corridor. To the west is a large nasty cage. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#11
-CaveRoom
-ZFAAhouse2
-a guard station 
-This is a guard station. The exit is to the north 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#10
-CaveRoom
-ZFAAhouse2
-a ghastly torture chamber 
-This is a musty room obviously meant for pain. This wet room of suffering makes you feel sinister. You can hear the scary sounds of human suffering. The exit is to the south. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#20
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-You are standing  in an uneven corridor that branches north, south, east, and west. The moldy ceiling is too far above you to see clearly. The walls are rough. To the north is A captivating corridor. There is an exit to the south. To the east is an unpleasant solitary cell. To the west is a guard station. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#12
-CaveRoom
-ZFAAhouse2
-a guard station 
-You are standing in a guard station. The exit is to the north 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#0
-StoneRoom
-ZFAAhouse2
-Corner of a confining hallway 
-This huge hallway runs east and west. There is an exit to the north.  The floor is constricted and appears unscathed by mass footfall. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#18
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-This still corridor seems to head north, south, east, and west. You are certain you just heard a harsh scream coming from somewhere. You hear grim tortured screams in the distance. To the north is a private beautiful cell. To the south is A confining hallway. There is an exit to the east. There is an exit to the west. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#1
-CaveRoom
-ZFAAhouse2
-a guard station 
-This is a guard station. The exit is to the east 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#8
-CaveRoom
-ZFAAhouse2
-a large nasty cage 
-This is a broad crowded unpleasant cell for common prisoners. The nasty bars make this room like a cage. Something indescribable makes you feel lonesome and sad here. The exit to the east is the only way out. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-ZFAAhouse2#7
-CaveRoom
-ZFAAhouse2
-an unpleasant solitary cell 
-This is a constricted wet cell for solitary confinement. Everything here is totally dim. You wonder if an execution occurred here. The way out of here is west. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-ZFAAhouse2#2
-CaveRoom
-ZFAAhouse2
-a damp solitary cell 
-This is a small scary cell for solitary confinement. This grim is unilluminated room. You might have just stepped on a frog. Escape is to the west. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-ZFAAhouse2#23
-StoneRoom
-ZFAAhouse2
-A captivating corridor 
-This spacious corridor runs north, south, and west. A series of undecipherable scribbles sit on the walls. You think you heard a sound of faint trickling in the distance. To the north is A captivating corridor. There is an exit to the south. To the west is a guard station. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-ZFAAhouse2#6
-CaveRoom
-ZFAAhouse2
-a large quiet cage 
-This is a large dirty prisoner`s holding cell. The harsh bars make this room like a cage. dark air hovers around you. The way out of here is south. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
-Silver Ford#0
-CityStreet
-Silver Ford
-Center of Silver Ford 
-This is the heart of the town. People move in and out of the area, looking for work, selling and buying goods, or just socializing. The job board is crowded with young adventurers eager to prove themselves. From here, you can see the Adventure Academy to the north, Town Hall to the east, and the famous Dusty Rose Tavern to the west. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
--
 Mud School#3757
 WoodRoom
 Mud School
 A Room in Mud School 
 You are in a room in Mud School. Paintings of heroic graduates of mud school adorn the walls. North of you is the next station of Mud School. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
--
-Silver Ford#2
-CityStreet
-Silver Ford
-East end of the marketplace 
-This side of the marketplace is better kept, with smooth cobblestone and fine covered stalls. Further to the east, you can see the town hall. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Mud School#3759
 WoodRoom
@@ -669,34 +438,6 @@ Mountains
 Silver Ford
 The long road leading to the crater 
 The road connects to the western side of Silver Ford, and leads further north to Millgate. Not far from the bend, a massive crater is swirling with dust that never seems to settle. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#12
-CityStreet
-Silver Ford
-Dragon Road 
-The dirt here is packed hard by heavy travel. Low iron gates line the sides of the roadway, topped with sharp spikes. Smoke rises from the east, and the smell of burnt metal drifts out into the road. From the west, the sounds of shouting come through over the rhythmic stomping of marching boots. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#3
-CityStreet
-Silver Ford
-Southern End of the Marketplace 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#14
-CityStreet
-Silver Ford
-Outside the Iron Dragons Fortress 
-Thick iron-reinforced walls reach up, shielding the base of a dark fortress from view. Only the tower is visible beyond the barrier, reaching up into the sky. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#15
-CityStreet
-Silver Ford
-Courtyard of the Iron Dragons Fortress 
-A massive dark tower dominates the sky here, reaching up into the heavens. The wide open courtyard circles around the fortress, seeming to be swept up into its base. The air is thick, humid, and filled with the sounds of stomping boots, as soldiers march between the various tents and huts. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Silver Ford#11
@@ -754,41 +495,6 @@ Crater
 East Wall of the Crater 
 l 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#17
-CityStreet
-Silver Ford
-Courtyard of the Iron Dragons 
-The Iron Dragons Fortress Tower looms above, shortening every other building in this wide courtyard. A well-used wagon trail leads south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#13
-StoneRoom
-Silver Ford
-^bThe Black Hammer^N 
-This soot-covered building smells of sweat and metal. The forge radiates intense heat, and the air is filled with the constant rushing of air from the bellows. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#18
-CityStreet
-Silver Ford
-CityStreet- 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#19
-CityStreet
-Silver Ford
-CityStreet- 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#20
-CityStreet
-Silver Ford
-CityStreet- 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Silver Ford#21
 Road
@@ -860,32 +566,11 @@ Silver Ford
  This lot is for sale (look id). 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
 -
-Silver Ford#31
-Plains
-Silver Ford
- An empty plot 
- This lot is for sale (look id). 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
--
-Silver Ford#24
-Plains
-Silver Ford
- An empty plot 
- This lot is for sale (look id). 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
--
 AdventureHousePrison#11
 StoneRoom
 AdventureHousePrison
 A narrow passageway 
 You are in a chilling passageway running north and south.  This place is grey. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-AdventureHousePrison#0
-CaveRoom
-AdventureHousePrison
-an unpleasant torture chamber 
-You are in a wet cell room obviously meant for pain. Just the sight of this unpleasant room makes you talk. You hear creepy screams of suffering in the distance. Escape is to the east. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 AdventureHousePrison#10
@@ -894,14 +579,7 @@ AdventureHousePrison
 A narrow passageway 
 This damp passageway runs north and south. To the east is a filthy pit. To the west is a harsh prison cell.  The grey floor is bare and dirtless. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-AdventureHousePrison#1
-CaveRoom
-AdventureHousePrison
-a guard station 
-This is a guard station. The exit is to the west 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 AdventureHousePrison#3
 CaveRoom
 AdventureHousePrison
@@ -922,35 +600,28 @@ AdventureHousePrison
 A narrow passageway 
 This huge passageway seems to head east and west. There is an exit to the north. To the south is A narrow passageway.  A series of undecipherable scribbles sit on the walls. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 AdventureHousePrison#6
 CaveRoom
 AdventureHousePrison
 a quiet prison cell 
 You`re inside a cold prisoner`s holding cell. It looks like something might have died here. A interning corridor is to the north. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
-AdventureHousePrison#7
-CaveRoom
-AdventureHousePrison
-the laundry room 
-You have found the laundry room. Steam floats like a fog in here. The less time spent here, the better. The exit is to the south 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
+*
 AdventureHousePrison#4
 CaveRoom
 AdventureHousePrison
 a filthy pit 
 This is a filthy pit. Its little more than a great hole surrounded by a metal cage. This place is quiet. Escape is to the west. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 AdventureHousePrison#2
 CaveRoom
 AdventureHousePrison
 a large smelly cage 
 This is a large crowded dirty cell for common prisoners. Open grotesque bars are anchored into the floor and ceiling. The walls here are cold. The exit to the east is the only way out. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
--
+*
 AdventureHousePrison#5
 StoneRoom
 AdventureHousePrison
@@ -971,20 +642,6 @@ AdventureHousePrison
 A interning corridor 
 This craggy corridor heads east and west. To the north is the laundry room. To the south is a quiet prison cell.  The constricted walls are nearly pitch black. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Silver Ford#7
-CityStreet
-Silver Ford
-Outside a Zilor Fice Adventure House 
-This old wooden house has been remodeled to provide young adventurers with a testing course. A brightly lit sign identifies the building as a Zilor Fice Adventure House. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-AdventureHousePrison#14
-CaveRoom
-AdventureHousePrison
-Under the Prison 
-The air is thick and hot in this small alcove. The rough stone walls look to have been carved with some tiny implement. There are scorch marks scattered all around. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 Iron Dragons Fortress#0
 LargeStoneRoom
@@ -1532,32 +1189,11 @@ a common room
 You`re inside an eerie orc common room.  Clutter and junk are everywhere you look.  This place seems downright crazy.  You hear lonely voices nearby. The way out of here is east. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
-Silver Ford#33
-CityStreet
-Silver Ford
-CityStreet- 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#34
-LongRoad
-Silver Ford
-LongRoad- 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
 Silver Ford#34
 LongRoad
 Silver Ford
 a long path leading into the forest 
 This worn pathway connects Silver Ford to the northern forest. To the north, the mountains reach into the sky. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#35
-Woods
-Silver Ford
-a quiet wooded footpath 
-You are at the entrance to Silver Ford. Silver ford is to the south.   You are traipsing through a quiet wooded footpath.  Lofty trees curve over the footpath like a canopy, blocking out most of the sky.  The footpath runs around. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Silver Ford#36
@@ -1783,3 +1419,1977 @@ Adventure House Den
 A rocky east-west tube 
 This chilling tube heads east and west. To the north is a kitchen.  The huge walls are tall and sheer. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#151
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  The trees of The Haunted Forest are oversized and green, packed together in unnavigable walls.  Openings in the dense underwood can be seen north, south, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#21
+Woods
+The Haunted Forest
+forested woodlands dank tree-lined sticks 
+The woods is all around you.  The forest surrounds you, crammed mesquites making some directions untraversable.  You can continue north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#24
+Woods
+The Haunted Forest
+forest timberlands dark forested timberlands 
+A dense corner of forest timberlands dark forested timberlands.  You feel a gust blow through the tall trees of the dense forest.  You can continue south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#150
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  You feel a breeze blow through the tall trees of the dark forest.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#49
+Woods
+The Haunted Forest
+a quiet wooded forest 
+The quiet wooded forest is all around you.  The trees of The Haunted Forest are huge and green, crammed together in barricaded walls.  You can continue north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#46
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+You are walking along a scary sylvan beaten path.  Lofty trees curve over the trail like a canopy, blocking out most of the sky.  Beneath the long shadows you can see the trail running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#108
+Woods
+The Haunted Forest
+a deep greenwood 
+The deep greenwood surrounds you.  The trees of The Haunted Forest are huge and green, crammed together in impassable walls.  You can continue south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#105
+Woods
+The Haunted Forest
+a deep greenwood 
+You are deep in a deep greenwood.  You feel a breeze blow through the giant trees of the dense forest.  It looks like you might pick your way north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#188
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The forest surrounds you, jam-packed balsas making some directions unnavigable.  It looks like you might pick your way north and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#7
+Woods
+The Haunted Forest
+sylvan woodlands unsettling thick growth 
+The sticks is all around you.  The large green trees of The Haunted Forest are crowded in impenetrable walls.  Openings in the deep thicket can be seen north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#154
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You push your way through the brushwood of the thick forest.  You can tread on through north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#191
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You feel a wind blow through the giant trees of the dense forest.  You can continue east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#75
+Woods
+The Haunted Forest
+a dim light timberlands 
+The dim light timberlands is all around you.  You feel a draft blow through the lofty trees of the dense forest.  You can stomp on through north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#84
+Woods
+The Haunted Forest
+a sylvan trail 
+You are on a sylvan trail.  Lofty trees curve over the trail like a canopy, blocking out most of the sky.  The faint trail goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#157
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The forest surrounds you, crowded yews making some directions untraversable.  You can continue north, south, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#91
+Woods
+The Haunted Forest
+a deep path 
+You are traipsing through a deep path.  The path is lined by giant trees. Several redwood trees are growing into the path.  The path continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#63
+Woods
+The Haunted Forest
+a light way 
+You are walking along a light way.  The way is lined by giant trees. Several cherrywood trees are growing into the path.  The way runs east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#28
+Woods
+The Haunted Forest
+forested thicket gloomy deep greenwood 
+A dense corner of forested thicket gloomy deep greenwood.  You walk your way through the brush of the dark forest.  You can stomp on through north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#181
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  The forest surrounds you, jam-packed maples making some directions unnavigable.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#8
+Woods
+The Haunted Forest
+sylvan woods dim tree-lined forest 
+A thick copse in sylvan woods dim tree-lined forest.  The massive green trees of The Haunted Forest are crammed in impassable walls.  Openings in the dense brushwood can be seen north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#12
+Woods
+The Haunted Forest
+thick growth scary wooded forest 
+A dense corner of thick growth scary wooded forest.  The massive green trees of The Haunted Forest are crammed in blocked walls.  Openings in the dense brushwood can be seen south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#48
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+The scary sylvan beaten path goes through the wildwood.  The trail is lined by lofty trees. Several willow trees are growing into the path.  Beneath the long shadows you can see the trail running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#148
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The forest surrounds you, jam-packed pines making some directions impassable.  You can continue north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#68
+Woods
+The Haunted Forest
+a light way 
+The light way goes through the timberlands.  Tracks in the muddy ground make the way easier to follow here.  Beneath the long shadows you can see the way running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#30
+Woods
+The Haunted Forest
+woody wildwood scary woody woodlands 
+A thick copse in woody wildwood scary woody woodlands.  You trample your way through the brushwood of the dark forest.  You can continue north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#71
+Woods
+The Haunted Forest
+a dim light timberlands 
+You are lost in a dim light timberlands.  You feel a draft blow through the tall trees of the dense forest.  Openings in the dense brush can be seen north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#103
+Woods
+The Haunted Forest
+a deep greenwood 
+You are deep in a deep greenwood.  The trees of The Haunted Forest are large and green, crowded together in unnavigable walls.  You can continue north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#76
+Woods
+The Haunted Forest
+a dim light timberlands 
+You are deep in a dim light timberlands.  You walk your way through the undergrowth of the dense forest.  You can push on through south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#18
+Woods
+The Haunted Forest
+light woodlands gloomy sylvan growth 
+The wildwood is all around you.  You trample your way through the brush of the dark forest.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#94
+Woods
+The Haunted Forest
+a deep path 
+a deep path runs through the woodlands.  Tracks in the disturbed ground make the path easier to follow here.  The path runs east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#189
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  The trees of The Haunted Forest are massive and green, crammed together in unpassable walls.  Openings in the thick bush can be seen north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#16
+Woods
+The Haunted Forest
+forested woodlands scary woody woodlands 
+A dense corner of forested woodlands scary woody woodlands.  The large green trees of The Haunted Forest are jam-packed in unpassable walls.  Openings in the thick underbrush can be seen south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#145
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  The trees of The Haunted Forest are huge and green, crammed together in unnavigable walls.  Openings in the dark brushwood can be seen north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#3
+Woods
+The Haunted Forest
+deep forest still forest thicket 
+A thick copse in deep forest still forest thicket.  You trample your way through the bush of the dark forest.  It looks like you might pick your way south to a scary deep footpath. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#115
+Woods
+The Haunted Forest
+a thick footpath 
+a thick footpath runs through the timberlands.  The trees are light enough here to make it easy to find your way along the footpath.  The footpath runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#74
+Woods
+The Haunted Forest
+a dim light timberlands 
+You are deep in a dim light timberlands.  The forest surrounds you, cramped sycamores making some directions barricaded.  It looks like you might pick your way north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#44
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+You are walking along a scary sylvan beaten path.  Tracks in the soft ground make the trail easier to follow here.  The faint trail goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#178
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The forest surrounds you, crammed sycamores making some directions impenetrable.  Openings in the deep underwood can be seen north, south, and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#56
+Woods
+The Haunted Forest
+a quiet wooded forest 
+You are lost in a quiet wooded forest.  The forest surrounds you, cramped yews making some directions untraversable.  It looks like you might pick your way south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#15
+Woods
+The Haunted Forest
+forest timberlands dim forested timberlands 
+The greenwood is all around you.  The large green trees of The Haunted Forest are cramped in unpassable walls.  You can tread on through north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#0
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are at the entrance to The Haunted Forest. Silver ford is to the south.   You are deep in a lonely deep greenwood.  The trees of The Haunted Forest are massive and green, jam-packed together in blocked walls.  It looks like you might pick your way north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#149
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  The forest surrounds you, crowded redwoods making some directions unpassable.  You can continue north and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#135
+Woods
+The Haunted Forest
+a tree-lined path 
+a tree-lined path runs through the greenwood.  Towering trees curve over the path like a canopy, blocking out most of the sky.  The path runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#193
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  The forest surrounds you, crammed ironwoods making some directions impenetrable.  You can continue north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#40
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+The scary sylvan beaten path goes through the wildwood.  The trees are light enough here to make it easy to find your way along the trail.  The trail continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#25
+Woods
+The Haunted Forest
+tree-lined woodlands dark wooded timberlands 
+The greenwood is all around you.  You feel a breeze blow through the giant trees of the dark forest.  It looks like you might pick your way south to a dark wooded footpath. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#78
+Woods
+The Haunted Forest
+a dim light timberlands 
+The dim light timberlands is all around you.  You tread your way through the brush of the thick forest.  Openings in the deep brush can be seen south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#31
+Woods
+The Haunted Forest
+sylvan greenwood scary woody greenwood 
+A dense corner of sylvan greenwood scary woody greenwood.  The forest surrounds you, crowded willows making some directions blocked.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#130
+Woods
+The Haunted Forest
+a deep sticks 
+You are lost in a deep sticks.  The forest surrounds you, crowded maples making some directions unnavigable.  Openings in the dark undergrowth can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#100
+Woods
+The Haunted Forest
+a deep greenwood 
+You are deep in a deep greenwood.  The forest surrounds you, packed mesquites making some directions impenetrable.  It looks like you might pick your way east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#139
+Woods
+The Haunted Forest
+a forested way 
+a forested way runs through the greenwood.  The footpath is lined by tall trees. Several sycamore trees are growing into the path.  The footpath runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#170
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The trees of The Haunted Forest are large and green, packed together in barricaded walls.  You can continue east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#35
+Woods
+The Haunted Forest
+forested woodlands quiet forested growth 
+The growth is all around you.  The massive green trees of The Haunted Forest are crowded in barricaded walls.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#42
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+You are walking along a scary sylvan beaten path.  The trail is lined by giant trees. Several redwood trees are growing into the path.  Beneath the long shadows you can see the trail running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#131
+Woods
+The Haunted Forest
+a light woodlands 
+You are deep in a light woodlands.  The forest surrounds you, cramped redwoods making some directions unpassable.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#90
+Woods
+The Haunted Forest
+a deep path 
+You are traipsing through a deep path.  Tall trees curve over the path like a canopy, blocking out most of the sky.  The path continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#27
+Woods
+The Haunted Forest
+deep growth dank light woods 
+A dense corner of deep growth dank light woods.  The huge green trees of The Haunted Forest are jam-packed in blocked walls.  You can continue south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#159
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The trees of The Haunted Forest are large and green, crowded together in impassable walls.  You can walk on through north, south, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#29
+Woods
+The Haunted Forest
+forest sticks unsettling tree-lined greenwood 
+A thick copse in forest sticks unsettling tree-lined greenwood.  The forest surrounds you, crowded ironwoods making some directions blocked.  It looks like you might pick your way south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#81
+Woods
+The Haunted Forest
+a sylvan trail 
+a sylvan trail runs through the timberlands.  Tracks in the loose ground make the trail easier to follow here.  Beneath the long shadows you can see the trail running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#167
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The forest surrounds you, crowded redwoods making some directions unpassable.  You can push on through south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#120
+Woods
+The Haunted Forest
+a creepy wooded timberlands 
+You are lost in a creepy wooded timberlands.  The trees of The Haunted Forest are oversized and green, cramped together in unnavigable walls.  You can stomp on through north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#175
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  You push your way through the brushwood of the dense forest.  You can push on through south and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#137
+Woods
+The Haunted Forest
+a woody forest 
+The woody forest surrounds you.  The trees of The Haunted Forest are oversized and green, crowded together in impassable walls.  You can continue north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#22
+Woods
+The Haunted Forest
+wooded growth gloomy deep thicket 
+A dense corner of wooded growth gloomy deep thicket.  You push your way through the underbrush of the dense forest.  You can continue south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#140
+Woods
+The Haunted Forest
+a still sylvan way 
+You are walking along a still sylvan way.  Giant trees curve over the way like a canopy, blocking out most of the sky.  The way runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#47
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+You are on a scary sylvan beaten path.  Towering trees curve over the trail like a canopy, blocking out most of the sky.  The trail runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#138
+Woods
+The Haunted Forest
+a creepy sylvan woodlands 
+You are lost in a creepy sylvan woodlands.  You trample your way through the undergrowth of the dense forest.  Openings in the thick brushwood can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#53
+Woods
+The Haunted Forest
+a quiet wooded forest 
+The quiet wooded forest surrounds you.  The trees of The Haunted Forest are big and green, crowded together in barricaded walls.  You can continue north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#20
+Woods
+The Haunted Forest
+deep wildwood dark forest sticks 
+The wildwood surrounds you.  The forest surrounds you, crowded hickorys making some directions impassable.  It looks like you might pick your way north to a deep greenwood. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#60
+Woods
+The Haunted Forest
+a light way 
+a light way runs through the greenwood.  Lofty trees curve over the way like a canopy, blocking out most of the sky.  The way continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#176
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  The forest surrounds you, jam-packed maples making some directions unnavigable.  You can continue north, south, and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#155
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  You stomp your way through the brush of the dark forest.  It looks like you might pick your way north, south, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#95
+Woods
+The Haunted Forest
+a deep path 
+You are walking along a deep path.  Tracks in the loose ground make the path easier to follow here.  The faint path goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#67
+Woods
+The Haunted Forest
+a light way 
+The light way goes through the timberlands.  Tall trees curve over the way like a canopy, blocking out most of the sky.  The faint way goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#172
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  The forest surrounds you, cramped yews making some directions untraversable.  You can continue east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#13
+Woods
+The Haunted Forest
+deep thicket lonely light timberlands 
+A dense corner of deep thicket lonely light timberlands.  You trample your way through the underbrush of the dark forest.  It looks like you might pick your way north to a quiet wooded forest. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#36
+Woods
+The Haunted Forest
+light greenwood gloomy clear woods 
+The thicket surrounds you.  The forest surrounds you, packed cedars making some directions unpassable.  You can tread on through south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#87
+Woods
+The Haunted Forest
+a sylvan trail 
+You are on a sylvan trail.  Towering trees curve over the trail like a canopy, blocking out most of the sky.  The faint trail goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#117
+Woods
+The Haunted Forest
+a tree-lined growth 
+You are deep in a tree-lined growth.  The forest surrounds you, crammed cedars making some directions unnavigable.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#23
+Woods
+The Haunted Forest
+woody forest gloomy forest woodlands 
+A thick copse in woody forest gloomy forest woodlands.  You feel a wind blow through the giant trees of the deep forest.  You can trample on through south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#43
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+a scary sylvan beaten path runs through the growth.  The trail is lined by lofty trees. Several spruce trees are growing into the path.  The trail continues north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#174
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You feel a wind blow through the towering trees of the thick forest.  You can continue east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#88
+Woods
+The Haunted Forest
+a sylvan trail 
+The sylvan trail goes through the sticks.  Tracks in the loose ground make the trail easier to follow here.  The trail runs east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#37
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+The scary sylvan beaten path goes through the timberlands.  The trail is lined by giant trees. Several elm trees are growing into the path.  The trail runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#122
+Woods
+The Haunted Forest
+a scary deep footpath 
+You are traipsing through a scary deep footpath.  Giant trees curve over the footpath like a canopy, blocking out most of the sky.  The faint footpath goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#185
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You push your way through the brushwood of the deep forest.  Openings in the thick bush can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#52
+Woods
+The Haunted Forest
+a quiet wooded forest 
+You are lost in a quiet wooded forest.  The forest surrounds you, jam-packed elms making some directions impassable.  It looks like you might pick your way south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#156
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  You trample your way through the undergrowth of the deep forest.  You can continue north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#133
+Woods
+The Haunted Forest
+a tree-lined woodlands 
+You are deep in a tree-lined woodlands.  You feel a breeze blow through the towering trees of the thick forest.  You can walk on through north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#161
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You feel a breeze blow through the towering trees of the dense forest.  You can continue north, south, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#59
+Woods
+The Haunted Forest
+a light way 
+You are on a light way.  The trees are light enough here to make it easy to find your way along the way.  Beneath the long shadows you can see the way running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#83
+Woods
+The Haunted Forest
+a sylvan trail 
+You are traipsing through a sylvan trail.  The trail is lined by giant trees. Several reed trees are growing into the path.  The trail runs east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#58
+Woods
+The Haunted Forest
+a quiet wooded forest 
+You are deep in a quiet wooded forest.  You tread your way through the underbrush of the thick forest.  It looks like you might pick your way south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#182
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You tread your way through the brush of the thick forest.  You can stomp on through north, south, and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#69
+Woods
+The Haunted Forest
+a dim light timberlands 
+You are lost in a dim light timberlands.  The forest surrounds you, crowded hickorys making some directions unnavigable.  Openings in the dark thicket can be seen north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#1
+Woods
+The Haunted Forest
+sylvan growth gloomy light forest 
+A dense corner of sylvan growth gloomy light forest.  You feel a draft blow through the giant trees of the dense forest.  Openings in the thick underbrush can be seen north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#64
+Woods
+The Haunted Forest
+a light way 
+You are walking along a light way.  The trees are light enough here to make it easy to find your way along the way.  Beneath the long shadows you can see the way running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#126
+Woods
+The Haunted Forest
+a dark clear trail 
+You are walking along a dark clear trail.  Tracks in the loose ground make the trail easier to follow here.  The trail runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#162
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  You stomp your way through the thicket of the dark forest.  You can continue south and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#165
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You feel a wind blow through the giant trees of the dark forest.  It looks like you might pick your way south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#112
+Woods
+The Haunted Forest
+a lonely clear greenwood 
+The lonely clear greenwood surrounds you.  The trees of The Haunted Forest are large and green, packed together in barricaded walls.  You can stomp on through north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#55
+Woods
+The Haunted Forest
+a quiet wooded forest 
+The quiet wooded forest is all around you.  You stomp your way through the brush of the deep forest.  Openings in the dense brushwood can be seen north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#171
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  You feel a breeze blow through the lofty trees of the dense forest.  You can stomp on through south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#113
+Woods
+The Haunted Forest
+a dim light woodlands 
+The dim light woodlands surrounds you.  You feel a draft blow through the lofty trees of the dark forest.  Openings in the dense thicket can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#124
+Woods
+The Haunted Forest
+a scary forested footpath 
+You are on a scary forested footpath.  Giant trees curve over the footpath like a canopy, blocking out most of the sky.  The footpath runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#54
+Woods
+The Haunted Forest
+a quiet wooded forest 
+The quiet wooded forest surrounds you.  You tread your way through the brushwood of the dense forest.  You can continue north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#11
+Woods
+The Haunted Forest
+forested timberlands unsettling shady woodlands 
+The thicket surrounds you.  You stomp your way through the bush of the dense forest.  It looks like you might pick your way south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#118
+Woods
+The Haunted Forest
+an unsettling light way 
+You are on an unsettling light way.  Tracks in the loose ground make the way easier to follow here.  The faint way goes north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#61
+Woods
+The Haunted Forest
+a light way 
+You are on a light way.  The trees are light enough here to make it easy to find your way along the way.  Beneath the long shadows you can see the way running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#79
+Woods
+The Haunted Forest
+a sylvan trail 
+a sylvan trail runs through the greenwood.  Tracks in the muddy ground make the trail easier to follow here.  The trail runs east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#9
+Woods
+The Haunted Forest
+shady sticks dim thick sticks 
+A thick copse in shady sticks dim thick sticks.  You walk your way through the bush of the dark forest.  You can trample on through south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#33
+Woods
+The Haunted Forest
+forest sticks still light timberlands 
+A thick copse in forest sticks still light timberlands.  You feel a wind blow through the towering trees of the thick forest.  You can tread on through south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#50
+Woods
+The Haunted Forest
+a quiet wooded forest 
+The quiet wooded forest is all around you.  You feel a wind blow through the towering trees of the deep forest.  You can continue north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#194
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The trees of The Haunted Forest are large and green, cramped together in barricaded walls.  It looks like you might pick your way north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#169
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  The trees of The Haunted Forest are big and green, jam-packed together in blocked walls.  You can continue south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#180
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You tread your way through the brushwood of the dense forest.  Openings in the deep bush can be seen north, south, and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#70
+Woods
+The Haunted Forest
+a dim light timberlands 
+The dim light timberlands is all around you.  You tread your way through the underwood of the deep forest.  You can continue north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#92
+Woods
+The Haunted Forest
+a deep path 
+You are walking along a deep path.  Tracks in the disturbed ground make the path easier to follow here.  Beneath the long shadows you can see the path running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#85
+Woods
+The Haunted Forest
+a sylvan trail 
+You are walking along a sylvan trail.  The trail is lined by tall trees. Several ironwood trees are growing into the path.  The trail continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#14
+Woods
+The Haunted Forest
+tree-lined wildwood gloomy sylvan sticks 
+A dense corner of tree-lined wildwood gloomy sylvan sticks.  You push your way through the underbrush of the thick forest.  You can continue south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#82
+Woods
+The Haunted Forest
+a sylvan trail 
+The sylvan trail goes through the greenwood.  The trail is lined by giant trees. Several elm trees are growing into the path.  The trail continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#166
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  The forest surrounds you, cramped cherrywoods making some directions barricaded.  You can stomp on through east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#127
+Woods
+The Haunted Forest
+a light thicket 
+You are deep in a light thicket.  You trample your way through the undergrowth of the deep forest.  Openings in the dark brushwood can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#2
+Woods
+The Haunted Forest
+forested sticks still woody woods 
+A dense corner of forested sticks still woody woods.  The large green trees of The Haunted Forest are crowded in blocked walls.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#39
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+You are traipsing through a scary sylvan beaten path.  The trail is lined by tall trees. Several sycamore trees are growing into the path.  Beneath the long shadows you can see the trail running north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#73
+Woods
+The Haunted Forest
+a dim light timberlands 
+The dim light timberlands surrounds you.  You tread your way through the bush of the dark forest.  Openings in the dense bush can be seen north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#164
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  You feel a draft blow through the tall trees of the dense forest.  You can continue east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#38
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+a scary sylvan beaten path runs through the growth.  Tracks in the loose ground make the trail easier to follow here.  The faint trail goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#121
+Woods
+The Haunted Forest
+a dark wooded footpath 
+You are walking along a dark wooded footpath.  Towering trees curve over the footpath like a canopy, blocking out most of the sky.  Beneath the long shadows you can see the footpath running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#163
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  You walk your way through the undergrowth of the dark forest.  You can tread on through south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#177
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The trees of The Haunted Forest are large and green, packed together in impassable walls.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#125
+Woods
+The Haunted Forest
+a dank light footpath 
+You are walking along a dank light footpath.  Tracks in the loose ground make the pathway easier to follow here.  Beneath the long shadows you can see the pathway running north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#147
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are deep in a lonely deep greenwood.  You push your way through the undergrowth of the dense forest.  You can continue east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#57
+Woods
+The Haunted Forest
+a quiet wooded forest 
+You are deep in a quiet wooded forest.  The trees of The Haunted Forest are huge and green, jam-packed together in impassable walls.  You can stomp on through north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#190
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The trees of The Haunted Forest are oversized and green, packed together in barricaded walls.  It looks like you might pick your way north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#187
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You walk your way through the underwood of the deep forest.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#10
+Woods
+The Haunted Forest
+deep thicket gloomy forest forest 
+The thicket surrounds you.  The huge green trees of The Haunted Forest are packed in barricaded walls.  You can tread on through north to a light way. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#109
+Woods
+The Haunted Forest
+a shady greenwood 
+The shady greenwood surrounds you.  You push your way through the undergrowth of the deep forest.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#116
+Woods
+The Haunted Forest
+a dark forest woodlands 
+You are lost in a dark forest woodlands.  The forest surrounds you, jam-packed balsas making some directions unnavigable.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#86
+Woods
+The Haunted Forest
+a sylvan trail 
+You are walking along a sylvan trail.  The trees are light enough here to make it easy to find your way along the trail.  Beneath the long shadows you can see the trail running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#132
+Woods
+The Haunted Forest
+a thick thicket 
+You are deep in a thick thicket.  The forest surrounds you, crammed maples making some directions unpassable.  You can trample on through north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#179
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You trample your way through the brushwood of the thick forest.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#66
+Woods
+The Haunted Forest
+a light way 
+You are traipsing through a light way.  Towering trees curve over the way like a canopy, blocking out most of the sky.  The faint way goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#119
+Woods
+The Haunted Forest
+a thick footpath 
+You are traipsing through a thick footpath.  Lofty trees curve over the footpath like a canopy, blocking out most of the sky.  The footpath continues north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#62
+Woods
+The Haunted Forest
+a light way 
+You are walking along a light way.  The way is lined by giant trees. Several cedar trees are growing into the path.  Beneath the long shadows you can see the way running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#152
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  The trees of The Haunted Forest are oversized and green, crowded together in barricaded walls.  You can continue north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#106
+Woods
+The Haunted Forest
+a deep greenwood 
+You are deep in a deep greenwood.  You walk your way through the undergrowth of the deep forest.  Openings in the thick thicket can be seen south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#160
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You feel a gust blow through the giant trees of the dense forest.  Openings in the dense brushwood can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#111
+Woods
+The Haunted Forest
+a deep way 
+You are on a deep way.  Lofty trees curve over the way like a canopy, blocking out most of the sky.  The faint way goes north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#141
+Woods
+The Haunted Forest
+a dank tree-lined pathway 
+a dank tree-lined pathway runs through the woodlands.  The footpath is lined by tall trees. Several maple trees are growing into the path.  The footpath runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#80
+Woods
+The Haunted Forest
+a sylvan trail 
+The sylvan trail goes through the sticks.  Tracks in the soft ground make the trail easier to follow here.  The trail continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#6
+Woods
+The Haunted Forest
+tree-lined greenwood dank deep forest 
+The wildwood surrounds you.  The forest surrounds you, crammed elms making some directions barricaded.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#34
+Woods
+The Haunted Forest
+sylvan growth gloomy forest woodlands 
+A thick copse in sylvan growth gloomy forest woodlands.  The forest surrounds you, crammed yews making some directions impenetrable.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#184
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  You feel a gust blow through the giant trees of the deep forest.  It looks like you might pick your way north, south, and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#102
+Woods
+The Haunted Forest
+a deep greenwood 
+The deep greenwood is all around you.  You feel a wind blow through the towering trees of the dark forest.  Openings in the dark brush can be seen south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#4
+Woods
+The Haunted Forest
+clear thicket unsettling deep timberlands 
+The woodlands is all around you.  You feel a gust blow through the towering trees of the thick forest.  Openings in the dense undergrowth can be seen south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#136
+Woods
+The Haunted Forest
+a wooded way 
+You are walking along a wooded way.  The way is lined by lofty trees. Several ironwood trees are growing into the path.  The way continues north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#41
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+a scary sylvan beaten path runs through the woods.  The trees are light enough here to make it easy to find your way along the trail.  The trail continues north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#96
+Woods
+The Haunted Forest
+a deep path 
+a deep path runs through the forest.  The trees are light enough here to make it easy to find your way along the path.  The faint path goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#146
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The forest surrounds you, crowded sycamores making some directions unpassable.  Openings in the dark undergrowth can be seen north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#51
+Woods
+The Haunted Forest
+a quiet wooded forest 
+You are lost in a quiet wooded forest.  The trees of The Haunted Forest are big and green, jam-packed together in impassable walls.  You can continue north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#123
+Woods
+The Haunted Forest
+a dim thick woodlands 
+You are deep in a dim thick woodlands.  The trees of The Haunted Forest are big and green, crammed together in blocked walls.  It looks like you might pick your way east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#195
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The forest surrounds you, packed spruces making some directions impenetrable.  You can push on through east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#32
+Woods
+The Haunted Forest
+forested forest still wooded forest 
+The forest is all around you.  The forest surrounds you, cramped yews making some directions barricaded.  You can continue south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#144
+Woods
+The Haunted Forest
+a quiet sylvan path 
+The quiet sylvan path goes through the timberlands.  The path is lined by tall trees. Several balsa trees are growing into the path.  The path continues north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#114
+Woods
+The Haunted Forest
+a shady greenwood 
+The shady greenwood is all around you.  You tread your way through the thicket of the thick forest.  Openings in the dark brush can be seen north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#72
+Woods
+The Haunted Forest
+a dim light timberlands 
+You are lost in a dim light timberlands.  The forest surrounds you, crowded pines making some directions unpassable.  Openings in the dark brush can be seen south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#128
+Woods
+The Haunted Forest
+a light path 
+a light path runs through the thicket.  The path is lined by towering trees. Several ironwood trees are growing into the path.  Beneath the long shadows you can see the path running north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#5
+Woods
+The Haunted Forest
+sylvan growth scary tree-lined greenwood 
+The thicket surrounds you.  The forest surrounds you, jam-packed willows making some directions blocked.  You can continue north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#143
+Woods
+The Haunted Forest
+a lonely wooded way 
+You are on a lonely wooded way.  The trees are light enough here to make it easy to find your way along the way.  Beneath the long shadows you can see the way running north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#186
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  The trees of The Haunted Forest are oversized and green, cramped together in impenetrable walls.  Openings in the thick undergrowth can be seen north, south, and east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#134
+Woods
+The Haunted Forest
+a tree-lined timberlands 
+The tree-lined timberlands surrounds you.  You feel a breeze blow through the lofty trees of the thick forest.  Openings in the dark underbrush can be seen north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#107
+Woods
+The Haunted Forest
+a deep greenwood 
+You are lost in a deep greenwood.  The trees of The Haunted Forest are massive and green, crammed together in impassable walls.  You can continue north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#77
+Woods
+The Haunted Forest
+a dim light timberlands 
+You are deep in a dim light timberlands.  You stomp your way through the brush of the dense forest.  Openings in the deep undergrowth can be seen north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#153
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood surrounds you.  You push your way through the underbrush of the thick forest.  Openings in the dark bush can be seen north, south, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#168
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The trees of The Haunted Forest are large and green, packed together in unpassable walls.  It looks like you might pick your way east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#110
+Woods
+The Haunted Forest
+an unsettling woody way 
+You are walking along an unsettling woody way.  Towering trees curve over the way like a canopy, blocking out most of the sky.  The faint way goes north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#97
+Woods
+The Haunted Forest
+a deep path 
+You are traipsing through a deep path.  The path is lined by lofty trees. Several maple trees are growing into the path.  The path continues east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#19
+Woods
+The Haunted Forest
+light timberlands quiet shady growth 
+A dense corner of light timberlands quiet shady growth.  The oversized green trees of The Haunted Forest are jam-packed in blocked walls.  It looks like you might pick your way south to a sylvan trail. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#99
+Woods
+The Haunted Forest
+a deep greenwood 
+You are lost in a deep greenwood.  You feel a draft blow through the towering trees of the thick forest.  Openings in the thick brush can be seen north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#93
+Woods
+The Haunted Forest
+a deep path 
+a deep path runs through the forest.  The trees are light enough here to make it easy to find your way along the path.  Beneath the long shadows you can see the path running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#101
+Woods
+The Haunted Forest
+a deep greenwood 
+The deep greenwood surrounds you.  The forest surrounds you, crowded elms making some directions impassable.  It looks like you might pick your way north, south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#158
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+You are lost in a lonely deep greenwood.  You feel a gust blow through the lofty trees of the dark forest.  It looks like you might pick your way north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#65
+Woods
+The Haunted Forest
+a light way 
+You are on a light way.  The way is lined by lofty trees. Several maple trees are growing into the path.  Beneath the long shadows you can see the way running east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#183
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You push your way through the brushwood of the dark forest.  You can continue north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#104
+Woods
+The Haunted Forest
+a deep greenwood 
+You are lost in a deep greenwood.  The trees of The Haunted Forest are huge and green, cramped together in unpassable walls.  It looks like you might pick your way east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#173
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  You stomp your way through the brushwood of the dark forest.  It looks like you might pick your way south, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#98
+Woods
+The Haunted Forest
+a deep path 
+You are walking along a deep path.  The path is lined by lofty trees. Several hickory trees are growing into the path.  The faint path goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#45
+Woods
+The Haunted Forest
+a scary sylvan beaten path 
+You are on a scary sylvan beaten path.  Giant trees curve over the trail like a canopy, blocking out most of the sky.  The trail continues north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#129
+Woods
+The Haunted Forest
+a dark wooded way 
+a dark wooded way runs through the woods.  Towering trees curve over the way like a canopy, blocking out most of the sky.  The way runs north and south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#17
+Woods
+The Haunted Forest
+sylvan greenwood lonely forested forest 
+The woods is all around you.  The forest surrounds you, cramped pines making some directions impassable.  It looks like you might pick your way north. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#26
+Woods
+The Haunted Forest
+sylvan timberlands gloomy forested thicket 
+The greenwood surrounds you.  You walk your way through the undergrowth of the thick forest.  Openings in the thick underbrush can be seen south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#192
+Woods
+The Haunted Forest
+a lonely deep greenwood 
+The lonely deep greenwood is all around you.  The forest surrounds you, jam-packed teaks making some directions untraversable.  Openings in the dense underbrush can be seen north, east, and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#89
+Woods
+The Haunted Forest
+a deep path 
+a deep path runs through the thicket.  The path is lined by lofty trees. Several reed trees are growing into the path.  The faint path goes east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+The Haunted Forest#142
+Woods
+The Haunted Forest
+a wooded beaten path 
+You are traipsing through a wooded beaten path.  Giant trees curve over the beaten path like a canopy, blocking out most of the sky.  The beaten path runs east and west. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#14
+CaveRoom
+AdventureHousePrison
+Under the Prison 
+The air is thick and hot in this small alcove. The rough stone walls look to have been carved with some tiny implement. There are scorch marks scattered all around. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+AdventureHousePrison#0
+CaveRoom
+AdventureHousePrison
+an unpleasant torture chamber 
+You are in a wet cell room obviously meant for pain. Just the sight of this unpleasant room makes you talk. You hear creepy screams of suffering in the distance. Escape is to the east. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#1
+CaveRoom
+AdventureHousePrison
+a guard station 
+This is a guard station. The exit is to the west 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#7
+CaveRoom
+AdventureHousePrison
+the laundry room 
+You have found the laundry room. Steam floats like a fog in here. The less time spent here, the better. The exit is to the south 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#37
+StoneRoom
+Silver Ford
+First Bank of Silver Ford 
+White fluted pillars reach up to the ceiling here. White marble floor tiles are polished and clear. Each step echoes throughout this large room. A long counter spans across the southern end of the lobby, with a dozen windows. One is open. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#0
+RoadGrid
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>3</XGRID><YGRID>3</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#13
+StoneRoom
+Silver Ford
+^bThe Black Hammer^N 
+This soot-covered building smells of sweat and metal. The forge radiates intense heat, and the air is filled with the constant rushing of air from the bellows. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>Kurjak/2000</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#4
+Road
+Silver Ford
+Rose Road 
+Rose Road is a wide path, traveled by merchant wagons and full parties of adventurers. The air is filled with the smell of ale and cooking meat. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#5
+Road
+Silver Ford
+Outside the Dusty Rose 
+The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#2
+Road
+Silver Ford
+Gold Road 
+The road here is smooth cobblestone. An elegant white stone building lies on the southern end of the road near here. The town hall is visible further east. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#33
+Road
+Silver Ford
+Gold Road 
+The well-kept cobblestone street here is clean and free of obstructions. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#1
+Road
+Silver Ford
+a well-traveled dirt road 
+The road here is worn from constant use. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#6
+Road
+Silver Ford
+Outside the Adventure Academy 
+You stand before the Zilor Fice Adventure Academy. The sprawling complex reaches around to the sides, and the large glass front doors are directly ahead. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#9
+Road
+Silver Ford
+Outside an Adventure House 
+This old house has been remodeled to act as a training area for young adventurers. A sign marks this location as Zilor Fice Adventure House #2. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#7
+Road
+Silver Ford
+Outside a Zilor Fice Adventure House 
+This old wooden house has been remodeled to provide young adventurers with a testing course. A brightly lit sign identifies the building as a Zilor Fice Adventure House. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#3
+Road
+Silver Ford
+Dragon Road 
+The southern end of the marketplace is home to many weapon and armor shops. Eager merchants have taken up the sides of the road here, calling out deals to the soldiers frequenting the area. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#12
+Road
+Silver Ford
+Dragon Road 
+The dirt here is packed hard by heavy travel. Low iron gates line the sides of the roadway, topped with sharp spikes. Smoke rises from the east, and the smell of burnt metal drifts out into the road. From the west, the sounds of shouting come through over the rhythmic stomping of marching boots. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#14
+Road
+Silver Ford
+Outside the Iron Dragons Fortress 
+Thick iron-reinforced walls reach up, shielding the base of a dark fortress from view. Only the tower is visible beyond the barrier, reaching up into the sky. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#15
+Road
+Silver Ford
+Courtyard of the Iron Dragons Fortress 
+A massive dark tower dominates the sky here, reaching up into the heavens. The wide open courtyard circles around the fortress, seeming to be swept up into its base. The air is thick, humid, and filled with the sounds of stomping boots, as soldiers march between the various tents and huts. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#17
+Road
+Silver Ford
+Courtyard of the Iron Dragons 
+The Iron Dragons Fortress Tower looms above, shortening every other building in this wide courtyard. A well-used wagon trail leads south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#18
+Road
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#19
+Road
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#20
+Road
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#24
+PlainsGrid
+Silver Ford
+ An empty plot 
+A wide open field of grass, surrounded by wooden fencing. The Adventure Academy is visible to the east. This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
+*
+Silver Ford#31
+PlainsGrid
+Silver Ford
+an empty lot 
+A wide open field of grass, surrounded by wooden fencing. Rows of wooden houses are visible on the west and south, and the northern fence runs right up to the edge of the forest. This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>10000</ATEXT></AFF></AFFECS> 
+-
+Mud School#3712
+WoodRoom
+Mud School
+The Cage Room 
+You are in the cage room.  All around are 4 cages.  Light fluoresces off the ceiling in soft white tones.  Of course, there is a big sign on the wall. Exits lead into the cardinal directions plus down. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>ResetWhole</BCLASS><BPARMS /></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
+*
+Silver Ford#5
+Road
+Silver Ford
+Outside the Dusty Rose 
+The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Smell</ACLASS><ATEXT>alcohol</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#5
+Road
+Silver Ford
+Outside the Dusty Rose 
+The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Smell</ACLASS><ATEXT>You smell ale.;You smell food cooking.</ATEXT></AFF></AFFECS> 
+*
+Adventure Academy#0
+StdRoom
+Adventure Academy
+StdRoom-Adventure Academy#0 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#0
+StdRoom
+Adventure Academy
+the entrance to the Zilor Fice Adventure Academy 
+large wooden building, big doors, sign 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#1
+WoodRoom
+Adventure Academy
+WoodRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#1
+WoodRoom
+Adventure Academy
+in the foyer of the Adventure Academy 
+shop and nexus point for training halls 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#2
+WoodRoom
+Adventure Academy
+WoodRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#2
+WoodRoom
+Adventure Academy
+a hallway 
+get items, wear 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#3
+StoneRoom
+Adventure Academy
+StoneRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#3
+StoneRoom
+Adventure Academy
+basement 
+item pop here, take up to npc 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Adventure Academy#3
+StoneRoom
+Adventure Academy
+basement 
+item pop here, take up to npc 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+AdventureHousePrison#2
+CaveRoom
+AdventureHousePrison
+a large smelly cage 
+This is a large crowded dirty cell for common prisoners. Open grotesque bars are anchored into the floor and ceiling. The walls here are cold. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#3
+CaveRoom
+AdventureHousePrison
+a harsh prison cell 
+This is a cold prisoner`s holding cell. The wide floor is bare and dirtless. The exit to the east is the only way out. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#4
+CaveRoom
+AdventureHousePrison
+a filthy pit 
+This is a filthy pit. Its little more than a great hole surrounded by a metal cage. This place is quiet. Escape is to the west. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#5
+StoneRoom
+AdventureHousePrison
+a private easy cell 
+This is a broad well-lighted solitary prisoner`s holding suite. Everything here is totally well-lighted. A narrow passageway is to the south. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#6
+CaveRoom
+AdventureHousePrison
+a quiet prison cell 
+You`re inside a cold prisoner`s holding cell. It looks like something might have died here. A interning corridor is to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+AdventureHousePrison#0
+CaveRoom
+AdventureHousePrison
+an unpleasant torture chamber 
+This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>randprog;50;rpecho Someone screams;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+AdventureHousePrison#0
+CaveRoom
+AdventureHousePrison
+an unpleasant torture chamber 
+This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>rand_prog 50;rpecho Someone screams;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+AdventureHousePrison#0
+CaveRoom
+AdventureHousePrison
+an unpleasant torture chamber 
+This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>rand_prog 50;mpecho Someone screams.;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+AdventureHousePrison#0
+CaveRoom
+AdventureHousePrison
+an unpleasant torture chamber 
+This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>rand_prog 1;mpecho Someone screams.;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#33
+Road
+Silver Ford
+Gold Road 
+The well-kept cobblestone street here is clean and free of obstructions. The town hall presides over the eastern end of the road. On the south side is a large white stone building. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#0
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#38
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#39
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#40
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#41
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#42
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#43
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#44
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#45
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#38
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#39
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#40
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#43
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#45
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. A tall dark tower reaches into the southern sky. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#42
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. A tall dark tower reaches into the southern sky. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#44
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. A tall dark tower reaches into the southern sky. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Silver Ford#0
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. A crowd of merchants and shoppers churns around the edges of the marketplace. Here in the center, a variety of adventurers crowds around the job board. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Adventure Academy#0
+WoodRoom
+Adventure Academy
+in the foyer 
+shop and nexus point for training halls 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#1
+WoodRoom
+Adventure Academy
+a hallway 
+get items, wear 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#2
+StoneRoom
+Adventure Academy
+StoneRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#2
+StoneRoom
+Adventure Academy
+basement 
+dark room, item pops 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#1
+WoodRoom
+Adventure Academy
+items room 
+NPC quest to go down and get thing. get torch, hold torch 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#3
+WoodRoom
+Adventure Academy
+WoodRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure Academy#3
+WoodRoom
+Adventure Academy
+fite room 
+weapon rack, down for moves and flee, up for dummy. NPC quest to kill dummy 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#4
+StoneRoom
+Adventure Academy
+StoneRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure Academy#4
+StoneRoom
+Adventure Academy
+golem room 
+golem here, high hp, can practice moves but need to flee 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#5
+WoodRoom
+Adventure Academy
+WoodRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure Academy#5
+WoodRoom
+Adventure Academy
+dummy room 
+training dummy here, kill for quest 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure Academy#6
+WoodRoom
+Adventure Academy
+WoodRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure Academy#6
+WoodRoom
+Adventure Academy
+training room 
+2 NPCs Zaren and Vlac, train/gain. search for item, turn in for quest 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#46
+CityStreet
+Silver Ford
+CityStreet- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#46
+CityStreet
+Silver Ford
+town hall 
+under construction 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Adventure House Den#30
+CaveRoom
+Adventure House Den
+CaveRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Adventure House Den#30
+CaveRoom
+Adventure House Den
+an underground chamber 
+This room appears to have been dug out by tiny clawed hands. The floor is covered with filthy water and filled with trash. The smell of death and feces is inescapable. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#31
+PlainsGrid
+Silver Ford
+an empty lot 
+A wide open field of grass, surrounded by wooden fencing. Rows of wooden houses are visible on the west and south, and the northern fence runs right up to the edge of the forest. This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotForSale</ACLASS><ATEXT>10000</ATEXT></AFF></AFFECS> 
+*
+Silver Ford#40
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#40
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
+-
+Adventure Academy#1
+WoodRoom
+Adventure Academy
+items room 
+NPC quest to go down and get thing. get torch, hold torch 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
+-
+Adventure Academy#2
+StoneRoom
+Adventure Academy
+basement 
+dark room, item pops 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 

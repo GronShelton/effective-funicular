@@ -1,0 +1,160 @@
+
+set name normal_killer_1
+set display Normal Killer #1
+set author Ermiel
+set questtype normal_killer1
+set category 
+set instructions I need you to kill some folks.  They are somewhere around somewhere.  Just beat them senseless.
+
+set wait 1
+set interval 1
+quiet
+
+set area "Silver Ford"
+set room 
+set mobgroup
+set mob reselect attendant
+give stat keyplayer true
+give script LOAD=normal_killer_1_announcer.script
+
+set duration 0
+
+<?xml version="1.0"?>
+<FILE><NAME>normal_killer_1_rewarditems.xml</NAME><DATA><ITEMS><ITEM><ICLAS>GenWeapon</ICLAS><IUSES>100</IUSES><ILEVL>8</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a serrated longsword&lt;/NAME&gt;&lt;DESC /&gt;&lt;DISP&gt;a generic weapon sits here.&lt;/DISP&gt;&lt;PROP&gt;0|0|0|8|0|8|0|1.0|2|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;11&lt;/FLAG&gt;&lt;IDENT /&gt;&lt;VALUE&gt;222&lt;/VALUE&gt;&lt;MTRAL&gt;811&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;1536&lt;/WORNB&gt;&lt;ACAPA&gt;0&lt;/ACAPA&gt;&lt;TYPE&gt;1&lt;/TYPE&gt;&lt;CLASS&gt;8&lt;/CLASS&gt;&lt;MINR&gt;0&lt;/MINR&gt;&lt;MAXR&gt;0&lt;/MAXR&gt;</ITEXT></ITEM></ITEMS></DATA></FILE>
+<FILE><NAME>normal_killer_1_announcer.script</NAME>
+<DATA>
+ONCE_PROG 100
+MPQSET * INSTRUCTIONS $i in $a wants you to 'I need you to kill some folks.  They are somewhere around somewhere.  Just beat them senseless.'
+if EVAL('shout' != '')
+shout I have someones I need killed!  Are you game? -- Come see me for more information.
+endif
+~
+
+ALL_GREET_PROG 100
+IF QUESTSCRIPTED($n *)
+if var($n normal_killer_1_KILLED >= 1)
+if EVAL('10%' != '')
+mpexp $n 10%
+endif
+if EVAL('' != '')
+mpfaction $n  +
+endif
+if EVAL('YES' == 'YES') AND !QUESTWINNER($n *)
+mpoload QuestPoint
+give "a quest point" "$n"
+endif
+if EVAL('100' != '') AND EVAL('100' > 0)
+mpoload 100
+give 100 "$n"
+endif
+mpoload fromfile normal_killer_1_rewarditems.xml any
+if EVAL('$b' != '')
+give "$b" "$n"
+endif
+mpquestwin $n *
+sayto $n Congratulations! They're dead!
+mpendquest $n
+mpqset * STATISTICS SUCCESS
+IF EVAL('NO' == 'PREV')
+mptransfer $n $n
+ENDIF
+endif
+else
+if ISLIKE($n '') and ISPC($n) and ( EVAL('NO' != 'PREV') or QUESTWINNER($n previous) ) and !QUESTSCRIPTED($n *)
+if EVAL('NO' == 'YES') OR !QUESTWINNER($n *)
+sayto "$n" I have someones I need killed!  Are you game? -- say '^yi accept^?' or '^yi accept Normal Killer #1^?' to take on this quest.
+endif
+endif
+endif
+~
+
+FUNCTION_PROG CAN_ACCEPT
+if ISLIKE($n '') and ISPC($n) and ( EVAL('NO' != 'PREV') or QUESTWINNER($n previous) )
+if EVAL('NO' == 'YES') OR !QUESTWINNER($n *)
+if !QUESTSCRIPTED($n *)
+RETURN TRUE
+endif
+endif
+endif
+RETURN CANCEL
+~
+
+FUNCTION_PROG DO_ACCEPT
+mpqset * STATISTICS ACCEPTED
+mpscript $n INDIVIDUAL SAVABLE STATIC=LOAD=normal_killer_1_playertrack.script
+~
+
+SPEECH_PROG p i accept Normal Killer #1
+if CALLFUNC(CAN_ACCEPT)
+sayto "$n" I need you to kill some folks.  They are somewhere around somewhere.  Just beat them senseless.
+MPCALLFUNC DO_ACCEPT
+endif
+~
+SPEECH_PROG p i accept
+if CALLFUNC(CAN_ACCEPT)
+sayto "$n" I need you to kill some folks.  They are somewhere around somewhere.  Just beat them senseless.
+MPCALLFUNC DO_ACCEPT
+endif
+~
+</DATA></FILE>
+<FILE><NAME>normal_killer_1_playertrack.script</NAME>
+<DATA>
+ONCE_PROG 100
+mpsetvar $i INSTRUCTIONS I need you to kill some folks.  They are somewhere around somewhere.  Just beat them senseless.
+IF !isquestmobalive(1 'normal_killer_1')
+MPENDQUEST 'normal_killer_1'
+ENDIF
+~
+
+RAND_PROG 25
+IF !isquestmobalive(1 'normal_killer_1')
+MPENDQUEST 'normal_killer_1'
+else
+if QVAR(* REMAINING == '')
+MPENDQUEST $i
+else
+mpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%
+endif
+ENDIF
+~
+
+QUEST_TIME_PROG * -1
+MPECHOAT $i The quest "Normal Killer #1" has ended.
+~
+
+QUEST_TIME_PROG * 1
+MPECHOAT $i The quest "Normal Killer #1" has 1 minute remaining.
+~
+
+GREET_PROG 100
+if EVAL('YES-ATTACK-ON-SIGHT' == 'YES-ATTACK-ON-SIGHT')
+if ISLIKE($n -names +kelis)
+mpforce $n kill $i
+endif
+endif
+~
+
+ENTRY_PROG 100
+if INROOM($i == $g)
+for $0 = 1 to '$%NUMMOBSROOM(*)%'
+if ISLIKE('$%ROOMMOB($0)%' -names +kelis)
+mpforce '$%ROOMMOB($0)%' sayto "$i" So, you've come for me.  Come and get me.
+if EVAL('YES-ATTACK-ON-SIGHT' == 'YES-ATTACK-ON-SIGHT')
+mpforce '$%ROOMMOB($0)%' kill $i
+endif
+endif
+next
+endif
+~
+
+EXECMSG_PROG STO=DEATH ALL
+if ISNPC($n) AND ISLIKE($n -names +kelis)
+mpsetvar $i normal_killer_1_KILLED ++;
+if EVAL(1 > 1)
+mpechoat $i Killed $<$i normal_killer_1_KILLED>/1
+else
+endif
+mpsetvar $i PROGRESS Killed $<$i normal_killer_1_KILLED>/1
+endif
+~
+</DATA></FILE>

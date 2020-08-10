@@ -125,36 +125,6 @@ OpenDescriptable
 You see the Cage Room.
 Mud School#3712
 -
-Mud School#3712
-5
-OpenDescriptable
-You see the next station below.
-Mud School#3717
--
-Mud School#3712
-3
-OpenDescriptable
-You see the aggressive wimpy monster inside!
-Mud School#3714
--
-Mud School#3712
-2
-OpenDescriptable
-You see the unmodified monster inside!
-Mud School#3716
--
-Mud School#3712
-1
-OpenDescriptable
-You see the wimpy monster inside!
-Mud School#3715
--
-Mud School#3712
-0
-OpenDescriptable
-You see the aggressive monster inside!
-Mud School#3713
--
 Mud School#3718
 0
 OpenDescriptable
@@ -1043,18 +1013,6 @@ ClimbableExit
 
 Mud School#3761
 -
-Silver Ford#1
-1
-StdOpenDoorway
-
-Silver Ford#0
--
-Silver Ford#1
-0
-StdOpenDoorway
-
-Silver Ford#6
--
 Silver Ford#8
 6
 StdOpenDoorway
@@ -1072,366 +1030,6 @@ Silver Ford#8
 StdOpenDoorway
 
 Silver Ford#4
--
-Silver Ford#6
-3
-StdOpenDoorway
-
-Silver Ford#9
--
-Silver Ford#6
-2
-StdOpenDoorway
-
-Silver Ford#7
--
-Silver Ford#6
-1
-StdOpenDoorway
-
-Silver Ford#1
--
-Silver Ford#6
-0
-StdOpenDoorway
-
-Mud School#3700
-*
-ZFAAhouse2#14
-3
-Open
-
-ZFAAhouse2#15
-*
-ZFAAhouse2#14
-1
-Open
-
-ZFAAhouse2#0
-*
-ZFAAhouse2#24
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#13
-*
-ZFAAhouse2#24
-1
-Door
-
-ZFAAhouse2#12
-*
-ZFAAhouse2#24
-0
-Open
-
-ZFAAhouse2#23
-*
-ZFAAhouse2#15
-2
-Open
-
-ZFAAhouse2#14
-*
-ZFAAhouse2#15
-1
-Open
-
-ZFAAhouse2#16
-*
-ZFAAhouse2#3
-3
-Door
-
-ZFAAhouse2#19
-*
-ZFAAhouse2#4
-1
-LockedDoor
-ZFAAhouse2 luxurykey
-ZFAAhouse2#18
-*
-ZFAAhouse2#17
-3
-Open
-
-ZFAAhouse2#16
-*
-ZFAAhouse2#17
-2
-Open
-
-ZFAAhouse2#0
-*
-ZFAAhouse2#17
-0
-Open
-
-ZFAAhouse2#18
-*
-ZFAAhouse2#13
-2
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#24
-*
-ZFAAhouse2#16
-2
-Open
-
-ZFAAhouse2#17
-*
-ZFAAhouse2#16
-0
-Open
-
-ZFAAhouse2#15
-*
-ZFAAhouse2#21
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#9
-*
-ZFAAhouse2#21
-2
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#2
-*
-ZFAAhouse2#21
-1
-Door
-
-ZFAAhouse2#11
-*
-ZFAAhouse2#21
-0
-Open
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#19
-3
-Open
-
-ZFAAhouse2#18
-*
-ZFAAhouse2#19
-2
-Door
-
-ZFAAhouse2#3
-*
-ZFAAhouse2#19
-1
-Open
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#19
-0
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
-ZFAAhouse2#10
-*
-ZFAAhouse2#5
-2
-Door
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#9
-2
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#21
-*
-ZFAAhouse2#22
-3
-LockedGate
-ZFAAhouse2 cellkey
-ZFAAhouse2#8
-*
-ZFAAhouse2#22
-2
-Open
-
-ZFAAhouse2#18
-*
-ZFAAhouse2#22
-1
-Open
-
-ZFAAhouse2#23
-*
-ZFAAhouse2#22
-0
-LockedGate
-ZFAAhouse2 cellkey
-ZFAAhouse2#6
-*
-ZFAAhouse2#11
-0
-Door
-
-ZFAAhouse2#21
-*
-ZFAAhouse2#10
-1
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
-ZFAAhouse2#19
-*
-ZFAAhouse2#20
-3
-Door
-
-ZFAAhouse2#5
-*
-ZFAAhouse2#20
-2
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#7
-*
-ZFAAhouse2#20
-1
-Open
-
-ZFAAhouse2#21
-*
-ZFAAhouse2#20
-0
-Open
-
-ZFAAhouse2#19
-*
-ZFAAhouse2#12
-0
-Door
-
-ZFAAhouse2#24
-*
-ZFAAhouse2#18
-3
-Open
-
-ZFAAhouse2#22
-*
-ZFAAhouse2#18
-2
-Open
-
-ZFAAhouse2#19
-*
-ZFAAhouse2#18
-1
-Open
-
-ZFAAhouse2#17
-*
-ZFAAhouse2#18
-0
-LockedDoor
-ZFAAhouse2 luxurykey
-ZFAAhouse2#4
-*
-ZFAAhouse2#1
-2
-Door
-
-ZFAAhouse2#23
-*
-ZFAAhouse2#8
-2
-LockedGate
-ZFAAhouse2 cellkey
-ZFAAhouse2#22
-*
-ZFAAhouse2#7
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#20
-*
-ZFAAhouse2#2
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#21
-*
-ZFAAhouse2#23
-3
-Door
-
-ZFAAhouse2#1
-*
-ZFAAhouse2#23
-1
-Open
-
-ZFAAhouse2#24
-*
-ZFAAhouse2#23
-0
-Open
-
-ZFAAhouse2#22
-*
-ZFAAhouse2#6
-1
-LockedGate
-ZFAAhouse2 cellkey
-ZFAAhouse2#22
-*
-Silver Ford#9
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#9
-3
-Door
-
-ZFAAhouse2#0
-*
-Silver Ford#9
-2
-StdOpenDoorway
-
-Silver Ford#6
-*
-ZFAAhouse2#0
-3
-Open
-
-ZFAAhouse2#17
-*
-ZFAAhouse2#0
-2
-Door
-
-Silver Ford#9
-*
-ZFAAhouse2#0
-0
-Open
-
-ZFAAhouse2#14
-*
-START
-6
-StdOpenDoorway
-
-Silver Ford#0
-*
-START
-4
-StdOpenDoorway
-
- 
 -
 Mud School#3759
 3
@@ -1486,66 +1084,6 @@ Mud School#3700
 OpenDescriptable
 You see the doorway into the Mud School Building.
 Mud School#3757
-*
-Silver Ford#2
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#2
-3
-StdOpenDoorway
-
-Silver Ford#0
--
-Silver Ford#0
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#0
-3
-StdOpenDoorway
-
-Silver Ford#4
--
-Silver Ford#0
-2
-StdOpenDoorway
-
-Silver Ford#2
--
-Silver Ford#0
-1
-StdOpenDoorway
-
-Silver Ford#3
--
-Silver Ford#0
-0
-StdOpenDoorway
-
-Silver Ford#1
--
-Silver Ford#3
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#3
-1
-StdOpenDoorway
-
-Silver Ford#12
--
-Silver Ford#3
-0
-StdOpenDoorway
-
-Silver Ford#0
 -
 Silver Ford#16
 4
@@ -1678,102 +1216,42 @@ Silver Ford#11
 StdOpenDoorway
 
 Silver Ford#10
--
-Silver Ford#10
-6
-StdOpenDoorway
-
-Silver Ford#5
--
-Silver Ford#10
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#10
-1
-StdOpenDoorway
-
-Silver Ford#11
--
+*
 Silver Ford#12
 4
 StdOpenDoorway
 
  
--
+*
 Silver Ford#12
 3
 StdOpenDoorway
 
 Silver Ford#14
--
+*
 Silver Ford#12
 2
 StdOpenDoorway
 
 Silver Ford#13
--
+*
 Silver Ford#12
 0
 StdOpenDoorway
 
 Silver Ford#3
--
-Silver Ford#4
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#4
-3
-StdOpenDoorway
-
-Silver Ford#5
--
-Silver Ford#4
-2
-StdOpenDoorway
-
-Silver Ford#0
--
+*
 Silver Ford#17
 4
 StdOpenDoorway
 
  
--
+*
 Silver Ford#17
 0
 StdOpenDoorway
 
 Silver Ford#15
-*
-Silver Ford#5
-6
-StdOpenDoorway
-
-Silver Ford#10
-*
-Silver Ford#5
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#5
-2
-StdOpenDoorway
-
-Silver Ford#4
-*
-Silver Ford#5
-0
-StdOpenDoorway
-
-Silver Ford#18
 -
 Silver Ford#18
 4
@@ -1841,24 +1319,6 @@ Open
 
 Silver Ford#22
 -
-Silver Ford#25
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#25
-2
-StdOpenDoorway
-
-Silver Ford#28
--
-Silver Ford#25
-1
-Open
-
-Silver Ford#24
--
 Silver Ford#28
 4
 StdOpenDoorway
@@ -1894,48 +1354,6 @@ Silver Ford#29
 Open
 
 Silver Ford#27
--
-Silver Ford#26
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#26
-2
-StdOpenDoorway
-
-Silver Ford#29
--
-Silver Ford#26
-0
-Open
-
-Silver Ford#24
--
-Silver Ford#27
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#27
-3
-Open
-
-Silver Ford#24
--
-Silver Ford#24
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#24
-3
-Gate
-
-Silver Ford#22
 -
 Silver Ford#30
 2
@@ -1943,18 +1361,6 @@ StdOpenDoorway
 
 Silver Ford#22
 -
-Silver Ford#31
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#31
-2
-Gate
-
-Silver Ford#22
--
 Silver Ford#23
 4
 StdOpenDoorway
@@ -1976,36 +1382,6 @@ Silver Ford#32
 Silver Ford#32
 1
 StdOpenDoorway
-
-Silver Ford#23
--
-Silver Ford#22
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#22
-3
-Gate
-
-Silver Ford#31
--
-Silver Ford#22
-2
-Gate
-
-Silver Ford#24
--
-Silver Ford#22
-1
-Open
-
-Silver Ford#21
--
-Silver Ford#22
-0
-Open
 
 Silver Ford#23
 -
@@ -2045,12 +1421,6 @@ Open
 
 AdventureHousePrison#11
 -
-AdventureHousePrison#1
-3
-Door
-
-AdventureHousePrison#8
--
 AdventureHousePrison#3
 2
 LockedDoor
@@ -2086,120 +1456,6 @@ AdventureHousePrison#2
 LockedGate
 AdventureHousePrison cellkey
 AdventureHousePrison#8
--
-AdventureHousePrison#5
-1
-LockedDoor
-AdventureHousePrison luxurykey
-AdventureHousePrison#11
--
-AdventureHousePrison#8
-3
-LockedGate
-AdventureHousePrison cellkey
-AdventureHousePrison#2
--
-AdventureHousePrison#8
-2
-Door
-
-AdventureHousePrison#1
--
-AdventureHousePrison#8
-0
-Open
-
-AdventureHousePrison#9
--
-AdventureHousePrison#12
-3
-Open
-
-AdventureHousePrison#13
--
-AdventureHousePrison#12
-1
-LockedDoor
-AdventureHousePrison cellkey
-AdventureHousePrison#6
--
-AdventureHousePrison#12
-0
-Door
-
-AdventureHousePrison#7
--
-Silver Ford#7
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#7
-3
-StdOpenDoorway
-
-Silver Ford#6
--
-Silver Ford#7
-2
-Door
-
-AdventureHousePrison#0
--
-AdventureHousePrison#6
-5
-HiddenWalkway
-
-AdventureHousePrison#14
--
-AdventureHousePrison#6
-0
-LockedDoor
-AdventureHousePrison cellkey
-AdventureHousePrison#12
--
-AdventureHousePrison#14
-4
-StdOpenDoorway
-
-AdventureHousePrison#6
-*
-AdventureHousePrison#0
-3
-Door
-
-Silver Ford#7
-*
-AdventureHousePrison#0
-2
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
-AdventureHousePrison#9
--
-AdventureHousePrison#9
-3
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
-AdventureHousePrison#0
--
-AdventureHousePrison#9
-2
-Open
-
-AdventureHousePrison#13
--
-AdventureHousePrison#9
-1
-Open
-
-AdventureHousePrison#8
--
-AdventureHousePrison#9
-0
-Open
-
-AdventureHousePrison#10
 -
 Iron Dragons Fortress#0
 3
@@ -2866,7 +2122,7 @@ Dragonmaw Mine#0
 StdOpenDoorway
 
 Silver Ford#17
--
+*
 Silver Ford#17
 6
 StdOpenDoorway
@@ -3167,123 +2423,3549 @@ Open
 
 Dragonmaw Mine#9
 -
+Silver Ford#34
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#34
+1
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#34
+0
+Open
+
+Silver Ford#35
+-
+Silver Ford#35
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#35
+1
+Open
+
+Silver Ford#34
+-
+Silver Ford#35
+0
+Open
+
+Silver Ford#36
+-
+ZFAAhouse2#14
+3
+Open
+
+ZFAAhouse2#15
+-
+ZFAAhouse2#14
+1
+Open
+
+ 
+-
+Adventure House Den#24
+3
+Open
+
+Adventure House Den#23
+-
+Adventure House Den#24
+2
+Open
+
+Adventure House Den#25
+-
+Adventure House Den#24
+0
+Open
+
+Adventure House Den#4
+-
+Adventure House Den#1
+1
+Door
+
+Adventure House Den#10
+-
+Adventure House Den#9
+3
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#9
+2
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#9
+1
+LockedDoor
+Adventure House Den thronekey
+Adventure House Den#3
+-
+Adventure House Den#28
+3
+Open
+
+Adventure House Den#27
+-
+Adventure House Den#28
+0
+Open
+
+Adventure House Den#29
+-
+Adventure House Den#22
+1
+Open
+
+Adventure House Den#23
+-
+Adventure House Den#22
+0
+Open
+
+Adventure House Den#21
+-
+Adventure House Den#6
+3
+Open
+
+Adventure House Den#10
+-
+Adventure House Den#6
+2
+Open
+
+Adventure House Den#9
+-
+Adventure House Den#6
+1
+Open
+
+Adventure House Den#5
+-
+Adventure House Den#6
+0
+Open
+
+Adventure House Den#7
+-
+Adventure House Den#18
+3
+Open
+
+Adventure House Den#19
+-
+Adventure House Den#18
+2
+Open
+
+Adventure House Den#17
+-
+Adventure House Den#15
+3
+Open
+
+Adventure House Den#16
+-
+Adventure House Den#15
+2
+Open
+
+Adventure House Den#14
+-
+Adventure House Den#15
+1
+Open
+
+Adventure House Den#12
+-
+Adventure House Den#29
+1
+Open
+
+Adventure House Den#28
+-
+Adventure House Den#29
+0
+Open
+
+Adventure House Den#0
+-
+Adventure House Den#25
+3
+Open
+
+Adventure House Den#24
+-
+Adventure House Den#25
+2
+Open
+
+Adventure House Den#26
+-
+Adventure House Den#25
+0
+Open
+
+Adventure House Den#5
+-
+Adventure House Den#21
+2
+Open
+
+Adventure House Den#10
+-
+Adventure House Den#21
+1
+Open
+
+Adventure House Den#22
+-
+Adventure House Den#21
+0
+Open
+
+Adventure House Den#20
+-
+Adventure House Den#13
+1
+Open
+
+Adventure House Den#0
+-
+Adventure House Den#13
+0
+Open
+
+Adventure House Den#14
+-
+Adventure House Den#4
+1
+Open
+
+Adventure House Den#24
+-
+Adventure House Den#14
+3
+Open
+
+Adventure House Den#15
+-
+Adventure House Den#14
+1
+Open
+
+Adventure House Den#13
+-
+Adventure House Den#5
+1
+Open
+
+Adventure House Den#25
+-
+Adventure House Den#5
+0
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#23
+2
+Open
+
+Adventure House Den#24
+-
+Adventure House Den#23
+0
+Open
+
+Adventure House Den#22
+-
+Adventure House Den#17
+3
+Open
+
+Adventure House Den#18
+-
+Adventure House Den#17
+2
+Open
+
+Adventure House Den#16
+-
+Adventure House Den#17
+1
+Open
+
+Adventure House Den#7
+-
+Adventure House Den#19
+2
+Open
+
+Adventure House Den#18
+-
+Adventure House Den#19
+1
+Open
+
+Adventure House Den#20
+-
+Adventure House Den#8
+3
+Open
+
+Adventure House Den#9
+-
+Adventure House Den#8
+2
+Open
+
+Adventure House Den#0
+-
+Adventure House Den#8
+1
+Open
+
+Adventure House Den#11
+-
+Adventure House Den#8
+0
+Open
+
+Adventure House Den#12
+-
+Adventure House Den#27
+3
+Open
+
+Adventure House Den#26
+-
+Adventure House Den#27
+2
+Open
+
+Adventure House Den#28
+-
+Adventure House Den#27
+0
+Open
+
+Adventure House Den#11
+-
+Adventure House Den#16
+3
+Open
+
+Adventure House Den#17
+-
+Adventure House Den#16
+2
+Open
+
+Adventure House Den#15
+-
+Adventure House Den#16
+1
+Door
+
+Adventure House Den#2
+-
+Adventure House Den#11
+1
+Open
+
+Adventure House Den#27
+-
+Adventure House Den#11
+0
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#2
+0
+Door
+
+Adventure House Den#16
+-
+Adventure House Den#7
+1
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#7
+0
+Open
+
+Adventure House Den#17
+-
+Adventure House Den#26
+3
+Open
+
+Adventure House Den#25
+-
+Adventure House Den#26
+2
+Open
+
+Adventure House Den#27
+-
+Adventure House Den#12
+1
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#12
+0
+Open
+
+Adventure House Den#15
+-
+Adventure House Den#20
+1
+Open
+
+Adventure House Den#21
+-
+Adventure House Den#20
+0
+Open
+
+Adventure House Den#19
+-
+Adventure House Den#10
+3
+Open
+
+Adventure House Den#21
+-
+Adventure House Den#10
+2
+Open
+
+Adventure House Den#6
+-
+Adventure House Den#10
+0
+Door
+
+Adventure House Den#1
+-
+Silver Ford#36
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#36
+1
+Open
+
+Silver Ford#35
+-
+Silver Ford#36
+0
+Open
+
+The Haunted Forest#0
+-
+The Haunted Forest#151
+3
+Open
+
+The Haunted Forest#57
+-
+The Haunted Forest#151
+1
+Open
+
+The Haunted Forest#150
+-
+The Haunted Forest#151
+0
+Open
+
+The Haunted Forest#152
+-
+The Haunted Forest#21
+0
+Open
+
+The Haunted Forest#62
+-
+The Haunted Forest#24
+1
+Open
+
+The Haunted Forest#74
+-
+The Haunted Forest#150
+1
+Open
+
+The Haunted Forest#149
+-
+The Haunted Forest#150
+0
+Open
+
+The Haunted Forest#151
+-
+The Haunted Forest#49
+3
+Open
+
+The Haunted Forest#58
+-
+The Haunted Forest#49
+2
+Open
+
+The Haunted Forest#50
+-
+The Haunted Forest#49
+1
+Open
+
+The Haunted Forest#124
+-
+The Haunted Forest#49
+0
+Open
+
+The Haunted Forest#135
+-
+The Haunted Forest#46
+3
+Open
+
+The Haunted Forest#134
+-
+The Haunted Forest#46
+2
+Open
+
+The Haunted Forest#98
+-
+The Haunted Forest#46
+1
+Open
+
+The Haunted Forest#45
+-
+The Haunted Forest#46
+0
+Open
+
+The Haunted Forest#47
+-
+The Haunted Forest#108
+3
+Open
+
+The Haunted Forest#48
+-
+The Haunted Forest#108
+2
+Open
+
+The Haunted Forest#99
+-
+The Haunted Forest#108
+1
+Open
+
+The Haunted Forest#20
+-
+The Haunted Forest#105
+3
+Open
+
+The Haunted Forest#104
+-
+The Haunted Forest#105
+2
+Open
+
+The Haunted Forest#106
+-
+The Haunted Forest#105
+1
+Open
+
+The Haunted Forest#117
+-
+The Haunted Forest#105
+0
+Open
+
+The Haunted Forest#165
+-
+The Haunted Forest#188
+2
+Open
+
+The Haunted Forest#189
+-
+The Haunted Forest#188
+0
+Open
+
+The Haunted Forest#187
+-
+The Haunted Forest#7
+0
+Open
+
+The Haunted Forest#102
+-
+The Haunted Forest#154
+1
+Open
+
+The Haunted Forest#153
+-
+The Haunted Forest#154
+0
+Open
+
+The Haunted Forest#155
+-
+The Haunted Forest#191
+3
+Open
+
+The Haunted Forest#190
+-
+The Haunted Forest#191
+2
+Open
+
+The Haunted Forest#192
+-
+The Haunted Forest#75
+3
+Open
+
+The Haunted Forest#74
+-
+The Haunted Forest#75
+2
+Open
+
+The Haunted Forest#76
+-
+The Haunted Forest#75
+1
+Open
+
+The Haunted Forest#138
+-
+The Haunted Forest#75
+0
+Open
+
+The Haunted Forest#116
+-
+The Haunted Forest#84
+3
+Open
+
+The Haunted Forest#83
+-
+The Haunted Forest#84
+2
+Open
+
+The Haunted Forest#85
+-
+The Haunted Forest#84
+0
+Open
+
+The Haunted Forest#19
+-
+The Haunted Forest#157
+3
+Open
+
+The Haunted Forest#87
+-
+The Haunted Forest#157
+1
+Open
+
+The Haunted Forest#156
+-
+The Haunted Forest#157
+0
+Open
+
+The Haunted Forest#158
+-
+The Haunted Forest#91
+3
+Open
+
+The Haunted Forest#90
+-
+The Haunted Forest#91
+2
+Open
+
+The Haunted Forest#92
+-
+The Haunted Forest#91
+1
+Open
+
+The Haunted Forest#128
+-
+The Haunted Forest#91
+0
+Open
+
+The Haunted Forest#111
+-
+The Haunted Forest#63
+3
+Open
+
+The Haunted Forest#62
+-
+The Haunted Forest#63
+2
+Open
+
+The Haunted Forest#64
+-
+The Haunted Forest#63
+1
+Open
+
+The Haunted Forest#112
+-
+The Haunted Forest#63
+0
+Open
+
+The Haunted Forest#129
+-
+The Haunted Forest#28
+0
+Open
+
+The Haunted Forest#92
+-
+The Haunted Forest#181
+1
+Open
+
+The Haunted Forest#182
+-
+The Haunted Forest#181
+0
+Open
+
+The Haunted Forest#180
+-
+The Haunted Forest#8
+0
+Open
+
+The Haunted Forest#86
+-
+The Haunted Forest#12
+1
+Open
+
+The Haunted Forest#134
+-
+The Haunted Forest#48
+3
+Open
+
+The Haunted Forest#123
+-
+The Haunted Forest#48
+2
+Open
+
+The Haunted Forest#108
+-
+The Haunted Forest#48
+1
+Open
+
+The Haunted Forest#47
+-
+The Haunted Forest#48
+0
+Open
+
+The Haunted Forest#173
+-
+The Haunted Forest#148
+3
+Open
+
+The Haunted Forest#147
+-
+The Haunted Forest#148
+2
+Open
+
+The Haunted Forest#149
+-
+The Haunted Forest#148
+0
+Open
+
+The Haunted Forest#144
+-
+The Haunted Forest#68
+3
+Open
+
+The Haunted Forest#40
+-
+The Haunted Forest#68
+2
+Open
+
+The Haunted Forest#59
+-
+The Haunted Forest#68
+1
+Open
+
+The Haunted Forest#10
+-
+The Haunted Forest#30
+0
+Open
+
+The Haunted Forest#52
+-
+The Haunted Forest#71
+3
+Open
+
+The Haunted Forest#70
+-
+The Haunted Forest#71
+2
+Open
+
+The Haunted Forest#72
+-
+The Haunted Forest#71
+1
+Open
+
+The Haunted Forest#143
+-
+The Haunted Forest#71
+0
+Open
+
+The Haunted Forest#110
+-
+The Haunted Forest#103
+3
+Open
+
+The Haunted Forest#102
+-
+The Haunted Forest#103
+2
+Open
+
+The Haunted Forest#104
+-
+The Haunted Forest#103
+1
+Open
+
+The Haunted Forest#114
+-
+The Haunted Forest#103
+0
+Open
+
+The Haunted Forest#167
+-
+The Haunted Forest#76
+3
+Open
+
+The Haunted Forest#75
+-
+The Haunted Forest#76
+2
+Open
+
+The Haunted Forest#77
+-
+The Haunted Forest#76
+1
+Open
+
+The Haunted Forest#2
+-
+The Haunted Forest#18
+0
+Open
+
+The Haunted Forest#78
+-
+The Haunted Forest#94
+3
+Open
+
+The Haunted Forest#93
+-
+The Haunted Forest#94
+2
+Open
+
+The Haunted Forest#95
+-
+The Haunted Forest#94
+0
+Open
+
+The Haunted Forest#33
+-
+The Haunted Forest#189
+3
+Open
+
+The Haunted Forest#188
+-
+The Haunted Forest#189
+2
+Open
+
+The Haunted Forest#190
+-
+The Haunted Forest#189
+0
+Open
+
+The Haunted Forest#36
+-
+The Haunted Forest#16
+1
+Open
+
+The Haunted Forest#60
+-
+The Haunted Forest#145
+3
+Open
+
+The Haunted Forest#0
+-
+The Haunted Forest#145
+2
+Open
+
+The Haunted Forest#146
+-
+The Haunted Forest#145
+0
+Open
+
+The Haunted Forest#4
+-
+The Haunted Forest#3
+1
+Open
+
+The Haunted Forest#122
+-
+The Haunted Forest#115
+1
+Open
+
+The Haunted Forest#55
+-
+The Haunted Forest#115
+0
+Open
+
+The Haunted Forest#65
+-
+The Haunted Forest#74
+3
+Open
+
+The Haunted Forest#73
+-
+The Haunted Forest#74
+2
+Open
+
+The Haunted Forest#75
+-
+The Haunted Forest#74
+0
+Open
+
+The Haunted Forest#24
+-
+The Haunted Forest#44
+3
+Open
+
+The Haunted Forest#122
+-
+The Haunted Forest#44
+2
+Open
+
+The Haunted Forest#88
+-
+The Haunted Forest#44
+1
+Open
+
+The Haunted Forest#43
+-
+The Haunted Forest#44
+0
+Open
+
+The Haunted Forest#45
+-
+The Haunted Forest#178
+2
+Open
+
+The Haunted Forest#134
+-
+The Haunted Forest#178
+1
+Open
+
+The Haunted Forest#179
+-
+The Haunted Forest#178
+0
+Open
+
+The Haunted Forest#177
+-
+The Haunted Forest#56
+3
+Open
+
+The Haunted Forest#55
+-
+The Haunted Forest#56
+2
+Open
+
+The Haunted Forest#57
+-
+The Haunted Forest#56
+1
+Open
+
+The Haunted Forest#1
+-
+The Haunted Forest#15
+0
+Open
+
+The Haunted Forest#98
+-
+The Haunted Forest#0
+3
+Open
+
+The Haunted Forest#195
+-
+The Haunted Forest#0
+2
+Open
+
+The Haunted Forest#145
+-
+The Haunted Forest#0
+1
+Open
+
+Silver Ford#36
+-
+The Haunted Forest#0
+0
+Open
+
+The Haunted Forest#137
+-
+The Haunted Forest#149
+3
+Open
+
+The Haunted Forest#148
+-
+The Haunted Forest#149
+0
+Open
+
+The Haunted Forest#150
+-
+The Haunted Forest#135
+1
+Open
+
+The Haunted Forest#49
+-
+The Haunted Forest#135
+0
+Open
+
+The Haunted Forest#59
+-
+The Haunted Forest#193
+3
+Open
+
+The Haunted Forest#192
+-
+The Haunted Forest#193
+2
+Open
+
+The Haunted Forest#194
+-
+The Haunted Forest#193
+0
+Open
+
+The Haunted Forest#9
+-
+The Haunted Forest#40
+3
+Open
+
+The Haunted Forest#121
+-
+The Haunted Forest#40
+2
+Open
+
+The Haunted Forest#68
+-
+The Haunted Forest#40
+1
+Open
+
+The Haunted Forest#39
+-
+The Haunted Forest#40
+0
+Open
+
+The Haunted Forest#41
+-
+The Haunted Forest#25
+1
+Open
+
+The Haunted Forest#121
+-
+The Haunted Forest#78
+3
+Open
+
+The Haunted Forest#42
+-
+The Haunted Forest#78
+2
+Open
+
+The Haunted Forest#69
+-
+The Haunted Forest#78
+1
+Open
+
+The Haunted Forest#18
+-
+The Haunted Forest#31
+0
+Open
+
+The Haunted Forest#106
+-
+The Haunted Forest#130
+1
+Open
+
+The Haunted Forest#146
+-
+The Haunted Forest#130
+0
+Open
+
+The Haunted Forest#55
+-
+The Haunted Forest#100
+3
+Open
+
+The Haunted Forest#99
+-
+The Haunted Forest#100
+2
+Open
+
+The Haunted Forest#101
+-
+The Haunted Forest#139
+1
+Open
+
+The Haunted Forest#87
+-
+The Haunted Forest#139
+0
+Open
+
+The Haunted Forest#97
+-
+The Haunted Forest#170
+3
+Open
+
+The Haunted Forest#171
+-
+The Haunted Forest#170
+2
+Open
+
+The Haunted Forest#169
+-
+The Haunted Forest#35
+0
+Open
+
+The Haunted Forest#66
+-
+The Haunted Forest#42
+3
+Open
+
+The Haunted Forest#142
+-
+The Haunted Forest#42
+2
+Open
+
+The Haunted Forest#78
+-
+The Haunted Forest#42
+1
+Open
+
+The Haunted Forest#41
+-
+The Haunted Forest#42
+0
+Open
+
+The Haunted Forest#43
+-
+The Haunted Forest#131
+1
+Open
+
+The Haunted Forest#85
+-
+The Haunted Forest#131
+0
+Open
+
+The Haunted Forest#95
+-
+The Haunted Forest#90
+3
+Open
+
+The Haunted Forest#89
+-
+The Haunted Forest#90
+2
+Open
+
+The Haunted Forest#91
+-
+The Haunted Forest#90
+0
+Open
+
+The Haunted Forest#27
+-
+The Haunted Forest#27
+1
+Open
+
+The Haunted Forest#90
+-
+The Haunted Forest#159
+3
+Open
+
+The Haunted Forest#97
+-
+The Haunted Forest#159
+1
+Open
+
+The Haunted Forest#158
+-
+The Haunted Forest#159
+0
+Open
+
+The Haunted Forest#160
+-
+The Haunted Forest#29
+1
+Open
+
+The Haunted Forest#70
+-
+The Haunted Forest#81
+3
+Open
+
+The Haunted Forest#80
+-
+The Haunted Forest#81
+2
+Open
+
+The Haunted Forest#82
+-
+The Haunted Forest#81
+1
+Open
+
+The Haunted Forest#110
+-
+The Haunted Forest#81
+0
+Open
+
+The Haunted Forest#128
+-
+The Haunted Forest#167
+3
+Open
+
+The Haunted Forest#168
+-
+The Haunted Forest#167
+2
+Open
+
+The Haunted Forest#166
+-
+The Haunted Forest#167
+1
+Open
+
+The Haunted Forest#103
+-
+The Haunted Forest#120
+1
+Open
+
+The Haunted Forest#97
+-
+The Haunted Forest#120
+0
+Open
+
+The Haunted Forest#107
+-
+The Haunted Forest#175
+2
+Open
+
+The Haunted Forest#174
+-
+The Haunted Forest#175
+1
+Open
+
+The Haunted Forest#176
+-
+The Haunted Forest#137
+1
+Open
+
+The Haunted Forest#0
+-
+The Haunted Forest#137
+0
+Open
+
+The Haunted Forest#53
+-
+The Haunted Forest#22
+1
+Open
+
+The Haunted Forest#80
+-
+The Haunted Forest#140
+1
+Open
+
+The Haunted Forest#69
+-
+The Haunted Forest#140
+0
+Open
+
+The Haunted Forest#79
+-
+The Haunted Forest#47
+1
+Open
+
+The Haunted Forest#46
+-
+The Haunted Forest#47
+0
+Open
+
+The Haunted Forest#48
+-
+The Haunted Forest#138
+1
+Open
+
+The Haunted Forest#65
+-
+The Haunted Forest#138
+0
+Open
+
+The Haunted Forest#75
+-
+The Haunted Forest#53
+3
+Open
+
+The Haunted Forest#52
+-
+The Haunted Forest#53
+2
+Open
+
+The Haunted Forest#54
+-
+The Haunted Forest#53
+1
+Open
+
+The Haunted Forest#137
+-
+The Haunted Forest#53
+0
+Open
+
+The Haunted Forest#112
+-
+The Haunted Forest#20
+0
+Open
+
+The Haunted Forest#108
+-
+The Haunted Forest#60
+3
+Open
+
+The Haunted Forest#59
+-
+The Haunted Forest#60
+2
+Open
+
+The Haunted Forest#61
+-
+The Haunted Forest#60
+0
+Open
+
+The Haunted Forest#16
+-
+The Haunted Forest#176
+2
+Open
+
+The Haunted Forest#123
+-
+The Haunted Forest#176
+1
+Open
+
+The Haunted Forest#177
+-
+The Haunted Forest#176
+0
+Open
+
+The Haunted Forest#175
+-
+The Haunted Forest#155
+3
+Open
+
+The Haunted Forest#77
+-
+The Haunted Forest#155
+1
+Open
+
+The Haunted Forest#154
+-
+The Haunted Forest#155
+0
+Open
+
+The Haunted Forest#156
+-
+The Haunted Forest#95
+3
+Open
+
+The Haunted Forest#94
+-
+The Haunted Forest#95
+2
+Open
+
+The Haunted Forest#96
+-
+The Haunted Forest#95
+1
+Open
+
+The Haunted Forest#131
+-
+The Haunted Forest#95
+0
+Open
+
+The Haunted Forest#117
+-
+The Haunted Forest#67
+3
+Open
+
+The Haunted Forest#66
+-
+The Haunted Forest#67
+2
+Open
+
+The Haunted Forest#153
+-
+The Haunted Forest#67
+1
+Open
+
+The Haunted Forest#118
+-
+The Haunted Forest#67
+0
+Open
+
+The Haunted Forest#132
+-
+The Haunted Forest#172
+3
+Open
+
+The Haunted Forest#173
+-
+The Haunted Forest#172
+2
+Open
+
+The Haunted Forest#171
+-
+The Haunted Forest#13
+0
+Open
+
+The Haunted Forest#58
+-
+The Haunted Forest#36
+1
+Open
+
+The Haunted Forest#189
+-
+The Haunted Forest#87
+3
+Open
+
+The Haunted Forest#86
+-
+The Haunted Forest#87
+2
+Open
+
+The Haunted Forest#157
+-
+The Haunted Forest#87
+1
+Open
+
+The Haunted Forest#119
+-
+The Haunted Forest#87
+0
+Open
+
+The Haunted Forest#139
+-
+The Haunted Forest#117
+1
+Open
+
+The Haunted Forest#95
+-
+The Haunted Forest#117
+0
+Open
+
+The Haunted Forest#105
+-
+The Haunted Forest#23
+1
+Open
+
+The Haunted Forest#50
+-
+The Haunted Forest#43
+1
+Open
+
+The Haunted Forest#42
+-
+The Haunted Forest#43
+0
+Open
+
+The Haunted Forest#44
+-
+The Haunted Forest#174
+3
+Open
+
+The Haunted Forest#175
+-
+The Haunted Forest#174
+2
+Open
+
+The Haunted Forest#173
+-
+The Haunted Forest#88
+3
+Open
+
+The Haunted Forest#44
+-
+The Haunted Forest#88
+2
+Open
+
+The Haunted Forest#79
+-
+The Haunted Forest#88
+1
+Open
+
+The Haunted Forest#5
+-
+The Haunted Forest#37
+1
+Open
+
+The Haunted Forest#190
+-
+The Haunted Forest#37
+0
+Open
+
+The Haunted Forest#38
+-
+The Haunted Forest#122
+3
+Open
+
+The Haunted Forest#180
+-
+The Haunted Forest#122
+2
+Open
+
+The Haunted Forest#44
+-
+The Haunted Forest#122
+0
+Open
+
+The Haunted Forest#3
+-
+The Haunted Forest#185
+1
+Open
+
+The Haunted Forest#186
+-
+The Haunted Forest#185
+0
+Open
+
+The Haunted Forest#184
+-
+The Haunted Forest#52
+3
+Open
+
+The Haunted Forest#51
+-
+The Haunted Forest#52
+2
+Open
+
+The Haunted Forest#53
+-
+The Haunted Forest#52
+1
+Open
+
+The Haunted Forest#30
+-
+The Haunted Forest#156
+1
+Open
+
+The Haunted Forest#155
+-
+The Haunted Forest#156
+0
+Open
+
+The Haunted Forest#157
+-
+The Haunted Forest#133
+3
+Open
+
+The Haunted Forest#186
+-
+The Haunted Forest#133
+2
+Open
+
+The Haunted Forest#38
+-
+The Haunted Forest#133
+0
+Open
+
+The Haunted Forest#26
+-
+The Haunted Forest#161
+3
+Open
+
+The Haunted Forest#107
+-
+The Haunted Forest#161
+1
+Open
+
+The Haunted Forest#160
+-
+The Haunted Forest#161
+0
+Open
+
+The Haunted Forest#162
+-
+The Haunted Forest#59
+3
+Open
+
+The Haunted Forest#68
+-
+The Haunted Forest#59
+2
+Open
+
+The Haunted Forest#60
+-
+The Haunted Forest#59
+1
+Open
+
+The Haunted Forest#135
+-
+The Haunted Forest#59
+0
+Open
+
+The Haunted Forest#125
+-
+The Haunted Forest#83
+3
+Open
+
+The Haunted Forest#82
+-
+The Haunted Forest#83
+2
+Open
+
+The Haunted Forest#84
+-
+The Haunted Forest#83
+1
+Open
+
+The Haunted Forest#113
+-
+The Haunted Forest#83
+0
+Open
+
+The Haunted Forest#141
+-
+The Haunted Forest#58
+3
+Open
+
+The Haunted Forest#38
+-
+The Haunted Forest#58
+2
+Open
+
+The Haunted Forest#49
+-
+The Haunted Forest#58
+1
+Open
+
+The Haunted Forest#13
+-
+The Haunted Forest#182
+2
+Open
+
+The Haunted Forest#142
+-
+The Haunted Forest#182
+1
+Open
+
+The Haunted Forest#183
+-
+The Haunted Forest#182
+0
+Open
+
+The Haunted Forest#181
+-
+The Haunted Forest#69
+3
+Open
+
+The Haunted Forest#78
+-
+The Haunted Forest#69
+2
+Open
+
+The Haunted Forest#70
+-
+The Haunted Forest#69
+1
+Open
+
+The Haunted Forest#125
+-
+The Haunted Forest#69
+0
+Open
+
+The Haunted Forest#140
+-
+The Haunted Forest#1
+0
+Open
+
+The Haunted Forest#56
+-
+The Haunted Forest#64
+3
+Open
+
+The Haunted Forest#63
+-
+The Haunted Forest#64
+2
+Open
+
+The Haunted Forest#65
+-
+The Haunted Forest#64
+0
+Open
+
+The Haunted Forest#32
+-
+The Haunted Forest#126
+1
+Open
+
+The Haunted Forest#79
+-
+The Haunted Forest#126
+0
+Open
+
+The Haunted Forest#89
+-
+The Haunted Forest#162
+3
+Open
+
+The Haunted Forest#163
+-
+The Haunted Forest#162
+1
+Open
+
+The Haunted Forest#161
+-
+The Haunted Forest#165
+3
+Open
+
+The Haunted Forest#166
+-
+The Haunted Forest#165
+2
+Open
+
+The Haunted Forest#164
+-
+The Haunted Forest#165
+1
+Open
+
+The Haunted Forest#105
+-
+The Haunted Forest#112
+1
+Open
+
+The Haunted Forest#53
+-
+The Haunted Forest#112
+0
+Open
+
+The Haunted Forest#63
+-
+The Haunted Forest#55
+3
+Open
+
+The Haunted Forest#54
+-
+The Haunted Forest#55
+2
+Open
+
+The Haunted Forest#56
+-
+The Haunted Forest#55
+1
+Open
+
+The Haunted Forest#130
+-
+The Haunted Forest#55
+0
+Open
+
+The Haunted Forest#115
+-
+The Haunted Forest#171
+3
+Open
+
+The Haunted Forest#172
+-
+The Haunted Forest#171
+2
+Open
+
+The Haunted Forest#170
+-
+The Haunted Forest#171
+1
+Open
+
+The Haunted Forest#99
+-
+The Haunted Forest#113
+1
+Open
+
+The Haunted Forest#73
+-
+The Haunted Forest#113
+0
+Open
+
+The Haunted Forest#83
+-
+The Haunted Forest#124
+1
+Open
+
+The Haunted Forest#192
+-
+The Haunted Forest#124
+0
+Open
+
+The Haunted Forest#49
+-
+The Haunted Forest#54
+3
+Open
+
+The Haunted Forest#53
+-
+The Haunted Forest#54
+2
+Open
+
+The Haunted Forest#55
+-
+The Haunted Forest#54
+0
+Open
+
+The Haunted Forest#14
+-
+The Haunted Forest#11
+1
+Open
+
+The Haunted Forest#142
+-
+The Haunted Forest#118
+1
+Open
+
+The Haunted Forest#57
+-
+The Haunted Forest#118
+0
+Open
+
+The Haunted Forest#67
+-
+The Haunted Forest#61
+3
+Open
+
+The Haunted Forest#60
+-
+The Haunted Forest#61
+2
+Open
+
+The Haunted Forest#62
+-
+The Haunted Forest#61
+1
+Open
+
+The Haunted Forest#109
+-
+The Haunted Forest#61
+0
+Open
+
+The Haunted Forest#143
+-
+The Haunted Forest#79
+3
+Open
+
+The Haunted Forest#88
+-
+The Haunted Forest#79
+2
+Open
+
+The Haunted Forest#80
+-
+The Haunted Forest#79
+1
+Open
+
+The Haunted Forest#140
+-
+The Haunted Forest#79
+0
+Open
+
+The Haunted Forest#126
+-
+The Haunted Forest#9
+1
+Open
+
+The Haunted Forest#193
+-
+The Haunted Forest#33
+1
+Open
+
+The Haunted Forest#94
+-
+The Haunted Forest#50
+3
+Open
+
+The Haunted Forest#49
+-
+The Haunted Forest#50
+2
+Open
+
+The Haunted Forest#51
+-
+The Haunted Forest#50
+0
+Open
+
+The Haunted Forest#23
+-
+The Haunted Forest#194
+3
+Open
+
+The Haunted Forest#193
+-
+The Haunted Forest#194
+2
+Open
+
+The Haunted Forest#195
+-
+The Haunted Forest#194
+0
+Open
+
+The Haunted Forest#127
+-
+The Haunted Forest#169
+3
+Open
+
+The Haunted Forest#170
+-
+The Haunted Forest#169
+2
+Open
+
+The Haunted Forest#168
+-
+The Haunted Forest#169
+1
+Open
+
+The Haunted Forest#101
+-
+The Haunted Forest#180
+2
+Open
+
+The Haunted Forest#122
+-
+The Haunted Forest#180
+1
+Open
+
+The Haunted Forest#181
+-
+The Haunted Forest#180
+0
+Open
+
+The Haunted Forest#179
+-
+The Haunted Forest#70
+3
+Open
+
+The Haunted Forest#69
+-
+The Haunted Forest#70
+2
+Open
+
+The Haunted Forest#71
+-
+The Haunted Forest#70
+0
+Open
+
+The Haunted Forest#29
+-
+The Haunted Forest#92
+3
+Open
+
+The Haunted Forest#91
+-
+The Haunted Forest#92
+2
+Open
+
+The Haunted Forest#93
+-
+The Haunted Forest#92
+1
+Open
+
+The Haunted Forest#28
+-
+The Haunted Forest#85
+3
+Open
+
+The Haunted Forest#84
+-
+The Haunted Forest#85
+2
+Open
+
+The Haunted Forest#86
+-
+The Haunted Forest#85
+1
+Open
+
+The Haunted Forest#116
+-
+The Haunted Forest#85
+0
+Open
+
+The Haunted Forest#131
+-
+The Haunted Forest#14
+1
+Open
+
+The Haunted Forest#54
+-
+The Haunted Forest#82
+3
+Open
+
+The Haunted Forest#81
+-
+The Haunted Forest#82
+2
+Open
+
+The Haunted Forest#83
+-
+The Haunted Forest#82
+1
+Open
+
+The Haunted Forest#6
+-
+The Haunted Forest#166
+3
+Open
+
+The Haunted Forest#167
+-
+The Haunted Forest#166
+2
+Open
+
+The Haunted Forest#165
+-
+The Haunted Forest#127
+1
+Open
+
+The Haunted Forest#194
+-
+The Haunted Forest#127
+0
+Open
+
+The Haunted Forest#51
+-
+The Haunted Forest#2
+0
+Open
+
+The Haunted Forest#76
+-
+The Haunted Forest#39
+1
+Open
+
+The Haunted Forest#38
+-
+The Haunted Forest#39
+0
+Open
+
+The Haunted Forest#40
+-
+The Haunted Forest#73
+3
+Open
+
+The Haunted Forest#72
+-
+The Haunted Forest#73
+2
+Open
+
+The Haunted Forest#74
+-
+The Haunted Forest#73
+1
+Open
+
+The Haunted Forest#129
+-
+The Haunted Forest#73
+0
+Open
+
+The Haunted Forest#113
+-
+The Haunted Forest#164
+3
+Open
+
+The Haunted Forest#165
+-
+The Haunted Forest#164
+2
+Open
+
+The Haunted Forest#163
+-
+The Haunted Forest#38
+3
+Open
+
+The Haunted Forest#133
+-
+The Haunted Forest#38
+2
+Open
+
+The Haunted Forest#58
+-
+The Haunted Forest#38
+1
+Open
+
+The Haunted Forest#37
+-
+The Haunted Forest#38
+0
+Open
+
+The Haunted Forest#39
+-
+The Haunted Forest#121
+3
+Open
+
+The Haunted Forest#184
+-
+The Haunted Forest#121
+2
+Open
+
+The Haunted Forest#40
+-
+The Haunted Forest#121
+0
+Open
+
+The Haunted Forest#25
+-
+The Haunted Forest#163
+3
+Open
+
+The Haunted Forest#164
+-
+The Haunted Forest#163
+2
+Open
+
+The Haunted Forest#162
+-
+The Haunted Forest#163
+1
+Open
+
+The Haunted Forest#107
+-
+The Haunted Forest#177
+1
+Open
+
+The Haunted Forest#178
+-
+The Haunted Forest#177
+0
+Open
+
+The Haunted Forest#176
+-
+The Haunted Forest#125
+1
+Open
+
+The Haunted Forest#59
+-
+The Haunted Forest#125
+0
+Open
+
+The Haunted Forest#69
+-
+The Haunted Forest#147
+3
+Open
+
+The Haunted Forest#146
+-
+The Haunted Forest#147
+2
+Open
+
+The Haunted Forest#148
+-
+The Haunted Forest#57
+3
+Open
+
+The Haunted Forest#56
+-
+The Haunted Forest#57
+2
+Open
+
+The Haunted Forest#151
+-
+The Haunted Forest#57
+1
+Open
+
+The Haunted Forest#144
+-
+The Haunted Forest#57
+0
+Open
+
+The Haunted Forest#118
+-
+The Haunted Forest#190
+3
+Open
+
+The Haunted Forest#189
+-
+The Haunted Forest#190
+2
+Open
+
+The Haunted Forest#191
+-
+The Haunted Forest#190
+0
+Open
+
+The Haunted Forest#37
+-
+The Haunted Forest#187
+1
+Open
+
+The Haunted Forest#188
+-
+The Haunted Forest#187
+0
+Open
+
+The Haunted Forest#186
+-
+The Haunted Forest#10
+0
+Open
+
+The Haunted Forest#68
+-
+The Haunted Forest#109
+1
+Open
+
+The Haunted Forest#51
+-
+The Haunted Forest#109
+0
+Open
+
+The Haunted Forest#61
+-
+The Haunted Forest#116
+1
+Open
+
+The Haunted Forest#75
+-
+The Haunted Forest#116
+0
+Open
+
+The Haunted Forest#85
+-
+The Haunted Forest#86
+3
+Open
+
+The Haunted Forest#85
+-
+The Haunted Forest#86
+2
+Open
+
+The Haunted Forest#87
+-
+The Haunted Forest#86
+1
+Open
+
+The Haunted Forest#8
+-
+The Haunted Forest#132
+1
+Open
+
+The Haunted Forest#67
+-
+The Haunted Forest#132
+0
+Open
+
+The Haunted Forest#77
+-
+The Haunted Forest#179
+1
+Open
+
+The Haunted Forest#180
+-
+The Haunted Forest#179
+0
+Open
+
+The Haunted Forest#178
+-
+The Haunted Forest#66
+3
+Open
+
+The Haunted Forest#65
+-
+The Haunted Forest#66
+2
+Open
+
+The Haunted Forest#67
+-
+The Haunted Forest#66
+1
+Open
+
+The Haunted Forest#35
+-
+The Haunted Forest#119
+1
+Open
+
+The Haunted Forest#77
+-
+The Haunted Forest#119
+0
+Open
+
+The Haunted Forest#87
+-
+The Haunted Forest#62
+3
+Open
+
+The Haunted Forest#61
+-
+The Haunted Forest#62
+2
+Open
+
+The Haunted Forest#63
+-
+The Haunted Forest#62
+1
+Open
+
+The Haunted Forest#21
+-
+The Haunted Forest#152
+1
+Open
+
+The Haunted Forest#151
+-
+The Haunted Forest#152
+0
+Open
+
+The Haunted Forest#153
+-
+The Haunted Forest#106
+3
+Open
+
+The Haunted Forest#105
+-
+The Haunted Forest#106
+2
+Open
+
+The Haunted Forest#107
+-
+The Haunted Forest#106
+1
+Open
+
+The Haunted Forest#31
+-
+The Haunted Forest#160
+1
+Open
+
+The Haunted Forest#159
+-
+The Haunted Forest#160
+0
+Open
+
+The Haunted Forest#161
+-
+The Haunted Forest#111
+1
+Open
+
+The Haunted Forest#91
+-
+The Haunted Forest#111
+0
+Open
+
+The Haunted Forest#101
+-
+The Haunted Forest#141
+1
+Open
+
+The Haunted Forest#83
+-
+The Haunted Forest#141
+0
+Open
+
+The Haunted Forest#93
+-
+The Haunted Forest#80
+3
+Open
+
+The Haunted Forest#79
+-
+The Haunted Forest#80
+2
+Open
+
+The Haunted Forest#81
+-
+The Haunted Forest#80
+0
+Open
+
+The Haunted Forest#22
+-
+The Haunted Forest#6
+0
+Open
+
+The Haunted Forest#82
+-
+The Haunted Forest#34
+0
+Open
+
+The Haunted Forest#72
+-
+The Haunted Forest#184
+2
+Open
+
+The Haunted Forest#121
+-
+The Haunted Forest#184
+1
+Open
+
+The Haunted Forest#185
+-
+The Haunted Forest#184
+0
+Open
+
+The Haunted Forest#183
+-
+The Haunted Forest#102
+3
+Open
+
+The Haunted Forest#101
+-
+The Haunted Forest#102
+2
+Open
+
+The Haunted Forest#103
+-
+The Haunted Forest#102
+1
+Open
+
+The Haunted Forest#7
+-
+The Haunted Forest#4
+1
+Open
+
+The Haunted Forest#145
+-
+The Haunted Forest#136
+1
+Open
+
+The Haunted Forest#89
+-
+The Haunted Forest#136
+0
+Open
+
+The Haunted Forest#99
+-
+The Haunted Forest#41
+1
+Open
+
+The Haunted Forest#40
+-
+The Haunted Forest#41
+0
+Open
+
+The Haunted Forest#42
+-
+The Haunted Forest#96
+3
+Open
+
+The Haunted Forest#95
+-
+The Haunted Forest#96
+2
+Open
+
+The Haunted Forest#97
+-
+The Haunted Forest#96
+1
+Open
+
+The Haunted Forest#17
+-
+The Haunted Forest#146
+3
+Open
+
+The Haunted Forest#145
+-
+The Haunted Forest#146
+2
+Open
+
+The Haunted Forest#147
+-
+The Haunted Forest#146
+0
+Open
+
+The Haunted Forest#130
+-
+The Haunted Forest#51
+3
+Open
+
+The Haunted Forest#50
+-
+The Haunted Forest#51
+2
+Open
+
+The Haunted Forest#52
+-
+The Haunted Forest#51
+1
+Open
+
+The Haunted Forest#127
+-
+The Haunted Forest#51
+0
+Open
+
+The Haunted Forest#109
+-
+The Haunted Forest#123
+3
+Open
+
+The Haunted Forest#176
+-
+The Haunted Forest#123
+2
+Open
+
+The Haunted Forest#48
+-
+The Haunted Forest#195
+3
+Open
+
+The Haunted Forest#194
+-
+The Haunted Forest#195
+2
+Open
+
+The Haunted Forest#0
+-
+The Haunted Forest#32
+1
+Open
+
+The Haunted Forest#64
+-
+The Haunted Forest#144
+1
+Open
+
+The Haunted Forest#148
+-
+The Haunted Forest#144
+0
+Open
+
+The Haunted Forest#57
+-
+The Haunted Forest#114
+1
+Open
+
+The Haunted Forest#93
+-
+The Haunted Forest#114
+0
+Open
+
+The Haunted Forest#103
+-
+The Haunted Forest#72
+3
+Open
+
+The Haunted Forest#71
+-
+The Haunted Forest#72
+2
+Open
+
+The Haunted Forest#73
+-
+The Haunted Forest#72
+1
+Open
+
+The Haunted Forest#34
+-
+The Haunted Forest#128
+1
+Open
+
+The Haunted Forest#81
+-
+The Haunted Forest#128
+0
+Open
+
+The Haunted Forest#91
+-
+The Haunted Forest#5
+0
+Open
+
+The Haunted Forest#88
+-
+The Haunted Forest#143
+1
+Open
+
+The Haunted Forest#61
+-
+The Haunted Forest#143
+0
+Open
+
+The Haunted Forest#71
+-
+The Haunted Forest#186
+2
+Open
+
+The Haunted Forest#133
+-
+The Haunted Forest#186
+1
+Open
+
+The Haunted Forest#187
+-
+The Haunted Forest#186
+0
+Open
+
+The Haunted Forest#185
+-
+The Haunted Forest#134
+3
+Open
+
+The Haunted Forest#178
+-
+The Haunted Forest#134
+2
+Open
+
+The Haunted Forest#46
+-
+The Haunted Forest#134
+0
+Open
+
+The Haunted Forest#12
+-
+The Haunted Forest#107
+3
+Open
+
+The Haunted Forest#106
+-
+The Haunted Forest#107
+2
+Open
+
+The Haunted Forest#161
+-
+The Haunted Forest#107
+1
+Open
+
+The Haunted Forest#120
+-
+The Haunted Forest#107
+0
+Open
+
+The Haunted Forest#163
+-
+The Haunted Forest#77
+3
+Open
+
+The Haunted Forest#76
+-
+The Haunted Forest#77
+2
+Open
+
+The Haunted Forest#155
+-
+The Haunted Forest#77
+1
+Open
+
+The Haunted Forest#132
+-
+The Haunted Forest#77
+0
+Open
+
+The Haunted Forest#119
+-
+The Haunted Forest#153
+3
+Open
+
+The Haunted Forest#67
+-
+The Haunted Forest#153
+1
+Open
+
+The Haunted Forest#152
+-
+The Haunted Forest#153
+0
+Open
+
+The Haunted Forest#154
+-
+The Haunted Forest#168
+3
+Open
+
+The Haunted Forest#169
+-
+The Haunted Forest#168
+2
+Open
+
+The Haunted Forest#167
+-
+The Haunted Forest#110
+1
+Open
+
+The Haunted Forest#71
+-
+The Haunted Forest#110
+0
+Open
+
+The Haunted Forest#81
+-
+The Haunted Forest#97
+3
+Open
+
+The Haunted Forest#96
+-
+The Haunted Forest#97
+2
+Open
+
+The Haunted Forest#159
+-
+The Haunted Forest#97
+1
+Open
+
+The Haunted Forest#139
+-
+The Haunted Forest#97
+0
+Open
+
+The Haunted Forest#120
+-
+The Haunted Forest#19
+1
+Open
+
+The Haunted Forest#84
+-
+The Haunted Forest#99
+3
+Open
+
+The Haunted Forest#108
+-
+The Haunted Forest#99
+2
+Open
+
+The Haunted Forest#100
+-
+The Haunted Forest#99
+1
+Open
+
+The Haunted Forest#136
+-
+The Haunted Forest#99
+0
+Open
+
+The Haunted Forest#171
+-
+The Haunted Forest#93
+3
+Open
+
+The Haunted Forest#92
+-
+The Haunted Forest#93
+2
+Open
+
+The Haunted Forest#94
+-
+The Haunted Forest#93
+1
+Open
+
+The Haunted Forest#141
+-
+The Haunted Forest#93
+0
+Open
+
+The Haunted Forest#114
+-
+The Haunted Forest#101
+3
+Open
+
+The Haunted Forest#100
+-
+The Haunted Forest#101
+2
+Open
+
+The Haunted Forest#102
+-
+The Haunted Forest#101
+1
+Open
+
+The Haunted Forest#111
+-
+The Haunted Forest#101
+0
+Open
+
+The Haunted Forest#169
+-
+The Haunted Forest#158
+1
+Open
+
+The Haunted Forest#157
+-
+The Haunted Forest#158
+0
+Open
+
+The Haunted Forest#159
+-
+The Haunted Forest#65
+3
+Open
+
+The Haunted Forest#64
+-
+The Haunted Forest#65
+2
+Open
+
+The Haunted Forest#66
+-
+The Haunted Forest#65
+1
+Open
+
+The Haunted Forest#115
+-
+The Haunted Forest#65
+0
+Open
+
+The Haunted Forest#138
+-
+The Haunted Forest#183
+1
+Open
+
+The Haunted Forest#184
+-
+The Haunted Forest#183
+0
+Open
+
+The Haunted Forest#182
+-
+The Haunted Forest#104
+3
+Open
+
+The Haunted Forest#103
+-
+The Haunted Forest#104
+2
+Open
+
+The Haunted Forest#105
+-
+The Haunted Forest#173
+3
+Open
+
+The Haunted Forest#174
+-
+The Haunted Forest#173
+2
+Open
+
+The Haunted Forest#172
+-
+The Haunted Forest#173
+1
+Open
+
+The Haunted Forest#48
+-
+The Haunted Forest#98
+3
+Open
+
+The Haunted Forest#46
+-
+The Haunted Forest#98
+2
+Open
+
+The Haunted Forest#89
+-
+The Haunted Forest#98
+1
+Open
+
+The Haunted Forest#15
+-
+The Haunted Forest#45
+1
+Open
+
+The Haunted Forest#44
+-
+The Haunted Forest#45
+0
+Open
+
+The Haunted Forest#46
+-
+The Haunted Forest#129
+1
+Open
+
+The Haunted Forest#63
+-
+The Haunted Forest#129
+0
+Open
+
+The Haunted Forest#73
+-
+The Haunted Forest#17
+0
+Open
+
+The Haunted Forest#96
+-
+The Haunted Forest#26
+1
+Open
+
+The Haunted Forest#133
+-
+The Haunted Forest#192
+3
+Open
+
+The Haunted Forest#191
+-
+The Haunted Forest#192
+2
+Open
+
+The Haunted Forest#193
+-
+The Haunted Forest#192
+0
+Open
+
+The Haunted Forest#124
+-
+The Haunted Forest#89
+3
+Open
+
+The Haunted Forest#98
+-
+The Haunted Forest#89
+2
+Open
+
+The Haunted Forest#90
+-
+The Haunted Forest#89
+1
+Open
+
+The Haunted Forest#126
+-
+The Haunted Forest#89
+0
+Open
+
+The Haunted Forest#136
+-
+The Haunted Forest#142
+3
+Open
+
+The Haunted Forest#182
+-
+The Haunted Forest#142
+2
+Open
+
+The Haunted Forest#42
+-
+The Haunted Forest#142
+0
+Open
+
+The Haunted Forest#11
+-
+Silver Ford#37
+0
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#25
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#25
+2
+StdOpenDoorway
+
+Silver Ford#28
+-
+Silver Ford#25
+1
+Open
+
+ 
+-
+Silver Ford#26
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#26
+2
+StdOpenDoorway
+
+Silver Ford#29
+-
+Silver Ford#26
+0
+Open
+
+ 
+-
+Silver Ford#27
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#27
+3
+Open
+
+ 
+*
+Silver Ford#22
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#22
+3
+Gate
+
+Silver Ford#31
+*
+Silver Ford#22
+2
+Gate
+
+Silver Ford#24
+*
+Silver Ford#22
+1
+Open
+
+Silver Ford#21
+*
+Silver Ford#22
+0
+Open
+
+Silver Ford#23
+*
+Silver Ford#31
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#31
+2
+Gate
+
+Silver Ford#22
+*
+Silver Ford#24
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#24
+3
+Gate
+
+Silver Ford#22
+-
 Silver Ford#13
 3
 StdOpenDoorway
 
 Silver Ford#12
 -
-Silver Ford#2
-4
-StdOpenDoorway
-
- 
+Mud School#3712
+5
+OpenDescriptable
+You see the next station below.
+Mud School#3717
 -
-Silver Ford#2
+Mud School#3712
 3
-StdOpenDoorway
-
-Silver Ford#0
+OpenDescriptable
+You see the aggressive wimpy monster inside!
+Mud School#3714
 -
-Silver Ford#2
+Mud School#3712
 2
-StdOpenDoorway
-
-Silver Ford#33
-*
-Silver Ford#33
-3
-StdOpenDoorway
-
-Silver Ford#2
+OpenDescriptable
+You see the unmodified monster inside!
+Mud School#3716
 -
-Silver Ford#33
-4
-StdOpenDoorway
-
- 
+Mud School#3712
+1
+OpenDescriptable
+You see the wimpy monster inside!
+Mud School#3715
 -
-Silver Ford#33
-3
-StdOpenDoorway
-
-Silver Ford#2
--
-Silver Ford#33
+Mud School#3712
 0
-StdOpenDoorway
-
-Silver Ford#34
-*
-Silver Ford#34
-1
-StdOpenDoorway
-
-Silver Ford#33
--
-Silver Ford#34
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#34
-1
-StdOpenDoorway
-
-Silver Ford#33
--
-Silver Ford#34
-0
-Open
-
-Silver Ford#35
-*
-Silver Ford#35
-1
-Open
-
-Silver Ford#34
--
-Silver Ford#35
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#35
-1
-Open
-
-Silver Ford#34
--
-Silver Ford#35
-0
-Open
-
-Silver Ford#36
--
-Silver Ford#36
-1
-Open
-
-Silver Ford#35
--
-START
-6
-StdOpenDoorway
-
-Silver Ford#0
--
-START
-4
-StdOpenDoorway
-
- 
+OpenDescriptable
+You see the aggressive monster inside!
+Mud School#3713
 -
 Silver Ford#5
 6
-StdOpenDoorway
+Gate
 
 Silver Ford#10
 -
@@ -3305,16 +5987,706 @@ StdOpenDoorway
 
 Silver Ford#18
 -
+Silver Ford#10
+6
+Gate
+
+Silver Ford#5
+-
+Silver Ford#10
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#10
+1
+StdOpenDoorway
+
+Silver Ford#11
+-
+START
+6
+StdOpenDoorway
+
+Silver Ford#0
+-
+START
+4
+StdOpenDoorway
+
+ 
+-
+AdventureHousePrison#5
+1
+LockedDoor
+AdventureHousePrison luxurykey
+AdventureHousePrison#11
+-
+AdventureHousePrison#9
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Silver Ford#7
+-
+AdventureHousePrison#9
+2
+Open
+
+AdventureHousePrison#13
+-
+AdventureHousePrison#9
+1
+Open
+
+AdventureHousePrison#8
+-
+AdventureHousePrison#9
+0
+Open
+
+AdventureHousePrison#10
+-
 AdventureHousePrison#0
+0
+Door
+
+AdventureHousePrison#8
+*
+Silver Ford#6
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#6
+3
+StdOpenDoorway
+
+Silver Ford#9
+*
+Silver Ford#6
+2
+StdOpenDoorway
+
+Silver Ford#7
+*
+Silver Ford#6
+1
+StdOpenDoorway
+
+Silver Ford#1
+*
+Silver Ford#6
+0
+StdOpenDoorway
+
+Mud School#3700
+-
+Adventure House Den#0
+3
+Open
+
+Adventure House Den#8
+-
+Adventure House Den#0
+2
+Door
+
+Silver Ford#9
+-
+Adventure House Den#0
+1
+Open
+
+Adventure House Den#29
+-
+Adventure House Den#0
+0
+Open
+
+Adventure House Den#13
+-
+AdventureHousePrison#1
 3
 Door
 
-Silver Ford#7
+AdventureHousePrison#8
 -
-AdventureHousePrison#0
+AdventureHousePrison#8
+3
+LockedGate
+AdventureHousePrison cellkey
+AdventureHousePrison#2
+-
+AdventureHousePrison#8
 2
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM /><OPENTK>45</OPENTK>
+Door
+
+AdventureHousePrison#1
+-
+AdventureHousePrison#8
+1
+Door
+
+AdventureHousePrison#0
+-
+AdventureHousePrison#8
+0
+Open
+
+AdventureHousePrison#9
+*
+Silver Ford#1
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#1
+1
+Open
+
+Silver Ford#38
+*
+Silver Ford#1
+0
+StdOpenDoorway
+
+Silver Ford#6
+-
+Silver Ford#38
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#38
+3
+Open
+
+Silver Ford#40
+-
+Silver Ford#38
+2
+Open
+
+Silver Ford#39
+-
+Silver Ford#38
+1
+Open
+
+Silver Ford#0
+-
+Silver Ford#38
+0
+StdOpenDoorway
+
+Silver Ford#1
+-
+Silver Ford#44
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#44
+3
+StdOpenDoorway
+
+Silver Ford#42
+-
+Silver Ford#44
+0
+Open
+
+Silver Ford#41
+-
+Silver Ford#39
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#39
+3
+Open
+
+Silver Ford#38
+-
+Silver Ford#39
+1
+StdOpenDoorway
+
+Silver Ford#41
+-
+Silver Ford#41
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#41
+3
+Open
+
+Silver Ford#0
+-
+Silver Ford#41
+2
+StdOpenDoorway
+
+Silver Ford#2
+-
+Silver Ford#41
+1
+Open
+
+Silver Ford#44
+-
+Silver Ford#41
+0
+StdOpenDoorway
+
+Silver Ford#39
+-
+Silver Ford#2
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#2
+3
+StdOpenDoorway
+
+Silver Ford#41
+-
+Silver Ford#2
+2
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#42
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#42
+3
+Open
+
+Silver Ford#45
+-
+Silver Ford#42
+2
+StdOpenDoorway
+
+Silver Ford#44
+-
+Silver Ford#42
+1
+StdOpenDoorway
+
+Silver Ford#3
+-
+Silver Ford#42
+0
+Open
+
+Silver Ford#0
+-
+Silver Ford#3
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#3
+1
+StdOpenDoorway
+
+Silver Ford#12
+-
+Silver Ford#3
+0
+StdOpenDoorway
+
+Silver Ford#42
+-
+Silver Ford#4
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#4
+3
+StdOpenDoorway
+
+Silver Ford#5
+-
+Silver Ford#4
+2
+StdOpenDoorway
+
+Silver Ford#43
+*
+Silver Ford#0
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#0
+3
+Open
+
+Silver Ford#43
+*
+Silver Ford#0
+2
+Open
+
+Silver Ford#41
+*
+Silver Ford#0
+1
+Open
+
+Silver Ford#42
+*
+Silver Ford#0
+0
+Open
+
+Silver Ford#38
+*
+Adventure Academy#2
+4
+StdOpenDoorway
+
+Adventure Academy#1
+*
+Adventure Academy#1
+5
+StdOpenDoorway
+
+Adventure Academy#2
+*
+Adventure Academy#1
+3
+StdOpenDoorway
+
+Adventure Academy#0
+*
+Adventure Academy#1
+2
+StdOpenDoorway
+
+ 
+*
+Adventure Academy#4
+4
+StdOpenDoorway
+
+Adventure Academy#3
+*
+Adventure Academy#3
+5
+StdOpenDoorway
+
+Adventure Academy#4
+*
+Adventure Academy#3
+4
+StdOpenDoorway
+
+Adventure Academy#5
+*
+Adventure Academy#3
+1
+StdOpenDoorway
+
+Adventure Academy#0
+*
+Adventure Academy#5
+5
+StdOpenDoorway
+
+Adventure Academy#3
+-
+Adventure Academy#6
+2
+StdOpenDoorway
+
+Adventure Academy#0
+-
+Silver Ford#33
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#33
+3
+StdOpenDoorway
+
+Silver Ford#2
+-
+Silver Ford#33
+2
+StdOpenDoorway
+
+Silver Ford#46
+-
+Silver Ford#33
+1
+StdOpenDoorway
+
+Silver Ford#37
+-
+Silver Ford#33
+0
+StdOpenDoorway
+
+Silver Ford#34
+-
+Silver Ford#46
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#46
+3
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#45
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#45
+2
+Open
+
+Silver Ford#42
+-
+Silver Ford#45
+0
+StdOpenDoorway
+
+Silver Ford#43
+-
+Adventure Academy#0
+3
+StdOpenDoorway
+
+Adventure Academy#6
+-
+Adventure Academy#0
+2
+StdOpenDoorway
+
+Adventure Academy#1
+-
+Adventure Academy#0
+0
+StdOpenDoorway
+
+Adventure Academy#3
+*
+Silver Ford#43
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#43
+3
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#43
+2
+Open
+
+Silver Ford#0
+*
+Silver Ford#43
+1
+StdOpenDoorway
+
+Silver Ford#45
+*
+Silver Ford#43
+0
+StdOpenDoorway
+
+Silver Ford#40
+*
+Silver Ford#40
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#40
+2
+Open
+
+Silver Ford#38
+*
+Silver Ford#40
+1
+StdOpenDoorway
+
+Silver Ford#43
+*
+Silver Ford#7
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#7
+3
+StdOpenDoorway
+
+Silver Ford#6
+*
+Silver Ford#7
+2
+Door
+
+AdventureHousePrison#9
+-
+AdventureHousePrison#14
+4
+StdOpenDoorway
+
+AdventureHousePrison#6
+-
+AdventureHousePrison#12
+3
+Open
+
+AdventureHousePrison#13
+-
+AdventureHousePrison#12
+1
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#6
+-
+AdventureHousePrison#12
+0
+Door
+
+AdventureHousePrison#7
+-
+AdventureHousePrison#6
+5
+HiddenWalkway
+
+AdventureHousePrison#14
+-
+AdventureHousePrison#6
+0
+LockedDoor
+AdventureHousePrison cellkey
+AdventureHousePrison#12
+*
+Silver Ford#9
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#9
+3
+Door
+
+Adventure House Den#0
+*
+Silver Ford#9
+2
+StdOpenDoorway
+
+Silver Ford#6
+-
+Adventure House Den#30
+4
+StdOpenDoorway
+
+Adventure House Den#3
+*
+Adventure House Den#3
+5
+StdOpenDoorway
+
+Adventure House Den#30
+*
+Adventure House Den#3
+0
+LockedDoor
+Adventure House Den thronekey
+Adventure House Den#9
+*
+Silver Ford#6
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#6
+3
+StdOpenDoorway
+
+Silver Ford#9
+*
+Silver Ford#6
+2
+StdOpenDoorway
+
+Silver Ford#7
+*
+Silver Ford#6
+1
+StdOpenDoorway
+
+Silver Ford#1
+*
+Silver Ford#6
+0
+StdOpenDoorway
+
+Mud School#3700
+*
+Silver Ford#7
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#7
+3
+StdOpenDoorway
+
+Silver Ford#6
+*
+Silver Ford#7
+2
+Door
+
 AdventureHousePrison#9
 *
 Silver Ford#9
@@ -3327,7 +6699,7 @@ Silver Ford#9
 3
 Door
 
- 
+Adventure House Den#0
 *
 Silver Ford#9
 2
@@ -3335,401 +6707,161 @@ StdOpenDoorway
 
 Silver Ford#6
 -
-ZFAAhouse2#14
-3
-Open
+Silver Ford#1
+4
+StdOpenDoorway
 
-ZFAAhouse2#15
+ 
 -
-ZFAAhouse2#14
+Silver Ford#1
 1
 Open
 
+Silver Ford#38
+-
+Silver Ford#1
+0
+StdOpenDoorway
+
+Silver Ford#6
+*
+Silver Ford#40
+4
+StdOpenDoorway
+
  
 *
-ZFAAhouse2#17
-3
-Open
-
-ZFAAhouse2#16
-*
-ZFAAhouse2#17
+Silver Ford#40
 2
 Open
 
- 
+Silver Ford#38
 *
-ZFAAhouse2#17
-0
-Open
-
-ZFAAhouse2#18
-*
-ZFAAhouse2#23
-3
-Door
-
- 
-*
-ZFAAhouse2#23
+Silver Ford#40
 1
-Open
+StdOpenDoorway
 
-ZFAAhouse2#24
-*
-ZFAAhouse2#23
-0
-Open
+Silver Ford#43
+-
+Silver Ford#43
+4
+StdOpenDoorway
 
-ZFAAhouse2#22
-*
-ZFAAhouse2#19
+ 
+-
+Silver Ford#43
 3
-Open
+StdOpenDoorway
 
-ZFAAhouse2#18
-*
-ZFAAhouse2#19
-2
-Door
-
-ZFAAhouse2#3
-*
-ZFAAhouse2#19
-1
-Open
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#19
-0
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>{#ZFAAhouse2#10#}</KEYNM><OPENTK>45</OPENTK>
- 
-*
-ZFAAhouse2#21
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#9
-*
-ZFAAhouse2#21
-2
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#2
-*
-ZFAAhouse2#21
-1
-Door
-
- 
-*
-ZFAAhouse2#21
-0
-Open
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#24
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#13
-*
-ZFAAhouse2#24
-1
-Door
-
- 
-*
-ZFAAhouse2#24
-0
-Open
-
-ZFAAhouse2#23
-*
-ZFAAhouse2#24
-3
-LockedDoor
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#24
-1
-Door
-
- 
-*
-ZFAAhouse2#24
-0
-Open
-
-ZFAAhouse2#23
-*
-ZFAAhouse2#15
+Silver Ford#4
+-
+Silver Ford#43
 2
 Open
 
- 
-*
-ZFAAhouse2#15
+Silver Ford#0
+-
+Silver Ford#43
 1
-Open
+StdOpenDoorway
 
-ZFAAhouse2#16
-*
-ZFAAhouse2#16
-2
-Open
-
-ZFAAhouse2#17
-*
-ZFAAhouse2#16
+Silver Ford#45
+-
+Silver Ford#43
 0
-Open
+StdOpenDoorway
+
+Silver Ford#40
+*
+Silver Ford#0
+4
+StdOpenDoorway
 
  
 *
-ZFAAhouse2#17
+Silver Ford#0
 3
 Open
 
- 
+Silver Ford#43
 *
-ZFAAhouse2#17
+Silver Ford#0
 2
 Open
 
- 
+Silver Ford#41
 *
-ZFAAhouse2#17
-0
-Open
-
-ZFAAhouse2#18
-*
-ZFAAhouse2#18
-3
-Open
-
-ZFAAhouse2#22
-*
-ZFAAhouse2#18
-2
-Open
-
-ZFAAhouse2#19
-*
-ZFAAhouse2#18
+Silver Ford#0
 1
 Open
 
- 
+Silver Ford#42
 *
-ZFAAhouse2#18
+Silver Ford#0
+0
+Open
+
+Silver Ford#38
+-
+Adventure House Den#3
+5
+StdOpenDoorway
+
+Adventure House Den#30
+-
+Adventure House Den#3
 0
 LockedDoor
-ZFAAhouse2 luxurykey
-ZFAAhouse2#4
-*
-ZFAAhouse2#19
-3
-Open
+Adventure House Den thronekey
+Adventure House Den#9
+-
+Silver Ford#6
+4
+StdOpenDoorway
 
  
-*
-ZFAAhouse2#19
+-
+Silver Ford#6
+3
+StdOpenDoorway
+
+Silver Ford#9
+-
+Silver Ford#6
+2
+StdOpenDoorway
+
+Silver Ford#7
+-
+Silver Ford#6
+1
+StdOpenDoorway
+
+Silver Ford#1
+-
+Silver Ford#6
+0
+StdOpenDoorway
+
+Mud School#3700
+-
+Silver Ford#7
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#7
+3
+StdOpenDoorway
+
+Silver Ford#6
+-
+Silver Ford#7
 2
 Door
 
-ZFAAhouse2#3
-*
-ZFAAhouse2#19
-1
-Open
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#19
-0
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>176</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>{#ZFAAhouse2#10#}</KEYNM><OPENTK>45</OPENTK>
- 
-*
-ZFAAhouse2#22
-3
-LockedGate
-ZFAAhouse2 cellkey
-ZFAAhouse2#8
-*
-ZFAAhouse2#22
-2
-Open
-
- 
-*
-ZFAAhouse2#22
-1
-Open
-
-ZFAAhouse2#23
-*
-ZFAAhouse2#22
-0
-LockedGate
-ZFAAhouse2 cellkey
-ZFAAhouse2#6
-*
-ZFAAhouse2#4
-1
-LockedDoor
-ZFAAhouse2 luxurykey
- 
-*
-ZFAAhouse2#20
-3
-Door
-
-ZFAAhouse2#5
-*
-ZFAAhouse2#20
-2
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#7
-*
-ZFAAhouse2#20
-1
-Open
-
-ZFAAhouse2#21
-*
-ZFAAhouse2#20
-0
-Open
-
- 
-*
-ZFAAhouse2#3
-3
-Door
-
- 
-*
-ZFAAhouse2#21
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#9
-*
-ZFAAhouse2#21
-2
-LockedDoor
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#21
-1
-Door
-
- 
-*
-ZFAAhouse2#21
-0
-Open
-
-ZFAAhouse2#20
-*
-ZFAAhouse2#21
-3
-LockedDoor
-ZFAAhouse2 cellkey
-ZFAAhouse2#9
-*
-ZFAAhouse2#21
-2
-LockedDoor
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#21
-1
-Door
-
- 
-*
-ZFAAhouse2#21
-0
-Open
-
- 
-*
-ZFAAhouse2#5
-2
-Door
-
- 
-*
-ZFAAhouse2#7
-3
-LockedDoor
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#9
-2
-LockedDoor
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#23
-3
-Door
-
- 
-*
-ZFAAhouse2#23
-1
-Open
-
-ZFAAhouse2#24
-*
-ZFAAhouse2#23
-0
-Open
-
- 
-*
-ZFAAhouse2#6
-1
-LockedGate
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#8
-2
-LockedGate
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#24
-3
-LockedDoor
-ZFAAhouse2 cellkey
- 
-*
-ZFAAhouse2#24
-1
-Door
-
- 
-*
-ZFAAhouse2#24
-0
-Open
-
- 
+AdventureHousePrison#9
 -
 Silver Ford#9
 4
@@ -3739,7 +6871,7 @@ StdOpenDoorway
 -
 Silver Ford#9
 3
-Open
+Door
 
 Adventure House Den#0
 -
@@ -3749,428 +6881,296 @@ StdOpenDoorway
 
 Silver Ford#6
 -
-Adventure House Den#24
+Silver Ford#0
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#0
 3
 Open
 
-Adventure House Den#23
+Silver Ford#43
 -
-Adventure House Den#24
+Silver Ford#0
 2
 Open
 
-Adventure House Den#25
+Silver Ford#41
 -
-Adventure House Den#24
+Silver Ford#0
+1
+Open
+
+Silver Ford#42
+-
+Silver Ford#0
 0
 Open
 
-Adventure House Den#4
+Silver Ford#38
 -
-Adventure House Den#1
-1
-Door
+Silver Ford#12
+4
+StdOpenDoorway
 
-Adventure House Den#10
+ 
 -
-Adventure House Den#9
+Silver Ford#12
 3
-Open
+StdOpenDoorway
 
-Adventure House Den#6
+Silver Ford#14
 -
-Adventure House Den#9
+Silver Ford#12
 2
-Open
+StdOpenDoorway
 
-Adventure House Den#8
+Silver Ford#13
 -
-Adventure House Den#9
-1
-LockedDoor
-Adventure House Den thronekey
-Adventure House Den#3
+Silver Ford#12
+0
+StdOpenDoorway
+
+Silver Ford#3
 -
-Adventure House Den#28
+Silver Ford#17
+6
+StdOpenDoorway
+
+Dragonmaw Mine#0
+-
+Silver Ford#17
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#17
+0
+StdOpenDoorway
+
+Silver Ford#15
+*
+Silver Ford#22
+4
+StdOpenDoorway
+
+ 
+*
+Silver Ford#22
 3
-Open
+Gate
 
-Adventure House Den#27
--
-Adventure House Den#28
-0
-Open
+ 
+*
+Silver Ford#22
+2
+Gate
 
-Adventure House Den#29
--
-Adventure House Den#22
+Silver Ford#24
+*
+Silver Ford#22
 1
 Open
 
-Adventure House Den#23
--
-Adventure House Den#22
+Silver Ford#21
+*
+Silver Ford#22
 0
 Open
 
-Adventure House Den#21
+Silver Ford#23
 -
-Adventure House Den#6
+Silver Ford#22
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#22
 3
-Open
+Gate
 
-Adventure House Den#10
+ 
 -
-Adventure House Den#6
+Silver Ford#22
 2
-Open
+Gate
 
-Adventure House Den#9
+ 
 -
-Adventure House Den#6
+Silver Ford#22
 1
 Open
 
-Adventure House Den#5
+Silver Ford#21
 -
-Adventure House Den#6
+Silver Ford#22
 0
 Open
 
-Adventure House Den#7
+Silver Ford#23
 -
-Adventure House Den#18
+Silver Ford#40
+4
+StdOpenDoorway
+
+ 
+-
+Silver Ford#40
+2
+Open
+
+Silver Ford#38
+-
+Silver Ford#40
+1
+StdOpenDoorway
+
+Silver Ford#43
+*
+Adventure Academy#1
+5
+StdOpenDoorway
+
+Adventure Academy#2
+*
+Adventure Academy#1
 3
-Open
+StdOpenDoorway
 
-Adventure House Den#19
--
-Adventure House Den#18
+Adventure Academy#0
+*
+Adventure Academy#1
 2
-Open
+StdOpenDoorway
 
-Adventure House Den#17
--
-Adventure House Den#15
+ 
+*
+Adventure Academy#1
+5
+StdOpenDoorway
+
+Adventure Academy#2
+*
+Adventure Academy#1
 3
-Open
+StdOpenDoorway
 
-Adventure House Den#16
--
-Adventure House Den#15
+Adventure Academy#0
+*
+Adventure Academy#1
 2
-Open
+StdOpenDoorway
 
-Adventure House Den#14
+ 
 -
-Adventure House Den#15
-1
-Open
+Adventure Academy#2
+4
+StdOpenDoorway
 
-Adventure House Den#12
--
-Adventure House Den#29
-1
-Open
+Adventure Academy#1
+*
+Adventure Academy#1
+5
+StdOpenDoorway
 
-Adventure House Den#28
--
-Adventure House Den#29
-0
-Open
-
-Adventure House Den#0
--
-Adventure House Den#25
+Adventure Academy#2
+*
+Adventure Academy#1
 3
-Open
+StdOpenDoorway
 
-Adventure House Den#24
--
-Adventure House Den#25
+Adventure Academy#0
+*
+Adventure Academy#1
 2
-Open
+StdOpenDoorway
 
-Adventure House Den#26
+ 
 -
-Adventure House Den#25
-0
-Open
+Adventure Academy#1
+5
+StdOpenDoorway
 
-Adventure House Den#5
+Adventure Academy#2
 -
-Adventure House Den#3
-0
-LockedDoor
-Adventure House Den thronekey
-Adventure House Den#9
--
-Adventure House Den#21
-2
-Open
-
-Adventure House Den#10
--
-Adventure House Den#21
-1
-Open
-
-Adventure House Den#22
--
-Adventure House Den#21
-0
-Open
-
-Adventure House Den#20
--
-Adventure House Den#13
-1
-Open
-
-Adventure House Den#0
--
-Adventure House Den#13
-0
-Open
-
-Adventure House Den#14
--
-Adventure House Den#4
-1
-Open
-
-Adventure House Den#24
--
-Adventure House Den#14
+Adventure Academy#1
 3
-Open
+StdOpenDoorway
 
-Adventure House Den#15
+Adventure Academy#0
 -
-Adventure House Den#14
-1
-Open
-
-Adventure House Den#13
--
-Adventure House Den#5
-1
-Open
-
-Adventure House Den#25
--
-Adventure House Den#5
-0
-Open
-
-Adventure House Den#6
--
-Adventure House Den#23
+Adventure Academy#1
 2
-Open
+StdOpenDoorway
 
-Adventure House Den#24
--
-Adventure House Den#23
-0
-Open
+ 
+*
+Adventure Academy#3
+5
+StdOpenDoorway
 
-Adventure House Den#22
--
-Adventure House Den#17
-3
-Open
+Adventure Academy#4
+*
+Adventure Academy#3
+4
+StdOpenDoorway
 
-Adventure House Den#18
--
-Adventure House Den#17
-2
-Open
-
-Adventure House Den#16
--
-Adventure House Den#17
+Adventure Academy#5
+*
+Adventure Academy#3
 1
-Open
+StdOpenDoorway
 
-Adventure House Den#7
--
-Adventure House Den#0
-3
-Open
+Adventure Academy#0
+*
+Adventure Academy#4
+4
+StdOpenDoorway
 
-Adventure House Den#8
--
-Adventure House Den#0
-2
-Open
+Adventure Academy#3
+*
+Adventure Academy#5
+5
+StdOpenDoorway
 
-Silver Ford#9
+Adventure Academy#3
 -
-Adventure House Den#0
+Adventure Academy#4
+4
+StdOpenDoorway
+
+Adventure Academy#3
+-
+Adventure Academy#3
+5
+StdOpenDoorway
+
+Adventure Academy#4
+-
+Adventure Academy#3
+4
+StdOpenDoorway
+
+Adventure Academy#5
+-
+Adventure Academy#3
 1
-Open
+StdOpenDoorway
 
-Adventure House Den#29
+Adventure Academy#0
+*
+Adventure Academy#5
+5
+StdOpenDoorway
+
+Adventure Academy#3
 -
-Adventure House Den#0
-0
-Open
+Adventure Academy#5
+5
+StdOpenDoorway
 
-Adventure House Den#13
--
-Adventure House Den#19
-2
-Open
-
-Adventure House Den#18
--
-Adventure House Den#19
-1
-Open
-
-Adventure House Den#20
--
-Adventure House Den#8
-3
-Open
-
-Adventure House Den#9
--
-Adventure House Den#8
-2
-Open
-
-Adventure House Den#0
--
-Adventure House Den#8
-1
-Open
-
-Adventure House Den#11
--
-Adventure House Den#8
-0
-Open
-
-Adventure House Den#12
--
-Adventure House Den#27
-3
-Open
-
-Adventure House Den#26
--
-Adventure House Den#27
-2
-Open
-
-Adventure House Den#28
--
-Adventure House Den#27
-0
-Open
-
-Adventure House Den#11
--
-Adventure House Den#16
-3
-Open
-
-Adventure House Den#17
--
-Adventure House Den#16
-2
-Open
-
-Adventure House Den#15
--
-Adventure House Den#16
-1
-Door
-
-Adventure House Den#2
--
-Adventure House Den#11
-1
-Open
-
-Adventure House Den#27
--
-Adventure House Den#11
-0
-Open
-
-Adventure House Den#8
--
-Adventure House Den#2
-0
-Door
-
-Adventure House Den#16
--
-Adventure House Den#7
-1
-Open
-
-Adventure House Den#6
--
-Adventure House Den#7
-0
-Open
-
-Adventure House Den#17
--
-Adventure House Den#26
-3
-Open
-
-Adventure House Den#25
--
-Adventure House Den#26
-2
-Open
-
-Adventure House Den#27
--
-Adventure House Den#12
-1
-Open
-
-Adventure House Den#8
--
-Adventure House Den#12
-0
-Open
-
-Adventure House Den#15
--
-Adventure House Den#20
-1
-Open
-
-Adventure House Den#21
--
-Adventure House Den#20
-0
-Open
-
-Adventure House Den#19
--
-Adventure House Den#10
-3
-Open
-
-Adventure House Den#21
--
-Adventure House Den#10
-2
-Open
-
-Adventure House Den#6
--
-Adventure House Den#10
-0
-Door
-
-Adventure House Den#1
+Adventure Academy#3
