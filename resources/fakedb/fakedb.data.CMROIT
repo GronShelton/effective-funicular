@@ -2231,28 +2231,6 @@ GenContainer-1941569022@63160569
 1
 0
 0
-*
-Silver Ford#31
-GenWallpaper-55917693@2eefc865
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Silver Ford#31.  The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#31.  The size of this lot is not expandable.</READ> 
-0
-2147483647
-0
-0
-0
-*
-Silver Ford#24
-GenWallpaper-55917693@60d067a5
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Silver Ford#24.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#24.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
 -
 Mud School#3712
 GenAmmunition-829073982@4f2ddd29
@@ -2528,28 +2506,6 @@ GenReadable
 1
 0
 0
-*
-Silver Ford#7
-GenReadable-2024912305@74da99c5
-GenReadable
-
-<NAME>a bright sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON\\n^WTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Intended for adventurers level 2-4. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><DISP>a bright sign is posted in front of the building.</DISP><PROP>0|0|0|0|8192|1|150|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>\\n^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE DEMON`S PRISON\\n^WTraverse the Prison, find and slay the Demon, and keep whatever you find inside!\\n\\n*Intended for adventurers level 2-4. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
-150
-2147483647
-1
-0
-0
-*
-Silver Ford#9
-GenReadable-2024912305@3a0878a5
-GenReadable
-
-<NAME>a bright sign</NAME><DESC>^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE RAT DEN\\n^WTraverse the Den, find and slay the King, and keep whatever you find inside!\\n\\n*Intended for adventurers level 4-7. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</DESC><DISP>a bright sign is posted in front of the building.</DISP><PROP>0|0|0|0|8192|1|150|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1325</MTRAL><READ>\\n^gWELCOME TO ZILOR FICE ADVENTURE HOUSE: THE RAT DEN\\n^WTraverse the Den, find and slay the King, and keep whatever you find inside!\\n\\n*Intended for adventurers level 4-7. Enter at your own risk. Zilor Fice Industries takes no responsibility for hardships endured on ZFI property, including but not limited to: injury, trauma, loss of life, loss or destruction of personal property. No refunds.*</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
-150
-2147483647
-1
-0
-0
 -
 Silver Ford#0
 GenQuestBoard344923587@f6ba263
@@ -2559,160 +2515,6 @@ GenQuestBoard
 15
 2147483647
 0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@714866cb
-Ration
-GenContainer-1941569022@429dd92b
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenWallpaper-55917693@3c536a02
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@284bcee6
-GenResource
-
-<NAME>a 2# pair of deer horns bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pair of deer horns bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT>a pair of deer horns</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@46deb70e
-Ration
-GenContainer-1941569022@429dd92b
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenLiquidResource178579593@6152a900
-GenLiquidResource
-GenContainer-1941569022@429dd92b
-<NAME>glowgell</NAME><DESC>It looks good!</DESC><DISP>some glowgell is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Glowgell</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>glowgell</IDENT><VALUE>1</VALUE><MTRAL>2910</MTRAL><READ>2910</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2910</LTYPE><DRINK>700</DRINK> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@7275eef5
-GenResource
-
-<NAME>a brass bar</NAME><DESC /><DISP>a brass bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596830488406 LEVEL=0 INTERVAL=960</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>120</VALUE><MTRAL>812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@4c47de8
-Ration
-GenContainer-1941569022@429dd92b
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@5ea0ef53
-Ration
-GenContainer-1941569022@429dd92b
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenContainer-1941569022@429dd92b
-GenContainer
-
-<NAME>The wardens chest</NAME><DESC /><DISP>The wardens chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@154b9367
-GenResource
-
-<NAME>a pile of fox bones</NAME><DESC /><DISP>a pile of fox bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of fox bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Fox</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@7898b9a4
-GenResource
-
-<NAME>a pile of wolf bones</NAME><DESC /><DISP>a pile of wolf bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of wolf bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Wolf</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@6684eac4
-GenResource
-
-<NAME>a 3# pile of troll bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 3# pile of troll bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of troll bones</IDENT><VALUE>3</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Troll</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@40b9a617
-GenResource
-
-<NAME>a pile of monkey bones</NAME><DESC /><DISP>a pile of monkey bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of monkey bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Monkey</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@36f362d1
-GenResource
-
-<NAME>a 2# pile of deer bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pile of deer bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of deer bones</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
-0
-2147483647
-1
 0
 0
 -
@@ -2749,39 +2551,6 @@ GenRideable
 0
 0
 -
-Silver Ford#40
-GenWallpaper-55917693@5f13b607
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
-0
-2147483647
-0
-0
-0
-*
-Adventure Academy#1
-Torch-2144999893@34a67935
-Torch
-
- 
-0
-2147483647
-0
-0
-0
-*
-Adventure Academy#1
-Torch-2144999893@34a67935
-Torch
-
- 
-0
-2147483647
-0
-0
-0
--
 Adventure Academy#2
 GenItem1296013554@18a569de
 GenItem
@@ -2792,17 +2561,6 @@ GenItem
 1
 0
 0
-*
-Adventure Academy#1
-Torch-2144999893@34a67935
-Torch
-
- 
-0
-2147483647
-0
-0
-0
 -
 Adventure Academy#1
 Torch-2144999893@34a67935
@@ -2812,94 +2570,6 @@ Torch
 0
 2147483647
 0
-0
-0
-*
-Adventure Academy#3
-GenContainer-1941569022@47f47a62
-GenContainer
-
-<NAME>a weapon rack</NAME><DESC>You see various weapons, try GET AXE RACK and give it a swing.</DESC><DISP>a weapon rack holds a variety of weapons for you to try.</DISP><PROP>0|0|0|0|0|0|1|1.0|2|0|80|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>17</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
-1
-2147483647
-0
-0
-0
-*
-Adventure Academy#3
-GenStaff-1436557032@16445d67
-GenStaff
-GenContainer-1941569022@47f47a62
-<NAME>a wooden staff</NAME><DESC>the arcane symbols etched on the staff seem to be instructions, indicating you should simply say MAGIC MISSILE at your target.</DESC><DISP>a wooden staff lies in the corner of the room.</DISP><PROP>0|0|0|2|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>SPEAK_PROG p magic missile;mpcast `magic missile` $t;~;</BPARMS></BHAVE></BEHAVES><AFFECS /><FLAG>11</FLAG><IDENT>elissim</IDENT><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><MAXUSE>40</MAXUSE><ENCHTYPE>ANY</ENCHTYPE><SPELL>Spell_MagicMissile</SPELL><TYPE>3</TYPE><CLASS>10</CLASS><MINR>1</MINR><MAXR>4</MAXR> 
-0
-40
-1
-0
-0
-*
-Adventure Academy#3
-GenBow-461846014@2281d1b0
-GenBow
-GenContainer-1941569022@47f47a62
-<NAME>a short bow</NAME><DESC>a simple oak shortbow</DESC><DISP>a short bow sits here.</DISP><PROP>0|0|0|2|0|1|0|1.0|8|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1325</MTRAL><READ>arrows</READ><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>20</ACAPA><TYPE>2</TYPE><CLASS>7</CLASS><MINR>1</MINR><MAXR>3</MAXR> 
-0
-20
-1
-0
-0
-*
-Adventure Academy#3
-GenWeapon-1482921244@8eecc5a
-GenWeapon
-GenContainer-1941569022@47f47a62
-<NAME>a bronze mace</NAME><DESC /><DISP>a bronze mace sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>3</TYPE><CLASS>1</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
-0
-100
-1
-0
-0
-*
-Adventure Academy#3
-GenAmmunition-829073982@1c166f74
-GenAmmunition
-GenContainer-1941569022@47f47a62
-<NAME>a stack of 100 arrows</NAME><DESC /><DISP>a stack of 100 arrows sit here.</DISP><PROP>0|0|0|0|0|1|0|1.0|10|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ>arrows</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
-0
-100
-1
-0
-0
-*
-Adventure Academy#3
-GenWeapon-1482921244@161a1971
-GenWeapon
-GenContainer-1941569022@47f47a62
-<NAME>a battle axe</NAME><DESC>a simple bronze-headed battleaxe</DESC><DISP>a battle axe sits here.</DISP><PROP>0|0|0|5|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>true</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>1</TYPE><CLASS>0</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
-0
-100
-1
-0
-0
-*
-Adventure Academy#3
-GenWeapon-1482921244@3986fd14
-GenWeapon
-GenContainer-1941569022@47f47a62
-<NAME>a simple dagger</NAME><DESC /><DISP>a simple dagger sits here.</DISP><PROP>0|0|0|3|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>807</MTRAL><READ /><WORNL>false</WORNL><WORNB>1536</WORNB><ACAPA>0</ACAPA><TYPE>2</TYPE><CLASS>9</CLASS><MINR>0</MINR><MAXR>0</MAXR> 
-0
-100
-1
-0
-0
-*
-Adventure Academy#3
-GenShield42167641@215e1c39
-GenShield
-GenContainer-1941569022@47f47a62
-<NAME>a shield</NAME><DESC /><DISP>a sturdy round shield sits here.</DISP><PROP>0|10|0|0|0|1|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
-0
-100
-1
 0
 0
 -
@@ -3012,3 +2682,223 @@ GenReadable
 1
 0
 0
+-
+Silver Ford#40
+GenWallpaper-55917693@19b82639
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@49bbb367
+GenResource
+
+<NAME>a 3# pile of troll bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 3# pile of troll bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of troll bones</IDENT><VALUE>3</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Troll</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenWallpaper-55917693@73450daf
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@153d048d
+GenResource
+
+<NAME>a brass bar</NAME><DESC /><DISP>a brass bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596830488406 LEVEL=0 INTERVAL=960</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>120</VALUE><MTRAL>812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenLiquidResource178579593@93577b0
+GenLiquidResource
+GenContainer-1941569022@578ffeaa
+<NAME>glowgell</NAME><DESC>It looks good!</DESC><DISP>some glowgell is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Glowgell</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>glowgell</IDENT><VALUE>1</VALUE><MTRAL>2910</MTRAL><READ>2910</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2910</LTYPE><DRINK>700</DRINK> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@311f3b1b
+GenResource
+
+<NAME>a 15# basalt bundle</NAME><DESC>It's just basalt.</DESC><DISP>a 15# basalt bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>150</VALUE><MTRAL>2705</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>11</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@473e6c84
+GenResource
+
+<NAME>a pile of wolf bones</NAME><DESC /><DISP>a pile of wolf bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of wolf bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Wolf</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@1bb8e461
+Ration
+GenContainer-1941569022@578ffeaa
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@194dfc36
+GenResource
+
+<NAME>a 4# iron ore bundle</NAME><DESC>It's just iron.</DESC><DISP>a 4# iron ore bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>660</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>130</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenContainer-1941569022@578ffeaa
+GenContainer
+
+<NAME>The wardens chest</NAME><DESC /><DISP>The wardens chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@24e71e6d
+Ration
+GenContainer-1941569022@578ffeaa
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@66c0eeac
+Ration
+GenContainer-1941569022@578ffeaa
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+Ration-2140609164@446a8966
+Ration
+GenContainer-1941569022@578ffeaa
+ 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@55f21a83
+GenResource
+
+<NAME>a pile of fox bones</NAME><DESC /><DISP>a pile of fox bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of fox bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Fox</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@1ba48795
+GenResource
+
+<NAME>a pile of monkey bones</NAME><DESC /><DISP>a pile of monkey bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of monkey bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Monkey</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@109bdc6
+GenResource
+
+<NAME>a 2# pair of deer horns bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pair of deer horns bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT>a pair of deer horns</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenResource-1498817939@266a4f41
+GenResource
+
+<NAME>a 2# pile of deer bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pile of deer bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of deer bones</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Iron Dragons Fortress#1
+GenContainer-1941569022@14eb7733
+GenContainer
+
+<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Adventure House Den thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+0
+2147483647
+0
+0
+0
+-
+Iron Dragons Fortress#1
+GenArmor-292055729@710fa65d
+GenArmor
+GenContainer-1941569022@14eb7733
+<NAME>a small kobold gold belt</NAME><DESC /><DISP>a small kobold gold belt has been left here</DISP><PROP>0|3|0|0|0|7|0|1.0|5|48|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>465</VALUE><MTRAL>805</MTRAL><READ /><WORNL>false</WORNL><WORNB>8192</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+100
+7
+0
+48
+-
+Iron Dragons Fortress#1
+GenArmor-292055729@7673612d
+GenArmor
+GenContainer-1941569022@14eb7733
+<NAME>a tattered kobold crown</NAME><DESC /><DISP>a tattered kobold crown has been left here</DISP><PROP>0|7|0|0|0|6|0|1.0|10|48|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>995</VALUE><MTRAL>805</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+0
+98
+6
+0
+48

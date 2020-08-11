@@ -6418,7 +6418,7 @@ Adventure Academy#5
 StdOpenDoorway
 
 Adventure Academy#3
--
+*
 Adventure Academy#6
 2
 StdOpenDoorway
@@ -7012,19 +7012,19 @@ Silver Ford#22
 Open
 
 Silver Ford#23
--
+*
 Silver Ford#40
 4
 StdOpenDoorway
 
  
--
+*
 Silver Ford#40
 2
 Open
 
 Silver Ford#38
--
+*
 Silver Ford#40
 1
 StdOpenDoorway
@@ -7168,9 +7168,93 @@ Adventure Academy#5
 StdOpenDoorway
 
 Adventure Academy#3
+*
+Adventure Academy#5
+5
+StdOpenDoorway
+
+Adventure Academy#3
 -
 Adventure Academy#5
 5
 StdOpenDoorway
 
 Adventure Academy#3
+-
+Adventure Academy#6
+2
+StdOpenDoorway
+
+Adventure Academy#0
+*
+Silver Ford#40
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#40
+2
+Open
+
+Silver Ford#38
+*
+Silver Ford#40
+1
+StdOpenDoorway
+
+Silver Ford#43
+*
+Silver Ford#40
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#40
+2
+Open
+
+Silver Ford#38
+*
+Silver Ford#40
+1
+StdOpenDoorway
+
+Silver Ford#43
+*
+Silver Ford#40
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#40
+2
+Open
+
+Silver Ford#38
+*
+Silver Ford#40
+1
+StdOpenDoorway
+
+Silver Ford#43
+-
+Silver Ford#40
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#40
+2
+Open
+
+Silver Ford#38
+-
+Silver Ford#40
+1
+StdOpenDoorway
+
+Silver Ford#43
