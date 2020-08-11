@@ -3,91 +3,6 @@ Mom
 Allergies
 2147483647
 CAT VOIDMEPHIT
-*
-Alysan
-Common
-100
-
-*
-Alysan
-Elvish
-75
-
-*
-Alysan
-Foraging
-50
-
-*
-Alysan
-Skill_Recall
-50
-
-*
-Alysan
-Skill_Write
-50
-
-*
-Alysan
-Specialization_Armor
-0
-
-*
-Alysan
-Specialization_Axe
-0
-
-*
-Alysan
-Specialization_BluntWeapon
-0
-
-*
-Alysan
-Specialization_EdgedWeapon
-0
-
-*
-Alysan
-Specialization_FlailedWeapon
-0
-
-*
-Alysan
-Specialization_Hammer
-0
-
-*
-Alysan
-Specialization_Natural
-0
-
-*
-Alysan
-Specialization_Polearm
-0
-
-*
-Alysan
-Specialization_Ranged
-0
-
-*
-Alysan
-Specialization_Shield
-0
-
-*
-Alysan
-Specialization_Sword
-0
-
-*
-Alysan
-Allergies
-2147483647
-DRACONIAN
 -
 Kalrog
 Butchering
@@ -377,116 +292,6 @@ Spell_Shield
 Neatherclaw
 Spell_SpiderClimb
 0
-
--
-Gron
-Butchering
-43
-
--
-Gron
-Chopping
-50
-
--
-Gron
-Common
-100
-
--
-Gron
-Fighter_Charge
-5
-
--
-Gron
-Fighter_Kick
-36
-
--
-Gron
-Fighter_WeaponSharpening
-36
-
--
-Gron
-FireBuilding
-0
-
--
-Gron
-Skill_Parry
-17
-
--
-Gron
-Skill_Recall
-52
-
--
-Gron
-Skill_Write
-50
-
--
-Gron
-Specialization_Armor
-17
-
--
-Gron
-Specialization_Axe
-0
-
--
-Gron
-Specialization_BluntWeapon
-7
-
--
-Gron
-Specialization_EdgedWeapon
-17
-
--
-Gron
-Specialization_FlailedWeapon
-0
-
--
-Gron
-Specialization_Hammer
-0
-
--
-Gron
-Specialization_Natural
-0
-
--
-Gron
-Specialization_Polearm
-0
-
--
-Gron
-Specialization_Ranged
-0
-
--
-Gron
-Specialization_Shield
-0
-
--
-Gron
-Specialization_Sword
-24
-
--
-Gron
-Tanning
-36
 
 -
 Quill
@@ -833,116 +638,6 @@ Rose
 Unbinding
 0
 
-*
-Avol
-Chopping
-50
-
-*
-Avol
-Common
-100
-
-*
-Avol
-Fighter_Kick
-3
-
-*
-Avol
-Fighter_MonkeyPunch
-40
-
-*
-Avol
-Fighter_Rescue
-0
-
-*
-Avol
-FireBuilding
-0
-
-*
-Avol
-Skill_Parry
-0
-
-*
-Avol
-Skill_Recall
-52
-
-*
-Avol
-Skill_RegionalAwareness
-0
-
-*
-Avol
-Skill_Write
-50
-
-*
-Avol
-Specialization_Armor
-1
-
-*
-Avol
-Specialization_Axe
-0
-
-*
-Avol
-Specialization_BluntWeapon
-0
-
-*
-Avol
-Specialization_EdgedWeapon
-0
-
-*
-Avol
-Specialization_FlailedWeapon
-0
-
-*
-Avol
-Specialization_Hammer
-0
-
-*
-Avol
-Specialization_Natural
-61
-
-*
-Avol
-Specialization_Polearm
-0
-
-*
-Avol
-Specialization_Ranged
-0
-
-*
-Avol
-Specialization_Shield
-0
-
-*
-Avol
-Specialization_Sword
-0
-
-*
-Avol
-Allergies
-2147483647
-UMBERHULK
 -
 Kurjaksmom
 Butchering
@@ -983,201 +678,6 @@ Kurjaksmom
 Allergies
 2147483647
 werebat
-*
-Erranoth
-Chopping
-55
-
-*
-Erranoth
-Common
-100
-
-*
-Erranoth
-Digging
-40
-
-*
-Erranoth
-FireBuilding
-0
-
-*
-Erranoth
-Foraging
-41
-
-*
-Erranoth
-PaperMaking
-65
-
-*
-Erranoth
-ScrollScribing
-75
-
-*
-Erranoth
-Skill_Recall
-28
-
-*
-Erranoth
-Skill_RegionalAwareness
-0
-
-*
-Erranoth
-Skill_Revoke
-1
-
-*
-Erranoth
-Skill_WandUse
-25
-
-*
-Erranoth
-Skill_Write
-100
-
-*
-Erranoth
-Spell_AnimateItem
-1
-
-*
-Erranoth
-Spell_Deafness
-0
-
-*
-Erranoth
-Spell_DetectInvisible
-0
-
-*
-Erranoth
-Spell_DetectPoison
-0
-
-*
-Erranoth
-Spell_DispelMagic
-1
-
-*
-Erranoth
-Spell_Enlarge
-0
-
-*
-Erranoth
-Spell_Erase
-0
-
-*
-Erranoth
-Spell_FakeSpring
-0
-
-*
-Erranoth
-Spell_FeatherFall
-0
-
-*
-Erranoth
-Spell_FindFamiliar
-50
-
-*
-Erranoth
-Spell_Frost
-0
-
-*
-Erranoth
-Spell_IronGrip
-0
-
-*
-Erranoth
-Spell_Knock
-32
-
-*
-Erranoth
-Spell_Light
-46
-
-*
-Erranoth
-Spell_MageArmor
-43
-
-*
-Erranoth
-Spell_MagicMissile
-35
-
-*
-Erranoth
-Spell_ObscureSelf
-0
-
-*
-Erranoth
-Spell_Prestidigitation
-0
-
-*
-Erranoth
-Spell_ReadMagic
-0
-
-*
-Erranoth
-Spell_ResistMagicMissiles
-0
-
-*
-Erranoth
-Spell_Shield
-30
-
-*
-Erranoth
-Spell_SpiderClimb
-0
-
-*
-Erranoth
-Spell_Spook
-0
-
-*
-Erranoth
-Spell_SummonSteed
-46
-
-*
-Erranoth
-Spell_WallOfStone
-0
-
-*
-Erranoth
-Spell_WeaknessAcid
-0
-
-*
-Erranoth
-Allergies
-2147483647
-WHALE
 -
 Brik
 Butchering
@@ -1288,866 +788,6 @@ Brik
 Tanning
 38
 
-*
-Kurjak
-Armorsmithing
-67
-
-*
-Kurjak
-Blacksmithing
-76
-
-*
-Kurjak
-Butchering
-50
-
-*
-Kurjak
-Chopping
-52
-
-*
-Kurjak
-Common
-100
-
-*
-Kurjak
-Cooking
-41
-
-*
-Kurjak
-Fighter_ArmorTweaking
-42
-
-*
-Kurjak
-Fighter_BlindFighting
-0
-
-*
-Kurjak
-Fighter_Cleave
-38
-
-*
-Kurjak
-Fighter_CritStrike
-60
-
-*
-Kurjak
-Fighter_Rescue
-0
-
-*
-Kurjak
-Fighter_Toughness
-44
-
-*
-Kurjak
-Fighter_WeaponBreak
-1
-
-*
-Kurjak
-FireBuilding
-0
-
-*
-Kurjak
-Mining
-69
-
-*
-Kurjak
-Skill_Attack2
-25
-
-*
-Kurjak
-Skill_Dirt
-39
-
-*
-Kurjak
-Skill_Disarm
-9
-
-*
-Kurjak
-Skill_Parry
-26
-
-*
-Kurjak
-Skill_Recall
-62
-
-*
-Kurjak
-Skill_RegionalAwareness
-1
-
-*
-Kurjak
-Skill_Subdue
-0
-
-*
-Kurjak
-Skill_Trip
-2
-
-*
-Kurjak
-Skill_Write
-50
-
-*
-Kurjak
-Smelting
-61
-
-*
-Kurjak
-Specialization_Armor
-45
-
-*
-Kurjak
-Specialization_Axe
-8
-
-*
-Kurjak
-Specialization_BluntWeapon
-25
-
-*
-Kurjak
-Specialization_EdgedWeapon
-0
-
-*
-Kurjak
-Specialization_FlailedWeapon
-31
-
-*
-Kurjak
-Specialization_Hammer
-30
-
-*
-Kurjak
-Specialization_Natural
-4
-
-*
-Kurjak
-Specialization_Polearm
-0
-
-*
-Kurjak
-Specialization_Ranged
-0
-
-*
-Kurjak
-Specialization_Shield
-0
-
-*
-Kurjak
-Specialization_Sword
-1
-
-*
-Kurjak
-Weaponsmithing
-60
-
-*
-Kurjak
-Allergies
-2147483647
-SAPPHIRE
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Marosh
-Butchering
-57
-
-*
-Marosh
-Common
-100
-
-*
-Marosh
-Cooking
-44
-
-*
-Marosh
-Elvish
-75
-
-*
-Marosh
-Fighter_ViciousBlow
-25
-
-*
-Marosh
-FireBuilding
-0
-
-*
-Marosh
-Foraging
-52
-
-*
-Marosh
-Gigantic
-100
-
-*
-Marosh
-Orcish
-100
-
-*
-Marosh
-Paladin_DiseaseImmunity
-4
-
-*
-Marosh
-Paladin_HealingHands
-47
-
-*
-Marosh
-Prayer_CureLight
-40
-
-*
-Marosh
-Prayer_ProtEvil
-41
-
-*
-Marosh
-Prayer_ReadPrayer
-0
-
-*
-Marosh
-Prayer_SenseEvil
-0
-
-*
-Marosh
-Skill_Attack2
-0
-
-*
-Marosh
-Skill_Autocrawl
-42
-
-*
-Marosh
-Skill_Bash
-80
-
-*
-Marosh
-Skill_Parry
-32
-
-*
-Marosh
-Skill_Recall
-57
-
-*
-Marosh
-Skill_RegionalAwareness
-0
-
-*
-Marosh
-Skill_Write
-50
-
-*
-Marosh
-Specialization_Armor
-27
-
-*
-Marosh
-Specialization_Axe
-0
-
-*
-Marosh
-Specialization_BluntWeapon
-0
-
-*
-Marosh
-Specialization_EdgedWeapon
-0
-
-*
-Marosh
-Specialization_FlailedWeapon
-0
-
-*
-Marosh
-Specialization_Hammer
-0
-
-*
-Marosh
-Specialization_Natural
-1
-
-*
-Marosh
-Specialization_Polearm
-0
-
-*
-Marosh
-Specialization_Ranged
-0
-
-*
-Marosh
-Specialization_Shield
-23
-
-*
-Marosh
-Specialization_Sword
-50
-
-*
-Marosh
-Undercommon
-25
-
-*
-Marosh
-Allergies
-2147483647
-TABAXI
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Marosh
-Butchering
-57
-
-*
-Marosh
-Common
-100
-
-*
-Marosh
-Cooking
-44
-
-*
-Marosh
-Elvish
-75
-
-*
-Marosh
-Fighter_ViciousBlow
-25
-
-*
-Marosh
-FireBuilding
-0
-
-*
-Marosh
-Foraging
-52
-
-*
-Marosh
-Gigantic
-100
-
-*
-Marosh
-Orcish
-100
-
-*
-Marosh
-Paladin_DiseaseImmunity
-4
-
-*
-Marosh
-Paladin_HealingHands
-47
-
-*
-Marosh
-Prayer_CureLight
-40
-
-*
-Marosh
-Prayer_ProtEvil
-41
-
-*
-Marosh
-Prayer_ReadPrayer
-0
-
-*
-Marosh
-Prayer_SenseEvil
-0
-
-*
-Marosh
-Skill_Attack2
-0
-
-*
-Marosh
-Skill_Autocrawl
-42
-
-*
-Marosh
-Skill_Bash
-80
-
-*
-Marosh
-Skill_Parry
-32
-
-*
-Marosh
-Skill_Recall
-57
-
-*
-Marosh
-Skill_RegionalAwareness
-0
-
-*
-Marosh
-Skill_Write
-50
-
-*
-Marosh
-Specialization_Armor
-27
-
-*
-Marosh
-Specialization_Axe
-0
-
-*
-Marosh
-Specialization_BluntWeapon
-0
-
-*
-Marosh
-Specialization_EdgedWeapon
-0
-
-*
-Marosh
-Specialization_FlailedWeapon
-0
-
-*
-Marosh
-Specialization_Hammer
-0
-
-*
-Marosh
-Specialization_Natural
-1
-
-*
-Marosh
-Specialization_Polearm
-0
-
-*
-Marosh
-Specialization_Ranged
-0
-
-*
-Marosh
-Specialization_Shield
-23
-
-*
-Marosh
-Specialization_Sword
-50
-
-*
-Marosh
-Undercommon
-25
-
-*
-Marosh
-Allergies
-2147483647
-TABAXI
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
-Marosh
-Butchering
-57
-
-*
-Marosh
-Common
-100
-
-*
-Marosh
-Cooking
-44
-
-*
-Marosh
-Elvish
-75
-
-*
-Marosh
-Fighter_ViciousBlow
-25
-
-*
-Marosh
-FireBuilding
-0
-
-*
-Marosh
-Foraging
-52
-
-*
-Marosh
-Gigantic
-100
-
-*
-Marosh
-Orcish
-100
-
-*
-Marosh
-Paladin_DiseaseImmunity
-4
-
-*
-Marosh
-Paladin_HealingHands
-47
-
-*
-Marosh
-Prayer_CureLight
-40
-
-*
-Marosh
-Prayer_ProtEvil
-41
-
-*
-Marosh
-Prayer_ReadPrayer
-0
-
-*
-Marosh
-Prayer_SenseEvil
-0
-
-*
-Marosh
-Skill_Attack2
-0
-
-*
-Marosh
-Skill_Autocrawl
-42
-
-*
-Marosh
-Skill_Bash
-80
-
-*
-Marosh
-Skill_Parry
-32
-
-*
-Marosh
-Skill_Recall
-57
-
-*
-Marosh
-Skill_RegionalAwareness
-0
-
-*
-Marosh
-Skill_Write
-50
-
-*
-Marosh
-Specialization_Armor
-28
-
-*
-Marosh
-Specialization_Axe
-0
-
-*
-Marosh
-Specialization_BluntWeapon
-0
-
-*
-Marosh
-Specialization_EdgedWeapon
-0
-
-*
-Marosh
-Specialization_FlailedWeapon
-0
-
-*
-Marosh
-Specialization_Hammer
-0
-
-*
-Marosh
-Specialization_Natural
-1
-
-*
-Marosh
-Specialization_Polearm
-0
-
-*
-Marosh
-Specialization_Ranged
-0
-
-*
-Marosh
-Specialization_Shield
-23
-
-*
-Marosh
-Specialization_Sword
-52
-
-*
-Marosh
-Undercommon
-25
-
-*
-Marosh
-Allergies
-2147483647
-TABAXI
-*
-Avol
-Chopping
-50
-
-*
-Avol
-Common
-100
-
-*
-Avol
-Fighter_Kick
-3
-
-*
-Avol
-Fighter_MonkeyPunch
-40
-
-*
-Avol
-Fighter_Rescue
-0
-
-*
-Avol
-FireBuilding
-0
-
-*
-Avol
-Skill_Parry
-0
-
-*
-Avol
-Skill_Recall
-52
-
-*
-Avol
-Skill_RegionalAwareness
-0
-
-*
-Avol
-Skill_Write
-50
-
-*
-Avol
-Specialization_Armor
-1
-
-*
-Avol
-Specialization_Axe
-0
-
-*
-Avol
-Specialization_BluntWeapon
-0
-
-*
-Avol
-Specialization_EdgedWeapon
-0
-
-*
-Avol
-Specialization_FlailedWeapon
-0
-
-*
-Avol
-Specialization_Hammer
-0
-
-*
-Avol
-Specialization_Natural
-61
-
-*
-Avol
-Specialization_Polearm
-0
-
-*
-Avol
-Specialization_Ranged
-0
-
-*
-Avol
-Specialization_Shield
-0
-
-*
-Avol
-Specialization_Sword
-0
-
-*
-Avol
-Allergies
-2147483647
-UMBERHULK
-*
-Avol
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go down there and silence the demon. Please. I haven`t slept in so long...\nIF !isquestmobalive(1 `zfahprison_demon`)\nMPENDQUEST `zfahprison_demon`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `zfahprison_demon`)\nMPENDQUEST `zfahprison_demon`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Silencing the Demon" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Silencing the Demon" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+AdventureHousePrison" -names "+the demon of the prison")\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+AdventureHousePrison" -names "+the demon of the prison")\nmpforce `$%ROOMMOB($0)%` sayto "$i" So, you`ve come for me.  Come and get me.\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+AdventureHousePrison" -names "+the demon of the prison")\nmpsetvar $i zfahprison_demon_KILLED ++;\nif EVAL(1 &gt; 1)\nmpechoat $i Killed $&lt;$i zfahprison_demon_KILLED&gt;/1\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i zfahprison_demon_KILLED&gt;/1\nendif\n~\n</SCRIPT><SQN>zfahprison_demon</SQN><SSCOP>*</SSCOP><SSVAR><Avol><TIME_REMAINING>1</TIME_REMAINING><ZFAHPRISON_DEMON_KILLED>1</ZFAHPRISON_DEMON_KILLED><INSTRUCTIONS>Go down there and silence the demon. Please. I haven`t slept in so long...</INSTRUCTIONS><PROGRESS>Killed 1/1</PROGRESS></Avol></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
 -
 Avol
 Chopping
@@ -2263,221 +903,11 @@ Avol
 ScriptingEngine
 -2147483647
 <SCRPTS><SCRPT><SCRIPT>STATIC=LOAD=dragmine_killer_1_playertrack.script</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Avol><TIME_REMAINING>1</TIME_REMAINING><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS></Avol></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
+-
+Alysan
 Allergies
 2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
-Marosh
-Butchering
-57
-
-*
-Marosh
-Common
-100
-
-*
-Marosh
-Cooking
-44
-
-*
-Marosh
-Elvish
-75
-
-*
-Marosh
-Fighter_ViciousBlow
-25
-
-*
-Marosh
-FireBuilding
-0
-
-*
-Marosh
-Foraging
-52
-
-*
-Marosh
-Gigantic
-100
-
-*
-Marosh
-Orcish
-100
-
-*
-Marosh
-Paladin_DiseaseImmunity
-4
-
-*
-Marosh
-Paladin_HealingHands
-48
-
-*
-Marosh
-Prayer_CureLight
-40
-
-*
-Marosh
-Prayer_ProtEvil
-41
-
-*
-Marosh
-Prayer_ReadPrayer
-0
-
-*
-Marosh
-Prayer_SenseEvil
-0
-
-*
-Marosh
-Skill_Attack2
-23
-
-*
-Marosh
-Skill_Autocrawl
-42
-
-*
-Marosh
-Skill_Bash
-80
-
-*
-Marosh
-Skill_Parry
-32
-
-*
-Marosh
-Skill_Recall
-58
-
-*
-Marosh
-Skill_RegionalAwareness
-0
-
-*
-Marosh
-Skill_Write
-50
-
-*
-Marosh
-Specialization_Armor
-28
-
-*
-Marosh
-Specialization_Axe
-0
-
-*
-Marosh
-Specialization_BluntWeapon
-0
-
-*
-Marosh
-Specialization_EdgedWeapon
-0
-
-*
-Marosh
-Specialization_FlailedWeapon
-0
-
-*
-Marosh
-Specialization_Hammer
-0
-
-*
-Marosh
-Specialization_Natural
-1
-
-*
-Marosh
-Specialization_Polearm
-0
-
-*
-Marosh
-Specialization_Ranged
-0
-
-*
-Marosh
-Specialization_Shield
-23
-
-*
-Marosh
-Specialization_Sword
-53
-
-*
-Marosh
-Undercommon
-25
-
-*
-Marosh
-Allergies
-2147483647
-TABAXI
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
+DRACONIAN
 -
 Marosh
 Butchering
@@ -2653,36 +1083,6 @@ Marosh
 Allergies
 2147483647
 TABAXI
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
 -
 Kurjak
 Armorsmithing
@@ -2696,7 +1096,7 @@ Blacksmithing
 -
 Kurjak
 Butchering
-50
+51
 
 -
 Kurjak
@@ -2731,7 +1131,7 @@ Fighter_Cleave
 -
 Kurjak
 Fighter_CritStrike
-60
+63
 
 -
 Kurjak
@@ -2741,7 +1141,12 @@ Fighter_Rescue
 -
 Kurjak
 Fighter_Toughness
-44
+45
+
+-
+Kurjak
+Fighter_Toughness2
+13
 
 -
 Kurjak
@@ -2756,12 +1161,12 @@ FireBuilding
 -
 Kurjak
 Mining
-69
+70
 
 -
 Kurjak
 Skill_Attack2
-25
+28
 
 -
 Kurjak
@@ -2771,7 +1176,7 @@ Skill_Dirt
 -
 Kurjak
 Skill_Disarm
-9
+10
 
 -
 Kurjak
@@ -2796,7 +1201,7 @@ Skill_Subdue
 -
 Kurjak
 Skill_Trip
-2
+4
 
 -
 Kurjak
@@ -2816,7 +1221,7 @@ Specialization_Armor
 -
 Kurjak
 Specialization_Axe
-9
+13
 
 -
 Kurjak
@@ -2831,7 +1236,7 @@ Specialization_EdgedWeapon
 -
 Kurjak
 Specialization_FlailedWeapon
-31
+32
 
 -
 Kurjak
@@ -2874,10 +1279,70 @@ Allergies
 2147483647
 SAPPHIRE
 -
-Alysan
+Zilor fice
+Common
+100
+
+-
+Zilor fice
+Elvish
+50
+
+-
+Zilor fice
+Fishing
+50
+
+-
+Zilor fice
+Skill_Befriend
+50
+
+-
+Zilor fice
+Skill_CulturalAdaptation
+50
+
+-
+Zilor fice
+Skill_Haggle
+0
+
+-
+Zilor fice
+Skill_Recall
+50
+
+-
+Zilor fice
+Skill_RegionalAwareness
+0
+
+-
+Zilor fice
+Skill_Write
+50
+
+-
+Zilor fice
+Song_Detection
+0
+
+-
+Zilor fice
+Song_Nothing
+100
+
+-
+Zilor fice
+Specialization_EdgedWeapon
+50
+
+-
+Zilor fice
 Allergies
 2147483647
-DRACONIAN
+ZINC DEMON
 *
 Ermiel
 Allergies
@@ -2887,393 +1352,313 @@ ASH AGATE FISH KOBOLD
 Ermiel
 ScriptingEngine
 -2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
-*
+<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><ERMIEL><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></ERMIEL></SSVAR></SCRPT></SCRPTS>
+-
+Gron
+Butchering
+43
+
+-
+Gron
+Chopping
+50
+
+-
+Gron
+Common
+100
+
+-
+Gron
+Fighter_Charge
+5
+
+-
+Gron
+Fighter_Kick
+37
+
+-
+Gron
+Fighter_WeaponSharpening
+36
+
+-
+Gron
+FireBuilding
+0
+
+-
+Gron
+Skill_Parry
+17
+
+-
+Gron
+Skill_Recall
+52
+
+-
+Gron
+Skill_RegionalAwareness
+0
+
+-
+Gron
+Skill_Write
+50
+
+-
+Gron
+Specialization_Armor
+17
+
+-
+Gron
+Specialization_Axe
+0
+
+-
+Gron
+Specialization_BluntWeapon
+7
+
+-
+Gron
+Specialization_EdgedWeapon
+17
+
+-
+Gron
+Specialization_FlailedWeapon
+0
+
+-
+Gron
+Specialization_Hammer
+0
+
+-
+Gron
+Specialization_Natural
+0
+
+-
+Gron
+Specialization_Polearm
+0
+
+-
+Gron
+Specialization_Ranged
+0
+
+-
+Gron
+Specialization_Shield
+0
+
+-
+Gron
+Specialization_Sword
+25
+
+-
+Gron
+Tanning
+36
+
+-
 Erranoth
 Chopping
 55
 
-*
+-
 Erranoth
 Common
 100
 
-*
+-
 Erranoth
 Digging
 40
 
-*
+-
 Erranoth
 FireBuilding
 0
 
-*
+-
 Erranoth
 Foraging
 41
 
-*
+-
 Erranoth
 PaperMaking
 66
 
-*
+-
 Erranoth
 ScrollScribing
 75
 
-*
+-
 Erranoth
 Skill_Recall
 28
 
-*
+-
 Erranoth
 Skill_RegionalAwareness
 0
 
-*
+-
 Erranoth
 Skill_Revoke
 1
 
-*
+-
 Erranoth
 Skill_WandUse
 25
 
-*
+-
 Erranoth
 Skill_Write
 100
 
-*
+-
 Erranoth
 Spell_AnimateItem
 1
 
-*
+-
 Erranoth
 Spell_Deafness
 0
 
-*
+-
 Erranoth
 Spell_DetectInvisible
 0
 
-*
+-
 Erranoth
 Spell_DetectPoison
 0
 
-*
+-
 Erranoth
 Spell_DispelMagic
 1
 
-*
+-
 Erranoth
 Spell_Enlarge
 0
 
-*
+-
 Erranoth
 Spell_Erase
 0
 
-*
+-
 Erranoth
 Spell_FakeSpring
 0
 
-*
+-
 Erranoth
 Spell_FeatherFall
 0
 
-*
+-
 Erranoth
 Spell_FindFamiliar
 50
 
-*
+-
 Erranoth
 Spell_Frost
 0
 
-*
+-
 Erranoth
 Spell_IronGrip
 0
 
-*
+-
 Erranoth
 Spell_Knock
 32
 
-*
+-
 Erranoth
 Spell_Light
-47
+48
 
-*
+-
 Erranoth
 Spell_MageArmor
 43
 
-*
+-
 Erranoth
 Spell_MagicMissile
-35
+38
 
-*
+-
 Erranoth
 Spell_ObscureSelf
 0
 
-*
+-
 Erranoth
 Spell_Prestidigitation
 0
 
-*
+-
 Erranoth
 Spell_ReadMagic
 0
 
-*
+-
 Erranoth
 Spell_ResistMagicMissiles
 0
 
-*
+-
 Erranoth
 Spell_Shield
-30
+31
 
-*
+-
 Erranoth
 Spell_SpiderClimb
 0
 
-*
+-
 Erranoth
 Spell_Spook
 0
 
-*
+-
 Erranoth
 Spell_SummonSteed
 46
 
-*
+-
 Erranoth
 Spell_WallOfStone
 0
 
-*
+-
 Erranoth
 Spell_WeaknessAcid
 0
 
-*
-Erranoth
-Allergies
-2147483647
-WHALE
-*
-Erranoth
-Chopping
-55
-
-*
-Erranoth
-Common
-100
-
-*
-Erranoth
-Digging
-40
-
-*
-Erranoth
-FireBuilding
-0
-
-*
-Erranoth
-Foraging
-41
-
-*
-Erranoth
-PaperMaking
-66
-
-*
-Erranoth
-ScrollScribing
-75
-
-*
-Erranoth
-Skill_Recall
-28
-
-*
-Erranoth
-Skill_RegionalAwareness
-0
-
-*
-Erranoth
-Skill_Revoke
-1
-
-*
-Erranoth
-Skill_WandUse
-25
-
-*
-Erranoth
-Skill_Write
-100
-
-*
-Erranoth
-Spell_AnimateItem
-1
-
-*
-Erranoth
-Spell_Deafness
-0
-
-*
-Erranoth
-Spell_DetectInvisible
-0
-
-*
-Erranoth
-Spell_DetectPoison
-0
-
-*
-Erranoth
-Spell_DispelMagic
-1
-
-*
-Erranoth
-Spell_Enlarge
-0
-
-*
-Erranoth
-Spell_Erase
-0
-
-*
-Erranoth
-Spell_FakeSpring
-0
-
-*
-Erranoth
-Spell_FeatherFall
-0
-
-*
-Erranoth
-Spell_FindFamiliar
-50
-
-*
-Erranoth
-Spell_Frost
-0
-
-*
-Erranoth
-Spell_IronGrip
-0
-
-*
-Erranoth
-Spell_Knock
-32
-
-*
-Erranoth
-Spell_Light
-47
-
-*
-Erranoth
-Spell_MageArmor
-43
-
-*
-Erranoth
-Spell_MagicMissile
-35
-
-*
-Erranoth
-Spell_ObscureSelf
-0
-
-*
-Erranoth
-Spell_Prestidigitation
-0
-
-*
-Erranoth
-Spell_ReadMagic
-0
-
-*
-Erranoth
-Spell_ResistMagicMissiles
-0
-
-*
-Erranoth
-Spell_Shield
-30
-
-*
-Erranoth
-Spell_SpiderClimb
-0
-
-*
-Erranoth
-Spell_Spook
-0
-
-*
-Erranoth
-Spell_SummonSteed
-46
-
-*
-Erranoth
-Spell_WallOfStone
-0
-
-*
-Erranoth
-Spell_WeaknessAcid
-0
-
-*
+-
 Erranoth
 Allergies
 2147483647
@@ -3287,199 +1672,4 @@ ASH AGATE FISH KOBOLD
 Ermiel
 ScriptingEngine
 -2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><Ermiel><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></Ermiel></SSVAR></SCRPT></SCRPTS>
--
-Erranoth
-Chopping
-55
-
--
-Erranoth
-Common
-100
-
--
-Erranoth
-Digging
-40
-
--
-Erranoth
-FireBuilding
-0
-
--
-Erranoth
-Foraging
-41
-
--
-Erranoth
-PaperMaking
-66
-
--
-Erranoth
-ScrollScribing
-75
-
--
-Erranoth
-Skill_Recall
-28
-
--
-Erranoth
-Skill_RegionalAwareness
-0
-
--
-Erranoth
-Skill_Revoke
-1
-
--
-Erranoth
-Skill_WandUse
-25
-
--
-Erranoth
-Skill_Write
-100
-
--
-Erranoth
-Spell_AnimateItem
-1
-
--
-Erranoth
-Spell_Deafness
-0
-
--
-Erranoth
-Spell_DetectInvisible
-0
-
--
-Erranoth
-Spell_DetectPoison
-0
-
--
-Erranoth
-Spell_DispelMagic
-1
-
--
-Erranoth
-Spell_Enlarge
-0
-
--
-Erranoth
-Spell_Erase
-0
-
--
-Erranoth
-Spell_FakeSpring
-0
-
--
-Erranoth
-Spell_FeatherFall
-0
-
--
-Erranoth
-Spell_FindFamiliar
-50
-
--
-Erranoth
-Spell_Frost
-0
-
--
-Erranoth
-Spell_IronGrip
-0
-
--
-Erranoth
-Spell_Knock
-32
-
--
-Erranoth
-Spell_Light
-47
-
--
-Erranoth
-Spell_MageArmor
-43
-
--
-Erranoth
-Spell_MagicMissile
-35
-
--
-Erranoth
-Spell_ObscureSelf
-0
-
--
-Erranoth
-Spell_Prestidigitation
-0
-
--
-Erranoth
-Spell_ReadMagic
-0
-
--
-Erranoth
-Spell_ResistMagicMissiles
-0
-
--
-Erranoth
-Spell_Shield
-30
-
--
-Erranoth
-Spell_SpiderClimb
-0
-
--
-Erranoth
-Spell_Spook
-0
-
--
-Erranoth
-Spell_SummonSteed
-46
-
--
-Erranoth
-Spell_WallOfStone
-0
-
--
-Erranoth
-Spell_WeaknessAcid
-0
-
--
-Erranoth
-Allergies
-2147483647
-WHALE
+<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><ERMIEL><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>1</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 1/12</PROGRESS></ERMIEL></SSVAR></SCRPT></SCRPTS>
