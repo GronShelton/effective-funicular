@@ -6,6 +6,7 @@
 # Host: localhost
 # Saved: 2003-04-01 00:27:39
 # 
+use gronmud
 CREATE TABLE CMVFS (
 	CMFNAM varchar (255),
 	CMDTYP int ,
