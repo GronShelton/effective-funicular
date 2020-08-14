@@ -1,716 +1,30 @@
-20200812.2046.06 info  MUD            CoffeeMud v5.9.10
-20200812.2046.06 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200812.2046.06 info  MUD            http://www.coffeemud.org
-20200812.2046.06 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
-20200812.2046.06 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200812.2046.06 info  MUD@5555       MUD Server started on port: 5555
-20200812.2046.07 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
-20200812.2046.07 debug HOST0          SSL not configured.
-20200812.2046.07 debug HOST0          SSL not configured.
-20200812.2046.07 error SMTP           Set your coffeemud.ini parameter: DOMAIN
-20200812.2046.07 info  cweb-admin0    Started http admin0 on port 27777
-20200812.2046.07 info  cweb-pub0      Started http pub0 on port 27744
-20200812.2046.07 info  cweb-pub0      Started http pub0 on port 80
-20200812.2046.07 debug cweb-pub0Timeo Timeout Thread started
-20200812.2046.07 debug cweb-admin0Tim Timeout Thread started
-20200812.2046.08 info  HOST0          WebMacros loaded  : 193
-20200812.2046.08 info  HOST0          MOB Types loaded  : 148
-20200812.2046.08 info  HOST0          Exit Types loaded : 30
-20200812.2046.08 info  HOST0          Area Types loaded : 14
-20200812.2046.09 info  HOST0          Locales loaded    : 124
-20200812.2046.09 info  HOST0          Fighter Skills    : 131
-20200812.2046.09 info  HOST0          Chants loaded     : 315
-20200812.2046.09 info  HOST0          Languages loaded  : 58
-20200812.2046.09 info  HOST0          Properties loaded : 298
-20200812.2046.09 info  HOST0          Prayers loaded    : 306
-20200812.2046.10 info  HOST0          Thief Skills      : 154
-20200812.2046.10 info  HOST0          Skills loaded     : 316
-20200812.2046.10 info  HOST0          Songs loaded      : 156
-20200812.2046.10 info  HOST0          Spells loaded     : 403
-20200812.2046.10 info  HOST0          Heroics loaded    : 6
-20200812.2046.10 info  HOST0          Tech Skills loaded: 2
-20200812.2046.10 info  HOST0          Traps loaded      : 76
-20200812.2046.11 info  HOST0          GenAbles loaded   : 1
-20200812.2046.11 info  HOST0          Basic Items loaded: 128
-20200812.2046.11 info  HOST0          Weapons loaded    : 60
-20200812.2046.11 info  HOST0          Armor loaded      : 50
-20200812.2046.11 info  HOST0          Magic Items loaded: 45
-20200812.2046.11 info  HOST0          Clan Items loaded : 24
-20200812.2046.11 info  HOST0          Electronics loaded: 81
-20200812.2046.11 info  HOST0          Behaviors loaded  : 97
-20200812.2046.12 info  HOST0          Commands loaded   : 286
-20200812.2046.12 info  HOST0          Races loaded      : 227
-20200812.2046.12 info  HOST0          Classes loaded    : 54
-20200812.2046.19 info  HOST0          Expertises defined: 1817
-20200812.2046.19 info  HOST0          Channels loaded   : 20
-20200812.2046.19 info  HOST0          Socials loaded    : 312
-20200812.2046.19 info  HOST0          Clans loaded      : 1
-20200812.2046.19 info  I3Server       InterMud3 Core (c)1996 George Reese
-20200812.2046.19 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
-20200812.2046.19 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
-20200812.2046.19 info  Intermud3      I3 client connection: 204.209.44.3@8080
-20200812.2046.19 info  I3Server       InterMud3 Server started on port 27766
-20200812.2046.20 info  HOST0          Loading catalog...
-20200812.2046.20 info  HOST0          Loading map...
-20200812.2046.20 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
-20200812.2046.20 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
-20200812.2046.24 info  HOST0          Preparing map...
-20200812.2046.24 info  HOST0          Mapped rooms      : 438 in 10 areas
-20200812.2046.24 info  HOST0          Clan owned items  : 0
-20200812.2046.24 info  HOST0          Quests loaded     : 9
-20200812.2046.24 info  HOST0          Services and utilities started
-20200812.2046.24 info  HOST0          Host#0 initializated.
-20200812.2046.24 info  MUD            Initialization complete.
-20200812.2046.33 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
-20200812.2047.06 info  Worker0#3      Connection from 108.11.190.209
-20200812.2047.11 info  Worker0#2      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
-20200812.2048.00 info  Worker0#4      Logout: Ermiel (48s)
-20200812.2048.00 info  Worker0#4      Disconnect: Ermiel: 108.11.190.209 (53s)
-20200812.2048.14 info  ItemGeneration Starting master item generation
-20200812.2049.35 info  ItemGeneration Finished master item generation
-20200812.2101.02 info  Worker0#2      Connection from 172.92.143.166
-20200812.2102.04 info  Worker0#2      Disconnect: 172.92.143.166 (1m 2s)
-20200812.2222.41 info  Worker0#4      Connection from 94.25.8.218
-20200812.2222.47 info  Worker0#3      Disconnect: 94.25.8.218 (5s)
-20200812.2233.06 info  Worker0#3      Connection from 94.25.8.218
-20200812.2233.11 info  Worker0#5      Disconnect: 94.25.8.218 (5s)
-20200812.2237.56 info  Worker0#1      Connection from 47.244.148.248
-20200812.2238.02 info  Worker0#3      Disconnect: 47.244.148.248 (5s)
-20200812.2243.29 info  Worker0#1      Connection from 94.25.8.218
-20200812.2243.34 info  Worker0#5      Disconnect: 94.25.8.218 (5s)
-20200812.2315.38 info  Worker0#2      Connection from 47.244.148.248
-20200812.2315.44 info  Worker0#1      Disconnect: 47.244.148.248 (5s)
-20200813.0001.02 info  Worker0#1      Connection from 172.92.143.166
-20200813.0002.03 info  Worker0#5      Disconnect: 172.92.143.166 (1m 1s)
-20200813.0201.05 info  Worker0#1      Connection from 184.105.247.252
-20200813.0201.11 info  Worker0#5      Disconnect: 184.105.247.252 (6s)
-20200813.0215.56 info  Worker0#1      Connection from 93.174.93.91
-20200813.0217.03 info  Worker0#3      Disconnect: 93.174.93.91 (1m 6s)
-20200813.0239.15 info  Worker0#2      Connection from 218.32.211.113
-20200813.0239.20 info  Worker0#3      Connection from 218.32.211.117
-20200813.0239.20 info  Worker0#4      Connection from 218.32.211.113
-20200813.0239.52 info  Worker0#5      Disconnect: 218.32.211.113 (36s)
-20200813.0239.56 info  Worker0#4      Disconnect: 218.32.211.117 (36s)
-20200813.0239.56 info  Worker0#2      Disconnect: 218.32.211.113 (36s)
-20200813.0241.43 info  Worker0#1      Connection from 218.32.211.113
-20200813.0242.20 info  Worker0#4      Disconnect: 218.32.211.113 (36s)
-20200813.0245.30 info  Worker0#4      Connection from 218.32.211.117
-20200813.0246.06 info  Worker0#5      Disconnect: 218.32.211.117 (36s)
-20200813.0248.49 info  Worker0#4      Connection from 218.32.211.117
-20200813.0249.25 info  Worker0#1      Disconnect: 218.32.211.117 (36s)
-20200813.0301.02 info  Worker0#1      Connection from 172.92.143.166
-20200813.0306.25 info  THSessions0    Kicking out login session after 5m 22s 444ms.
-20200813.0306.25 info  Worker0#1      Disconnect: 172.92.143.166 (5m)
-20200813.0537.09 info  Worker0#2      Connection from 108.11.190.209
-20200813.0537.15 info  Worker0#5      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
-20200813.0539.01 info  Worker0#2      Connection from 108.11.190.209
-20200813.0541.10 info  Worker0#4      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Gron
-20200813.0541.32 info  Scripting      Gron was MPSCRIPTED: Silver_Ford_Ormen_normal_collect2_R682318883
-20200813.0543.48 info  Scripting      Gron was MPSCRIPTED: Silver_Ford_Zilor_Fice_normal_protect1_R115763972
-20200813.0545.44 info  Worker0#3      Connection from 94.25.8.218
-20200813.0545.50 info  Worker0#2      Disconnect: 94.25.8.218 (5s)
-20200813.0546.26 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.35 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.45 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.49 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.54 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0546.58 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.02 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.06 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.11 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.15 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.20 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.24 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.28 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.32 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.45 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.49 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0547.58 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.02 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.06 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.11 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.15 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.20 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.24 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.28 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.32 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.41 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.45 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.49 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0548.57 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.01 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.05 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.10 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.14 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.18 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.23 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.35 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.44 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.49 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0549.57 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.01 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.05 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.10 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.15 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.20 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.24 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.25 info  CMGenEditor    Ermiel edited user Gron
-20200813.0550.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.34 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.44 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.47 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.50 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0550.57 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.00 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.03 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.06 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.09 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.12 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.15 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.18 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.22 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.25 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.29 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.32 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.34 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.39 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.42 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.45 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.47 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.50 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.56 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0551.58 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.01 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.03 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.06 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.09 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.11 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.14 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.17 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.19 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.22 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.24 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.26 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.28 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.33 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.35 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.39 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.41 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.44 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.46 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.48 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.50 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.52 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.54 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.56 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0552.58 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0553.00 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0553.02 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0553.05 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0553.06 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200813.0553.08 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-
-
-Thread Dump:
- ^HTGRP^?  ^Hsystem^?
-  ok   Reference Handler   : Thread[Reference Handler,10,system]
-   java.lang.ref.Reference: waitForReferencePendingList(Reference.java: -2)
-   java.lang.ref.Reference: processPendingReferences(Reference.java: 241)
-   java.lang.ref.Reference$ReferenceHandler: run(Reference.java: 213)
-  ok   Finalizer           : Thread[Finalizer,8,system]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.ref.ReferenceQueue: remove(ReferenceQueue.java: 155)
-   java.lang.ref.ReferenceQueue: remove(ReferenceQueue.java: 176)
-   java.lang.ref.Finalizer$FinalizerThread: run(Finalizer.java: 170)
-  ok   Signal Dispatcher   : Thread[Signal Dispatcher,9,system]
-  ok   SIGTERM handler     : Thread[SIGTERM handler,9,system]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.Thread: join(Thread.java: 1305)
-   java.lang.Thread: join(Thread.java: 1380)
-   java.lang.ApplicationShutdownHooks: runHooks(ApplicationShutdownHooks.java: 107)
-   java.lang.ApplicationShutdownHooks$1: run(ApplicationShutdownHooks.java: 46)
-   java.lang.Shutdown: runHooks(Shutdown.java: 130)
-   java.lang.Shutdown: exit(Shutdown.java: 174)
-   java.lang.Terminator$1: handle(Terminator.java: 51)
-   jdk.internal.misc.Signal$1: run(Signal.java: 220)
-   java.lang.Thread: run(Thread.java: 834)
-{
- ^HTGRP^?  ^Hmain^?
-  ok   MUD                 : Thread[MUD,5,main]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.Thread: join(Thread.java: 1305)
-   java.lang.Thread: join(Thread.java: 1380)
-   com.planet_ink.coffee_mud.application.MUD: main(MUD.java: 2154)
-  ok   ShutdownHook        : Thread[ShutdownHook,5,main]
-   java.lang.Thread: getStackTrace(Thread.java: 1607)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: debugDumpThreadGroup(ServiceEngine.java: 1474)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: debugDumpThreadGroup(ServiceEngine.java: 1486)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: panicDumpAllThreads(ServiceEngine.java: 1797)
-   com.planet_ink.coffee_mud.application.MUD$2: run(MUD.java: 2088)
-{
- ^HTGRP^?  ^H0-MUD^?
-  ok   HOST0               : Thread[HOST0,5,0-MUD]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.Thread: join(Thread.java: 1305)
-   java.lang.Thread: join(Thread.java: 1380)
-   com.planet_ink.coffee_mud.application.MUD$HostGroup: run(MUD.java: 1961)
-  ok   Scheduler0          : Thread[Scheduler0,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: run(ServiceEngine.java: 1697)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   MUD@5555            : MUD: WAITING
-   java.net.PlainSocketImpl: socketAccept(PlainSocketImpl.java: -2)
-   java.net.AbstractPlainSocketImpl: accept(AbstractPlainSocketImpl.java: 458)
-   java.net.ServerSocket: implAccept(ServerSocket.java: 565)
-   java.net.ServerSocket: accept(ServerSocket.java: 533)
-   com.planet_ink.coffee_mud.application.MUD: run(MUD.java: 425)
-  ok   cweb-pub0           : Thread[cweb-pub0,5,0-MUD]
-   sun.nio.ch.EPoll: wait(EPoll.java: -2)
-   sun.nio.ch.EPollSelectorImpl: doSelect(EPollSelectorImpl.java: 120)
-   sun.nio.ch.SelectorImpl: lockAndDoSelect(SelectorImpl.java: 124)
-   sun.nio.ch.SelectorImpl: select(SelectorImpl.java: 141)
-   com.planet_ink.coffee_web.server.WebServer: run(WebServer.java: 398)
-  ok   cweb-admin0         : Thread[cweb-admin0,5,0-MUD]
-   sun.nio.ch.EPoll: wait(EPoll.java: -2)
-   sun.nio.ch.EPollSelectorImpl: doSelect(EPollSelectorImpl.java: 120)
-   sun.nio.ch.SelectorImpl: lockAndDoSelect(SelectorImpl.java: 124)
-   sun.nio.ch.SelectorImpl: select(SelectorImpl.java: 141)
-   com.planet_ink.coffee_web.server.WebServer: run(WebServer.java: 398)
-  ok   cweb-admin0Timeout  : Thread[cweb-admin0Timeout,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_web.server.WebServer$1: run(WebServer.java: 210)
-  ok   cweb-pub0Timeout    : Thread[cweb-pub0Timeout,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_web.server.WebServer$1: run(WebServer.java: 210)
-  ok   CM1Server0@27733    : Thread[CM1Server0@27733,5,0-MUD]
-   sun.nio.ch.EPoll: wait(EPoll.java: -2)
-   sun.nio.ch.EPollSelectorImpl: doSelect(EPollSelectorImpl.java: 120)
-   sun.nio.ch.SelectorImpl: lockAndDoSelect(SelectorImpl.java: 124)
-   sun.nio.ch.SelectorImpl: select(SelectorImpl.java: 141)
-   com.planet_ink.coffee_mud.core.intermud.cm1.CM1Server: run(CM1Server.java: 119)
-  ok   I3Listener@27766    : Thread[I3Listener@27766,5,0-MUD]
-   java.net.PlainSocketImpl: socketAccept(PlainSocketImpl.java: -2)
-   java.net.AbstractPlainSocketImpl: accept(AbstractPlainSocketImpl.java: 458)
-   java.net.ServerSocket: implAccept(ServerSocket.java: 565)
-   java.net.ServerSocket: accept(ServerSocket.java: 533)
-   com.planet_ink.coffee_mud.core.intermud.i3.net.ListenThread: run(ListenThread.java: 68)
-  ok   I3Client:204.209.44.: Thread[I3Client:204.209.44.3@8080,5,0-MUD]
-   java.net.SocketInputStream: socketRead0(SocketInputStream.java: -2)
-   java.net.SocketInputStream: socketRead(SocketInputStream.java: 115)
-   java.net.SocketInputStream: read(SocketInputStream.java: 168)
-   java.net.SocketInputStream: read(SocketInputStream.java: 140)
-   java.net.SocketInputStream: read(SocketInputStream.java: 200)
-   java.io.DataInputStream: readInt(DataInputStream.java: 392)
-   com.planet_ink.coffee_mud.core.intermud.i3.packets.Intermud: run(Intermud.java: 668)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#1           : Thread[Worker0#1,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchEmpty(DBConnections.java: 548)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 251)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 201)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 196)
-   com.planet_ink.coffee_mud.core.database.VFSLoader: DBUpSert(VFSLoader.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBUpSertVFSFile(DBInterface.java: 1192)
-   com.planet_ink.coffee_mud.core.CMFile$CMVFSFile: saveData(CMFile.java: 364)
-   com.planet_ink.coffee_mud.core.CMFile: saveText(CMFile.java: 1433)
-   com.planet_ink.coffee_mud.core.CMFile: saveText(CMFile.java: 1378)
-   com.planet_ink.coffee_mud.core.Resources: savePropResources(Resources.java: 1197)
-   com.planet_ink.coffee_mud.Libraries.CMMap: tick(CMMap.java: 3830)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#2           : Thread[Worker0#2,5,0-MUD]
-   jdk.internal.misc.Unsafe: park(Unsafe.java: -2)
-   java.util.concurrent.locks.LockSupport: parkNanos(LockSupport.java: 234)
-   java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: awaitNanos(AbstractQueuedSynchronizer.java: 2123)
-   java.util.concurrent.ArrayBlockingQueue: poll(ArrayBlockingQueue.java: 432)
-   java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1053)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#3           : Thread[Worker0#3,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchEmpty(DBConnections.java: 548)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 251)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 201)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 196)
-   com.planet_ink.coffee_mud.core.database.VFSLoader: DBUpSert(VFSLoader.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBUpSertVFSFile(DBInterface.java: 1192)
-   com.planet_ink.coffee_mud.core.CMFile$CMVFSFile: saveData(CMFile.java: 364)
-   com.planet_ink.coffee_mud.core.CMFile: saveRaw(CMFile.java: 1318)
-   com.planet_ink.coffee_mud.core.intermud.i3.IMudPeer: save(IMudPeer.java: 119)
-   com.planet_ink.coffee_mud.core.intermud.i3.packets.Intermud: save(Intermud.java: 1006)
-   com.planet_ink.coffee_mud.core.intermud.i3.packets.Intermud$1: tick(Intermud.java: 351)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#4           : Thread[Worker0#4,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetch(DBConnections.java: 332)
-   com.planet_ink.coffee_mud.core.database.DBConnector: DBFetch(DBConnector.java: 219)
-   com.planet_ink.coffee_mud.core.database.MOBloader: getExtendedUserList(MOBloader.java: 740)
-   com.planet_ink.coffee_mud.core.database.DBInterface: getExtendedUserList(DBInterface.java: 856)
-   com.planet_ink.coffee_mud.Libraries.CMPlayers: autoPurge(CMPlayers.java: 1313)
-   com.planet_ink.coffee_mud.Libraries.CMPlayers: tick(CMPlayers.java: 1630)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#5           : Thread[Worker0#5,5,0-MUD]
-   jdk.internal.misc.Unsafe: park(Unsafe.java: -2)
-   java.util.concurrent.locks.LockSupport: parkNanos(LockSupport.java: 234)
-   java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: awaitNanos(AbstractQueuedSynchronizer.java: 2123)
-   java.util.concurrent.ArrayBlockingQueue: poll(ArrayBlockingQueue.java: 432)
-   java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1053)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   cweb-pub0#11        : jdk.internal.misc.Unsafe: park(Unsafe.java: -2) | java.util.concurrent.locks.LockSupport: park(LockSupport.java: 194) | java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: await(AbstractQueuedSynchronizer.java: 2081) | java.util.concurrent.ArrayBlockingQueue: take(ArrayBlockingQueue.java: 417) | java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1054) | java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114) | java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628) | java.lang.Thread: run(Thread.java: 834) | 
-   jdk.internal.misc.Unsafe: park(Unsafe.java: -2)
-   java.util.concurrent.locks.LockSupport: park(LockSupport.java: 194)
-   java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: await(AbstractQueuedSynchronizer.java: 2081)
-   java.util.concurrent.ArrayBlockingQueue: take(ArrayBlockingQueue.java: 417)
-   java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1054)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#6           : Thread[Worker0#6,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetch(DBConnections.java: 332)
-   com.planet_ink.coffee_mud.core.database.DBConnector: DBFetch(DBConnector.java: 219)
-   com.planet_ink.coffee_mud.core.database.JournalLoader: DBReadJournalMsgsNewerThan(JournalLoader.java: 441)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBReadJournalMsgsNewerThan(DBInterface.java: 629)
-   com.planet_ink.coffee_mud.core.smtp.SMTPserver: tick(SMTPserver.java: 540)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#7           : Thread[Worker0#7,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchEmpty(DBConnections.java: 548)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 251)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 201)
-   com.planet_ink.coffee_mud.core.database.MOBloader: DBUpdateJustMOB(MOBloader.java: 1216)
-   com.planet_ink.coffee_mud.core.database.MOBloader: DBUpdate(MOBloader.java: 1135)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBUpdatePlayer(DBInterface.java: 736)
-   com.planet_ink.coffee_mud.Libraries.CMGenEditor: modifyPlayer(CMGenEditor.java: 10711)
-   com.planet_ink.coffee_mud.Commands.Modify: players(Modify.java: 1570)
-   com.planet_ink.coffee_mud.Commands.Modify: execute(Modify.java: 2106)
-   com.planet_ink.coffee_mud.MOBS.StdMOB: doCommand(StdMOB.java: 2147)
-   com.planet_ink.coffee_mud.MOBS.StdMOB: dequeCommand(StdMOB.java: 2054)
-   com.planet_ink.coffee_mud.MOBS.StdMOB: enqueCommand(StdMOB.java: 2301)
-   com.planet_ink.coffee_mud.Common.DefaultSession: mainLoop(DefaultSession.java: 3214)
-   com.planet_ink.coffee_mud.Common.DefaultSession: run(DefaultSession.java: 2821)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#8           : Thread[Worker0#8,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetch(DBConnections.java: 332)
-   com.planet_ink.coffee_mud.core.database.DBConnector: DBFetch(DBConnector.java: 219)
-   com.planet_ink.coffee_mud.core.database.BackLogLoader: getCounter(BackLogLoader.java: 85)
-   com.planet_ink.coffee_mud.core.database.BackLogLoader: addBackLogEntry(BackLogLoader.java: 110)
-   com.planet_ink.coffee_mud.core.database.DBInterface: addBackLogEntry(DBInterface.java: 1216)
-   com.planet_ink.coffee_mud.Libraries.CMChannels: channelQueUp(CMChannels.java: 348)
-   com.planet_ink.coffee_mud.Libraries.CMChannels: createAndSendChannelMessage(CMChannels.java: 863)
-   com.planet_ink.coffee_mud.Commands.Channel: executeInternal(Channel.java: 70)
-   com.planet_ink.coffee_mud.Libraries.CommonMsgs: forceInternalCommand(CommonMsgs.java: 171)
-   com.planet_ink.coffee_mud.Libraries.CommonMsgs: postChannel(CommonMsgs.java: 260)
-   com.planet_ink.coffee_mud.Libraries.CommonMsgs: postChannel(CommonMsgs.java: 302)
-   com.planet_ink.coffee_mud.Common.DefaultSession: preLogout(DefaultSession.java: 2632)
-   com.planet_ink.coffee_mud.Common.DefaultSession: run(DefaultSession.java: 2845)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-}
- ^HTGRP^?  ^HInnocuousThreadGroup^?
-  ok   Common-Cleaner      : Thread[Common-Cleaner,8,InnocuousThreadGroup]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.ref.ReferenceQueue: remove(ReferenceQueue.java: 155)
-   jdk.internal.ref.CleanerImpl: run(CleanerImpl.java: 148)
-   java.lang.Thread: run(Thread.java: 834)
-   jdk.internal.misc.InnocuousThread: run(InnocuousThread.java: 134)
-}
-
-20200813.0553.09 error ShutdownHook   
-
-Thread Dump:
- ^HTGRP^?  ^Hsystem^?
-  ok   Reference Handler   : Thread[Reference Handler,10,system]
-   java.lang.ref.Reference: waitForReferencePendingList(Reference.java: -2)
-   java.lang.ref.Reference: processPendingReferences(Reference.java: 241)
-   java.lang.ref.Reference$ReferenceHandler: run(Reference.java: 213)
-  ok   Finalizer           : Thread[Finalizer,8,system]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.ref.ReferenceQueue: remove(ReferenceQueue.java: 155)
-   java.lang.ref.ReferenceQueue: remove(ReferenceQueue.java: 176)
-   java.lang.ref.Finalizer$FinalizerThread: run(Finalizer.java: 170)
-  ok   Signal Dispatcher   : Thread[Signal Dispatcher,9,system]
-  ok   SIGTERM handler     : Thread[SIGTERM handler,9,system]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.Thread: join(Thread.java: 1305)
-   java.lang.Thread: join(Thread.java: 1380)
-   java.lang.ApplicationShutdownHooks: runHooks(ApplicationShutdownHooks.java: 107)
-   java.lang.ApplicationShutdownHooks$1: run(ApplicationShutdownHooks.java: 46)
-   java.lang.Shutdown: runHooks(Shutdown.java: 130)
-   java.lang.Shutdown: exit(Shutdown.java: 174)
-   java.lang.Terminator$1: handle(Terminator.java: 51)
-   jdk.internal.misc.Signal$1: run(Signal.java: 220)
-   java.lang.Thread: run(Thread.java: 834)
-{
- ^HTGRP^?  ^Hmain^?
-  ok   MUD                 : Thread[MUD,5,main]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.Thread: join(Thread.java: 1305)
-   java.lang.Thread: join(Thread.java: 1380)
-   com.planet_ink.coffee_mud.application.MUD: main(MUD.java: 2154)
-  ok   ShutdownHook        : Thread[ShutdownHook,5,main]
-   java.lang.Thread: getStackTrace(Thread.java: 1607)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: debugDumpThreadGroup(ServiceEngine.java: 1474)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: debugDumpThreadGroup(ServiceEngine.java: 1486)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: panicDumpAllThreads(ServiceEngine.java: 1797)
-   com.planet_ink.coffee_mud.application.MUD$2: run(MUD.java: 2088)
-{
- ^HTGRP^?  ^H0-MUD^?
-  ok   HOST0               : Thread[HOST0,5,0-MUD]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.Thread: join(Thread.java: 1305)
-   java.lang.Thread: join(Thread.java: 1380)
-   com.planet_ink.coffee_mud.application.MUD$HostGroup: run(MUD.java: 1961)
-  ok   Scheduler0          : Thread[Scheduler0,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.threads.ServiceEngine: run(ServiceEngine.java: 1697)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   MUD@5555            : MUD: WAITING
-   java.net.PlainSocketImpl: socketAccept(PlainSocketImpl.java: -2)
-   java.net.AbstractPlainSocketImpl: accept(AbstractPlainSocketImpl.java: 458)
-   java.net.ServerSocket: implAccept(ServerSocket.java: 565)
-   java.net.ServerSocket: accept(ServerSocket.java: 533)
-   com.planet_ink.coffee_mud.application.MUD: run(MUD.java: 425)
-  ok   cweb-pub0           : Thread[cweb-pub0,5,0-MUD]
-   sun.nio.ch.EPoll: wait(EPoll.java: -2)
-   sun.nio.ch.EPollSelectorImpl: doSelect(EPollSelectorImpl.java: 120)
-   sun.nio.ch.SelectorImpl: lockAndDoSelect(SelectorImpl.java: 124)
-   sun.nio.ch.SelectorImpl: select(SelectorImpl.java: 141)
-   com.planet_ink.coffee_web.server.WebServer: run(WebServer.java: 398)
-  ok   cweb-admin0         : Thread[cweb-admin0,5,0-MUD]
-   sun.nio.ch.EPoll: wait(EPoll.java: -2)
-   sun.nio.ch.EPollSelectorImpl: doSelect(EPollSelectorImpl.java: 120)
-   sun.nio.ch.SelectorImpl: lockAndDoSelect(SelectorImpl.java: 124)
-   sun.nio.ch.SelectorImpl: select(SelectorImpl.java: 141)
-   com.planet_ink.coffee_web.server.WebServer: run(WebServer.java: 398)
-  ok   cweb-admin0Timeout  : Thread[cweb-admin0Timeout,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_web.server.WebServer$1: run(WebServer.java: 210)
-  ok   cweb-pub0Timeout    : Thread[cweb-pub0Timeout,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_web.server.WebServer$1: run(WebServer.java: 210)
-  ok   CM1Server0@27733    : Thread[CM1Server0@27733,5,0-MUD]
-   sun.nio.ch.EPoll: wait(EPoll.java: -2)
-   sun.nio.ch.EPollSelectorImpl: doSelect(EPollSelectorImpl.java: 120)
-   sun.nio.ch.SelectorImpl: lockAndDoSelect(SelectorImpl.java: 124)
-   sun.nio.ch.SelectorImpl: select(SelectorImpl.java: 141)
-   com.planet_ink.coffee_mud.core.intermud.cm1.CM1Server: run(CM1Server.java: 119)
-  ok   I3Listener@27766    : Thread[I3Listener@27766,5,0-MUD]
-   java.net.PlainSocketImpl: socketAccept(PlainSocketImpl.java: -2)
-   java.net.AbstractPlainSocketImpl: accept(AbstractPlainSocketImpl.java: 458)
-   java.net.ServerSocket: implAccept(ServerSocket.java: 565)
-   java.net.ServerSocket: accept(ServerSocket.java: 533)
-   com.planet_ink.coffee_mud.core.intermud.i3.net.ListenThread: run(ListenThread.java: 68)
-  ok   I3Client:204.209.44.: Thread[I3Client:204.209.44.3@8080,5,0-MUD]
-   java.net.SocketInputStream: socketRead0(SocketInputStream.java: -2)
-   java.net.SocketInputStream: socketRead(SocketInputStream.java: 115)
-   java.net.SocketInputStream: read(SocketInputStream.java: 168)
-   java.net.SocketInputStream: read(SocketInputStream.java: 140)
-   java.net.SocketInputStream: read(SocketInputStream.java: 200)
-   java.io.DataInputStream: readInt(DataInputStream.java: 392)
-   com.planet_ink.coffee_mud.core.intermud.i3.packets.Intermud: run(Intermud.java: 668)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#1           : Thread[Worker0#1,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchEmpty(DBConnections.java: 548)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 251)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 201)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 196)
-   com.planet_ink.coffee_mud.core.database.VFSLoader: DBUpSert(VFSLoader.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBUpSertVFSFile(DBInterface.java: 1192)
-   com.planet_ink.coffee_mud.core.CMFile$CMVFSFile: saveData(CMFile.java: 364)
-   com.planet_ink.coffee_mud.core.CMFile: saveText(CMFile.java: 1433)
-   com.planet_ink.coffee_mud.core.CMFile: saveText(CMFile.java: 1378)
-   com.planet_ink.coffee_mud.core.Resources: savePropResources(Resources.java: 1197)
-   com.planet_ink.coffee_mud.Libraries.CMMap: tick(CMMap.java: 3830)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#2           : Thread[Worker0#2,5,0-MUD]
-   jdk.internal.misc.Unsafe: park(Unsafe.java: -2)
-   java.util.concurrent.locks.LockSupport: parkNanos(LockSupport.java: 234)
-   java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: awaitNanos(AbstractQueuedSynchronizer.java: 2123)
-   java.util.concurrent.ArrayBlockingQueue: poll(ArrayBlockingQueue.java: 432)
-   java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1053)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#3           : Thread[Worker0#3,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchEmpty(DBConnections.java: 548)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 251)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 201)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 196)
-   com.planet_ink.coffee_mud.core.database.VFSLoader: DBUpSert(VFSLoader.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBUpSertVFSFile(DBInterface.java: 1192)
-   com.planet_ink.coffee_mud.core.CMFile$CMVFSFile: saveData(CMFile.java: 364)
-   com.planet_ink.coffee_mud.core.CMFile: saveRaw(CMFile.java: 1318)
-   com.planet_ink.coffee_mud.core.intermud.i3.IMudPeer: save(IMudPeer.java: 119)
-   com.planet_ink.coffee_mud.core.intermud.i3.packets.Intermud: save(Intermud.java: 1006)
-   com.planet_ink.coffee_mud.core.intermud.i3.packets.Intermud$1: tick(Intermud.java: 351)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#4           : Thread[Worker0#4,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetch(DBConnections.java: 332)
-   com.planet_ink.coffee_mud.core.database.DBConnector: DBFetch(DBConnector.java: 219)
-   com.planet_ink.coffee_mud.core.database.MOBloader: getExtendedUserList(MOBloader.java: 740)
-   com.planet_ink.coffee_mud.core.database.DBInterface: getExtendedUserList(DBInterface.java: 856)
-   com.planet_ink.coffee_mud.Libraries.CMPlayers: autoPurge(CMPlayers.java: 1313)
-   com.planet_ink.coffee_mud.Libraries.CMPlayers: tick(CMPlayers.java: 1630)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#5           : Thread[Worker0#5,5,0-MUD]
-   jdk.internal.misc.Unsafe: park(Unsafe.java: -2)
-   java.util.concurrent.locks.LockSupport: parkNanos(LockSupport.java: 234)
-   java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: awaitNanos(AbstractQueuedSynchronizer.java: 2123)
-   java.util.concurrent.ArrayBlockingQueue: poll(ArrayBlockingQueue.java: 432)
-   java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1053)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   cweb-pub0#11        : jdk.internal.misc.Unsafe: park(Unsafe.java: -2) | java.util.concurrent.locks.LockSupport: park(LockSupport.java: 194) | java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: await(AbstractQueuedSynchronizer.java: 2081) | java.util.concurrent.ArrayBlockingQueue: take(ArrayBlockingQueue.java: 417) | java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1054) | java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114) | java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628) | java.lang.Thread: run(Thread.java: 834) | 
-   jdk.internal.misc.Unsafe: park(Unsafe.java: -2)
-   java.util.concurrent.locks.LockSupport: park(LockSupport.java: 194)
-   java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject: await(AbstractQueuedSynchronizer.java: 2081)
-   java.util.concurrent.ArrayBlockingQueue: take(ArrayBlockingQueue.java: 417)
-   java.util.concurrent.ThreadPoolExecutor: getTask(ThreadPoolExecutor.java: 1054)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1114)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#6           : Thread[Worker0#6,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetch(DBConnections.java: 332)
-   com.planet_ink.coffee_mud.core.database.DBConnector: DBFetch(DBConnector.java: 219)
-   com.planet_ink.coffee_mud.core.database.JournalLoader: DBReadJournalMsgsNewerThan(JournalLoader.java: 441)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBReadJournalMsgsNewerThan(DBInterface.java: 629)
-   com.planet_ink.coffee_mud.core.smtp.SMTPserver: tick(SMTPserver.java: 540)
-   com.planet_ink.coffee_mud.core.threads.StdTickClient: tickTicker(StdTickClient.java: 153)
-   com.planet_ink.coffee_mud.core.threads.StdTickGroup: run(StdTickGroup.java: 344)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#7           : Thread[Worker0#7,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchEmpty(DBConnections.java: 548)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 177)
-   com.planet_ink.coffee_mud.core.database.DBConnections: updateWithClobs(DBConnections.java: 251)
-   com.planet_ink.coffee_mud.core.database.DBConnector: updateWithClobs(DBConnector.java: 201)
-   com.planet_ink.coffee_mud.core.database.MOBloader: DBUpdateJustMOB(MOBloader.java: 1216)
-   com.planet_ink.coffee_mud.core.database.MOBloader: DBUpdate(MOBloader.java: 1135)
-   com.planet_ink.coffee_mud.core.database.DBInterface: DBUpdatePlayer(DBInterface.java: 736)
-   com.planet_ink.coffee_mud.Libraries.CMGenEditor: modifyPlayer(CMGenEditor.java: 10711)
-   com.planet_ink.coffee_mud.Commands.Modify: players(Modify.java: 1570)
-   com.planet_ink.coffee_mud.Commands.Modify: execute(Modify.java: 2106)
-   com.planet_ink.coffee_mud.MOBS.StdMOB: doCommand(StdMOB.java: 2147)
-   com.planet_ink.coffee_mud.MOBS.StdMOB: dequeCommand(StdMOB.java: 2054)
-   com.planet_ink.coffee_mud.MOBS.StdMOB: enqueCommand(StdMOB.java: 2301)
-   com.planet_ink.coffee_mud.Common.DefaultSession: mainLoop(DefaultSession.java: 3214)
-   com.planet_ink.coffee_mud.Common.DefaultSession: run(DefaultSession.java: 2821)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-  ok   Worker0#8           : Thread[Worker0#8,5,0-MUD]
-   java.lang.Thread: sleep(Thread.java: -2)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetchAny(DBConnections.java: 485)
-   com.planet_ink.coffee_mud.core.database.DBConnections: DBFetch(DBConnections.java: 332)
-   com.planet_ink.coffee_mud.core.database.DBConnector: DBFetch(DBConnector.java: 219)
-   com.planet_ink.coffee_mud.core.database.BackLogLoader: getCounter(BackLogLoader.java: 85)
-   com.planet_ink.coffee_mud.core.database.BackLogLoader: addBackLogEntry(BackLogLoader.java: 110)
-   com.planet_ink.coffee_mud.core.database.DBInterface: addBackLogEntry(DBInterface.java: 1216)
-   com.planet_ink.coffee_mud.Libraries.CMChannels: channelQueUp(CMChannels.java: 348)
-   com.planet_ink.coffee_mud.Libraries.CMChannels: createAndSendChannelMessage(CMChannels.java: 863)
-   com.planet_ink.coffee_mud.Commands.Channel: executeInternal(Channel.java: 70)
-   com.planet_ink.coffee_mud.Libraries.CommonMsgs: forceInternalCommand(CommonMsgs.java: 171)
-   com.planet_ink.coffee_mud.Libraries.CommonMsgs: postChannel(CommonMsgs.java: 260)
-   com.planet_ink.coffee_mud.Libraries.CommonMsgs: postChannel(CommonMsgs.java: 302)
-   com.planet_ink.coffee_mud.Common.DefaultSession: preLogout(DefaultSession.java: 2632)
-   com.planet_ink.coffee_mud.Common.DefaultSession: run(DefaultSession.java: 2845)
-   java.util.concurrent.ThreadPoolExecutor: runWorker(ThreadPoolExecutor.java: 1128)
-   java.util.concurrent.ThreadPoolExecutor$Worker: run(ThreadPoolExecutor.java: 628)
-   java.lang.Thread: run(Thread.java: 834)
-}
- ^HTGRP^?  ^HInnocuousThreadGroup^?
-  ok   Common-Cleaner      : Thread[Common-Cleaner,8,InnocuousThreadGroup]
-   java.lang.Object: wait(Object.java: -2)
-   java.lang.ref.ReferenceQueue: remove(ReferenceQueue.java: 155)
-   jdk.internal.ref.CleanerImpl: run(CleanerImpl.java: 148)
-   java.lang.Thread: run(Thread.java: 834)
-   jdk.internal.misc.InnocuousThread: run(InnocuousThread.java: 134)
-}
-
-20200813.0553.09 info  ShutdownHook   New Connections are now closed
-Exception in thread "ShutdownHook" 20200813.0553.09 info  ServiceEngine  Scheduler stopped
-java.lang.NullPointerException
-	at com.planet_ink.coffee_mud.core.CMClass.abilities(CMClass.java:797)
-	at com.planet_ink.coffee_mud.Races.StdRace.racialEffectsList(StdRace.java:1198)
-	at com.planet_ink.coffee_mud.Races.StdRace.numRacialEffects(StdRace.java:1127)
-	at com.planet_ink.coffee_mud.MOBS.StdMOB.numAllEffects(StdMOB.java:4921)
-	at com.planet_ink.coffee_mud.application.MUD.globalShutdown(MUD.java:564)
-	at com.planet_ink.coffee_mud.application.MUD$2.run(MUD.java:2089)
+20200814.0841.19 info  MUD            CoffeeMud v5.9.10
+20200814.0841.19 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200814.0841.19 info  MUD            http://www.coffeemud.org
+20200814.0841.19 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
+20200814.0841.19 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200814.0841.20 info  MUD@5555       MUD Server started on port: 5555
+java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:315)
+	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:117)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:373)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchTest(DBConnections.java:346)
+	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
+20200814.0841.20 error DBConnections  No suitable driver found for jdbc:mysql://localhost/gronmud
+java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost/gronmud
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:702)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
+	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:135)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:373)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchTest(DBConnections.java:346)
+	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
+20200814.0841.20 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
+20200814.0841.20 error MUD            CoffeeMud failed to start.
