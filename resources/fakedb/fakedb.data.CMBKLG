@@ -996,7 +996,7 @@ WIZINFO
 -
 INFO
 0
-315
+327
 \?
 -
 INFO
@@ -1041,7 +1041,7 @@ GOSSIP
 -
 GRATZ
 0
-1
+2
 \?
 -
 CHAT
@@ -1053,10 +1053,10 @@ OOC
 0
 0
 \?
--
+*
 QUESTCHAT
 0
-0
+9
 \?
 -
 WIZ
@@ -1111,7 +1111,7 @@ CLANTALK
 -
 WIZINFO
 0
-604
+695
 \?
 -
 WIZINFO
@@ -3471,7 +3471,7 @@ WIZINFO
 -
 CLANTALK
 0
-339
+419
 \?
 -
 CLANTALK
@@ -6398,3 +6398,1008 @@ WIZINFO
 604
 1597106278688
 0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+340
+1597108419856
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+605
+1597108419939
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+341
+1597115497631
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+606
+1597115497711
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+342
+1597116050767
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+607
+1597116050810
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+343
+1597153781127
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+608
+1597153781472
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+344
+1597159517209
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+609
+1597159517225
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+345
+1597159570171
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+610
+1597159570179
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+346
+1597162776413
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+611
+1597162776563
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+347
+1597163050072
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+612
+1597163050144
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+348
+1597163290867
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+613
+1597163291010
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+349
+1597167742714
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+614
+1597167742849
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+350
+1597167831925
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+615
+1597167831997
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+351
+1597169532847
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+616
+1597169532943
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+352
+1597171808489
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+617
+1597171808555
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+353
+1597172423718
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+618
+1597172424055
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+354
+1597172433188
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+619
+1597172433313
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+620
+1597172875533
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at AdventureHousePrison#12.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at AdventureHousePrison#12.'^</CHANNEL^>^?^.
+-
+INFO
+316
+1597172875707
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+355
+1597173538089
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Dath has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Dath has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+621
+1597173538143
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Dath has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Dath has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+622
+1597176399769
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at AdventureHousePrison#9.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has just gained a level at AdventureHousePrison#9.'^</CHANNEL^>^?^.
+-
+INFO
+317
+1597176399823
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjaksmom has just gained a level.'^</CHANNEL^>^?^.
+-
+GRATZ
+2
+1597176412961
+0,1163264,1049600,0,27,2001,StdRideable:Brik,,,^Q^<CHANNEL "GRATZ"^>You GRATZ 'Grats!'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "GRATZ"^><S-NAME> GRATZES 'Grats!'^</CHANNEL^>^N^.
+-
+CLANTALK
+356
+1597180536277
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+623
+1597180536357
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+357
+1597184043020
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+624
+1597184043105
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+318
+1597184309763
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has completed the 'Explore 25% the world' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+358
+1597185806948
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+625
+1597185807111
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+359
+1597193299019
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+626
+1597193299109
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+627
+1597193504954
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth was just killed in AdventureHousePrison#14 by the demon of the prison.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth was just killed in AdventureHousePrison#14 by the demon of the prison.'^</CHANNEL^>^?^.
+-
+CLANTALK
+360
+1597193620224
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+628
+1597193620302
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+361
+1597193661123
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+629
+1597193661279
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Erranoth has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+362
+1597197732020
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+630
+1597197732068
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+363
+1597203462715
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+631
+1597203462763
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+364
+1597204327026
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+632
+1597204327128
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+365
+1597204638801
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+633
+1597204638856
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+366
+1597205055089
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+634
+1597205055181
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+367
+1597205121972
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+635
+1597205122072
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+368
+1597239734294
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+636
+1597239734307
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+369
+1597239821088
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+637
+1597239821117
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+370
+1597254162725
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+638
+1597254162886
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+371
+1597259116978
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gulgor has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+639
+1597259117062
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gulgor has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+372
+1597262220685
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+640
+1597262220810
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+373
+1597267684691
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+641
+1597267684822
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+374
+1597268477237
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+642
+1597268477422
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+643
+1597271757776
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has just gained a level at Silver Ford#0.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Marosh has just gained a level at Silver Ford#0.'^</CHANNEL^>^?^.
+-
+INFO
+319
+1597271757942
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Marosh has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Marosh has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+375
+1597273302390
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+644
+1597273302494
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+1
+1597273381193
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'Lead a muddy kobold for me! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'Lead a muddy kobold for me! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+376
+1597273382122
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+645
+1597273382205
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+377
+1597273477777
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+646
+1597273478227
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+647
+1597275505453
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at Adventure House Den#25.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has just gained a level at Adventure House Den#25.'^</CHANNEL^>^?^.
+-
+INFO
+320
+1597275505627
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+321
+1597275517388
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has completed the 'Complete 1 Quest' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Brik has completed the 'Complete 1 Quest' player achievement!'^</CHANNEL^>^?^.
+-
+CLANTALK
+378
+1597275752275
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+648
+1597275752359
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Brik has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+379
+1597279843048
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+649
+1597279843120
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+2
+1597286056830
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want kobolds escorted! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want kobolds escorted! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+380
+1597286083979
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+650
+1597286084045
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+381
+1597286681792
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+651
+1597286681840
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+3
+1597287340212
+0,1163264,1049600,0,27,2004,GenMob:a villager,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want a cow caught! Are you game? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want a cow caught! Are you game? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+382
+1597287545288
+0,1163264,1049600,0,27,2006,StdMOB:Kurjak,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'The Gang Warriors is online and can now accept applicants.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'The Gang Warriors is online and can now accept applicants.'^</CHANNEL^>^?^.
+-
+CLANTALK
+383
+1597287714159
+0,1163264,1049600,0,27,2006,StdMOB:Kurjak,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'The experience tax rate of Gang Warriors has been changed to 0%.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'The experience tax rate of Gang Warriors has been changed to 0%.'^</CHANNEL^>^?^.
+-
+WIZINFO
+652
+1597288828993
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at The Haunted Forest#149.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has just gained a level at The Haunted Forest#149.'^</CHANNEL^>^?^.
+-
+INFO
+322
+1597288829065
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Kurjak has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+384
+1597289465624
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+653
+1597289465708
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+385
+1597289490481
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+654
+1597289490553
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+655
+1597289591770
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Neatherclaw has just been deleted.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Neatherclaw has just been deleted.'^</CHANNEL^>^?^.
+-
+WIZINFO
+656
+1597290017900
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Quill has just been deleted.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Quill has just been deleted.'^</CHANNEL^>^?^.
+-
+CLANTALK
+386
+1597290180817
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+657
+1597290180878
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjak has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+387
+1597290431657
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+658
+1597290431729
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+388
+1597290480529
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+659
+1597290480606
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+4
+1597312596749
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+389
+1597322235484
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+660
+1597322235544
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+390
+1597322470263
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+661
+1597322470342
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+5
+1597323240305
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+391
+1597323246562
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+662
+1597323246655
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+392
+1597326262466
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+663
+1597326262569
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+664
+1597330132786
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Adventure House Den#21.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Adventure House Den#21.'^</CHANNEL^>^?^.
+-
+INFO
+323
+1597330132955
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+393
+1597332422120
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+665
+1597332422205
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+6
+1597332476895
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+394
+1597332792345
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+666
+1597332792411
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+395
+1597332803902
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+667
+1597332804040
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+396
+1597334466741
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+668
+1597334466970
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+397
+1597334476156
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+669
+1597334476260
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+398
+1597334976228
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+670
+1597334976300
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+399
+1597336610754
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+671
+1597336611355
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+400
+1597337652020
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+672
+1597337652091
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+401
+1597340423445
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+673
+1597340423595
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+402
+1597341477042
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+674
+1597341477083
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+403
+1597344844506
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+675
+1597344844572
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+676
+1597345209850
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Dragon`s Belly#25.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Dragon`s Belly#25.'^</CHANNEL^>^?^.
+-
+INFO
+324
+1597345209908
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+677
+1597347510187
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Dragon`s Belly#12.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Dragon`s Belly#12.'^</CHANNEL^>^?^.
+-
+INFO
+325
+1597347510606
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+404
+1597353018010
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+678
+1597353018063
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+405
+1597360607284
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+679
+1597360607452
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+680
+1597360812873
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Silver Ford#38.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at Silver Ford#38.'^</CHANNEL^>^?^.
+-
+INFO
+326
+1597360812945
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+406
+1597360931090
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+681
+1597360931215
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+407
+1597362189148
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+682
+1597362189246
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+408
+1597363938977
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+683
+1597363939088
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+409
+1597364086960
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+684
+1597364087038
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+7
+1597365775053
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+8
+1597365783071
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'Lead cold white rats for me! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'Lead cold white rats for me! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+410
+1597368253671
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+685
+1597368253728
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Kurjaksmom has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+411
+1597368445907
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+686
+1597368445981
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+687
+1597370899544
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at The Haunted Forest#168.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has just gained a level at The Haunted Forest#168.'^</CHANNEL^>^?^.
+-
+INFO
+327
+1597370899622
+0,1163264,1049600,0,27,2007,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Gron has just gained a level.'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+9
+1597375527666
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+0
+16
+\?
+-
+QUESTCHAT
+10
+1597375531348
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+11
+1597375583372
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want a grim black rat escorted! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want a grim black rat escorted! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+12
+1597375587526
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need strips of deer leather gathered! Can you handle it? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need strips of deer leather gathered! Can you handle it? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+412
+1597375790868
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+688
+1597375791031
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+413
+1597375871714
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+689
+1597375871788
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+414
+1597376078829
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+690
+1597376078889
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+415
+1597384338195
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+691
+1597384338207
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged out'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+13
+1597386664134
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want slithering dark green blobs violently convinced! Who`s ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want slithering dark green blobs violently convinced! Who`s ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+14
+1597386668128
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'Help me return mushes! Are you game? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'Help me return mushes! Are you game? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+15
+1597397749679
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'Assistance required with some wooden practice swords! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'Assistance required with some wooden practice swords! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+16
+1597397753701
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need playing cards retrieved! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need playing cards retrieved! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+416
+1597409949490
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+692
+1597409949562
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+417
+1597419038515
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+693
+1597419038671
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+418
+1597419043826
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+694
+1597419043982
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+419
+1597419044485
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+695
+1597419045488
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.

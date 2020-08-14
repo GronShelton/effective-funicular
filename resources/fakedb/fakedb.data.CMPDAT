@@ -9,92 +9,142 @@ First Bank of Silver Ford
 com.planet_ink.coffee_mud.Items.Basic.GenTitle@4775b0701198895216
 GenTitle;<NAME>the title to Iron Dragons Fortress#1 (Copy)</NAME><DESC /><DISP>an official looking document sits here</DISP><PROP>0|0|0|0|0|1|2147483647|1.0|2|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>2000</VALUE><MTRAL>2368</MTRAL><READ>Iron Dragons Fortress#1</READ><WORNL>false</WORNL><WORNB>512</WORNB><LANDID>Iron Dragons Fortress#1</LANDID><IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>1</ILEVL><IABLE>0</IABLE> 
 -
-Kurjak
-LEDGER-null
-LEDGER-null/Kurjak
-1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;
-*
-Ermiel
-LEDGER-First Bank of Silver Ford
-LEDGER-First Bank of Silver Ford/Ermiel
-17-5-3     : Deposit of 10 whole notes: Ermiel;|;16-6-3     : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;8-1-4      : Deposit of 10 gold coins: Interest paid.;|;8-2-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;13-3-4     : Deposit of 10 gold coins: Interest paid.;|;13-4-4     : Deposit of 10 gold coins: Interest paid.;|;6-6-4      : Deposit of 10 gold coins: Interest paid.;|;3-7-4      : Deposit of 10 gold coins: Interest paid.;|;5-7-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;16-7-4     : Deposit of 10 gold coins: Interest paid.;|;
-*
-Ermiel
-First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@26e8537f652759935
-COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>100160</IABLE><ITEXT>/1.0</ITEXT> 
-*
-Marosh
-LEDGER-First Bank of Silver Ford
-LEDGER-First Bank of Silver Ford/Marosh
-1-7-3      : Deposit of 10 golden notes: Marosh;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;8-2-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 20 golden notes: Marosh;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;
-*
-Marosh
-First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@43ac54e11135367393
-COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>20</IABLE><ITEXT>/100.0</ITEXT> 
-*
-Erranoth
-LEDGER-First Bank of Silver Ford
-LEDGER-First Bank of Silver Ford/Erranoth
-4-7-4      : Deposit of 10 golden notes: Erranoth;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;
-*
-Erranoth
-First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@fc27ff0264404976
-COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>10</IABLE><ITEXT>/100.0</ITEXT> 
-*
-Kurjak
-LEDGER-First Bank of Silver Ford
-LEDGER-First Bank of Silver Ford/Kurjak
-19-5-3     : Deposit of 40 golden notes: Kurjak;|;19-5-3     : Deposit of 4803 gold coins: Purchase: a 9# iron ore bundle from an apprentice smith;|;19-5-3     : Deposit of 88 gold coins: Purchase: an iron pot from an apprentice smith;|;16-6-3     : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;14-7-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;19-8-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;1-3-4      : Deposit of 7291 gold coins: Kurjak;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;19-3-4     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;4-7-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 1238 gold coins: Purchase: a strong lead scalemail coat from an apprentice smith;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;2-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;
-*
-Kurjak
-First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@1de54975501565813
-COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>3529</IABLE><ITEXT>/1.0</ITEXT> 
--
 GLOBAL
 TIMECLOCK
 TIMECLOCK/GLOBAL
-<DAY>6</DAY><MONTH>8</MONTH><YEAR>4</YEAR><HOURS>6</HOURS><DAYS>20</DAYS><MONTHS>the 1st month, the 2nd month, the 3rd month, the 4th month, the 5th month, the 6th month, the 7th month, the 8th month</MONTHS><DAWNHR>0</DAWNHR><DAYHR>1</DAYHR><DUSKHR>4</DUSKHR><NIGHTHR>5</NIGHTHR><WEEK></WEEK><YEARS>year #</YEARS>
+<DAY>1</DAY><MONTH>2</MONTH><YEAR>5</YEAR><HOURS>6</HOURS><DAYS>20</DAYS><MONTHS>the 1st month, the 2nd month, the 3rd month, the 4th month, the 5th month, the 6th month, the 7th month, the 8th month</MONTHS><DAWNHR>0</DAWNHR><DAYHR>1</DAYHR><DUSKHR>4</DUSKHR><NIGHTHR>5</NIGHTHR><WEEK></WEEK><YEARS>year #</YEARS>
+-
+Ermiel
+SYSTEM_BTEMPLATE_PERSONAL
+SYSTEM_BTEMPLATE_ERMIEL_TRVBOOTS
+<ITEM><ICLAS>GenArmor</ICLAS><IUSES>100</IUSES><ILEVL>6</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a pair of black leather boots&lt;/NAME&gt;&lt;DESC&gt;black leather boots.&lt;/DESC&gt;&lt;DISP&gt;a pair of black leather boots are here.&lt;/DISP&gt;&lt;PROP&gt;0|4|0|0|0|6|0|1.0|6|40|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;27&lt;/FLAG&gt;&lt;IDENT /&gt;&lt;VALUE&gt;57&lt;/VALUE&gt;&lt;MTRAL&gt;566&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;256&lt;/WORNB&gt;&lt;CAPA&gt;13&lt;/CAPA&gt;&lt;CONT&gt;8&lt;/CONT&gt;&lt;OPENTK&gt;30&lt;/OPENTK&gt;&lt;LAYR&gt;0&lt;/LAYR&gt;&lt;LAYA&gt;0&lt;/LAYA&gt;</ITEXT></ITEM>\n 
+-
+Ermiel
+SYSTEM_BTEMPLATE_PERSONAL
+SYSTEM_BTEMPLATE_ERMIEL_TRVVEST
+<ITEM><ICLAS>GenArmor</ICLAS><IUSES>100</IUSES><ILEVL>1</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a traveler`s vest&lt;/NAME&gt;&lt;DESC /&gt;&lt;DISP&gt;a traveler`s vest sits here.&lt;/DISP&gt;&lt;PROP&gt;0|10|0|0|0|1|0|1.0|25|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;27&lt;/FLAG&gt;&lt;IDENT /&gt;&lt;VALUE&gt;5&lt;/VALUE&gt;&lt;MTRAL&gt;566&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;0&lt;/WORNB&gt;&lt;CAPA&gt;0&lt;/CAPA&gt;&lt;CONT&gt;0&lt;/CONT&gt;&lt;OPENTK&gt;30&lt;/OPENTK&gt;&lt;LAYR&gt;1&lt;/LAYR&gt;&lt;LAYA&gt;1&lt;/LAYA&gt;</ITEXT></ITEM>\n 
+-
+Ermiel
+SYSTEM_BTEMPLATE_PERSONAL
+SYSTEM_BTEMPLATE_ERMIEL_TRVPANTS
+<ITEM><ICLAS>GenPants</ICLAS><IUSES>100</IUSES><ILEVL>1</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a pair of leather pants&lt;/NAME&gt;&lt;DESC&gt;a well tailored pair of travelers pants.&lt;/DESC&gt;&lt;DISP&gt;a pair of leather pants lies here&lt;/DISP&gt;&lt;PROP&gt;0|1|0|0|0|1|0|1.0|1|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;27&lt;/FLAG&gt;&lt;IDENT /&gt;&lt;VALUE&gt;1&lt;/VALUE&gt;&lt;MTRAL&gt;566&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;16384&lt;/WORNB&gt;&lt;CAPA&gt;0&lt;/CAPA&gt;&lt;CONT&gt;0&lt;/CONT&gt;&lt;OPENTK&gt;30&lt;/OPENTK&gt;&lt;LAYR&gt;0&lt;/LAYR&gt;&lt;LAYA&gt;0&lt;/LAYA&gt;</ITEXT></ITEM>\n 
+-
+Ermiel
+SYSTEM_BTEMPLATE_PERSONAL
+SYSTEM_BTEMPLATE_ERMIEL_TRVSHIRT
+<ITEM><ICLAS>GenArmor</ICLAS><IUSES>100</IUSES><ILEVL>8</ILEVL><IABLE>0</IABLE><IREJV>0</IREJV><ITEXT>&lt;NAME&gt;a silk shirt&lt;/NAME&gt;&lt;DESC&gt;a silk shirt.  &lt;/DESC&gt;&lt;DISP&gt;a silk shirt lies here&lt;/DISP&gt;&lt;PROP&gt;0|5|0|0|0|8|0|1.0|3|0|0|&lt;/PROP&gt;&lt;IMG /&gt;&lt;BEHAVES /&gt;&lt;AFFECS /&gt;&lt;FLAG&gt;27&lt;/FLAG&gt;&lt;IDENT&gt;This is the work of Ermiel.&lt;/IDENT&gt;&lt;VALUE&gt;1&lt;/VALUE&gt;&lt;MTRAL&gt;341&lt;/MTRAL&gt;&lt;READ /&gt;&lt;WORNL&gt;false&lt;/WORNL&gt;&lt;WORNB&gt;4&lt;/WORNB&gt;&lt;CAPA&gt;0&lt;/CAPA&gt;&lt;CONT&gt;0&lt;/CONT&gt;&lt;OPENTK&gt;30&lt;/OPENTK&gt;&lt;LAYR&gt;-1&lt;/LAYR&gt;&lt;LAYA&gt;0&lt;/LAYA&gt;</ITEXT></ITEM>\n 
+-
+Kurjak
+LEDGER-null
+LEDGER-null/Kurjak
+1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;
+*
+Ermiel
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Ermiel
+17-5-3     : Deposit of 10 whole notes: Ermiel;|;16-6-3     : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;8-1-4      : Deposit of 10 gold coins: Interest paid.;|;8-2-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;13-3-4     : Deposit of 10 gold coins: Interest paid.;|;13-4-4     : Deposit of 10 gold coins: Interest paid.;|;6-6-4      : Deposit of 10 gold coins: Interest paid.;|;3-7-4      : Deposit of 10 gold coins: Interest paid.;|;5-7-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;16-7-4     : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;5-1-5      : Deposit of 10 gold coins: Interest paid.;|;6-1-5      : Deposit of 10 gold coins: Interest paid.;|;6-1-5      : Deposit of 10 gold coins: Interest paid.;|;7-1-5      : Deposit of 10 gold coins: Interest paid.;|;7-1-5      : Deposit of 10 gold coins: Interest paid.;|;
+*
+Ermiel
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@42ac079f1118570399
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>100240</IABLE><ITEXT>/1.0</ITEXT> 
+*
+Marosh
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Marosh
+1-7-3      : Deposit of 10 golden notes: Marosh;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;8-2-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 20 golden notes: Marosh;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;
+*
+Marosh
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@329d933d849187645
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>20</IABLE><ITEXT>/100.0</ITEXT> 
+*
+Erranoth
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Erranoth
+4-7-4      : Deposit of 10 golden notes: Erranoth;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;
+*
+Erranoth
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@7f832fa32139303843
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>10</IABLE><ITEXT>/100.0</ITEXT> 
+*
+Kurjak
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Kurjak
+19-5-3     : Deposit of 40 golden notes: Kurjak;|;19-5-3     : Deposit of 4803 gold coins: Purchase: a 9# iron ore bundle from an apprentice smith;|;19-5-3     : Deposit of 88 gold coins: Purchase: an iron pot from an apprentice smith;|;16-6-3     : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;14-7-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;19-8-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;1-3-4      : Deposit of 7291 gold coins: Kurjak;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;19-3-4     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;4-7-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 1238 gold coins: Purchase: a strong lead scalemail coat from an apprentice smith;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;2-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;9-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;7-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;7-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;
+*
+Kurjak
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@3c96266c1016473196
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>1526</IABLE><ITEXT>/1.0</ITEXT> 
+*
+Brik
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Brik
+10-8-4     : Deposit of 3 golden notes: Brik;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;
+*
+Brik
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@5f93f4981603531928
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>3</IABLE><ITEXT>/100.0</ITEXT> 
 -
 Ermiel
 LEDGER-First Bank of Silver Ford
 LEDGER-First Bank of Silver Ford/Ermiel
-17-5-3     : Deposit of 10 whole notes: Ermiel;|;16-6-3     : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;8-1-4      : Deposit of 10 gold coins: Interest paid.;|;8-2-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;13-3-4     : Deposit of 10 gold coins: Interest paid.;|;13-4-4     : Deposit of 10 gold coins: Interest paid.;|;6-6-4      : Deposit of 10 gold coins: Interest paid.;|;3-7-4      : Deposit of 10 gold coins: Interest paid.;|;5-7-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;16-7-4     : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;
+17-5-3     : Deposit of 10 whole notes: Ermiel;|;16-6-3     : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;9-7-3      : Deposit of 10 gold coins: Interest paid.;|;9-8-3      : Deposit of 10 gold coins: Interest paid.;|;8-1-4      : Deposit of 10 gold coins: Interest paid.;|;8-2-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;13-3-4     : Deposit of 10 gold coins: Interest paid.;|;13-4-4     : Deposit of 10 gold coins: Interest paid.;|;6-6-4      : Deposit of 10 gold coins: Interest paid.;|;3-7-4      : Deposit of 10 gold coins: Interest paid.;|;5-7-4      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;16-7-4     : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;6-8-4      : Deposit of 10 gold coins: Interest paid.;|;5-1-5      : Deposit of 10 gold coins: Interest paid.;|;6-1-5      : Deposit of 10 gold coins: Interest paid.;|;6-1-5      : Deposit of 10 gold coins: Interest paid.;|;7-1-5      : Deposit of 10 gold coins: Interest paid.;|;7-1-5      : Deposit of 10 gold coins: Interest paid.;|;1-1-1000   : Deposit of 10 gold coins: Interest paid.;|;
 -
 Ermiel
 First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@54b35f741421041524
-COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>100170</IABLE><ITEXT>/1.0</ITEXT> 
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@6425e0e21680204002
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>100250</IABLE><ITEXT>/1.0</ITEXT> 
 -
 Marosh
 LEDGER-First Bank of Silver Ford
 LEDGER-First Bank of Silver Ford/Marosh
-1-7-3      : Deposit of 10 golden notes: Marosh;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;8-2-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 20 golden notes: Marosh;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;
+1-7-3      : Deposit of 10 golden notes: Marosh;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;8-2-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 20 golden notes: Marosh;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;
 -
 Marosh
 First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@67f273811743942529
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@702bfc7117620679
 COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>20</IABLE><ITEXT>/100.0</ITEXT> 
 -
 Erranoth
 LEDGER-First Bank of Silver Ford
 LEDGER-First Bank of Silver Ford/Erranoth
-4-7-4      : Deposit of 10 golden notes: Erranoth;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;
+4-7-4      : Deposit of 10 golden notes: Erranoth;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;
 -
 Erranoth
 First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@9cbb6f6164345590
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@44ed48b51156401333
 COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>10</IABLE><ITEXT>/100.0</ITEXT> 
+*
+Kurjak
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Kurjak
+19-5-3     : Deposit of 40 golden notes: Kurjak;|;19-5-3     : Deposit of 4803 gold coins: Purchase: a 9# iron ore bundle from an apprentice smith;|;19-5-3     : Deposit of 88 gold coins: Purchase: an iron pot from an apprentice smith;|;16-6-3     : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;14-7-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;19-8-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;1-3-4      : Deposit of 7291 gold coins: Kurjak;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;19-3-4     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;4-7-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 1238 gold coins: Purchase: a strong lead scalemail coat from an apprentice smith;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;2-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;9-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;7-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;7-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;1-1-1000   : Withdrawl of 0 gold coin: Interest charged.;|;
+*
+Kurjak
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@2761c54d660718925
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>1525</IABLE><ITEXT>/1.0</ITEXT> 
+-
+Brik
+LEDGER-First Bank of Silver Ford
+LEDGER-First Bank of Silver Ford/Brik
+10-8-4     : Deposit of 3 golden notes: Brik;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;7-1-5      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;
+-
+Brik
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@5d32aa851563601541
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>3</IABLE><ITEXT>/100.0</ITEXT> 
+-
+Kurjak
+First Bank of Silver Ford
+com.planet_ink.coffee_mud.Items.Basic.StdCoins@2761c54d660718925
+COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>525</IABLE><ITEXT>/1.0</ITEXT>
 -
 Kurjak
 LEDGER-First Bank of Silver Ford
 LEDGER-First Bank of Silver Ford/Kurjak
-19-5-3     : Deposit of 40 golden notes: Kurjak;|;19-5-3     : Deposit of 4803 gold coins: Purchase: a 9# iron ore bundle from an apprentice smith;|;19-5-3     : Deposit of 88 gold coins: Purchase: an iron pot from an apprentice smith;|;16-6-3     : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;14-7-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;19-8-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;1-3-4      : Deposit of 7291 gold coins: Kurjak;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;19-3-4     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;4-7-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 1238 gold coins: Purchase: a strong lead scalemail coat from an apprentice smith;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;2-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;
--
-Kurjak
-First Bank of Silver Ford
-com.planet_ink.coffee_mud.Items.Basic.StdCoins@4d355ea31295343267
-COINS;<IWORN>0</IWORN><ILOC /><IUSES>2147483647</IUSES><ILEVL>0</ILEVL><IABLE>3529</IABLE><ITEXT>/1.0</ITEXT> 
+19-5-3     : Deposit of 40 golden notes: Kurjak;|;19-5-3     : Deposit of 4803 gold coins: Purchase: a 9# iron ore bundle from an apprentice smith;|;19-5-3     : Deposit of 88 gold coins: Purchase: an iron pot from an apprentice smith;|;16-6-3     : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;14-7-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;9-7-3      : Deposit of 0 gold coin: Interest paid.;|;9-8-3      : Deposit of 0 gold coin: Interest paid.;|;19-8-3     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;8-1-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Deposit of 0 gold coin: Interest paid.;|;9-2-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;1-3-4      : Deposit of 7291 gold coins: Kurjak;|;13-3-4     : Deposit of 0 gold coin: Interest paid.;|;19-3-4     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;13-4-4     : Deposit of 0 gold coin: Interest paid.;|;6-6-4      : Deposit of 0 gold coin: Interest paid.;|;4-7-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;3-7-4      : Deposit of 0 gold coin: Interest paid.;|;5-7-4      : Deposit of 1238 gold coins: Purchase: a strong lead scalemail coat from an apprentice smith;|;5-7-4      : Deposit of 0 gold coin: Interest paid.;|;1-1-1000   : Deposit of 0 gold coin: Interest paid.;|;2-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;16-7-4     : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;6-8-4      : Deposit of 0 gold coin: Interest paid.;|;9-8-4      : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;5-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Deposit of 0 gold coin: Interest paid.;|;6-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;7-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;7-1-5      : Withdrawl of 0 gold coin: Interest charged.;|;1-1-1000   : Withdrawl of 0 gold coin: Interest charged.;|;14-1-5     : Withdrawal of 10 golden notes: Payroll: Ability to set Price/Retainability of a pet.;|;

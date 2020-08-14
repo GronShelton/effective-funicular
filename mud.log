@@ -1,107 +1,163 @@
-20200810.1734.59 info  MUD            CoffeeMud v5.9.10
-20200810.1734.59 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200810.1734.59 info  MUD            http://www.coffeemud.org
-20200810.1734.59 error CMSecurity     Unknown or duplicate enable flag: CLASS_ARTISAN
-20200810.1735.00 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200810.1735.00 info  MUD@5555       MUD Server started on port: 5555
-20200810.1735.01 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
-20200810.1735.01 debug HOST0          SSL not configured.
-20200810.1735.01 debug HOST0          SSL not configured.
-20200810.1735.01 error SMTP           Set your coffeemud.ini parameter: DOMAIN
-20200810.1735.01 info  cweb-pub0      Started http pub0 on port 27744
-20200810.1735.01 info  cweb-admin0    Started http admin0 on port 27777
-20200810.1735.01 info  cweb-pub0      Started http pub0 on port 80
-20200810.1735.01 debug cweb-admin0Tim Timeout Thread started
-20200810.1735.01 debug cweb-pub0Timeo Timeout Thread started
-20200810.1735.03 info  HOST0          WebMacros loaded  : 193
-20200810.1735.04 info  HOST0          MOB Types loaded  : 148
-20200810.1735.04 info  HOST0          Exit Types loaded : 30
-20200810.1735.04 info  HOST0          Area Types loaded : 14
-20200810.1735.04 info  HOST0          Locales loaded    : 124
-20200810.1735.05 info  HOST0          Fighter Skills    : 131
-20200810.1735.06 info  HOST0          Chants loaded     : 315
-20200810.1735.06 info  HOST0          Languages loaded  : 58
-20200810.1735.06 info  HOST0          Properties loaded : 298
-20200810.1735.07 info  HOST0          Prayers loaded    : 306
-20200810.1735.07 info  HOST0          Thief Skills      : 154
-20200810.1735.08 info  HOST0          Skills loaded     : 316
-20200810.1735.08 info  HOST0          Songs loaded      : 156
-20200810.1735.09 info  HOST0          Spells loaded     : 403
-20200810.1735.09 info  HOST0          Heroics loaded    : 6
-20200810.1735.09 info  HOST0          Tech Skills loaded: 2
-20200810.1735.09 info  HOST0          Traps loaded      : 76
-20200810.1735.09 info  HOST0          GenAbles loaded   : 1
-20200810.1735.10 info  HOST0          Basic Items loaded: 128
-20200810.1735.10 info  HOST0          Weapons loaded    : 60
-20200810.1735.10 info  HOST0          Armor loaded      : 50
-20200810.1735.11 info  HOST0          Magic Items loaded: 45
-20200810.1735.11 info  HOST0          Clan Items loaded : 24
-20200810.1735.11 info  HOST0          Electronics loaded: 81
-20200810.1735.12 info  HOST0          Behaviors loaded  : 97
-20200810.1735.12 info  HOST0          Commands loaded   : 286
-20200810.1735.12 info  HOST0          Races loaded      : 227
-20200810.1735.12 info  HOST0          Classes loaded    : 54
-20200810.1735.20 info  HOST0          Expertises defined: 1817
-20200810.1735.20 info  HOST0          Channels loaded   : 20
-20200810.1735.20 info  HOST0          Socials loaded    : 312
-20200810.1735.20 info  HOST0          Clans loaded      : 0
-20200810.1735.20 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
-20200810.1735.20 info  I3Server       InterMud3 Core (c)1996 George Reese
-20200810.1735.21 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
-20200810.1735.21 info  Intermud3      I3 client connection: 204.209.44.3@8080
-20200810.1735.21 info  I3Server       InterMud3 Server started on port 27766
-20200810.1735.21 info  HOST0          Loading catalog...
-20200810.1735.21 info  HOST0          Loading map...
-20200810.1735.21 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
-20200810.1735.21 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
-20200810.1735.24 info  HOST0          Preparing map...
-20200810.1735.25 info  HOST0          Mapped rooms      : 440 in 12 areas
-20200810.1735.25 info  HOST0          Quests loaded     : 3
-20200810.1735.25 info  HOST0          Services and utilities started
-20200810.1735.25 info  HOST0          Host#0 initializated.
-20200810.1735.25 info  MUD            Initialization complete.
-20200810.1735.34 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
-20200810.1736.55 info  ItemGeneration Starting master item generation
-20200810.1737.49 info  Worker0#1      Connection from 108.11.190.209
-20200810.1737.57 error Achievements   Error: Missing or invalid STAT parameter: INTELLIGENCE!
-20200810.1737.57 error Achievements   Error: Missing or invalid STAT parameter: INTELLIGENCE!
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.57 debug Achievement    Unknown award type: INTELLIGENCE
-20200810.1737.58 info  Worker0#5      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
-20200810.1738.02 error CommandProcess Ermiel starts system shutdown...
-20200810.1738.02 info  Shutdown0      New Connections are now closed
-20200810.1738.02 info  ServiceEngine  Scheduler stopped
-20200810.1738.19 info  Shutdown0      All users saved.
-20200810.1738.19 info  Shutdown0      Stats saved.
-20200810.1738.19 info  Shutdown0      Notifying all objects of shutdown...
-20200810.1738.19 info  QuestBound     SHUTDOWN message for a grim kobold guard caused Adventure_House_Den_a_grim_kobold_guard_normal_protect1_R943397198 to reset.
-20200810.1738.19 info  QuestBound     SHUTDOWN message for a whimpering prisoner caused zfahprison_demon to reset.
-20200810.1738.19 info  QuestBound     SHUTDOWN message for the soldier caused dragmine_killer_1 to reset.
-20200810.1738.20 info  CM1Server      Shutdown complete
-20200810.1738.22 info  Shutdown0      CM1Server0@27733 stopped
-20200810.1738.22 info  Intermud       Shutdown!!!
-20200810.1738.23 info  Shutdown0      I3Server stopped
-20200810.1738.26 info  Shutdown0      All users logged off.
-20200810.1738.26 info  SMTP           Shutting down.
-20200810.1738.28 info  Shutdown0      SMTP Server stopped.
-20200810.1738.30 info  ServiceEngine  Shutdown complete.
-20200810.1738.30 info  Shutdown0      Map Threads Stopped.
-20200810.1738.31 info  Shutdown0      Resources Cleared.
-20200810.1738.31 info  Shutdown0      Database connections closed.
-20200810.1738.31 info  cweb-pub0      Shutdown complete
-20200810.1738.31 info  Shutdown0      Web server cweb-pub0 stopped.
-20200810.1738.31 info  cweb-admin0    Shutdown complete
-20200810.1738.31 info  cweb-pub0Timeo Timeout Thread shutdown
-20200810.1738.31 info  cweb-admin0Tim Timeout Thread shutdown
-20200810.1738.31 info  Shutdown0      Web server cweb-admin0 stopped.
-20200810.1738.31 info  Shutdown0      CoffeeMud shutdown complete.
-20200810.1738.32 info  MUD@5555       Server cleaning up.
-20200810.1738.33 info  MUD@5555       MUD on port 5555 stopped!
-20200810.1738.33 debug Shutdown0      Used memory = 107102504
+20200813.2024.49 info  MUD            CoffeeMud v5.9.10
+20200813.2024.49 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200813.2024.49 info  MUD            http://www.coffeemud.org
+20200813.2024.49 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
+20200813.2024.50 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200813.2024.50 info  MUD@5555       MUD Server started on port: 5555
+20200813.2024.51 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20200813.2024.51 debug HOST0          SSL not configured.
+20200813.2024.51 debug HOST0          SSL not configured.
+20200813.2024.51 info  cweb-admin0    Started http admin0 on port 27777
+20200813.2024.51 debug cweb-admin0Tim Timeout Thread started
+20200813.2024.51 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20200813.2024.51 info  cweb-pub0      Started http pub0 on port 27744
+20200813.2024.51 info  cweb-pub0      Started http pub0 on port 80
+20200813.2024.51 debug cweb-pub0Timeo Timeout Thread started
+20200813.2024.52 info  HOST0          WebMacros loaded  : 193
+20200813.2024.54 info  HOST0          MOB Types loaded  : 148
+20200813.2024.54 info  HOST0          Exit Types loaded : 30
+20200813.2024.54 info  HOST0          Area Types loaded : 14
+20200813.2024.54 info  HOST0          Locales loaded    : 124
+20200813.2024.55 info  HOST0          Fighter Skills    : 131
+20200813.2024.56 info  HOST0          Chants loaded     : 315
+20200813.2024.56 info  HOST0          Languages loaded  : 58
+20200813.2024.57 info  HOST0          Properties loaded : 298
+20200813.2024.58 info  HOST0          Prayers loaded    : 306
+20200813.2024.59 info  HOST0          Thief Skills      : 154
+20200813.2024.59 info  HOST0          Skills loaded     : 316
+20200813.2025.00 info  HOST0          Songs loaded      : 156
+20200813.2025.01 info  HOST0          Spells loaded     : 403
+20200813.2025.01 info  HOST0          Heroics loaded    : 6
+20200813.2025.01 info  HOST0          Tech Skills loaded: 2
+20200813.2025.01 info  HOST0          Traps loaded      : 76
+20200813.2025.01 info  HOST0          GenAbles loaded   : 1
+20200813.2025.01 info  HOST0          Basic Items loaded: 128
+20200813.2025.02 info  HOST0          Weapons loaded    : 60
+20200813.2025.02 info  HOST0          Armor loaded      : 50
+20200813.2025.02 info  HOST0          Magic Items loaded: 45
+20200813.2025.02 info  HOST0          Clan Items loaded : 24
+20200813.2025.03 info  HOST0          Electronics loaded: 81
+20200813.2025.03 info  HOST0          Behaviors loaded  : 97
+20200813.2025.04 info  HOST0          Commands loaded   : 286
+20200813.2025.04 info  HOST0          Races loaded      : 227
+20200813.2025.04 info  HOST0          Classes loaded    : 54
+20200813.2025.14 info  HOST0          Expertises defined: 1817
+20200813.2025.14 info  HOST0          Channels loaded   : 20
+20200813.2025.14 info  HOST0          Socials loaded    : 312
+20200813.2025.15 info  HOST0          Clans loaded      : 1
+20200813.2025.15 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20200813.2025.15 info  I3Server       InterMud3 Core (c)1996 George Reese
+20200813.2025.15 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20200813.2025.15 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20200813.2025.15 info  I3Server       InterMud3 Server started on port 27766
+20200813.2025.15 info  HOST0          Loading catalog...
+20200813.2025.15 info  HOST0          Loading map...
+20200813.2025.15 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
+20200813.2025.15 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
+20200813.2025.19 info  HOST0          Preparing map...
+20200813.2025.19 info  HOST0          Mapped rooms      : 438 in 10 areas
+20200813.2025.19 info  HOST0          Clan owned items  : 0
+20200813.2025.19 info  HOST0          Quests loaded     : 13
+20200813.2025.19 info  HOST0          Services and utilities started
+20200813.2025.19 info  HOST0          Host#0 initializated.
+20200813.2025.19 info  MUD            Initialization complete.
+20200813.2025.27 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
+20200813.2026.12 info  ItemGeneration Starting master item generation
+20200813.2027.33 info  ItemGeneration Finished master item generation
+20200813.2029.43 info  Worker0#4      Connection from 108.11.190.209
+20200813.2029.51 info  Worker0#1      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Gron
+20200813.2031.06 info  Worker0#2      Connection from 108.11.190.209
+20200813.2031.11 info  Worker0#3      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
+20200813.2034.38 info  Worker0#2      Logout: Gron (4m)
+20200813.2034.38 info  Worker0#2      Disconnect: Gron: 108.11.190.209 (4m)
+20200813.2042.11 info  Worker0#2      Connection from 223.17.127.109
+20200813.2054.50 info  Worker0#6      Connection from 193.93.62.130
+20200813.2054.56 info  Worker0#2      Disconnect: 193.93.62.130 (5s)
+20200813.2055.19 info  THSessions0    Kicking out login session after 13m 2s 132ms.
+20200813.2055.19 info  Worker0#6      Disconnect: 223.17.127.109 (13m)
+20200813.2101.01 info  Worker0#1      Connection from 172.92.143.166
+20200813.2102.03 info  Worker0#5      Disconnect: 172.92.143.166 (1m 2s)
+20200813.2225.26 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200813.2226.43 info  Worker0#4      Connection from 184.154.189.90
+20200813.2226.43 info  Worker0#2      Connection from 184.154.189.90
+20200813.2226.43 info  Worker0#2      Connection from 184.154.189.90
+20200813.2226.44 info  Worker0#4      Connection from 184.154.189.90
+20200813.2226.45 info  Worker0#5      Disconnect: 184.154.189.90 (1s 902ms)
+20200813.2226.49 info  Worker0#2      Connection from 184.154.189.90
+20200813.2226.49 info  Worker0#2      Disconnect: 184.154.189.90 (5s)
+20200813.2226.49 info  Worker0#6      Disconnect: 184.154.189.90 (5s)
+20200813.2226.50 info  Worker0#2      Disconnect: 184.154.189.90 (6s)
+20200813.2226.57 info  Worker0#3      Blocking a connection from 184.154.189.90 (6)
+20200813.2227.55 info  Worker0#7      Disconnect: 184.154.189.90 (1m 6s)
+20200813.2252.18 info  Worker0#6      Logout: Ermiel (2h)
+20200813.2252.18 info  Worker0#6      Disconnect: Ermiel: 108.11.190.209 (2h)
+20200813.2342.21 info  Worker0#7      Connection from 184.105.247.196
+20200813.2342.27 info  Worker0#1      Disconnect: 184.105.247.196 (6s)
+20200814.0001.01 info  Worker0#7      Connection from 172.92.143.166
+20200814.0002.03 info  Worker0#2      Disconnect: 172.92.143.166 (1m 1s)
+20200814.0301.01 info  Worker0#1      Connection from 172.92.143.166
+20200814.0302.03 info  Worker0#5      Disconnect: 172.92.143.166 (1m 1s)
+20200814.0310.01 info  Worker0#2      Connection from 129.227.129.167
+20200814.0310.07 info  Worker0#7      Disconnect: 129.227.129.167 (6s)
+20200814.0344.43 info  Worker0#1      Connection from 185.39.11.105
+20200814.0345.50 info  Worker0#7      Disconnect: 185.39.11.105 (1m 6s)
+20200814.0528.27 info  Worker0#7      Connection from 116.49.197.106
+20200814.0533.49 info  Worker0#2      Connection from 187.73.55.145
+20200814.0533.55 info  Worker0#7      Disconnect: 187.73.55.145 (5s)
+20200814.0535.21 info  THSessions0    Kicking out login session after 6m 48s 558ms.
+20200814.0535.21 info  Worker0#3      Disconnect: 116.49.197.106 (6m)
+20200814.0554.56 info  Worker0#3      Connection from 185.39.11.105
+20200814.0556.02 info  Worker0#1      Disconnect: 185.39.11.105 (1m 6s)
+20200814.0558.57 info  Worker0#6      Connection from 108.11.190.209
+20200814.0559.09 info  Worker0#3      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Gron
+20200814.0601.01 info  Worker0#6      Connection from 172.92.143.166
+20200814.0602.03 info  Worker0#6      Disconnect: 172.92.143.166 (1m 2s)
+20200814.0606.54 info  Scripting      Gron was MPSCRIPTED: Silver_Ford_Ormen_normal_delivery4_R593632791
+20200814.0623.28 info  Worker0#1      Connection from 114.33.166.207
+20200814.0634.36 info  Worker0#6      Disconnect: 114.33.166.207 (11m)
+20200814.0805.43 info  Worker0#9      Connection from 116.49.150.167
+20200814.0805.49 info  Worker0#13     Disconnect: 116.49.150.167 (5s)
+20200814.0828.08 info  Worker0#14     Connection from 83.249.218.22
+20200814.0828.14 info  Worker0#15     Disconnect: 83.249.218.22 (5s)
+20200814.0830.32 info  Worker0#9      Connection from 108.11.190.209
+20200814.0830.38 info  Worker0#14     108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
+20200814.0830.44 info  Shutdown0      Logout: Gron (2h)
+20200814.0830.45 info  Shutdown0      Disconnect: Gron: 108.11.190.209 (2h)
+20200814.0830.45 info  Worker0#14     Logout: Gron (2h)
+20200814.0830.45 error CommandProcess Ermiel starts system shutdown...
+20200814.0830.45 info  ServiceEngine  Scheduler stopped
+20200814.0830.45 info  Shutdown0      New Connections are now closed
+20200814.0831.30 info  Shutdown0      All users saved.
+20200814.0831.30 info  Shutdown0      Stats saved.
+20200814.0831.30 info  Shutdown0      Notifying all objects of shutdown...
+20200814.0831.30 info  QuestBound     SHUTDOWN message for a harsh kobold guard caused Adventure_House_Den_a_harsh_kobold_guard_normal_killer2_R291584226 to reset.
+20200814.0831.30 info  QuestBound     SHUTDOWN message for a grim kobold guard caused Adventure_House_Den_a_grim_kobold_guard_normal_protect1_R943397198 to reset.
+20200814.0831.31 info  QuestBound     SHUTDOWN message for a whimpering prisoner caused zfahprison_demon to reset.
+20200814.0831.31 info  QuestBound     SHUTDOWN message for a nasty gray rat caused Dragons_Belly_a_nasty_gray_rat_normal_killer2_R953071017 to reset.
+20200814.0831.31 info  QuestBound     SHUTDOWN message for an eerie gray rat caused Dragonmaw_Mine_an_eerie_gray_rat_normal_collect2_R488921824 to reset.
+20200814.0831.31 info  QuestBound     SHUTDOWN message for the giant snail caused Mud_School_the_giant_snail_normal_collect2_R986570348 to reset.
+20200814.0831.31 info  QuestBound     SHUTDOWN message for Zilor Fice caused Silver_Ford_Zilor_Fice_normal_delivery3_R760298042 to reset.
+20200814.0831.32 info  QuestBound     SHUTDOWN message for an Iron Dragon guard caused Silver_Ford_an_Iron_Dragon_guard_normal_killer2_R230334245 to reset.
+20200814.0831.32 info  QuestBound     SHUTDOWN message for the soldier caused dragmine_killer_1 to reset.
+20200814.0831.32 info  QuestBound     SHUTDOWN message for Ormen caused Silver_Ford_Ormen_normal_delivery4_R593632791 to reset.
+20200814.0831.33 info  CM1Server      Shutdown complete
+20200814.0831.35 info  Shutdown0      CM1Server0@27733 stopped
+20200814.0831.36 info  Intermud       Shutdown!!!
+20200814.0831.36 info  Shutdown0      I3Server stopped
+20200814.0831.40 info  Shutdown0      All users logged off.
+20200814.0831.40 info  SMTP           Shutting down.
+20200814.0831.43 info  Shutdown0      SMTP Server stopped.
+20200814.0831.45 info  ServiceEngine  Shutdown complete.
+20200814.0831.45 info  Shutdown0      Map Threads Stopped.
+20200814.0831.46 info  Shutdown0      Resources Cleared.
+20200814.0831.46 info  Shutdown0      Database connections closed.
+20200814.0831.46 info  Shutdown0      Web server cweb-pub0 stopped.
+20200814.0831.46 info  cweb-pub0Timeo Timeout Thread shutdown
+20200814.0831.46 info  cweb-pub0      Shutdown complete
+20200814.0831.46 info  cweb-admin0    Shutdown complete
+20200814.0831.46 info  cweb-admin0Tim Timeout Thread shutdown
+20200814.0831.46 info  Shutdown0      Web server cweb-admin0 stopped.
+20200814.0831.47 info  Shutdown0      CoffeeMud shutdown complete.
+20200814.0831.48 info  MUD@5555       Server cleaning up.
+20200814.0831.48 info  MUD@5555       MUD on port 5555 stopped!
+20200814.0831.48 debug Shutdown0      Used memory = 117491400

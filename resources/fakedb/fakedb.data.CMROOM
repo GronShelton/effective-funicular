@@ -579,13 +579,6 @@ AdventureHousePrison
 A narrow passageway 
 This damp passageway runs north and south. To the east is a filthy pit. To the west is a harsh prison cell.  The grey floor is bare and dirtless. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-AdventureHousePrison#3
-CaveRoom
-AdventureHousePrison
-a harsh prison cell 
-This is a cold prisoner`s holding cell. The wide floor is bare and dirtless. The exit to the east is the only way out. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 AdventureHousePrison#13
 StoneRoom
@@ -600,34 +593,6 @@ AdventureHousePrison
 A narrow passageway 
 This huge passageway seems to head east and west. There is an exit to the north. To the south is A narrow passageway.  A series of undecipherable scribbles sit on the walls. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-AdventureHousePrison#6
-CaveRoom
-AdventureHousePrison
-a quiet prison cell 
-You`re inside a cold prisoner`s holding cell. It looks like something might have died here. A interning corridor is to the north. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#4
-CaveRoom
-AdventureHousePrison
-a filthy pit 
-This is a filthy pit. Its little more than a great hole surrounded by a metal cage. This place is quiet. Escape is to the west. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#2
-CaveRoom
-AdventureHousePrison
-a large smelly cage 
-This is a large crowded dirty cell for common prisoners. Open grotesque bars are anchored into the floor and ceiling. The walls here are cold. The exit to the east is the only way out. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#5
-StoneRoom
-AdventureHousePrison
-a private easy cell 
-This is a broad well-lighted solitary prisoner`s holding suite. Everything here is totally well-lighted. A narrow passageway is to the south. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 AdventureHousePrison#8
 StoneRoom
@@ -642,41 +607,6 @@ AdventureHousePrison
 A interning corridor 
 This craggy corridor heads east and west. To the north is the laundry room. To the south is a quiet prison cell.  The constricted walls are nearly pitch black. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Iron Dragons Fortress#0
-LargeStoneRoom
-Iron Dragons Fortress
-Iron Dragons Foyer 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Iron Dragons Fortress#1
-LargeStoneRoom
-Iron Dragons Fortress
-An empty room 
-This lot is for sale (look id). 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>Kurjak/2000</ATEXT></AFF></AFFECS> 
--
-Iron Dragons Fortress#2
-LargeStoneRoom
-Iron Dragons Fortress
- An empty room 
- This lot is for sale (look id). 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>/2000</ATEXT></AFF></AFFECS> 
--
-Iron Dragons Fortress#3
-LargeStoneRoom
-Iron Dragons Fortress
- An empty room 
- This lot is for sale (look id). 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>/2000</ATEXT></AFF></AFFECS> 
--
-Iron Dragons Fortress#4
-LargeStoneRoom
-Iron Dragons Fortress
- An empty room 
- This lot is for sale (look id). 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotsForSale</ACLASS><ATEXT>/2000</ATEXT></AFF></AFFECS> 
 -
 Dragon`s Belly#2
 CaveRoom
@@ -2798,13 +2728,6 @@ AdventureHousePrison
 Under the Prison 
 The air is thick and hot in this small alcove. The rough stone walls look to have been carved with some tiny implement. There are scorch marks scattered all around. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#0
-CaveRoom
-AdventureHousePrison
-an unpleasant torture chamber 
-You are in a wet cell room obviously meant for pain. Just the sight of this unpleasant room makes you talk. You hear creepy screams of suffering in the distance. Escape is to the east. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 AdventureHousePrison#1
 CaveRoom
@@ -2826,13 +2749,6 @@ Silver Ford
 First Bank of Silver Ford 
 White fluted pillars reach up to the ceiling here. White marble floor tiles are polished and clear. Each step echoes throughout this large room. A long counter spans across the southern end of the lobby, with a dozen windows. One is open. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#0
-RoadGrid
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>3</XGRID><YGRID>3</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 Silver Ford#13
 StoneRoom
@@ -2847,26 +2763,12 @@ Silver Ford
 Rose Road 
 Rose Road is a wide path, traveled by merchant wagons and full parties of adventurers. The air is filled with the smell of ale and cooking meat. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#5
-Road
-Silver Ford
-Outside the Dusty Rose 
-The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Silver Ford#2
 Road
 Silver Ford
 Gold Road 
 The road here is smooth cobblestone. An elegant white stone building lies on the southern end of the road near here. The town hall is visible further east. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#33
-Road
-Silver Ford
-Gold Road 
-The well-kept cobblestone street here is clean and free of obstructions. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Silver Ford#1
@@ -2952,20 +2854,6 @@ Silver Ford
 CityStreet- 
  
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#24
-PlainsGrid
-Silver Ford
- An empty plot 
-A wide open field of grass, surrounded by wooden fencing. The Adventure Academy is visible to the east. This lot is for sale (look id). 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomsForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
-*
-Silver Ford#31
-PlainsGrid
-Silver Ford
-an empty lot 
-A wide open field of grass, surrounded by wooden fencing. Rows of wooden houses are visible on the west and south, and the northern fence runs right up to the edge of the forest. This lot is for sale (look id). 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>10000</ATEXT></AFF></AFFECS> 
 -
 Mud School#3712
 WoodRoom
@@ -2973,13 +2861,6 @@ Mud School
 The Cage Room 
 You are in the cage room.  All around are 4 cages.  Light fluoresces off the ceiling in soft white tones.  Of course, there is a big sign on the wall. Exits lead into the cardinal directions plus down. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>ResetWhole</BCLASS><BPARMS /></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_ReqNoMOB</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_ReqLevels</ACLASS><ATEXT>&lt;=5</ATEXT></AFF></AFFECS> 
-*
-Silver Ford#5
-Road
-Silver Ford
-Outside the Dusty Rose 
-The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Smell</ACLASS><ATEXT>alcohol</ATEXT></AFF></AFFECS> 
 -
 Silver Ford#5
 Road
@@ -2987,69 +2868,6 @@ Silver Ford
 Outside the Dusty Rose 
 The road here moves east and west, featuring a well-worn pathway to a large tavern. Even out here on the road, the cacophony of unruly drunks reaches your ears. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Smell</ACLASS><ATEXT>You smell ale.;You smell food cooking.</ATEXT></AFF></AFFECS> 
-*
-Adventure Academy#0
-StdRoom
-Adventure Academy
-StdRoom-Adventure Academy#0 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#0
-StdRoom
-Adventure Academy
-the entrance to the Zilor Fice Adventure Academy 
-large wooden building, big doors, sign 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#1
-WoodRoom
-Adventure Academy
-WoodRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#1
-WoodRoom
-Adventure Academy
-in the foyer of the Adventure Academy 
-shop and nexus point for training halls 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#2
-WoodRoom
-Adventure Academy
-WoodRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#2
-WoodRoom
-Adventure Academy
-a hallway 
-get items, wear 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#3
-StoneRoom
-Adventure Academy
-StoneRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#3
-StoneRoom
-Adventure Academy
-basement 
-item pop here, take up to npc 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Adventure Academy#3
-StoneRoom
-Adventure Academy
-basement 
-item pop here, take up to npc 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 AdventureHousePrison#2
 CaveRoom
@@ -3085,27 +2903,6 @@ AdventureHousePrison
 a quiet prison cell 
 You`re inside a cold prisoner`s holding cell. It looks like something might have died here. A interning corridor is to the north. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_NoRecall</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoSummon</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_NoTeleportOut</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#0
-CaveRoom
-AdventureHousePrison
-an unpleasant torture chamber 
-This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>randprog;50;rpecho Someone screams;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#0
-CaveRoom
-AdventureHousePrison
-an unpleasant torture chamber 
-This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>rand_prog 50;rpecho Someone screams;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-AdventureHousePrison#0
-CaveRoom
-AdventureHousePrison
-an unpleasant torture chamber 
-This wet cell room is littered with implements of torture. Blood stains mark the floor, walls, and even reach the ceiling. The only visible exit is to to the north. 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Scriptable</BCLASS><BPARMS>rand_prog 50;mpecho Someone screams.;~;</BPARMS></BHAVE></BEHAVES><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 AdventureHousePrison#0
 CaveRoom
@@ -3120,34 +2917,6 @@ Silver Ford
 Gold Road 
 The well-kept cobblestone street here is clean and free of obstructions. The town hall presides over the eastern end of the road. On the south side is a large white stone building. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#0
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#38
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#39
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#40
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 Silver Ford#41
 Road
@@ -3155,34 +2924,6 @@ Silver Ford
 the Marketplace 
 Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#42
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#43
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#44
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#45
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The job board in the center is crowded with young adventurers eager to prove themselves. From here, the bright lights of the Adventure Academy flash in the north, and a tall dark tower reaches into the sky to the south. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 Silver Ford#38
 Road
@@ -3192,13 +2933,6 @@ Silver Ford`s open marketplace is the heart of activity in the town. Merchants, 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
 -
 Silver Ford#39
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF></AFFECS> 
-*
-Silver Ford#40
 Road
 Silver Ford
 the Marketplace 
@@ -3246,54 +2980,12 @@ Adventure Academy
 in the foyer 
 shop and nexus point for training halls 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#1
-WoodRoom
-Adventure Academy
-a hallway 
-get items, wear 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#2
-StoneRoom
-Adventure Academy
-StoneRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#2
-StoneRoom
-Adventure Academy
-basement 
-dark room, item pops 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#1
-WoodRoom
-Adventure Academy
-items room 
-NPC quest to go down and get thing. get torch, hold torch 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#3
-WoodRoom
-Adventure Academy
-WoodRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Adventure Academy#3
 WoodRoom
 Adventure Academy
 fite room 
 weapon rack, down for moves and flee, up for dummy. NPC quest to kill dummy 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#4
-StoneRoom
-Adventure Academy
-StoneRoom- 
- 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Adventure Academy#4
@@ -3302,26 +2994,12 @@ Adventure Academy
 golem room 
 golem here, high hp, can practice moves but need to flee 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#5
-WoodRoom
-Adventure Academy
-WoodRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Adventure Academy#5
 WoodRoom
 Adventure Academy
 dummy room 
 training dummy here, kill for quest 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure Academy#6
-WoodRoom
-Adventure Academy
-WoodRoom- 
- 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Adventure Academy#6
@@ -3330,13 +3008,6 @@ Adventure Academy
 training room 
 2 NPCs Zaren and Vlac, train/gain. search for item, turn in for quest 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Silver Ford#46
-CityStreet
-Silver Ford
-CityStreet- 
- 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Silver Ford#46
 CityStreet
@@ -3344,13 +3015,6 @@ Silver Ford
 town hall 
 under construction 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Adventure House Den#30
-CaveRoom
-Adventure House Den
-CaveRoom- 
- 
-<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Adventure House Den#30
 CaveRoom
@@ -3359,20 +3023,6 @@ an underground chamber
 This room appears to have been dug out by tiny clawed hands. The floor is covered with filthy water and filled with trash. The smell of death and feces is inescapable. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
 *
-Silver Ford#31
-PlainsGrid
-Silver Ford
-an empty lot 
-A wide open field of grass, surrounded by wooden fencing. Rows of wooden houses are visible on the west and south, and the northern fence runs right up to the edge of the forest. This lot is for sale (look id). 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_LotForSale</ACLASS><ATEXT>10000</ATEXT></AFF></AFFECS> 
-*
-Silver Ford#40
-Road
-Silver Ford
-the Marketplace 
-Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>2000</ATEXT></AFF></AFFECS> 
--
 Silver Ford#40
 Road
 Silver Ford
@@ -3393,3 +3043,108 @@ Adventure Academy
 basement 
 dark room, item pops 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomDark</ACLASS><ATEXT /></AFF></AFFECS> 
+*
+Silver Ford#24
+PlainsGrid
+Silver Ford
+PlainsGrid-PlainsGrid 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#24
+PlainsGrid
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#24
+Plains
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#24
+PlainsGrid
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#40
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. This lot is for sale (look id). 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>Kurjaksmom/2000</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#40
+Road
+Silver Ford
+the Marketplace 
+Silver Ford`s open marketplace is the heart of activity in the town. Merchants, shoppers, and adventurers of all types move in and out of the area, looking for work or trade. The bright lights of the Adventure Academy flash north of here. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_RoomLit</ACLASS><ATEXT /></AFF><AFF><ACLASS>Prop_RoomForSale</ACLASS><ATEXT>Kurjaksmom/2000</ATEXT></AFF></AFFECS> 
+*
+Silver Ford#24
+Plains
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#24
+PlainsGrid
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#24
+Plains
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#31
+Plains
+Silver Ford
+Plains- 
+ 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#24
+PlainsGrid
+Silver Ford
+a large grassy field 
+A wooden fence surrounds this large field. The grass is green and healthy, and is decorated by big patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+-
+Silver Ford#31
+Plains
+Silver Ford
+before a field 
+A large grassy field spans the area on this side of the gate. Lush, green, and decorated by patches of colorful flowers. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#47
+WoodRoom
+Silver Ford
+WoodRoom- 
+ 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Silver Ford#47
+WoodRoom
+Silver Ford
+Cromwell`s Livery 
+A simple wooden stable, with green-painted roofing. The floor is littered with dirt and hay. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Smell</ACLASS><ATEXT>hay.; manure.; horses.</ATEXT></AFF></AFFECS> 
+-
+Silver Ford#47
+WoodRoom
+Silver Ford
+Cromwell`s Livery 
+A simple wooden stable, with green-painted roofing. The floor is littered with dirt and hay. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Prop_Smell</ACLASS><ATEXT>It smells of hay.;Definitely smells like manure.;You can smell horses.</ATEXT></AFF></AFFECS> 
