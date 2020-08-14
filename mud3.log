@@ -1,357 +1,282 @@
-20200809.0635.16 info  MUD            CoffeeMud v5.9.10
-20200809.0635.16 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200809.0635.16 info  MUD            http://www.coffeemud.org
-20200809.0635.16 error CMSecurity     Unknown or duplicate enable flag: CLASS_ARTISAN
-20200809.0635.16 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200809.0635.16 info  MUD@5555       MUD Server started on port: 5555
-20200809.0635.17 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
-20200809.0635.17 debug HOST0          SSL not configured.
-20200809.0635.17 debug HOST0          SSL not configured.
-20200809.0635.17 info  cweb-admin0    Started http admin0 on port 27777
-20200809.0635.17 error SMTP           Set your coffeemud.ini parameter: DOMAIN
-20200809.0635.17 info  cweb-pub0      Started http pub0 on port 27744
-20200809.0635.17 info  cweb-pub0      Started http pub0 on port 80
-20200809.0635.17 debug cweb-admin0Tim Timeout Thread started
-20200809.0635.17 debug cweb-pub0Timeo Timeout Thread started
-20200809.0635.18 info  HOST0          WebMacros loaded  : 193
-20200809.0635.20 info  HOST0          MOB Types loaded  : 148
-20200809.0635.20 info  HOST0          Exit Types loaded : 30
-20200809.0635.20 info  HOST0          Area Types loaded : 14
-20200809.0635.20 info  HOST0          Locales loaded    : 124
-20200809.0635.20 info  HOST0          Fighter Skills    : 131
-20200809.0635.21 info  HOST0          Chants loaded     : 315
-20200809.0635.21 info  HOST0          Languages loaded  : 58
-20200809.0635.22 info  HOST0          Properties loaded : 298
-20200809.0635.23 info  HOST0          Prayers loaded    : 306
-20200809.0635.23 info  HOST0          Thief Skills      : 154
-20200809.0635.24 info  HOST0          Skills loaded     : 316
-20200809.0635.24 info  HOST0          Songs loaded      : 156
-20200809.0635.25 info  HOST0          Spells loaded     : 403
-20200809.0635.25 info  HOST0          Heroics loaded    : 6
-20200809.0635.25 info  HOST0          Tech Skills loaded: 2
-20200809.0635.25 info  HOST0          Traps loaded      : 76
-20200809.0635.25 info  HOST0          GenAbles loaded   : 1
-20200809.0635.26 info  HOST0          Basic Items loaded: 128
-20200809.0635.26 info  HOST0          Weapons loaded    : 60
-20200809.0635.26 info  HOST0          Armor loaded      : 50
-20200809.0635.26 info  HOST0          Magic Items loaded: 45
-20200809.0635.26 info  HOST0          Clan Items loaded : 24
-20200809.0635.27 info  HOST0          Electronics loaded: 81
-20200809.0635.27 info  HOST0          Behaviors loaded  : 97
-20200809.0635.28 info  HOST0          Commands loaded   : 286
-20200809.0635.28 info  HOST0          Races loaded      : 227
-20200809.0635.28 info  HOST0          Classes loaded    : 54
-20200809.0635.32 info  HOST0          Expertises defined: 1817
-20200809.0635.33 info  HOST0          Channels loaded   : 20
-20200809.0635.33 info  HOST0          Socials loaded    : 312
-20200809.0635.33 info  HOST0          Clans loaded      : 0
-20200809.0635.33 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
-20200809.0635.33 info  I3Server       InterMud3 Core (c)1996 George Reese
-20200809.0635.33 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
-20200809.0635.33 info  Intermud3      I3 client connection: 204.209.44.3@8080
-20200809.0635.33 info  I3Server       InterMud3 Server started on port 27766
-20200809.0635.33 info  HOST0          Loading catalog...
-20200809.0635.33 info  HOST0          Loading map...
-20200809.0635.34 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
-20200809.0635.34 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
-20200809.0635.37 info  HOST0          Preparing map...
-20200809.0635.37 info  HOST0          Mapped rooms      : 442 in 12 areas
-20200809.0635.37 info  HOST0          Quests loaded     : 1
-20200809.0635.37 info  HOST0          Services and utilities started
-20200809.0635.37 info  HOST0          Host#0 initializated.
-20200809.0635.37 info  MUD            Initialization complete.
-20200809.0635.46 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
-20200809.0640.35 info  Worker0#1      Connection from 171.214.147.35
-20200809.0641.11 info  Worker0#3      Connection from 108.11.190.209
-20200809.0641.11 info  Worker0#1      Connection from 108.11.190.209
-20200809.0641.12 info  Worker0#4      Disconnect: 171.214.147.35 (36s)
-20200809.0641.19 info  Worker0#4      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
-20200809.0641.26 info  Worker0#4      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Marosh
-20200809.0645.11 info  ItemGeneration Starting master item generation
-20200809.0646.32 info  ItemGeneration Finished master item generation
-20200809.0650.36 info  CreateEdit     Ermiel modified mob the soldier (GenMob) in Silver Ford#17.
-20200809.0715.37 warni THSessions0    Suspect Session: Ermiel (Silver Ford#17), out for 24m 49s 216ms
-STATUS  is :MAINLOOP, LASTCMD was :[create, quest]
-20200809.0718.21 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0719.09 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0720.37 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0722.42 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0724.14 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0725.01 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0726.07 info  Rooms          Ermiel modified quest dragmine_killer_1.
-20200809.0727.42 info  Worker0#1      Logout: Marosh (46m)
-20200809.0727.42 info  Worker0#1      Disconnect: Marosh: 108.11.190.209 (46m)
-20200809.0727.46 error CommandProcess Ermiel starts system restart...
-20200809.0727.46 info  Shutdown0      New Connections are now closed
-20200809.0727.46 info  ServiceEngine  Scheduler stopped
-20200809.0728.03 info  Shutdown0      All users saved.
-20200809.0728.03 info  Shutdown0      Stats saved.
-20200809.0728.03 info  Shutdown0      Notifying all objects of shutdown...
-20200809.0728.04 info  QuestBound     SHUTDOWN message for a whimpering prisoner caused zfahprison_demon to reset.
-20200809.0728.04 info  QuestBound     SHUTDOWN message for the soldier caused dragmine_killer_1 to reset.
-20200809.0728.05 info  CM1Server      Shutdown complete
-20200809.0728.07 info  Shutdown0      CM1Server0@27733 stopped
-20200809.0728.07 info  Intermud       Shutdown!!!
-20200809.0728.07 info  Shutdown0      I3Server stopped
-20200809.0728.10 info  Shutdown0      All users logged off.
-20200809.0728.10 info  SMTP           Shutting down.
-20200809.0728.13 info  Shutdown0      SMTP Server stopped.
-20200809.0728.15 info  ServiceEngine  Shutdown complete.
-20200809.0728.15 info  Shutdown0      Map Threads Stopped.
-20200809.0728.15 info  Shutdown0      Resources Cleared.
-20200809.0728.15 info  Shutdown0      Database connections closed.
-20200809.0728.15 info  cweb-pub0      Shutdown complete
-20200809.0728.15 info  cweb-pub0Timeo Timeout Thread shutdown
-20200809.0728.15 info  Shutdown0      Web server cweb-pub0 stopped.
-20200809.0728.15 info  cweb-admin0    Shutdown complete
-20200809.0728.15 info  cweb-admin0Tim Timeout Thread shutdown
-20200809.0728.15 info  Shutdown0      Web server cweb-admin0 stopped.
-20200809.0728.16 info  Shutdown0      CoffeeMud shutdown complete.
-20200809.0728.17 info  MUD@5555       Server cleaning up.
-20200809.0728.17 info  MUD@5555       MUD on port 5555 stopped!
-20200809.0728.18 debug Shutdown0      Used memory = 105626960
-20200809.0728.20 info  MUD            CoffeeMud v5.9.10
-20200809.0728.20 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200809.0728.20 info  MUD            http://www.coffeemud.org
-20200809.0728.20 error CMSecurity     Unknown or duplicate disable flag: COMMAND_POSE
-20200809.0728.20 error CMSecurity     Unknown or duplicate enable flag: RACE_OGRE
-20200809.0728.20 error CMSecurity     Unknown or duplicate enable flag: RACE_ORC
-20200809.0728.20 error CMSecurity     Unknown or duplicate enable flag: RACE_GOBLIN
-20200809.0728.20 error CMSecurity     Unknown or duplicate enable flag: RACE_CENTAUR
-20200809.0728.20 error CMSecurity     Unknown or duplicate enable flag: CLASS_ARTISAN
-20200809.0728.20 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200809.0728.20 info  MUD@5555       MUD Server started on port: 5555
-20200809.0728.20 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
-20200809.0728.20 debug HOST0          SSL not configured.
-20200809.0728.20 info  cweb-pub0      Started http pub0 on port 27744
-20200809.0728.20 info  cweb-pub0      Started http pub0 on port 80
-20200809.0728.20 debug cweb-pub0Timeo Timeout Thread started
-20200809.0728.20 debug HOST0          SSL not configured.
-20200809.0728.20 info  cweb-admin0    Started http admin0 on port 27777
-20200809.0728.20 error SMTP           Set your coffeemud.ini parameter: DOMAIN
-20200809.0728.20 debug cweb-admin0Tim Timeout Thread started
-20200809.0728.20 info  HOST0          WebMacros loaded  : 193
-20200809.0728.21 info  HOST0          MOB Types loaded  : 148
-20200809.0728.21 info  HOST0          Exit Types loaded : 30
-20200809.0728.21 info  HOST0          Area Types loaded : 14
-20200809.0728.21 info  HOST0          Locales loaded    : 124
-20200809.0728.21 info  HOST0          Fighter Skills    : 131
-20200809.0728.21 info  HOST0          Chants loaded     : 315
-20200809.0728.21 info  HOST0          Languages loaded  : 58
-20200809.0728.21 info  HOST0          Properties loaded : 298
-20200809.0728.21 info  HOST0          Prayers loaded    : 306
-20200809.0728.21 info  HOST0          Thief Skills      : 154
-20200809.0728.21 info  HOST0          Skills loaded     : 316
-20200809.0728.21 info  HOST0          Songs loaded      : 156
-20200809.0728.21 info  HOST0          Spells loaded     : 403
-20200809.0728.21 info  HOST0          Heroics loaded    : 6
-20200809.0728.21 info  HOST0          Tech Skills loaded: 2
-20200809.0728.21 info  HOST0          Traps loaded      : 76
-20200809.0728.21 info  HOST0          GenAbles loaded   : 1
-20200809.0728.21 info  HOST0          Basic Items loaded: 128
-20200809.0728.21 info  HOST0          Weapons loaded    : 60
-20200809.0728.21 info  HOST0          Armor loaded      : 50
-20200809.0728.21 info  HOST0          Magic Items loaded: 45
-20200809.0728.21 info  HOST0          Clan Items loaded : 24
-20200809.0728.21 info  HOST0          Electronics loaded: 81
-20200809.0728.21 info  HOST0          Behaviors loaded  : 97
-20200809.0728.22 info  HOST0          Commands loaded   : 286
-20200809.0728.22 info  HOST0          Races loaded      : 227
-20200809.0728.22 info  HOST0          Classes loaded    : 54
-20200809.0728.27 info  HOST0          Expertises defined: 1817
-20200809.0728.27 info  HOST0          Channels loaded   : 20
-20200809.0728.27 info  HOST0          Socials loaded    : 312
-20200809.0728.27 info  HOST0          Clans loaded      : 0
-20200809.0728.27 info  I3Server       InterMud3 Core (c)1996 George Reese
-20200809.0728.27 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
-20200809.0728.27 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
-20200809.0728.27 info  Intermud3      I3 client connection: 204.209.44.3@8080
-20200809.0728.27 info  I3Server       InterMud3 Server started on port 27766
-20200809.0728.28 info  HOST0          Loading catalog...
-20200809.0728.28 info  HOST0          Loading map...
-20200809.0728.28 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
-20200809.0728.28 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
-20200809.0728.29 info  HOST0          Preparing map...
-20200809.0728.29 info  HOST0          Mapped rooms      : 442 in 12 areas
-20200809.0728.29 info  HOST0          Quests loaded     : 2
-20200809.0728.29 info  HOST0          Services and utilities started
-20200809.0728.29 info  HOST0          Host#0 initializated.
-20200809.0728.30 info  MUD            Initialization complete.
-20200809.0728.37 info  Worker0#5      Connection from 108.11.190.209
-20200809.0728.39 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
-20200809.0728.44 info  Worker0#2      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
-20200809.0728.51 info  Scripting      Ermiel was MPSCRIPTED: dragmine_killer_1
-20200809.0729.00 info  Worker0#1      Connection from 108.11.190.209
-20200809.0729.05 info  Worker0#4      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Marosh
-20200809.0729.11 info  Scripting      Marosh was MPSCRIPTED: dragmine_killer_1
-20200809.0730.47 info  Worker0#4      Connection from 138.75.161.255
-20200809.0730.52 info  Worker0#2      Disconnect: 138.75.161.255 (5s)
-20200809.0757.18 info  Worker0#1      Logout: Marosh (28m)
-20200809.0757.18 info  Worker0#1      Disconnect: Marosh: 108.11.190.209 (28m)
-20200809.0815.54 info  Worker0#5      Connection from 170.106.81.251
-20200809.0815.54 info  Worker0#1      Connection from 170.106.81.251
-20200809.0816.00 info  Worker0#3      Disconnect: 170.106.81.251 (6s)
-20200809.0816.00 info  Worker0#1      Disconnect: 170.106.81.251 (6s)
-20200809.0826.28 info  Worker0#2      Connection from 174.226.5.94
-20200809.0826.52 info  Worker0#3      174.226.5.94 BlowTorch CMP ANSI, character login: Avol
-20200809.0827.28 info  Scripting      Avol was MPSCRIPTED: zfahprison_demon
-20200809.0828.36 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.0834.00 info  Scripting      Avol was MPSCRIPTED: dragmine_killer_1
-20200809.0835.42 info  Worker0#1      Logout: Avol (8m)
-20200809.0835.42 info  Worker0#1      Disconnect: Avol: 174.226.5.94 (9m)
-20200809.0900.39 info  Worker0#2      Connection from 220.162.132.66
-20200809.0900.45 info  Worker0#1      Disconnect: 220.162.132.66 (5s)
-20200809.0901.02 info  Worker0#4      Connection from 172.92.143.166
-20200809.0902.04 info  Worker0#1      Disconnect: 172.92.143.166 (1m 1s)
-20200809.0928.36 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.0935.35 info  Worker0#2      Connection from 108.11.190.209
-20200809.0948.30 info  THSessions0    Kicking out login session after 12m 53s 380ms.
-20200809.0948.30 info  Worker0#5      Disconnect: 108.11.190.209 (12m)
-20200809.1118.57 info  Worker0#6      Connection from 185.39.11.105
-20200809.1120.04 info  Worker0#3      Disconnect: 185.39.11.105 (1m 6s)
-20200809.1128.38 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.1150.00 info  Rooms          Ermiel modified room Silver Ford#31.
-20200809.1151.03 info  Rooms          Ermiel modified room Silver Ford#31.
-20200809.1151.34 info  Rooms          Ermiel destroyed room Silver Ford#31.
-20200809.1151.45 info  Rooms          Ermiel destroyed room Silver Ford#24.
-20200809.1158.52 info  Worker0#4      Connection from 218.32.211.117
-20200809.1158.54 info  Worker0#6      Connection from 218.32.211.113
-20200809.1159.08 info  Worker0#3      Connection from 108.11.190.209
-20200809.1159.28 info  Worker0#3      Disconnect: 218.32.211.117 (36s)
-20200809.1159.30 info  Worker0#5      Disconnect: 218.32.211.113 (36s)
-20200809.1200.12 info  Worker0#3      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Marosh
-20200809.1201.01 info  Worker0#2      Connection from 172.92.143.166
-20200809.1202.03 info  Worker0#3      Disconnect: 172.92.143.166 (1m 2s)
-20200809.1204.46 info  Worker0#2      Connection from 218.32.211.113
-20200809.1205.22 info  Worker0#5      Disconnect: 218.32.211.113 (36s)
-20200809.1207.49 info  Rooms          Ermiel modified room Silver Ford#40.
-20200809.1208.41 info  SysopUtils     Ermiel 1 copied GenArmor item.
-20200809.1208.44 info  SysopUtils     Ermiel 1 copied GenArmor item.
-20200809.1208.48 info  SysopUtils     Ermiel 1 copied GenShoes item.
-20200809.1209.38 info  SysopUtils     Ermiel 1 copied GenWallpaper item.
-20200809.1210.06 info  CreateEdit     Ermiel modified item id (GenWallpaper) in Silver Ford#40.
-20200809.1216.10 info  Worker0#1      Connection from 218.32.211.113
-20200809.1216.46 info  Worker0#5      Disconnect: 218.32.211.113 (36s)
-20200809.1228.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.1228.48 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.1248.57 info  Worker0#4      Connection from 216.218.206.68
-20200809.1249.03 info  Worker0#4      Disconnect: 216.218.206.68 (6s)
-20200809.1255.15 info  Mobs           Ermiel created mob Finethil Lithtaur.
-20200809.1255.27 info  Rooms          Ermiel modified room Adventure Academy#1.
-20200809.1255.31 info  SysopUtils     Ermiel 1 copied Torch item.
-20200809.1300.20 info  Rooms          Ermiel modified room Adventure Academy#2.
-20200809.1301.01 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1301.04 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1301.05 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1301.06 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1301.06 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.28 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.30 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.31 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.31 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.31 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.32 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.32 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.33 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.33 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.33 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.33 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1302.34 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.17 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.18 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.18 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.18 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.18 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.19 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.19 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1303.19 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1306.14 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1306.14 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1306.14 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1306.14 info  SysopUtils     Ermiel 1 copied GenResource item.
-20200809.1307.24 info  SysopUtils     Ermiel 1 copied GenJournal item.
-20200809.1312.36 info  Items          Ermiel created item GenItem.
-20200809.1313.20 info  Worker0#1      Connection from 185.176.221.168
-20200809.1313.26 info  Worker0#1      Disconnect: 185.176.221.168 (5s)
-20200809.1319.16 info  SysopUtils     Ermiel 1 copied Lantern item.
-20200809.1320.13 info  CreateEdit     Ermiel modified mob Finethil Lithtaur (GenMob) in Adventure Academy#1.
-20200809.1322.37 info  Worker0#1      Logout: Marosh (1h 22m)
-20200809.1322.37 info  Worker0#1      Disconnect: Marosh: 108.11.190.209 (1h 23m)
-20200809.1328.38 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.1356.12 info  Worker0#1      Connection from 185.39.11.105
-20200809.1357.18 info  Worker0#1      Disconnect: 185.39.11.105 (1m 6s)
-20200809.1428.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.1501.01 info  Worker0#6      Connection from 172.92.143.166
-20200809.1501.45 info  SysopUtils     Ermiel 1 copied GenContainer item.
-20200809.1502.03 info  Worker0#6      Disconnect: 172.92.143.166 (1m 2s)
-20200809.1502.22 info  SysopUtils     Ermiel 1 copied GenContainer item.
-20200809.1502.35 info  CreateEdit     Ermiel modified item a weapon rack (GenContainer) in Mud School#3712.
-20200809.1503.12 info  CreateEdit     Ermiel modified item a weapon rack (GenContainer) in Adventure Academy#3.
-20200809.1507.33 info  Mobs           Ermiel created mob a large stone golem.
-20200809.1508.01 info  Worker0#1      Connection from 223.17.6.29
-20200809.1518.32 info  THSessions0    Kicking out login session after 10m 24s 888ms.
-20200809.1518.32 info  Worker0#2      Disconnect: 223.17.6.29 (10m)
-20200809.1518.36 info  Mobs           Ermiel created mob a ZFAA wood golem.
-20200809.1521.37 info  Worker0#4      Connection from 5.255.44.57
-20200809.1528.32 info  THSessions0    Kicking out login session after 6m 49s 335ms.
-20200809.1528.32 info  Worker0#6      Disconnect: 5.255.44.57 (6m)
-20200809.1528.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
-20200809.1550.58 info  SysopUtils     Ermiel 1 copied GenShirt item.
-20200809.1555.42 info  Items          Ermiel created item GenArmor.
-20200809.1555.50 info  SysopUtils     Ermiel 1 copied GenArmor item.
-20200809.1600.48 info  Rooms          Ermiel modified area Adventure Academy.
-20200809.1601.33 info  Rooms          Ermiel modified area Adventure Academy.
-20200809.1603.22 info  SysopUtils     Ermiel 1 copied GenArmor item.
-20200809.1604.49 info  CreateEdit     Ermiel modified item ZFAA wooden shin guards (GenArmor) in Adventure Academy#5.
-20200809.1604.56 info  SysopUtils     Ermiel 1 copied GenArmor item.
-20200809.1606.26 info  Worker0#6      Connection from 108.11.190.209
-20200809.1606.31 info  Worker0#4      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Kurjak
-20200809.1610.07 info  CreateEdit     Ermiel modified item a bright sign (GenReadable) in Silver Ford#9.
-20200809.1610.26 info  CreateEdit     Ermiel modified item a bright sign (GenReadable) in Silver Ford#7.
-20200809.1611.56 info  Worker0#6      Connection from 223.19.24.63
-20200809.1613.44 info  CreateEdit     Ermiel modified item the king`s chest (GenContainer) in Adventure House Den#3.
-20200809.1613.56 info  Worker0#2      Logout: Kurjak (7m)
-20200809.1613.56 info  Worker0#2      Disconnect: Kurjak: 108.11.190.209 (7m)
-20200809.1618.32 info  THSessions0    Kicking out login session after 6m 30s 128ms.
-20200809.1618.32 info  Worker0#3      Disconnect: 223.19.24.63 (6m)
-20200809.1648.43 info  Worker0#8      Connection from 218.237.227.166
-20200809.1648.49 info  Worker0#7      Disconnect: 218.237.227.166 (5s)
-20200809.1655.59 info  Worker0#1      Connection from 59.175.187.2
-20200809.1656.05 info  Worker0#3      Disconnect: 59.175.187.2 (5s)
-20200809.1702.07 info  Worker0#4      Connection from 108.11.190.209
-20200809.1702.28 info  Worker0#8      108.11.190.209 BlowTorch CMP ANSI, character login: Erranoth
-20200809.1714.48 info  Worker0#2      Connection from 183.136.225.45
-20200809.1715.54 info  Worker0#6      Disconnect: 183.136.225.45 (1m 6s)
-20200809.1728.30 info  Worker0#7      Alysan has been deleted.
-20200809.1728.30 info  THPlayers0     AutoPurged user Alysan (0). Last logged in 7/29/2020 4:07 PM.
-20200809.1746.02 info  Worker0#7      Logout: Erranoth (43m)
-20200809.1746.02 info  Worker0#7      Disconnect: Erranoth: 108.11.190.209 (43m)
-20200809.1746.08 error CommandProcess Ermiel starts system shutdown...
-20200809.1746.08 info  Shutdown0      New Connections are now closed
-20200809.1746.08 info  ServiceEngine  Scheduler stopped
-20200809.1746.30 info  Shutdown0      All users saved.
-20200809.1746.30 info  Shutdown0      Stats saved.
-20200809.1746.30 info  Shutdown0      Notifying all objects of shutdown...
-20200809.1746.30 info  QuestBound     SHUTDOWN message for a whimpering prisoner caused zfahprison_demon to reset.
-20200809.1746.31 info  QuestBound     SHUTDOWN message for the soldier caused dragmine_killer_1 to reset.
-20200809.1746.32 info  CM1Server      Shutdown complete
-20200809.1746.34 info  Shutdown0      CM1Server0@27733 stopped
-20200809.1746.34 info  Intermud       Shutdown!!!
-20200809.1746.34 info  Shutdown0      I3Server stopped
-20200809.1746.37 info  Shutdown0      All users logged off.
-20200809.1746.37 info  SMTP           Shutting down.
-20200809.1746.40 info  Shutdown0      SMTP Server stopped.
-20200809.1746.41 info  ServiceEngine  Shutdown complete.
-20200809.1746.41 info  Shutdown0      Map Threads Stopped.
-20200809.1746.42 info  Shutdown0      Resources Cleared.
-20200809.1746.42 info  Shutdown0      Database connections closed.
-20200809.1746.42 info  cweb-pub0      Shutdown complete
-20200809.1746.42 info  cweb-pub0Timeo Timeout Thread shutdown
-20200809.1746.42 info  Shutdown0      Web server cweb-pub0 stopped.
-20200809.1746.42 info  cweb-admin0    Shutdown complete
-20200809.1746.42 info  cweb-admin0Tim Timeout Thread shutdown
-20200809.1746.42 info  Shutdown0      Web server cweb-admin0 stopped.
-20200809.1746.42 info  Shutdown0      CoffeeMud shutdown complete.
-20200809.1746.44 info  MUD@5555       Server cleaning up.
-20200809.1746.44 info  MUD@5555       MUD on port 5555 stopped!
-20200809.1746.44 debug Shutdown0      Used memory = 114849560
+20200812.1932.53 info  MUD            CoffeeMud v5.9.10
+20200812.1932.53 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200812.1932.53 info  MUD            http://www.coffeemud.org
+20200812.1932.53 error CMSecurity     Unknown or duplicate enable flag: CLASS_ARTISAN
+20200812.1932.53 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200812.1932.53 info  MUD@5555       MUD Server started on port: 5555
+20200812.1932.54 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20200812.1932.54 debug HOST0          SSL not configured.
+20200812.1932.54 debug HOST0          SSL not configured.
+20200812.1932.54 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20200812.1932.54 info  cweb-admin0    Started http admin0 on port 27777
+20200812.1932.54 info  cweb-pub0      Started http pub0 on port 27744
+20200812.1932.54 info  cweb-pub0      Started http pub0 on port 80
+20200812.1932.54 debug cweb-admin0Tim Timeout Thread started
+20200812.1932.54 debug cweb-pub0Timeo Timeout Thread started
+20200812.1932.55 info  HOST0          WebMacros loaded  : 193
+20200812.1932.55 info  HOST0          MOB Types loaded  : 148
+20200812.1932.55 info  HOST0          Exit Types loaded : 30
+20200812.1932.55 info  HOST0          Area Types loaded : 14
+20200812.1932.55 info  HOST0          Locales loaded    : 124
+20200812.1932.56 info  HOST0          Fighter Skills    : 131
+20200812.1932.56 info  HOST0          Chants loaded     : 315
+20200812.1932.56 info  HOST0          Languages loaded  : 58
+20200812.1932.56 info  HOST0          Properties loaded : 298
+20200812.1932.56 info  HOST0          Prayers loaded    : 306
+20200812.1932.57 info  HOST0          Thief Skills      : 154
+20200812.1932.57 info  HOST0          Skills loaded     : 316
+20200812.1932.57 info  HOST0          Songs loaded      : 156
+20200812.1932.57 info  HOST0          Spells loaded     : 403
+20200812.1932.57 info  HOST0          Heroics loaded    : 6
+20200812.1932.57 info  HOST0          Tech Skills loaded: 2
+20200812.1932.57 info  HOST0          Traps loaded      : 76
+20200812.1932.57 info  HOST0          GenAbles loaded   : 1
+20200812.1932.58 info  HOST0          Basic Items loaded: 128
+20200812.1932.58 info  HOST0          Weapons loaded    : 60
+20200812.1932.58 info  HOST0          Armor loaded      : 50
+20200812.1932.58 info  HOST0          Magic Items loaded: 45
+20200812.1932.58 info  HOST0          Clan Items loaded : 24
+20200812.1932.58 info  HOST0          Electronics loaded: 81
+20200812.1932.58 info  HOST0          Behaviors loaded  : 97
+20200812.1932.58 info  HOST0          Commands loaded   : 286
+20200812.1932.59 info  HOST0          Races loaded      : 227
+20200812.1932.59 info  HOST0          Classes loaded    : 54
+20200812.1933.07 info  HOST0          Expertises defined: 1817
+20200812.1933.07 info  HOST0          Channels loaded   : 20
+20200812.1933.07 info  HOST0          Socials loaded    : 312
+20200812.1933.07 info  HOST0          Clans loaded      : 0
+20200812.1933.07 info  I3Server       InterMud3 Core (c)1996 George Reese
+20200812.1933.07 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20200812.1933.07 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20200812.1933.07 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20200812.1933.07 info  I3Server       InterMud3 Server started on port 27766
+20200812.1933.07 info  HOST0          Loading catalog...
+20200812.1933.07 info  HOST0          Loading map...
+20200812.1933.08 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
+20200812.1933.08 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
+20200812.1933.11 info  HOST0          Preparing map...
+20200812.1933.11 info  HOST0          Mapped rooms      : 438 in 10 areas
+20200812.1933.11 info  HOST0          Quests loaded     : 9
+20200812.1933.11 info  HOST0          Services and utilities started
+20200812.1933.11 info  HOST0          Host#0 initializated.
+20200812.1933.11 info  MUD            Initialization complete.
+20200812.1933.20 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5 and $source_align > 5000: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5 and $source_align > 5000
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.13 error Worker0#5      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@4bebaa21}' in 'SELECT:current_intelligence from $target'
+20200812.1934.13 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1934.29 info  Worker0#1      Connection from 108.11.190.209
+20200812.1934.37 info  ItemGeneration Starting master item generation
+20200812.1934.43 error Achievements   Error: Missing or invalid STAT parameter: INTELLIGENCE!
+20200812.1934.43 error Achievements   Error: Missing or invalid STAT parameter: INTELLIGENCE!
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.43 debug Achievement    Unknown award type: INTELLIGENCE
+20200812.1934.44 info  Worker0#5      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Kurjak
+20200812.1935.59 info  ItemGeneration Finished master item generation
+20200812.1944.33 info  Worker0#2      Connection from 108.11.190.209
+20200812.1944.41 info  Worker0#5      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
+20200812.1951.39 info  Mobs           Ermiel created mob a citizen.
+20200812.1952.21 info  Generate       Ermiel generated mob a subject
+20200812.1952.21 info  Generate       Ermiel called generate command with parms: mob town_citizen
+20200812.1952.23 info  Generate       Ermiel generated mob a serf
+20200812.1952.23 info  Generate       Ermiel called generate command with parms: mob town_citizen
+20200812.1952.25 info  Generate       Ermiel generated mob a serf
+20200812.1952.25 info  Generate       Ermiel called generate command with parms: mob town_citizen
+20200812.1952.25 info  Generate       Ermiel generated mob a villager
+20200812.1952.25 info  Generate       Ermiel called generate command with parms: mob town_citizen
+20200812.1953.03 info  Items          Ermiel created item GenPants.
+20200812.1953.08 info  Items          Ermiel created item GenArmor.
+20200812.1953.16 info  Items          Ermiel created item GenArmor.
+20200812.1953.40 info  CreateEdit     Ermiel modified mob a villager (GenMob) in Silver Ford#36.
+20200812.1954.54 info  CreateEdit     Ermiel modified mob a villager (GenMob) in Silver Ford#36.
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5 and $source_align > 5000: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5 and $source_align > 5000
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int > 5: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int > 5
+20200812.1955.36 error Worker0#4      Error processing condition $target_int < 4: Unknown variable 'CURRENT_INTELLIGENCE' on '{ANY\.=com.planet_ink.coffee_mud.MOBS.GenMob@e0782bb}' in 'SELECT:current_intelligence from $target'
+20200812.1955.36 error Generate       Condition procesing failure: Undefined variable found: $TARGET_INT: $target_int < 4
+20200812.2019.18 info  Worker0#5      Connection from 36.37.124.100
+20200812.2019.24 info  Worker0#2      Disconnect: 36.37.124.100 (5s)
+20200812.2031.05 info  Worker0#4      Logout: Kurjak (56m)
+20200812.2031.05 info  Worker0#4      Disconnect: Kurjak: 108.11.190.209 (56m)
+20200812.2031.25 info  Worker0#1      Connection from 108.11.190.209
+20200812.2031.30 info  Worker0#2      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Kurjak
+20200812.2033.16 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2033.22 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2033.29 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2033.36 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2033.42 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2033.49 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2033.55 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.01 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.08 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.14 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.21 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.34 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.39 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.46 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.52 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2034.59 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.05 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.10 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.14 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.18 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.23 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.35 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.39 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.43 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.47 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.52 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2035.56 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.00 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.04 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.09 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.13 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.17 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.21 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.25 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.30 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.33 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.38 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.42 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.47 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.51 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.55 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2036.59 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.04 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.08 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.13 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.17 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.22 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.26 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.35 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.43 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.48 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2037.57 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.01 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.05 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.10 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.12 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.15 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.18 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.21 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.24 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.30 info  Worker0#5      Connection from 185.176.221.168
+20200812.2038.31 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.34 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.36 info  Worker0#7      Disconnect: 185.176.221.168 (5s)
+20200812.2038.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.44 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.47 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.50 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.53 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2038.57 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.00 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.03 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.07 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.11 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.14 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.17 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.21 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.24 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.27 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.30 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.33 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.37 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.40 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.43 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.47 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.51 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.54 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2039.57 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.00 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.04 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.07 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.10 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.13 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.16 error DBConnections  Minor failure obtaining DBConnection(2/2 in use).
+20200812.2040.17 error THStats0       DB: <BR>#100 DBCONNECTIONS REPORTING A LOCKED STATE<BR>Connections in use=0/2
+20200812.2040.17 info  Worker0#4      Neatherclaw has been deleted.
+20200812.2040.17 info  THPlayers0     AutoPurged user Neatherclaw (0). Last logged in 8/1/2020 5:16 PM.
+20200812.2040.18 info  Worker0#4      Quill has been deleted.
+20200812.2040.18 info  THPlayers0     AutoPurged user Quill (0). Last logged in 8/1/2020 6:48 PM.
+20200812.2043.00 info  Worker0#7      Logout: Kurjak (11m)
+20200812.2043.00 info  Worker0#7      Disconnect: Kurjak: 108.11.190.209 (11m)
+20200812.2043.07 error CommandProcess Ermiel starts system shutdown...
+20200812.2043.07 info  Shutdown0      New Connections are now closed
+20200812.2043.07 info  ServiceEngine  Scheduler stopped
+20200812.2043.17 info  Shutdown0      All users saved.
+20200812.2043.17 info  Shutdown0      Stats saved.
+20200812.2043.17 info  Shutdown0      Notifying all objects of shutdown...
+20200812.2043.17 info  QuestBound     SHUTDOWN message for a harsh kobold guard caused Adventure_House_Den_a_harsh_kobold_guard_normal_killer2_R291584226 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for a grim kobold guard caused Adventure_House_Den_a_grim_kobold_guard_normal_protect1_R943397198 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for a whimpering prisoner caused zfahprison_demon to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for a nasty gray rat caused Dragons_Belly_a_nasty_gray_rat_normal_killer2_R953071017 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for an eerie gray rat caused Dragonmaw_Mine_an_eerie_gray_rat_normal_collect2_R488921824 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for the giant snail caused Mud_School_the_giant_snail_normal_collect2_R986570348 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for Aldustough caused Silver_Ford_Zilor_Fice_normal_mystery2_R916292196 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for Nysycha caused Silver_Ford_Zilor_Fice_normal_mystery2_R956560707 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for an Iron Dragon guard caused Silver_Ford_an_Iron_Dragon_guard_normal_killer2_R230334245 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for the soldier caused dragmine_killer_1 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for Ormen caused Silver_Ford_Ormen_normal_capture2_R901644372 to reset.
+20200812.2043.17 info  QuestBound     SHUTDOWN message for a villager caused Silver_Ford_a_villager_normal_capture4_R627189091 to reset.
+20200812.2043.18 info  CM1Server      Shutdown complete
+20200812.2043.20 info  Shutdown0      CM1Server0@27733 stopped
+20200812.2043.20 info  Intermud       Shutdown!!!
+20200812.2043.21 info  Shutdown0      I3Server stopped
+20200812.2043.24 info  Shutdown0      All users logged off.
+20200812.2043.24 info  SMTP           Shutting down.
+20200812.2043.26 info  Shutdown0      SMTP Server stopped.
+20200812.2043.28 info  ServiceEngine  Shutdown complete.
+20200812.2043.28 info  Shutdown0      Map Threads Stopped.
+20200812.2043.29 info  Shutdown0      Resources Cleared.
+20200812.2043.29 info  Shutdown0      Database connections closed.
+20200812.2043.29 info  cweb-pub0      Shutdown complete
+20200812.2043.29 info  cweb-pub0Timeo Timeout Thread shutdown
+20200812.2043.29 info  Shutdown0      Web server cweb-pub0 stopped.
+20200812.2043.29 info  cweb-admin0    Shutdown complete
+20200812.2043.29 info  cweb-admin0Tim Timeout Thread shutdown
+20200812.2043.29 info  Shutdown0      Web server cweb-admin0 stopped.
+20200812.2043.29 info  Shutdown0      CoffeeMud shutdown complete.
+20200812.2043.31 info  MUD@5555       Server cleaning up.
+20200812.2043.31 info  MUD@5555       MUD on port 5555 stopped!
+20200812.2043.31 debug Shutdown0      Used memory = 105842336

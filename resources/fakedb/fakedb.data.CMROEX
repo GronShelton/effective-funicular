@@ -1216,42 +1216,6 @@ Silver Ford#11
 StdOpenDoorway
 
 Silver Ford#10
-*
-Silver Ford#12
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#12
-3
-StdOpenDoorway
-
-Silver Ford#14
-*
-Silver Ford#12
-2
-StdOpenDoorway
-
-Silver Ford#13
-*
-Silver Ford#12
-0
-StdOpenDoorway
-
-Silver Ford#3
-*
-Silver Ford#17
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#17
-0
-StdOpenDoorway
-
-Silver Ford#15
 -
 Silver Ford#18
 4
@@ -1457,102 +1421,6 @@ LockedGate
 AdventureHousePrison cellkey
 AdventureHousePrison#8
 -
-Iron Dragons Fortress#0
-3
-StdOpenDoorway
-
-Iron Dragons Fortress#1
--
-Iron Dragons Fortress#0
-2
-StdOpenDoorway
-
-Silver Ford#15
--
-Silver Ford#15
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#15
-3
-StdOpenDoorway
-
-Iron Dragons Fortress#0
--
-Silver Ford#15
-2
-Gate
-
-Silver Ford#14
--
-Silver Ford#15
-1
-StdOpenDoorway
-
-Silver Ford#17
--
-Silver Ford#14
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#14
-3
-Gate
-
-Silver Ford#15
--
-Silver Ford#14
-2
-StdOpenDoorway
-
-Silver Ford#12
--
-Iron Dragons Fortress#1
-3
-Open
-
-Iron Dragons Fortress#4
--
-Iron Dragons Fortress#1
-2
-StdOpenDoorway
-
-Iron Dragons Fortress#0
--
-Iron Dragons Fortress#1
-1
-Open
-
-Iron Dragons Fortress#3
--
-Iron Dragons Fortress#1
-0
-Open
-
-Iron Dragons Fortress#2
--
-Iron Dragons Fortress#4
-2
-Open
-
-Iron Dragons Fortress#1
--
-Iron Dragons Fortress#2
-1
-Open
-
-Iron Dragons Fortress#1
--
-Iron Dragons Fortress#3
-0
-Open
-
-Iron Dragons Fortress#1
--
 Dragon`s Belly#2
 2
 LockedDoor
@@ -2038,96 +1906,90 @@ Dragon`s Belly#6
 Door
 
 Dragon`s Belly#38
--
-Dragon`s Belly#40
-3
-Open
-
-Dragon`s Belly#43
--
-Dragon`s Belly#40
-2
-Open
-
-Dragon`s Belly#41
--
-Dragon`s Belly#40
-1
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
-Dragon`s Belly#14
--
-Dragon`s Belly#40
-0
-Open
-
-Dragon`s Belly#8
--
-Dragon`s Belly#45
-3
-Open
-
-Dragon`s Belly#44
--
-Dragon`s Belly#45
-2
-Door
-
-Dragon`s Belly#30
--
-Dragon`s Belly#45
-1
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
-Dragon`s Belly#11
--
-Dragon`s Belly#45
-0
-Door
-
-Dragon`s Belly#29
--
-Dragon`s Belly#24
-2
-LockedDoor
-Dragon`s Maw 2 storekey
-Dragon`s Belly#31
--
-Dragon`s Belly#39
-1
-Open
-
-Dragon`s Belly#38
--
-Dragon`s Belly#39
-0
-Open
-
-Dragon`s Belly#10
--
-Dragon`s Belly#25
-1
-Door
-
-Dragon`s Belly#43
--
-Dragon`s Belly#1
-3
-GenDoor
-<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
-Dragon`s Belly#33
--
-Dragonmaw Mine#0
-6
-StdOpenDoorway
-
-Silver Ford#17
 *
-Silver Ford#17
+Dragon`s Belly#40
+3
+Open
+
+Dragon`s Belly#43
+*
+Dragon`s Belly#40
+2
+Open
+
+Dragon`s Belly#41
+*
+Dragon`s Belly#40
+1
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#14
+*
+Dragon`s Belly#40
+0
+Open
+
+Dragon`s Belly#8
+-
+Dragon`s Belly#45
+3
+Open
+
+Dragon`s Belly#44
+-
+Dragon`s Belly#45
+2
+Door
+
+Dragon`s Belly#30
+-
+Dragon`s Belly#45
+1
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#11
+-
+Dragon`s Belly#45
+0
+Door
+
+Dragon`s Belly#29
+-
+Dragon`s Belly#24
+2
+LockedDoor
+Dragon`s Maw 2 storekey
+Dragon`s Belly#31
+-
+Dragon`s Belly#39
+1
+Open
+
+Dragon`s Belly#38
+-
+Dragon`s Belly#39
+0
+Open
+
+Dragon`s Belly#10
+-
+Dragon`s Belly#25
+1
+Door
+
+Dragon`s Belly#43
+-
+Dragon`s Belly#1
+3
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#33
+-
+Dragonmaw Mine#0
 6
 StdOpenDoorway
 
-Dragonmaw Mine#0
+Silver Ford#17
 -
 Dragonmaw Mine#15
 0
@@ -2290,25 +2152,25 @@ Dragonmaw Mine#22
 Open
 
 Dragonmaw Mine#11
--
+*
 Dragonmaw Mine#11
 1
 Open
 
 Dragonmaw Mine#22
--
+*
 Dragonmaw Mine#23
 1
 LockedDoor
 Dragon`s Maw thronekey
 Dragonmaw Mine#2
--
+*
 Dragonmaw Mine#23
 2
 Open
 
 Dragonmaw Mine#22
--
+*
 Dragonmaw Mine#2
 0
 LockedDoor
@@ -2338,7 +2200,7 @@ Dragonmaw Mine#17
 Open
 
 Dragonmaw Mine#24
--
+*
 Dragonmaw Mine#23
 3
 Open
@@ -2392,7 +2254,7 @@ Dragonmaw Mine#7
 LockedDoor
 Dragon`s Maw storekey
 Dragonmaw Mine#23
--
+*
 Dragonmaw Mine#23
 0
 LockedDoor
@@ -2866,19 +2728,19 @@ Adventure House Den#10
 Door
 
 Adventure House Den#1
--
+*
 Silver Ford#36
 4
 StdOpenDoorway
 
  
--
+*
 Silver Ford#36
 1
 Open
 
 Silver Ford#35
--
+*
 Silver Ford#36
 0
 Open
@@ -5872,60 +5734,6 @@ Silver Ford#27
 Open
 
  
-*
-Silver Ford#22
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#22
-3
-Gate
-
-Silver Ford#31
-*
-Silver Ford#22
-2
-Gate
-
-Silver Ford#24
-*
-Silver Ford#22
-1
-Open
-
-Silver Ford#21
-*
-Silver Ford#22
-0
-Open
-
-Silver Ford#23
-*
-Silver Ford#31
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#31
-2
-Gate
-
-Silver Ford#22
-*
-Silver Ford#24
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#24
-3
-Gate
-
-Silver Ford#22
 -
 Silver Ford#13
 3
@@ -6005,18 +5813,6 @@ StdOpenDoorway
 
 Silver Ford#11
 -
-START
-6
-StdOpenDoorway
-
-Silver Ford#0
--
-START
-4
-StdOpenDoorway
-
- 
--
 AdventureHousePrison#5
 1
 LockedDoor
@@ -6052,36 +5848,6 @@ AdventureHousePrison#0
 Door
 
 AdventureHousePrison#8
-*
-Silver Ford#6
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#6
-3
-StdOpenDoorway
-
-Silver Ford#9
-*
-Silver Ford#6
-2
-StdOpenDoorway
-
-Silver Ford#7
-*
-Silver Ford#6
-1
-StdOpenDoorway
-
-Silver Ford#1
-*
-Silver Ford#6
-0
-StdOpenDoorway
-
-Mud School#3700
 -
 Adventure House Den#0
 3
@@ -6136,54 +5902,6 @@ AdventureHousePrison#8
 Open
 
 AdventureHousePrison#9
-*
-Silver Ford#1
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#1
-1
-Open
-
-Silver Ford#38
-*
-Silver Ford#1
-0
-StdOpenDoorway
-
-Silver Ford#6
--
-Silver Ford#38
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#38
-3
-Open
-
-Silver Ford#40
--
-Silver Ford#38
-2
-Open
-
-Silver Ford#39
--
-Silver Ford#38
-1
-Open
-
-Silver Ford#0
--
-Silver Ford#38
-0
-StdOpenDoorway
-
-Silver Ford#1
 -
 Silver Ford#44
 4
@@ -6220,36 +5938,6 @@ Silver Ford#39
 StdOpenDoorway
 
 Silver Ford#41
--
-Silver Ford#41
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#41
-3
-Open
-
-Silver Ford#0
--
-Silver Ford#41
-2
-StdOpenDoorway
-
-Silver Ford#2
--
-Silver Ford#41
-1
-Open
-
-Silver Ford#44
--
-Silver Ford#41
-0
-StdOpenDoorway
-
-Silver Ford#39
 -
 Silver Ford#2
 4
@@ -6316,114 +6004,24 @@ Silver Ford#3
 StdOpenDoorway
 
 Silver Ford#42
--
+*
 Silver Ford#4
 4
 StdOpenDoorway
 
  
--
+*
 Silver Ford#4
 3
 StdOpenDoorway
 
 Silver Ford#5
--
+*
 Silver Ford#4
 2
 StdOpenDoorway
 
 Silver Ford#43
-*
-Silver Ford#0
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#0
-3
-Open
-
-Silver Ford#43
-*
-Silver Ford#0
-2
-Open
-
-Silver Ford#41
-*
-Silver Ford#0
-1
-Open
-
-Silver Ford#42
-*
-Silver Ford#0
-0
-Open
-
-Silver Ford#38
-*
-Adventure Academy#2
-4
-StdOpenDoorway
-
-Adventure Academy#1
-*
-Adventure Academy#1
-5
-StdOpenDoorway
-
-Adventure Academy#2
-*
-Adventure Academy#1
-3
-StdOpenDoorway
-
-Adventure Academy#0
-*
-Adventure Academy#1
-2
-StdOpenDoorway
-
- 
-*
-Adventure Academy#4
-4
-StdOpenDoorway
-
-Adventure Academy#3
-*
-Adventure Academy#3
-5
-StdOpenDoorway
-
-Adventure Academy#4
-*
-Adventure Academy#3
-4
-StdOpenDoorway
-
-Adventure Academy#5
-*
-Adventure Academy#3
-1
-StdOpenDoorway
-
-Adventure Academy#0
-*
-Adventure Academy#5
-5
-StdOpenDoorway
-
-Adventure Academy#3
-*
-Adventure Academy#6
-2
-StdOpenDoorway
-
-Adventure Academy#0
 -
 Silver Ford#33
 4
@@ -6454,120 +6052,24 @@ Silver Ford#33
 StdOpenDoorway
 
 Silver Ford#34
--
-Silver Ford#46
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#46
-3
-StdOpenDoorway
-
-Silver Ford#33
--
-Silver Ford#45
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#45
-2
-Open
-
-Silver Ford#42
--
-Silver Ford#45
-0
-StdOpenDoorway
-
-Silver Ford#43
--
+*
 Adventure Academy#0
 3
 StdOpenDoorway
 
 Adventure Academy#6
--
+*
 Adventure Academy#0
 2
 StdOpenDoorway
 
 Adventure Academy#1
--
+*
 Adventure Academy#0
 0
 StdOpenDoorway
 
 Adventure Academy#3
-*
-Silver Ford#43
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#43
-3
-StdOpenDoorway
-
-Silver Ford#4
-*
-Silver Ford#43
-2
-Open
-
-Silver Ford#0
-*
-Silver Ford#43
-1
-StdOpenDoorway
-
-Silver Ford#45
-*
-Silver Ford#43
-0
-StdOpenDoorway
-
-Silver Ford#40
-*
-Silver Ford#40
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#40
-2
-Open
-
-Silver Ford#38
-*
-Silver Ford#40
-1
-StdOpenDoorway
-
-Silver Ford#43
-*
-Silver Ford#7
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#7
-3
-StdOpenDoorway
-
-Silver Ford#6
-*
-Silver Ford#7
-2
-Door
-
-AdventureHousePrison#9
 -
 AdventureHousePrison#14
 4
@@ -6604,108 +6106,12 @@ AdventureHousePrison#6
 LockedDoor
 AdventureHousePrison cellkey
 AdventureHousePrison#12
-*
-Silver Ford#9
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#9
-3
-Door
-
-Adventure House Den#0
-*
-Silver Ford#9
-2
-StdOpenDoorway
-
-Silver Ford#6
 -
 Adventure House Den#30
 4
 StdOpenDoorway
 
 Adventure House Den#3
-*
-Adventure House Den#3
-5
-StdOpenDoorway
-
-Adventure House Den#30
-*
-Adventure House Den#3
-0
-LockedDoor
-Adventure House Den thronekey
-Adventure House Den#9
-*
-Silver Ford#6
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#6
-3
-StdOpenDoorway
-
-Silver Ford#9
-*
-Silver Ford#6
-2
-StdOpenDoorway
-
-Silver Ford#7
-*
-Silver Ford#6
-1
-StdOpenDoorway
-
-Silver Ford#1
-*
-Silver Ford#6
-0
-StdOpenDoorway
-
-Mud School#3700
-*
-Silver Ford#7
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#7
-3
-StdOpenDoorway
-
-Silver Ford#6
-*
-Silver Ford#7
-2
-Door
-
-AdventureHousePrison#9
-*
-Silver Ford#9
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#9
-3
-Door
-
-Adventure House Den#0
-*
-Silver Ford#9
-2
-StdOpenDoorway
-
-Silver Ford#6
 -
 Silver Ford#1
 4
@@ -6724,84 +6130,6 @@ Silver Ford#1
 StdOpenDoorway
 
 Silver Ford#6
-*
-Silver Ford#40
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#40
-2
-Open
-
-Silver Ford#38
-*
-Silver Ford#40
-1
-StdOpenDoorway
-
-Silver Ford#43
--
-Silver Ford#43
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#43
-3
-StdOpenDoorway
-
-Silver Ford#4
--
-Silver Ford#43
-2
-Open
-
-Silver Ford#0
--
-Silver Ford#43
-1
-StdOpenDoorway
-
-Silver Ford#45
--
-Silver Ford#43
-0
-StdOpenDoorway
-
-Silver Ford#40
-*
-Silver Ford#0
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#0
-3
-Open
-
-Silver Ford#43
-*
-Silver Ford#0
-2
-Open
-
-Silver Ford#41
-*
-Silver Ford#0
-1
-Open
-
-Silver Ford#42
-*
-Silver Ford#0
-0
-Open
-
-Silver Ford#38
 -
 Adventure House Den#3
 5
@@ -6880,36 +6208,6 @@ Silver Ford#9
 StdOpenDoorway
 
 Silver Ford#6
--
-Silver Ford#0
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#0
-3
-Open
-
-Silver Ford#43
--
-Silver Ford#0
-2
-Open
-
-Silver Ford#41
--
-Silver Ford#0
-1
-Open
-
-Silver Ford#42
--
-Silver Ford#0
-0
-Open
-
-Silver Ford#38
 -
 Silver Ford#12
 4
@@ -6952,144 +6250,12 @@ Silver Ford#17
 StdOpenDoorway
 
 Silver Ford#15
-*
-Silver Ford#22
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#22
-3
-Gate
-
- 
-*
-Silver Ford#22
-2
-Gate
-
-Silver Ford#24
-*
-Silver Ford#22
-1
-Open
-
-Silver Ford#21
-*
-Silver Ford#22
-0
-Open
-
-Silver Ford#23
--
-Silver Ford#22
-4
-StdOpenDoorway
-
- 
--
-Silver Ford#22
-3
-Gate
-
- 
--
-Silver Ford#22
-2
-Gate
-
- 
--
-Silver Ford#22
-1
-Open
-
-Silver Ford#21
--
-Silver Ford#22
-0
-Open
-
-Silver Ford#23
-*
-Silver Ford#40
-4
-StdOpenDoorway
-
- 
-*
-Silver Ford#40
-2
-Open
-
-Silver Ford#38
-*
-Silver Ford#40
-1
-StdOpenDoorway
-
-Silver Ford#43
-*
-Adventure Academy#1
-5
-StdOpenDoorway
-
-Adventure Academy#2
-*
-Adventure Academy#1
-3
-StdOpenDoorway
-
-Adventure Academy#0
-*
-Adventure Academy#1
-2
-StdOpenDoorway
-
- 
-*
-Adventure Academy#1
-5
-StdOpenDoorway
-
-Adventure Academy#2
-*
-Adventure Academy#1
-3
-StdOpenDoorway
-
-Adventure Academy#0
-*
-Adventure Academy#1
-2
-StdOpenDoorway
-
- 
 -
 Adventure Academy#2
 4
 StdOpenDoorway
 
 Adventure Academy#1
-*
-Adventure Academy#1
-5
-StdOpenDoorway
-
-Adventure Academy#2
-*
-Adventure Academy#1
-3
-StdOpenDoorway
-
-Adventure Academy#0
-*
-Adventure Academy#1
-2
-StdOpenDoorway
-
- 
 -
 Adventure Academy#1
 5
@@ -7108,36 +6274,6 @@ Adventure Academy#1
 StdOpenDoorway
 
  
-*
-Adventure Academy#3
-5
-StdOpenDoorway
-
-Adventure Academy#4
-*
-Adventure Academy#3
-4
-StdOpenDoorway
-
-Adventure Academy#5
-*
-Adventure Academy#3
-1
-StdOpenDoorway
-
-Adventure Academy#0
-*
-Adventure Academy#4
-4
-StdOpenDoorway
-
-Adventure Academy#3
-*
-Adventure Academy#5
-5
-StdOpenDoorway
-
-Adventure Academy#3
 -
 Adventure Academy#4
 4
@@ -7162,18 +6298,6 @@ Adventure Academy#3
 StdOpenDoorway
 
 Adventure Academy#0
-*
-Adventure Academy#5
-5
-StdOpenDoorway
-
-Adventure Academy#3
-*
-Adventure Academy#5
-5
-StdOpenDoorway
-
-Adventure Academy#3
 -
 Adventure Academy#5
 5
@@ -7186,60 +6310,276 @@ Adventure Academy#6
 StdOpenDoorway
 
 Adventure Academy#0
+-
+Silver Ford#15
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#15
+2
+Gate
+
+Silver Ford#14
+-
+Silver Ford#15
+1
+StdOpenDoorway
+
+Silver Ford#17
+-
+START
+6
+StdOpenDoorway
+
+Silver Ford#0
+-
+START
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#45
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#45
+2
+Open
+
+Silver Ford#42
+-
+Silver Ford#45
+0
+StdOpenDoorway
+
+Silver Ford#43
 *
-Silver Ford#40
+Silver Ford#0
 4
 UnseenWalkway
 
  
 *
-Silver Ford#40
-2
+Silver Ford#0
+3
 Open
-
-Silver Ford#38
-*
-Silver Ford#40
-1
-StdOpenDoorway
 
 Silver Ford#43
 *
+Silver Ford#0
+2
+Open
+
+Silver Ford#41
+*
+Silver Ford#0
+1
+Open
+
+Silver Ford#42
+*
+Silver Ford#0
+0
+Open
+
+Silver Ford#38
+-
+Silver Ford#41
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#41
+3
+Open
+
+Silver Ford#0
+-
+Silver Ford#41
+2
+StdOpenDoorway
+
+Silver Ford#2
+-
+Silver Ford#41
+1
+Open
+
+Silver Ford#44
+-
+Silver Ford#41
+0
+StdOpenDoorway
+
+Silver Ford#39
+-
+Silver Ford#14
+3
+Gate
+
+Silver Ford#15
+-
+Silver Ford#14
+2
+StdOpenDoorway
+
+Silver Ford#12
+-
+Silver Ford#46
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#46
+3
+StdOpenDoorway
+
+Silver Ford#33
+-
+Silver Ford#43
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#43
+3
+StdOpenDoorway
+
+Silver Ford#4
+-
+Silver Ford#43
+2
+Open
+
+Silver Ford#0
+-
+Silver Ford#43
+1
+StdOpenDoorway
+
+Silver Ford#45
+-
+Silver Ford#43
+0
+StdOpenDoorway
+
 Silver Ford#40
+*
+Silver Ford#38
 4
 UnseenWalkway
 
  
 *
+Silver Ford#38
+3
+Open
+
 Silver Ford#40
+*
+Silver Ford#38
 2
 Open
 
-Silver Ford#38
+Silver Ford#39
 *
-Silver Ford#40
+Silver Ford#38
 1
+Open
+
+Silver Ford#0
+*
+Silver Ford#38
+0
 StdOpenDoorway
 
-Silver Ford#43
-*
-Silver Ford#40
+Silver Ford#1
+-
+Silver Ford#22
 4
 UnseenWalkway
 
  
-*
-Silver Ford#40
-2
+-
+Silver Ford#22
+3
+Gate
+
+Silver Ford#31
+-
+Silver Ford#22
+1
 Open
 
-Silver Ford#38
-*
-Silver Ford#40
-1
+Silver Ford#21
+-
+Silver Ford#22
+0
+Open
+
+Silver Ford#23
+-
+Silver Ford#31
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#31
+3
 StdOpenDoorway
 
-Silver Ford#43
+Silver Ford#24
+-
+Silver Ford#31
+2
+Gate
+
+Silver Ford#22
+-
+Silver Ford#24
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#24
+3
+StdOpenDoorway
+
+Silver Ford#24
+-
+Silver Ford#24
+2
+StdOpenDoorway
+
+Silver Ford#31
+-
+Silver Ford#24
+1
+Open
+
+ 
+-
+Silver Ford#24
+0
+StdOpenDoorway
+
+Silver Ford#24
+-
+Silver Ford#24
+257
+Open
+4 4 257 #(4,0);2 0 256 #(2,4);0 4 257 #(0,0);1 4 512 #(1,0);3 4 257 #(3,0);3 0 513 #(3,4);4 0 513 #(4,4);3 4 512 #(3,0);1 0 256 #(1,4);2 4 257 #(2,0);1 0 513 #(1,4);4 0 256 #(4,4);0 0 256 #(0,4);0 4 512 #(0,0);4 4 512 #(4,0);3 0 256 #(3,4);2 0 513 #(2,4);0 0 513 #(0,4);1 4 257 #(1,0);2 4 512 #(2,0);
+Silver Ford#24
 -
 Silver Ford#40
 4
@@ -7258,3 +6598,381 @@ Silver Ford#40
 StdOpenDoorway
 
 Silver Ford#43
+*
+Silver Ford#38
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#38
+3
+Open
+
+Silver Ford#40
+*
+Silver Ford#38
+2
+Open
+
+Silver Ford#39
+*
+Silver Ford#38
+1
+Open
+
+Silver Ford#0
+*
+Silver Ford#38
+0
+StdOpenDoorway
+
+Silver Ford#1
+*
+Dragonmaw Mine#23
+3
+Open
+
+Dragonmaw Mine#24
+*
+Dragonmaw Mine#23
+2
+Open
+
+Dragonmaw Mine#22
+*
+Dragonmaw Mine#23
+1
+LockedDoor
+Dragon`s Maw thronekey
+Dragonmaw Mine#2
+*
+Dragonmaw Mine#23
+0
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#7
+-
+Dragonmaw Mine#2
+0
+LockedDoor
+Dragon`s Maw thronekey
+Dragonmaw Mine#23
+-
+Dragonmaw Mine#23
+3
+Open
+
+Dragonmaw Mine#24
+-
+Dragonmaw Mine#23
+2
+Open
+
+Dragonmaw Mine#22
+-
+Dragonmaw Mine#23
+1
+LockedDoor
+Dragon`s Maw thronekey
+Dragonmaw Mine#2
+-
+Dragonmaw Mine#23
+0
+LockedDoor
+Dragon`s Maw storekey
+Dragonmaw Mine#7
+-
+Dragon`s Belly#40
+3
+Open
+
+Dragon`s Belly#43
+-
+Dragon`s Belly#40
+2
+Open
+
+Dragon`s Belly#41
+-
+Dragon`s Belly#40
+1
+GenDoor
+<NAME>a door</NAME><DESC>An ordinary wooden door with hinges and a latch.</DESC><DISP /><PROP>0|100|0|0|0|0|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>496</FLAG><CLOSTX>a closed door</CLOSTX><DOORNM>door</DOORNM><OPENNM>open</OPENNM><CLOSNM>close</CLOSNM><KEYNM>Dragon`s Maw 2 storekey</KEYNM><OPENTK>45</OPENTK>
+Dragon`s Belly#14
+-
+Dragon`s Belly#40
+0
+Open
+
+Dragon`s Belly#8
+-
+Silver Ford#4
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#4
+3
+StdOpenDoorway
+
+Silver Ford#5
+-
+Silver Ford#4
+2
+StdOpenDoorway
+
+Silver Ford#43
+-
+Silver Ford#4
+0
+StdOpenDoorway
+
+Silver Ford#47
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+-
+Silver Ford#47
+1
+StdOpenDoorway
+
+Silver Ford#4
+*
+Silver Ford#0
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#0
+3
+Open
+
+Silver Ford#43
+*
+Silver Ford#0
+2
+Open
+
+Silver Ford#41
+*
+Silver Ford#0
+1
+Open
+
+Silver Ford#42
+*
+Silver Ford#0
+0
+Open
+
+Silver Ford#38
+*
+Silver Ford#0
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#0
+3
+Open
+
+Silver Ford#43
+*
+Silver Ford#0
+2
+Open
+
+Silver Ford#41
+*
+Silver Ford#0
+1
+Open
+
+Silver Ford#42
+*
+Silver Ford#0
+0
+Open
+
+Silver Ford#38
+-
+Silver Ford#0
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#0
+3
+Open
+
+Silver Ford#43
+-
+Silver Ford#0
+2
+Open
+
+Silver Ford#41
+-
+Silver Ford#0
+1
+Open
+
+Silver Ford#42
+-
+Silver Ford#0
+0
+Open
+
+Silver Ford#38
+-
+Silver Ford#38
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#38
+3
+Open
+
+Silver Ford#40
+-
+Silver Ford#38
+2
+Open
+
+Silver Ford#39
+-
+Silver Ford#38
+1
+Open
+
+Silver Ford#0
+-
+Silver Ford#38
+0
+StdOpenDoorway
+
+Silver Ford#1
+*
+Silver Ford#36
+4
+UnseenWalkway
+
+ 
+*
+Silver Ford#36
+1
+Open
+
+Silver Ford#35
+*
+Silver Ford#36
+0
+Open
+
+The Haunted Forest#0
+-
+Silver Ford#36
+4
+UnseenWalkway
+
+ 
+-
+Silver Ford#36
+1
+Open
+
+Silver Ford#35
+-
+Silver Ford#36
+0
+Open
+
+The Haunted Forest#0
+-
+Dragonmaw Mine#11
+1
+Open
+
+Dragonmaw Mine#22
+-
+Adventure Academy#0
+3
+StdOpenDoorway
+
+Adventure Academy#6
+-
+Adventure Academy#0
+2
+StdOpenDoorway
+
+Adventure Academy#1
+-
+Adventure Academy#0
+0
+StdOpenDoorway
+
+Adventure Academy#3

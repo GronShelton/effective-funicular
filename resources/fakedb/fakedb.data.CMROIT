@@ -549,39 +549,6 @@ GenTub1842932802@520758d2
 0
 0
 -
-Iron Dragons Fortress#2
-GenWallpaper-55917693@436da6f8
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#2.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#2.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#3
-GenWallpaper-55917693@2d428c74
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#3.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#3.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#4
-GenWallpaper-55917693@2050b14
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#4.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#4.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
 Dragon`s Belly#2
 GenFoodResource-1387739797@69ed783b
 GenFoodResource
@@ -1736,7 +1703,7 @@ GenFood
 3
 0
 0
--
+*
 Dragonmaw Mine#11
 GenChair1515812038@1524e4b0
 GenChair
@@ -1747,7 +1714,7 @@ GenChair
 49
 0
 0
--
+*
 Dragonmaw Mine#11
 GenRideable1611913393@5b326681
 GenRideable
@@ -1756,61 +1723,6 @@ GenRideable
 0
 100
 6
-0
-0
--
-Dragonmaw Mine#2
-GenChair1515812038@72feacd3
-GenChair
-
-<NAME>a little scraggy orc throne</NAME><DESC /><DISP>a little scraggy orc throne is here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-1
-0
-0
--
-Dragonmaw Mine#2
-GenContainer-1941569022@37dde03d
-GenContainer
-
-<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Dragon`s Maw thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
-0
-2147483647
-0
-0
-0
--
-Dragonmaw Mine#2
-GenResource-1498817939@1ddf3b57
-GenResource
-GenContainer-1941569022@37dde03d
-<NAME>a lead novelty</NAME><DESC /><DISP>a lead novelty sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Dragonmaw Mine#2
-GenResource-1498817939@73ccaba4
-GenResource
-GenContainer-1941569022@37dde03d
-<NAME>a bronze novelty</NAME><DESC /><DISP>a bronze novelty sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Dragonmaw Mine#2
-GenResource-1498817939@7453193a
-GenResource
-GenContainer-1941569022@37dde03d
-<NAME>a lead bar</NAME><DESC /><DISP>a lead bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
 0
 0
 -
@@ -2331,17 +2243,6 @@ GenContainer-1941569022@782e0ac3
 0
 0
 -
-START
-ManualArchon1377751417@49b0c3aa
-ManualArchon
-
- 
-0
-2147483647
-0
-0
-0
--
 AdventureHousePrison#5
 GenMirror33263070@78d8aeda
 GenMirror
@@ -2507,17 +2408,6 @@ GenReadable
 0
 0
 -
-Silver Ford#0
-GenQuestBoard344923587@f6ba263
-GenQuestBoard
-
-<NAME>Silver Ford`s job board</NAME><DESC /><DISP>Silver Ford`s job board sits here.</DISP><PROP>0|0|0|0|0|0|15|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
-15
-2147483647
-0
-0
-0
--
 Silver Ford#12
 GenFixture-880796726@1ec65834
 GenFixture
@@ -2526,28 +2416,6 @@ GenFixture
 0
 2147483647
 13
-0
-0
--
-Silver Ford#13
-GenWallpaper-55917693@397fcde9
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Silver Ford#13.  The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#13.  The size of this lot is not expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Silver Ford#13
-GenRideable1611913393@3f1a3b90
-GenRideable
-
-<NAME>a stone stove</NAME><DESC>a stone stove.  </DESC><DISP>a stone stove lies here</DISP><PROP>0|0|0|0|0|26|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Burning</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>This is the work of Ermiel.</IDENT><VALUE>1100</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>200</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
-0
-100
-26
 0
 0
 -
@@ -2683,8 +2551,41 @@ GenReadable
 0
 0
 -
+START
+ManualArchon1377751417@2173d237
+ManualArchon
+
+ 
+0
+2147483647
+0
+0
+0
+-
+Silver Ford#13
+GenRideable1611913393@2be5d287
+GenRideable
+
+<NAME>a stone stove</NAME><DESC>a stone stove.  </DESC><DISP>a stone stove lies here</DISP><PROP>0|0|0|0|0|26|0|1.0|100|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Burning</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>This is the work of Ermiel.</IDENT><VALUE>1100</VALUE><MTRAL>2585</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>200</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>5</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+26
+0
+0
+-
+Silver Ford#13
+GenWallpaper-55917693@6b5e0ebd
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#13.  The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#13.  The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+*
 Silver Ford#40
-GenWallpaper-55917693@19b82639
+GenWallpaper-55917693@75318964
 GenWallpaper
 
 <NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
@@ -2694,211 +2595,145 @@ GenWallpaper
 0
 0
 -
-Iron Dragons Fortress#1
-GenResource-1498817939@49bbb367
-GenResource
-
-<NAME>a 3# pile of troll bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 3# pile of troll bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|3|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of troll bones</IDENT><VALUE>3</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Troll</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenWallpaper-55917693@73450daf
-GenWallpaper
-
-<NAME>id</NAME><DESC>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</DESC><FLAG>13</FLAG><READ>This room is Iron Dragons Fortress#1.  The size of this lot is expandable.</READ> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@153d048d
-GenResource
-
-<NAME>a brass bar</NAME><DESC /><DISP>a brass bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596830488406 LEVEL=0 INTERVAL=960</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT /><VALUE>120</VALUE><MTRAL>812</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenLiquidResource178579593@93577b0
-GenLiquidResource
-GenContainer-1941569022@578ffeaa
-<NAME>glowgell</NAME><DESC>It looks good!</DESC><DISP>some glowgell is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Poison_Glowgell</ACLASS><ATEXT /></AFF></AFFECS><FLAG>27</FLAG><IDENT>glowgell</IDENT><VALUE>1</VALUE><MTRAL>2910</MTRAL><READ>2910</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>0</CAPA><CONT>1</CONT><OPENTK>30</OPENTK><DOMN>null</DOMN><RSUBT /><CAPA2>700</CAPA2><REMAN>700</REMAN><LTYPE>2910</LTYPE><DRINK>700</DRINK> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@311f3b1b
-GenResource
-
-<NAME>a 15# basalt bundle</NAME><DESC>It's just basalt.</DESC><DISP>a 15# basalt bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|15|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>150</VALUE><MTRAL>2705</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>11</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@473e6c84
-GenResource
-
-<NAME>a pile of wolf bones</NAME><DESC /><DISP>a pile of wolf bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of wolf bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Wolf</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@1bb8e461
-Ration
-GenContainer-1941569022@578ffeaa
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@194dfc36
-GenResource
-
-<NAME>a 4# iron ore bundle</NAME><DESC>It's just iron.</DESC><DISP>a 4# iron ore bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|4|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>660</VALUE><MTRAL>801</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>130</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenContainer-1941569022@578ffeaa
+Dragonmaw Mine#2
+GenContainer-1941569022@15aabdf
 GenContainer
 
-<NAME>The wardens chest</NAME><DESC /><DISP>The wardens chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>59</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
+<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Dragon`s Maw thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
 0
 2147483647
 0
 0
 0
 -
-Iron Dragons Fortress#1
-Ration-2140609164@24e71e6d
-Ration
-GenContainer-1941569022@578ffeaa
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@66c0eeac
-Ration
-GenContainer-1941569022@578ffeaa
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-Ration-2140609164@446a8966
-Ration
-GenContainer-1941569022@578ffeaa
- 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@55f21a83
-GenResource
+Dragonmaw Mine#2
+GenChair1515812038@4d9b2fa0
+GenChair
 
-<NAME>a pile of fox bones</NAME><DESC /><DISP>a pile of fox bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of fox bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Fox</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@1ba48795
-GenResource
-
-<NAME>a pile of monkey bones</NAME><DESC /><DISP>a pile of monkey bones sits here.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of monkey bones</IDENT><VALUE>1</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Monkey</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@109bdc6
-GenResource
-
-<NAME>a 2# pair of deer horns bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pair of deer horns bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS><AFF><ACLASS>Dusty</ACLASS><ATEXT>TIME=1596734462802 LEVEL=1 INTERVAL=1920</ATEXT></AFF></AFFECS><FLAG>11</FLAG><IDENT>a pair of deer horns</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenResource-1498817939@266a4f41
-GenResource
-
-<NAME>a 2# pile of deer bones bundle</NAME><DESC>It's just bone.</DESC><DISP>a 2# pile of deer bones bundle is here.</DISP><PROP>0|0|0|0|0|1|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT>a pile of deer bones</IDENT><VALUE>2</VALUE><MTRAL>2648</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>Deer</DOMN><RSUBT /> 
-0
-2147483647
-1
-0
-0
--
-Iron Dragons Fortress#1
-GenContainer-1941569022@14eb7733
-GenContainer
-
-<NAME>The kings chest</NAME><DESC /><DISP>The kings chest is here</DISP><PROP>0|0|0|0|0|0|0|1.0|2|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>123</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>314</MTRAL><READ>Adventure House Den thronekey</READ><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>50</CAPA><CONT>0</CONT><OPENTK>30</OPENTK> 
-0
-2147483647
-0
-0
-0
--
-Iron Dragons Fortress#1
-GenArmor-292055729@710fa65d
-GenArmor
-GenContainer-1941569022@14eb7733
-<NAME>a small kobold gold belt</NAME><DESC /><DISP>a small kobold gold belt has been left here</DISP><PROP>0|3|0|0|0|7|0|1.0|5|48|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>465</VALUE><MTRAL>805</MTRAL><READ /><WORNL>false</WORNL><WORNB>8192</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+<NAME>a little scraggy orc throne</NAME><DESC /><DISP>a little scraggy orc throne is here</DISP><PROP>0|0|0|0|0|1|0|1.0|150|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>1</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
 0
 100
-7
+1
 0
-48
+0
 -
-Iron Dragons Fortress#1
-GenArmor-292055729@7673612d
-GenArmor
-GenContainer-1941569022@14eb7733
-<NAME>a tattered kobold crown</NAME><DESC /><DISP>a tattered kobold crown has been left here</DISP><PROP>0|7|0|0|0|6|0|1.0|10|48|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>27</FLAG><IDENT /><VALUE>995</VALUE><MTRAL>805</MTRAL><READ /><WORNL>false</WORNL><WORNB>1</WORNB><CAPA>0</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><LAYR>0</LAYR><LAYA>0</LAYA> 
+Dragonmaw Mine#2
+GenResource-1498817939@7e90ca7d
+GenResource
+GenContainer-1941569022@15aabdf
+<NAME>a lead novelty</NAME><DESC /><DISP>a lead novelty sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
 0
-98
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#2
+GenResource-1498817939@5216b71e
+GenResource
+GenContainer-1941569022@15aabdf
+<NAME>a bronze novelty</NAME><DESC /><DISP>a bronze novelty sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>803</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Dragonmaw Mine#2
+GenResource-1498817939@466474d3
+GenResource
+GenContainer-1941569022@15aabdf
+<NAME>a lead bar</NAME><DESC /><DISP>a lead bar sits here</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>11</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>802</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><DOMN>null</DOMN><RSUBT /> 
+0
+2147483647
+1
+0
+0
+-
+Silver Ford#47
+GenReadable-2024912305@637f4b1c
+GenReadable
+
+<NAME>a wooden sign</NAME><DESC>The wooden sign reads "CROMWELL" in green letters shaped around a silver horseshoe. The paint is faded and chipped.</DESC><DISP>a wooden sign hangs from the roof.</DISP><PROP>0|0|0|0|0|1|0|1.0|1|0|24|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>13</FLAG><IDENT /><VALUE>5</VALUE><MTRAL>1328</MTRAL><READ>CROMWELL</READ><WORNL>false</WORNL><WORNB>512</WORNB> 
+0
+2147483647
+1
+0
+0
+-
+Silver Ford#0
+GenQuestBoard344923587@52fa4571
+GenQuestBoard
+
+<NAME>Silver Ford`s job board</NAME><DESC /><DISP>Silver Ford`s job board sits here.</DISP><PROP>0|0|0|0|0|0|15|1.0|1|0|8|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>15</FLAG><IDENT /><VALUE>0</VALUE><MTRAL>1328</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB> 
+15
+2147483647
+0
+0
+0
+*
+Silver Ford#40
+GenWallpaper-55917693@5bd8ae9
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+*
+Silver Ford#40
+GenWallpaper-55917693@5bd8ae9
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Dragonmaw Mine#11
+GenChair1515812038@6272d78f
+GenChair
+
+<NAME>an ultranium bench</NAME><DESC>an ultranium bench.  </DESC><DISP>an ultranium bench lies here</DISP><PROP>0|0|0|0|0|49|0|1.0|21|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>4060</VALUE><MTRAL>958</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>3000</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>3</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
+49
+0
+0
+-
+Dragonmaw Mine#11
+GenRideable1611913393@6324a008
+GenRideable
+
+<NAME>a wheat hammock</NAME><DESC>a wheat hammock.  </DESC><DISP>a wheat hammock lies here</DISP><PROP>0|0|0|0|0|6|0|1.0|16|0|16|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>25</FLAG><IDENT /><VALUE>10</VALUE><MTRAL>1799</MTRAL><READ /><WORNL>false</WORNL><WORNB>512</WORNB><CAPA>80</CAPA><CONT>0</CONT><OPENTK>30</OPENTK><RIDET>4</RIDET><RIDEC>4</RIDEC><PUTSTR /><MOUNTSTR /><DISMOUNTSTR /><STATESTR /><STATESUBJSTR /><RIDERSTR /> 
+0
+100
 6
 0
-48
+0
+*
+Silver Ford#40
+GenWallpaper-55917693@308ae82a
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
+-
+Silver Ford#40
+GenWallpaper-55917693@308ae82a
+GenWallpaper
+
+<NAME>id</NAME><DESC>This room is Silver Ford#40. The size of this lot is not expandable.</DESC><FLAG>13</FLAG><READ>This room is Silver Ford#40. The size of this lot is not expandable.</READ> 
+0
+2147483647
+0
+0
+0
