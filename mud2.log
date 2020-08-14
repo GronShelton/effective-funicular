@@ -1,30 +1,94 @@
-20200814.0841.19 info  MUD            CoffeeMud v5.9.10
-20200814.0841.19 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200814.0841.19 info  MUD            http://www.coffeemud.org
-20200814.0841.19 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
-20200814.0841.19 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200814.0841.20 info  MUD@5555       MUD Server started on port: 5555
-java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
-	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581)
-	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
-	at java.base/java.lang.Class.forName0(Native Method)
-	at java.base/java.lang.Class.forName(Class.java:315)
-	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:117)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:373)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchTest(DBConnections.java:346)
-	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
-20200814.0841.20 error DBConnections  No suitable driver found for jdbc:mysql://localhost/gronmud
-java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost/gronmud
-	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:702)
-	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
-	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:135)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:373)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchTest(DBConnections.java:346)
-	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
-20200814.0841.20 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
-20200814.0841.20 error MUD            CoffeeMud failed to start.
+20200814.0929.57 info  MUD            CoffeeMud v5.9.10
+20200814.0929.57 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200814.0929.57 info  MUD            http://www.coffeemud.org
+20200814.0929.57 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
+20200814.0929.57 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200814.0929.57 info  MUD@5555       MUD Server started on port: 5555
+20200814.0929.58 info  HOST0          Connected to jdbc:mysql://localhost:3306/gronmud
+20200814.0929.58 debug HOST0          SSL not configured.
+20200814.0929.58 debug HOST0          SSL not configured.
+20200814.0929.58 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20200814.0929.58 info  cweb-pub0      Started http pub0 on port 27744
+20200814.0929.58 info  cweb-pub0      Started http pub0 on port 80
+20200814.0929.58 debug cweb-pub0Timeo Timeout Thread started
+20200814.0929.58 info  cweb-admin0    Started http admin0 on port 27777
+20200814.0929.58 debug cweb-admin0Tim Timeout Thread started
+20200814.0930.00 info  HOST0          WebMacros loaded  : 193
+20200814.0930.01 info  HOST0          MOB Types loaded  : 148
+20200814.0930.01 info  HOST0          Exit Types loaded : 30
+20200814.0930.01 info  HOST0          Area Types loaded : 14
+20200814.0930.02 info  HOST0          Locales loaded    : 124
+20200814.0930.02 info  HOST0          Fighter Skills    : 131
+20200814.0930.03 info  HOST0          Chants loaded     : 315
+20200814.0930.03 info  HOST0          Languages loaded  : 58
+20200814.0930.04 info  HOST0          Properties loaded : 298
+20200814.0930.05 info  HOST0          Prayers loaded    : 306
+20200814.0930.05 info  HOST0          Thief Skills      : 154
+20200814.0930.06 info  HOST0          Skills loaded     : 316
+20200814.0930.07 info  HOST0          Songs loaded      : 156
+20200814.0930.08 info  HOST0          Spells loaded     : 403
+20200814.0930.08 info  HOST0          Heroics loaded    : 6
+20200814.0930.08 info  HOST0          Tech Skills loaded: 2
+20200814.0930.08 info  HOST0          Traps loaded      : 76
+20200814.0930.08 info  HOST0          Basic Items loaded: 128
+20200814.0930.08 info  HOST0          Weapons loaded    : 60
+20200814.0930.08 info  HOST0          Armor loaded      : 50
+20200814.0930.09 info  HOST0          Magic Items loaded: 45
+20200814.0930.09 info  HOST0          Clan Items loaded : 24
+20200814.0930.10 info  HOST0          Electronics loaded: 81
+20200814.0930.10 info  HOST0          Behaviors loaded  : 97
+20200814.0930.11 info  HOST0          Commands loaded   : 286
+20200814.0930.12 info  HOST0          Races loaded      : 223
+20200814.0930.12 info  HOST0          Classes loaded    : 52
+20200814.0930.30 info  HOST0          Expertises defined: 1817
+20200814.0930.30 info  HOST0          Channels loaded   : 20
+20200814.0930.30 info  HOST0          Socials loaded    : 312
+20200814.0930.30 info  HOST0          Clans loaded      : 0
+20200814.0930.30 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20200814.0930.30 info  I3Server       InterMud3 Core (c)1996 George Reese
+20200814.0930.30 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20200814.0930.31 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20200814.0930.31 info  I3Server       InterMud3 Server started on port 27766
+20200814.0930.31 info  HOST0          Loading catalog...
+20200814.0930.31 info  HOST0          Loading map...
+20200814.0930.31 info  HOST0          Preparing map...
+20200814.0930.31 info  HOST0          Mapped rooms      : 0 in 0 areas
+20200814.0930.31 info  HOST0          NO MAPPED ROOM?!  I'll make ya one!
+20200814.0930.32 info  HOST0          Services and utilities started
+20200814.0930.32 info  HOST0          Host#0 initializated.
+20200814.0930.32 info  MUD            Initialization complete.
+20200814.0932.54 info  Worker0#1      Connection from 108.11.190.209
+20200814.0933.44 info  Worker0#4      Connection from 108.11.190.209
+20200814.0934.30 info  Worker0#5      Disconnect: 108.11.190.209 (1m 36s)
+20200814.0934.47 info  Worker0#4      Disconnect: 108.11.190.209 (1m 2s)
+20200814.0959.28 info  Worker0#2      Connection from 108.11.190.209
+20200814.0959.36 info  Worker0#3      Creating user: Ermiel
+20200814.1000.00 info  Worker0#1      Created user: Ermiel
+20200814.1000.04 info  Worker0#1      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
+20200814.1000.25 error CommandProcess Ermiel starts system shutdown...
+20200814.1000.25 info  Shutdown0      New Connections are now closed
+20200814.1000.25 info  ServiceEngine  Scheduler stopped
+20200814.1000.26 info  Shutdown0      All users saved.
+20200814.1000.26 info  Shutdown0      Stats saved.
+20200814.1000.26 info  Shutdown0      Notifying all objects of shutdown...
+20200814.1000.27 info  CM1Server      Shutdown complete
+20200814.1000.29 info  Shutdown0      CM1Server0@27733 stopped
+20200814.1000.30 info  Intermud       Shutdown!!!
+20200814.1000.30 info  Shutdown0      I3Server stopped
+20200814.1000.33 info  Shutdown0      All users logged off.
+20200814.1000.33 info  SMTP           Shutting down.
+20200814.1000.35 info  Shutdown0      SMTP Server stopped.
+20200814.1000.37 info  ServiceEngine  Shutdown complete.
+20200814.1000.37 info  Shutdown0      Map Threads Stopped.
+20200814.1000.37 info  Shutdown0      Resources Cleared.
+20200814.1000.37 info  Shutdown0      Database connections closed.
+20200814.1000.37 info  cweb-pub0Timeo Timeout Thread shutdown
+20200814.1000.37 info  cweb-pub0      Shutdown complete
+20200814.1000.37 info  Shutdown0      Web server cweb-pub0 stopped.
+20200814.1000.37 info  cweb-admin0Tim Timeout Thread shutdown
+20200814.1000.37 info  cweb-admin0    Shutdown complete
+20200814.1000.37 info  Shutdown0      Web server cweb-admin0 stopped.
+20200814.1000.38 info  Shutdown0      CoffeeMud shutdown complete.
+20200814.1000.39 info  MUD@5555       Server cleaning up.
+20200814.1000.39 info  MUD@5555       MUD on port 5555 stopped!
+20200814.1000.39 debug Shutdown0      Used memory = 28985160

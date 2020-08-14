@@ -1408,322 +1408,157 @@ Kurjaksmom
 Allergies
 2147483647
 werebat
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><ERMIEL><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>12</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 12/12</PROGRESS></ERMIEL></SSVAR></SCRPT></SCRPTS>
-*
+-
 Gron
 Butchering
 51
 
-*
+-
 Gron
 Chopping
 50
 
-*
+-
 Gron
 Common
 100
 
-*
+-
 Gron
 Fighter_Battlecry
 39
 
-*
+-
 Gron
 Fighter_Berzerk
 40
 
-*
+-
 Gron
 Fighter_BloodBrother
 0
 
-*
+-
 Gron
 Fighter_Charge
 6
 
-*
+-
 Gron
 Fighter_Kick
 60
 
-*
+-
 Gron
 Fighter_SmokeSignals
 0
 
-*
+-
 Gron
 Fighter_WeaponSharpening
 36
 
-*
+-
 Gron
 FireBuilding
 18
 
-*
+-
 Gron
 Skill_Attack2
 1
 
-*
+-
 Gron
 Skill_Dirt
 0
 
-*
+-
 Gron
 Skill_Disarm
 0
 
-*
+-
 Gron
 Skill_Dodge
 41
 
-*
+-
 Gron
 Skill_Parry
 28
 
-*
-Gron
-Skill_Recall
-54
-
-*
-Gron
-Skill_RegionalAwareness
-1
-
-*
-Gron
-Skill_Write
-50
-
-*
-Gron
-Specialization_Armor
-18
-
-*
-Gron
-Specialization_Axe
-0
-
-*
-Gron
-Specialization_BluntWeapon
-19
-
-*
-Gron
-Specialization_EdgedWeapon
-17
-
-*
-Gron
-Specialization_FlailedWeapon
-0
-
-*
-Gron
-Specialization_Hammer
-0
-
-*
-Gron
-Specialization_Natural
-0
-
-*
-Gron
-Specialization_Polearm
-0
-
-*
-Gron
-Specialization_Ranged
-0
-
-*
-Gron
-Specialization_Shield
-0
-
-*
-Gron
-Specialization_Sword
-38
-
-*
-Gron
-Tanning
-36
-
-*
-Gron
-Butchering
-51
-
-*
-Gron
-Chopping
-50
-
-*
-Gron
-Common
-100
-
-*
-Gron
-Fighter_Battlecry
-39
-
-*
-Gron
-Fighter_Berzerk
-40
-
-*
-Gron
-Fighter_BloodBrother
-0
-
-*
-Gron
-Fighter_Charge
-6
-
-*
-Gron
-Fighter_Kick
-60
-
-*
-Gron
-Fighter_SmokeSignals
-0
-
-*
-Gron
-Fighter_WeaponSharpening
-36
-
-*
-Gron
-FireBuilding
-18
-
-*
-Gron
-Skill_Attack2
-1
-
-*
-Gron
-Skill_Dirt
-0
-
-*
-Gron
-Skill_Disarm
-0
-
-*
-Gron
-Skill_Dodge
-41
-
-*
-Gron
-Skill_Parry
-28
-
-*
+-
 Gron
 Skill_Recall
 55
 
-*
+-
 Gron
 Skill_RegionalAwareness
 1
 
-*
+-
 Gron
 Skill_Write
 50
 
-*
+-
 Gron
 Specialization_Armor
 18
 
-*
+-
 Gron
 Specialization_Axe
 0
 
-*
+-
 Gron
 Specialization_BluntWeapon
 19
 
-*
+-
 Gron
 Specialization_EdgedWeapon
 17
 
-*
+-
 Gron
 Specialization_FlailedWeapon
 0
 
-*
+-
 Gron
 Specialization_Hammer
 0
 
-*
+-
 Gron
 Specialization_Natural
 0
 
-*
+-
 Gron
 Specialization_Polearm
 0
 
-*
+-
 Gron
 Specialization_Ranged
 0
 
-*
+-
 Gron
 Specialization_Shield
 0
 
-*
+-
 Gron
 Specialization_Sword
 39
 
-*
+-
 Gron
 Tanning
 36
@@ -1748,636 +1583,6 @@ Ermiel
 ScriptingEngine
 -2147483647
 <SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><ERMIEL><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>12</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 12/12</PROGRESS></ERMIEL></SSVAR></SCRPT></SCRPTS>
-*
-Ermiel
-Allergies
-2147483647
-ASH AGATE FISH KOBOLD
-*
-Ermiel
-ScriptingEngine
--2147483647
-<SCRPTS><SCRPT><SCRIPT>\n\nONCE_PROG 100\nmpsetvar $i INSTRUCTIONS Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nENDIF\n~\n\nRAND_PROG 25\nIF !isquestmobalive(1 `dragmine_killer_1`)\nMPENDQUEST `dragmine_killer_1`\nelse\nif QVAR(* REMAINING == ``)\nMPENDQUEST $i\nelse\nmpsetvar $i TIME_REMAINING $%QVAR(* REMAINING)%\nendif\nENDIF\n~\n\nQUEST_TIME_PROG * -1\nMPECHOAT $i The quest "Clearing the Mine" has ended.\n~\n\nQUEST_TIME_PROG * 1\nMPECHOAT $i The quest "Clearing the Mine" has 1 minute remaining.\n~\n\nGREET_PROG 100\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nif ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce $n kill $i\nendif\nendif\n~\n\nENTRY_PROG 100\nif INROOM($i == $g)\nfor $0 = 1 to `$%NUMMOBSROOM(*)%`\nif ISLIKE(`$%ROOMMOB($0)%` -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpforce `$%ROOMMOB($0)%` sayto "$i" Get out of our home!\nif EVAL(`NO-USE-DEFAULT_BEHAVIOR` == `YES-ATTACK-ON-SIGHT`)\nmpforce `$%ROOMMOB($0)%` kill $i\nendif\nendif\nnext\nendif\n~\n\nEXECMSG_PROG STO=DEATH ALL\nif ISNPC($n) AND ISLIKE($n -home "+Dragonmaw Mine" -race +orc +subnames -*child* -*young* -*baby*)\nmpsetvar $i dragmine_killer_1_KILLED ++;\nif EVAL(12 &gt; 1)\nmpechoat $i Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nelse\nendif\nmpsetvar $i PROGRESS Killed $&lt;$i dragmine_killer_1_KILLED&gt;/12\nendif\n~\n</SCRIPT><SQN>dragmine_killer_1</SQN><SSCOP>*</SSCOP><SSVAR><ERMIEL><TIME_REMAINING>1</TIME_REMAINING><DRAGMINE_KILLER_1_KILLED>12</DRAGMINE_KILLER_1_KILLED><INSTRUCTIONS>Go there and kill a dozen adult orcs for your share. You can keep going if you want, but don`t expect extra pay.</INSTRUCTIONS><PROGRESS>Killed 12/12</PROGRESS></ERMIEL></SSVAR></SCRPT></SCRPTS>
-*
-Gron
-Butchering
-51
-
-*
-Gron
-Chopping
-50
-
-*
-Gron
-Common
-100
-
-*
-Gron
-Fighter_Battlecry
-39
-
-*
-Gron
-Fighter_Berzerk
-40
-
-*
-Gron
-Fighter_BloodBrother
-0
-
-*
-Gron
-Fighter_Charge
-6
-
-*
-Gron
-Fighter_Kick
-60
-
-*
-Gron
-Fighter_SmokeSignals
-0
-
-*
-Gron
-Fighter_WeaponSharpening
-36
-
-*
-Gron
-FireBuilding
-18
-
-*
-Gron
-Skill_Attack2
-1
-
-*
-Gron
-Skill_Dirt
-0
-
-*
-Gron
-Skill_Disarm
-0
-
-*
-Gron
-Skill_Dodge
-41
-
-*
-Gron
-Skill_Parry
-28
-
-*
-Gron
-Skill_Recall
-55
-
-*
-Gron
-Skill_RegionalAwareness
-1
-
-*
-Gron
-Skill_Write
-50
-
-*
-Gron
-Specialization_Armor
-18
-
-*
-Gron
-Specialization_Axe
-0
-
-*
-Gron
-Specialization_BluntWeapon
-19
-
-*
-Gron
-Specialization_EdgedWeapon
-17
-
-*
-Gron
-Specialization_FlailedWeapon
-0
-
-*
-Gron
-Specialization_Hammer
-0
-
-*
-Gron
-Specialization_Natural
-0
-
-*
-Gron
-Specialization_Polearm
-0
-
-*
-Gron
-Specialization_Ranged
-0
-
-*
-Gron
-Specialization_Shield
-0
-
-*
-Gron
-Specialization_Sword
-39
-
-*
-Gron
-Tanning
-36
-
-*
-Gron
-Butchering
-51
-
-*
-Gron
-Chopping
-50
-
-*
-Gron
-Common
-100
-
-*
-Gron
-Fighter_Battlecry
-39
-
-*
-Gron
-Fighter_Berzerk
-40
-
-*
-Gron
-Fighter_BloodBrother
-0
-
-*
-Gron
-Fighter_Charge
-6
-
-*
-Gron
-Fighter_Kick
-60
-
-*
-Gron
-Fighter_SmokeSignals
-0
-
-*
-Gron
-Fighter_WeaponSharpening
-36
-
-*
-Gron
-FireBuilding
-18
-
-*
-Gron
-Skill_Attack2
-1
-
-*
-Gron
-Skill_Dirt
-0
-
-*
-Gron
-Skill_Disarm
-0
-
-*
-Gron
-Skill_Dodge
-41
-
-*
-Gron
-Skill_Parry
-28
-
-*
-Gron
-Skill_Recall
-55
-
-*
-Gron
-Skill_RegionalAwareness
-1
-
-*
-Gron
-Skill_Write
-50
-
-*
-Gron
-Specialization_Armor
-18
-
-*
-Gron
-Specialization_Axe
-0
-
-*
-Gron
-Specialization_BluntWeapon
-19
-
-*
-Gron
-Specialization_EdgedWeapon
-17
-
-*
-Gron
-Specialization_FlailedWeapon
-0
-
-*
-Gron
-Specialization_Hammer
-0
-
-*
-Gron
-Specialization_Natural
-0
-
-*
-Gron
-Specialization_Polearm
-0
-
-*
-Gron
-Specialization_Ranged
-0
-
-*
-Gron
-Specialization_Shield
-0
-
-*
-Gron
-Specialization_Sword
-39
-
-*
-Gron
-Tanning
-36
-
-*
-Gron
-Butchering
-51
-
-*
-Gron
-Chopping
-50
-
-*
-Gron
-Common
-100
-
-*
-Gron
-Fighter_Battlecry
-39
-
-*
-Gron
-Fighter_Berzerk
-40
-
-*
-Gron
-Fighter_BloodBrother
-0
-
-*
-Gron
-Fighter_Charge
-6
-
-*
-Gron
-Fighter_Kick
-60
-
-*
-Gron
-Fighter_SmokeSignals
-0
-
-*
-Gron
-Fighter_WeaponSharpening
-36
-
-*
-Gron
-FireBuilding
-18
-
-*
-Gron
-Skill_Attack2
-1
-
-*
-Gron
-Skill_Dirt
-0
-
-*
-Gron
-Skill_Disarm
-0
-
-*
-Gron
-Skill_Dodge
-41
-
-*
-Gron
-Skill_Parry
-28
-
-*
-Gron
-Skill_Recall
-55
-
-*
-Gron
-Skill_RegionalAwareness
-1
-
-*
-Gron
-Skill_Write
-50
-
-*
-Gron
-Specialization_Armor
-18
-
-*
-Gron
-Specialization_Axe
-0
-
-*
-Gron
-Specialization_BluntWeapon
-19
-
-*
-Gron
-Specialization_EdgedWeapon
-17
-
-*
-Gron
-Specialization_FlailedWeapon
-0
-
-*
-Gron
-Specialization_Hammer
-0
-
-*
-Gron
-Specialization_Natural
-0
-
-*
-Gron
-Specialization_Polearm
-0
-
-*
-Gron
-Specialization_Ranged
-0
-
-*
-Gron
-Specialization_Shield
-0
-
-*
-Gron
-Specialization_Sword
-39
-
-*
-Gron
-Tanning
-36
-
--
-Gron
-Butchering
-51
-
--
-Gron
-Chopping
-50
-
--
-Gron
-Common
-100
-
--
-Gron
-Fighter_Battlecry
-39
-
--
-Gron
-Fighter_Berzerk
-40
-
--
-Gron
-Fighter_BloodBrother
-0
-
--
-Gron
-Fighter_Charge
-6
-
--
-Gron
-Fighter_Kick
-60
-
--
-Gron
-Fighter_SmokeSignals
-0
-
--
-Gron
-Fighter_WeaponSharpening
-36
-
--
-Gron
-FireBuilding
-18
-
--
-Gron
-Skill_Attack2
-1
-
--
-Gron
-Skill_Dirt
-0
-
--
-Gron
-Skill_Disarm
-0
-
--
-Gron
-Skill_Dodge
-41
-
--
-Gron
-Skill_Parry
-28
-
--
-Gron
-Skill_Recall
-55
-
--
-Gron
-Skill_RegionalAwareness
-1
-
--
-Gron
-Skill_Write
-50
-
--
-Gron
-Specialization_Armor
-18
-
--
-Gron
-Specialization_Axe
-0
-
--
-Gron
-Specialization_BluntWeapon
-19
-
--
-Gron
-Specialization_EdgedWeapon
-17
-
--
-Gron
-Specialization_FlailedWeapon
-0
-
--
-Gron
-Specialization_Hammer
-0
-
--
-Gron
-Specialization_Natural
-0
-
--
-Gron
-Specialization_Polearm
-0
-
--
-Gron
-Specialization_Ranged
-0
-
--
-Gron
-Specialization_Shield
-0
-
--
-Gron
-Specialization_Sword
-39
-
--
-Gron
-Tanning
-36
-
 -
 Ermiel
 Allergies

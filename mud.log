@@ -1,30 +1,103 @@
-20200814.0901.38 info  MUD            CoffeeMud v5.9.10
-20200814.0901.38 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200814.0901.38 info  MUD            http://www.coffeemud.org
-20200814.0901.38 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
-20200814.0901.38 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200814.0901.39 info  MUD@5555       MUD Server started on port: 5555
-java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
-	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581)
-	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
-	at java.base/java.lang.Class.forName0(Native Method)
-	at java.base/java.lang.Class.forName(Class.java:315)
-	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:117)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:373)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchTest(DBConnections.java:346)
-	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
-20200814.0901.39 error DBConnections  No suitable driver found for jdbc:mysql://localhost/gronmud
-java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost/gronmud
-	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:702)
-	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
-	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:135)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:373)
-	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchTest(DBConnections.java:346)
-	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
-	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
-20200814.0901.39 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
-20200814.0901.39 error MUD            CoffeeMud failed to start.
+20200814.1111.23 info  MUD            CoffeeMud v5.9.10
+20200814.1111.23 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200814.1111.23 info  MUD            http://www.coffeemud.org
+20200814.1111.23 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
+20200814.1111.23 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200814.1111.23 info  MUD@5555       MUD Server started on port: 5555
+20200814.1111.24 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20200814.1111.24 debug HOST0          SSL not configured.
+20200814.1111.24 debug HOST0          SSL not configured.
+20200814.1111.24 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20200814.1111.24 info  cweb-pub0      Started http pub0 on port 27744
+20200814.1111.24 info  cweb-admin0    Started http admin0 on port 27777
+20200814.1111.24 info  cweb-pub0      Started http pub0 on port 80
+20200814.1111.24 debug cweb-admin0Tim Timeout Thread started
+20200814.1111.24 debug cweb-pub0Timeo Timeout Thread started
+20200814.1111.25 info  HOST0          WebMacros loaded  : 193
+20200814.1111.26 info  HOST0          MOB Types loaded  : 148
+20200814.1111.26 info  HOST0          Exit Types loaded : 30
+20200814.1111.27 info  HOST0          Area Types loaded : 14
+20200814.1111.27 info  HOST0          Locales loaded    : 124
+20200814.1111.27 info  HOST0          Fighter Skills    : 131
+20200814.1111.28 info  HOST0          Chants loaded     : 315
+20200814.1111.28 info  HOST0          Languages loaded  : 58
+20200814.1111.29 info  HOST0          Properties loaded : 298
+20200814.1111.29 info  HOST0          Prayers loaded    : 306
+20200814.1111.29 info  HOST0          Thief Skills      : 154
+20200814.1111.30 info  HOST0          Skills loaded     : 316
+20200814.1111.30 info  HOST0          Songs loaded      : 156
+20200814.1111.32 info  HOST0          Spells loaded     : 403
+20200814.1111.32 info  HOST0          Heroics loaded    : 6
+20200814.1111.32 info  HOST0          Tech Skills loaded: 2
+20200814.1111.32 info  HOST0          Traps loaded      : 76
+20200814.1111.32 info  HOST0          GenAbles loaded   : 1
+20200814.1111.32 info  HOST0          Basic Items loaded: 128
+20200814.1111.33 info  HOST0          Weapons loaded    : 60
+20200814.1111.33 info  HOST0          Armor loaded      : 50
+20200814.1111.33 info  HOST0          Magic Items loaded: 45
+20200814.1111.33 info  HOST0          Clan Items loaded : 24
+20200814.1111.33 info  HOST0          Electronics loaded: 81
+20200814.1111.34 info  HOST0          Behaviors loaded  : 97
+20200814.1111.34 info  HOST0          Commands loaded   : 286
+20200814.1111.35 info  HOST0          Races loaded      : 227
+20200814.1111.35 info  HOST0          Classes loaded    : 54
+20200814.1111.43 info  HOST0          Expertises defined: 1817
+20200814.1111.43 info  HOST0          Channels loaded   : 20
+20200814.1111.43 info  HOST0          Socials loaded    : 312
+20200814.1111.43 info  HOST0          Clans loaded      : 1
+20200814.1111.44 info  I3Server       InterMud3 Core (c)1996 George Reese
+20200814.1111.44 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20200814.1111.44 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20200814.1111.44 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20200814.1111.44 info  I3Server       InterMud3 Server started on port 27766
+20200814.1111.44 info  HOST0          Loading catalog...
+20200814.1111.44 info  HOST0          Loading map...
+20200814.1111.44 error Room           Couldn't set 3 exit for unknown room 'ZFAAhouse2#14'
+20200814.1111.44 error Room           Couldn't set 1 exit for unknown room 'ZFAAhouse2#14'
+20200814.1111.47 info  HOST0          Preparing map...
+20200814.1111.47 info  HOST0          Mapped rooms      : 438 in 10 areas
+20200814.1111.47 info  HOST0          Clan owned items  : 0
+20200814.1111.47 info  HOST0          Quests loaded     : 14
+20200814.1111.47 info  HOST0          Services and utilities started
+20200814.1111.47 info  HOST0          Host#0 initializated.
+20200814.1111.48 info  MUD            Initialization complete.
+20200814.1111.56 info  MudChat        Chat Data by Chris Busch & Jeremy Vyska
+20200814.1112.13 info  Worker0#5      Connection from 108.11.190.209
+20200814.1112.18 info  Worker0#3      108.11.190.209 Mudlet 4.8.0 MXP GMCP CMP ANSI, character login: Ermiel
+20200814.1114.13 error CommandProcess Ermiel starts system shutdown...
+20200814.1114.13 info  Shutdown0      New Connections are now closed
+20200814.1114.13 info  ServiceEngine  Scheduler stopped
+20200814.1114.32 info  Shutdown0      All users saved.
+20200814.1114.32 info  Shutdown0      Stats saved.
+20200814.1114.32 info  Shutdown0      Notifying all objects of shutdown...
+20200814.1114.32 info  QuestBound     SHUTDOWN message for a grim kobold guard caused Adventure_House_Den_a_grim_kobold_guard_normal_protect1_R943397198 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for a harsh kobold guard caused Adventure_House_Den_a_harsh_kobold_guard_normal_killer2_R291584226 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for a whimpering prisoner caused zfahprison_demon to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for a nasty gray rat caused Dragons_Belly_a_nasty_gray_rat_normal_killer2_R953071017 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for an eerie gray rat caused Dragonmaw_Mine_an_eerie_gray_rat_normal_collect2_R488921824 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for the giant snail caused Mud_School_the_giant_snail_normal_collect2_R986570348 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for Aldustough caused Silver_Ford_Zilor_Fice_normal_mystery2_R916292196 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for an Iron Dragon guard caused Silver_Ford_an_Iron_Dragon_guard_normal_killer2_R230334245 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for the soldier caused dragmine_killer_1 to reset.
+20200814.1114.33 info  QuestBound     SHUTDOWN message for Ormen caused Silver_Ford_Ormen_normal_protect1_R917482789 to reset.
+20200814.1114.34 info  CM1Server      Shutdown complete
+20200814.1114.36 info  Shutdown0      CM1Server0@27733 stopped
+20200814.1114.36 info  Intermud       Shutdown!!!
+20200814.1114.36 info  Shutdown0      I3Server stopped
+20200814.1114.39 info  Shutdown0      All users logged off.
+20200814.1114.39 info  SMTP           Shutting down.
+20200814.1114.42 info  Shutdown0      SMTP Server stopped.
+20200814.1114.43 info  ServiceEngine  Shutdown complete.
+20200814.1114.43 info  Shutdown0      Map Threads Stopped.
+20200814.1114.43 info  Shutdown0      Resources Cleared.
+20200814.1114.43 info  Shutdown0      Database connections closed.
+20200814.1114.43 info  cweb-pub0      Shutdown complete
+20200814.1114.43 info  cweb-pub0Timeo Timeout Thread shutdown
+20200814.1114.43 info  Shutdown0      Web server cweb-pub0 stopped.
+20200814.1114.43 info  cweb-admin0    Shutdown complete
+20200814.1114.43 info  cweb-admin0Tim Timeout Thread shutdown
+20200814.1114.43 info  Shutdown0      Web server cweb-admin0 stopped.
+20200814.1114.44 info  Shutdown0      CoffeeMud shutdown complete.
+20200814.1114.45 info  MUD@5555       Server cleaning up.
+20200814.1114.45 info  MUD@5555       MUD on port 5555 stopped!
+20200814.1114.45 debug Shutdown0      Used memory = 27751160

@@ -1111,7 +1111,7 @@ CLANTALK
 -
 WIZINFO
 0
-695
+697
 \?
 -
 WIZINFO
@@ -3471,7 +3471,7 @@ WIZINFO
 -
 CLANTALK
 0
-419
+421
 \?
 -
 CLANTALK
@@ -7286,7 +7286,7 @@ QUESTCHAT
 -
 QUESTCHAT
 0
-16
+22
 \?
 -
 QUESTCHAT
@@ -7403,3 +7403,53 @@ WIZINFO
 695
 1597419045488
 0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Gron has logged out'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+17
+1597424488908
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+18
+1597424492538
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+420
+1597424493171
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+696
+1597424493288
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+19
+1597424540646
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'Assistance required with some gold coin(s)! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'Assistance required with some gold coin(s)! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+20
+1597428717185
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I want short lengths of lead wire found! -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+QUESTCHAT
+21
+1597428720957
+0,1163264,1049600,0,27,2004,GenShopkeeper:Ormen,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'I need sticks of ^rdark red^? chalk snatched! Are you ready? -- Come see me for more information.'^</CHANNEL^>^N^.
+-
+CLANTALK
+421
+1597428738102
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+697
+1597428738186
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Ermiel has logged on.'^</CHANNEL^>^?^.
+-
+QUESTCHAT
+22
+1597428760978
+0,1163264,1049600,0,27,2004,GenMob:Zilor Fice,,,^Q^<CHANNEL "QUESTCHAT"^>You QUESTCHAT 'Pay gold coin(s) to me! -- Come see me for more information.'^</CHANNEL^>^N^.,&null;,^Q^<CHANNEL "QUESTCHAT"^><S-NAME> QUESTCHATS 'Pay gold coin(s) to me! -- Come see me for more information.'^</CHANNEL^>^N^.
