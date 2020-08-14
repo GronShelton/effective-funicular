@@ -1,14 +1,17 @@
-20200814.0916.28 info  MUD            CoffeeMud v5.9.10
-20200814.0916.28 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200814.0916.28 info  MUD            http://www.coffeemud.org
-20200814.0916.28 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
-20200814.0916.28 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200814.0916.28 info  MUD@5555       MUD Server started on port: 5555
-20200814.0916.29 error DBConnections  Access denied for user 'gron@localhost'@'localhost' (using password: YES)
-java.sql.SQLException: Access denied for user 'gron@localhost'@'localhost' (using password: YES)
+20200814.0920.28 info  MUD            CoffeeMud v5.9.10
+20200814.0920.28 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200814.0920.28 info  MUD            http://www.coffeemud.org
+20200814.0920.28 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
+20200814.0920.28 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200814.0920.28 info  MUD@5555       MUD Server started on port: 5555
+20200814.0920.29 error DBConnections  The server time zone value 'PDT' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+java.sql.SQLException: The server time zone value 'PDT' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
@@ -21,5 +24,19 @@ java.sql.SQLException: Access denied for user 'gron@localhost'@'localhost' (usin
 	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
 	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
 	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
-20200814.0916.29 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
-20200814.0916.29 error MUD            CoffeeMud failed to start.
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'PDT' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 11 more
+20200814.0920.29 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
+20200814.0920.30 error MUD            CoffeeMud failed to start.

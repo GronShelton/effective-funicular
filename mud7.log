@@ -1,11 +1,10 @@
-20200814.0910.41 info  MUD            CoffeeMud v5.9.10
-20200814.0910.41 info  MUD            (C) 2000-2020 Bo Zimmerman
-20200814.0910.41 info  MUD            http://www.coffeemud.org
-20200814.0910.41 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
-20200814.0910.41 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
-20200814.0910.41 info  MUD@5555       MUD Server started on port: 5555
-Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
-20200814.0910.45 error DBConnections  Access denied for user 'gron'@'localhost' (using password: YES)
+20200814.0912.15 info  MUD            CoffeeMud v5.9.10
+20200814.0912.15 info  MUD            (C) 2000-2020 Bo Zimmerman
+20200814.0912.15 info  MUD            http://www.coffeemud.org
+20200814.0912.15 error CMSecurity     Unknown or duplicate enable flag: CLASS_COMMONER
+20200814.0912.15 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20200814.0912.15 info  MUD@5555       MUD Server started on port: 5555
+20200814.0912.16 error DBConnections  Access denied for user 'gron'@'localhost' (using password: YES)
 java.sql.SQLException: Access denied for user 'gron'@'localhost' (using password: YES)
 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
@@ -22,5 +21,5 @@ java.sql.SQLException: Access denied for user 'gron'@'localhost' (using password
 	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetchTest(DBConnector.java:233)
 	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1498)
 	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1947)
-20200814.0910.45 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
-20200814.0910.45 error MUD            CoffeeMud failed to start.
+20200814.0912.16 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
+20200814.0912.16 error MUD            CoffeeMud failed to start.
