@@ -154,8 +154,8 @@ See guides/RandomAreas.html for information about documents of this type.
 				<DESCRIPTION select="any-1">$catacomb_exit_desc</DESCRIPTION>
 			</DESCRIPTION>
 			<MOB select="any-1">
-				<MOB insert="catacomb_skeleton"</MOB>
-				<MOB insert="catacomb_knight"</MOB>
+				<MOB insert="catacomb_skeleton" />
+				<MOB insert="catacomb_knight" />
 			</MOB>
 			<ITEM select="any-1" insert="catacomb_junk" />
 		</ROOM>
