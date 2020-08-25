@@ -462,7 +462,7 @@ See guides/RandomAreas.html for information about documents of this type.
 <MOB id="catacomb_mobs" select="all" requires="level_range=int,theme=catacomb,aggrochance=int">
 	<MOB select="all" condition="$theme='catacomb' or $theme='random'">
 		<MOB class="GenUndead" level="$level_range" id="catacomb_zombie" race="Zombie" gender="$anygender">
-			<NAME>(a(n)) $adj_nasty $mob_race zombie</NAME>
+			<NAME>(a(n)) $adj_nasty zombie</NAME>
 			<DISPLAY select="pick-1">
 				<DISPLAY pickweight="1">$mob_name lumbers about.</DISPLAY>
 				<DISPLAY pickweight="1">$mob_name staggers around.</DISPLAY>
@@ -695,7 +695,7 @@ See guides/RandomAreas.html for information about documents of this type.
 						<PROPERWORN>HANDS</PROPERWORN><WORNAND>false</WORNAND>
 					</ITEM>
 					<ITEM class="GenArmor" LEVEL="$mob_level">
-						<NAME>antique leather belt</NAME>
+						<NAME>an antique leather belt</NAME>
 						<DISPLAY>$item_name has been left here</DISPLAY>
 						<MATERIAL>LEATHER</MATERIAL>
 						<PROPERWORN>WAIST</PROPERWORN><WORNAND>false</WORNAND>
