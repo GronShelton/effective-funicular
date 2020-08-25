@@ -720,7 +720,6 @@ See guides/RandomAreas.html for information about documents of this type.
 			</ITEM>
 			<ITEM condition="1?10=1" select="any-1" insert="catacomb_junk" />
 		</MOB>
-		<MOB class="GenMob" id="catacomb_mage">
 		
 	</MOB>
 </MOB>
